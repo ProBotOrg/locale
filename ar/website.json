@@ -1,7 +1,7 @@
 {
-    "blacklisted_call_dramex": "تم إدراج حسابك في قائمة الحظر لأنشطة مشبوهة ، للمزيد من المعلومات يرجى التواصل مع Dramex",
-    "blacklisted_title": "تم إدراج حسابك في قائمة الحظر لأنشطة مشبوهة ، يرجى حل اختبار CAPTCHA للمتابعة",
-    "blacklisted_note": "لديك فرصة واحدة فقط , لا تضيعها.",
+    "blacklisted_call_dramex": "Your account blacklisted for suspicious activity, please contact @Dramex for more details",
+    "blacklisted_title": "Your account blacklisted for suspicious activity, please solve the captcha to continue",
+    "blacklisted_note": "This 1 time ticket, don't waste it",
     "examples_clear": "{0} 1000\n{0} bots 10\n{0} @Dramex 10",
     "examples_moveme": "{0} general\n{0} @ZEUS",
     "examples_id": "{0} @Dramex",
@@ -11,22 +11,22 @@
     "examples_avatar": "{0}\n{0} server\n{0} @Dramex\n{0} 157605500488384512",
     "examples_server": "{0}",
     "examples_roles": "{0}",
-    "examples_ban": "{0} @Dramex\n{0} @Dramex سبام\n{0} @Dramex 1h سبام\n{0} @Dramex 1d سبام\n{0} @Dramex 1w ",
+    "examples_ban": "{0} @Dramex\n{0} @Dramex spamming\n{0} @Dramex 1h spamming\n{0} @Dramex 1d spamming\n{0} @Dramex 1w ",
     "examples_vkick": "{0} @Dramex",
     "examples_unban": "{0} Dramex\n{0} 157605500488384512",
     "examples_kick": "{0} @Dramex\n{0} 157605500488384512",
     "examples_move": "{0} @Dramex \n{0} @Dramex General",
     "examples_lock": "{0}\n{0} 664942006245654532",
     "examples_unlock": "{0}\n{0} general",
-    "examples_mute": "{0} @Dramex 1m سبام\n{0} @Dramex 1h\n{0} @Dramex 1d\n{0} @Dramex 1mo\n{0} @Dramex 1y",
-    "examples_vmute": "{0} @Dramex 1m ازعاج\n{0} @Dramex 1h\n{0} @Dramex 1d\n{0} @Dramex 1mo\n{0} @Dramex 1y",
+    "examples_mute": "{0} @Dramex 1m Spamming\n{0} @Dramex 1h\n{0} @Dramex 1d\n{0} @Dramex 1mo\n{0} @Dramex 1y",
+    "examples_vmute": "{0} @Dramex 1m annoying\n{0} @Dramex 1h\n{0} @Dramex 1d\n{0} @Dramex 1mo\n{0} @Dramex 1y",
     "examples_unmute": "{0} @Dramex\n{0} 157605500488384512",
     "examples_unvmute": "{0} @Dramex\n{0} 157605500488384512",
     "examples_role": "{0} @Dramex Admin\n{0} all members\n{0} bots System\n{0} humans members",
-    "examples_warn": "{0} @Dramex\n{0} @Dramex سبام ",
+    "examples_warn": "{0} @Dramex\n{0} @Dramex spamming ",
     "examples_setcolor": "{0} members #000001",
     "examples_warnings": "{0}\n{0} @Dramex",
-    "examples_setnick": "{0} @Dramex عماد",
+    "examples_setnick": "{0} @Dramex new nickname",
     "examples_play": "{0} Havana\n{0} https:\/\/www.youtube.com\/watch?v=HCjNJDNzw8Y",
     "examples_skip": "{0}",
     "examples_search": "{0} Havana",
@@ -42,7 +42,7 @@
     "examples_support": "{0}",
     "examples_colors": "{0}",
     "examples_color": "{0} 15",
-    "examples_title": "{0} العنوان",
+    "examples_title": "{0} This is a Title",
     "examples_reset": "{0} text\n{0} voice\n{0} invites",
     "examples_rep": "{0}\n{0} @Dramex\n{0} 157605500488384512",
     "examples_daily": "{0}",
@@ -53,464 +53,464 @@
     "examples_roll": "{0}\n{0} 100",
     "examples_short": "{0} https:\/\/probot.io\/This-is-A-very-Long-Link-lol",
     "examples_points": "#points @Dramex 1\n#points @Dramex +1 \n#points @Dramex -1\n#points @Dramex 0\n#points reset",
-    "usage_clear": "{0} [عدد الرسائل]\n{0} bots [عدد الرسائل]\n{0} [العضو] [عدد الرسائل]",
-    "usage_id": "{0}\n{0} [العضو]",
-    "usage_moveme": "{0} [روم صوتي أو عضو]",
-    "usage_profile": "{0}\n{0} [العضو]",
-    "usage_top": "{0}\n{0} [day \/ week \/ month]\n{0} [text \/ voice\/ invites] [رقم الصفحه]",
-    "usage_user": "{0} [العضو]",
-    "usage_avatar": "{0} [العضو]\n{0} server",
+    "usage_clear": "{0} [number of messages]\n{0} bots [number of messages]\n{0} [user] [number of messages]",
+    "usage_id": "{0}\n{0} [user]",
+    "usage_moveme": "{0} [channel or user]",
+    "usage_profile": "{0}\n{0} [user]",
+    "usage_top": "{0}\n{0} [day \/ week \/ month]\n{0} [text \/ voice\/ invites] [page number]",
+    "usage_user": "{0} [user]",
+    "usage_avatar": "{0} [user]\n{0} server",
     "usage_server": "{0}",
-    "usage_ban": "{0} [العضو] [المدة : m\/h\/d\/mo\/y]",
+    "usage_ban": "{0} [user] [time m\/h\/d\/mo\/y] [reason]",
     "usage_roles": "{0}",
-    "usage_vkick": "{0} [العضو]",
-    "usage_unban": "{0} [اسم العضو \/ الايدي]",
-    "usage_kick": "{0} [اسم العضو \/ الايدي]",
-    "usage_move": "{0} [العضو] [ العضو او الروم الصوتي]\n{0} all",
-    "usage_lock": "{0} [الروم]",
-    "usage_unlock": "{0} [الروم]",
-    "usage_mute": "{0} [العضو] [المدة : m,h,d,mo,y] [السبب]",
-    "usage_vmute": "{0} [العضو] [المدة : m,h,d,mo,y] [السبب]",
-    "usage_unmute": "{0} [العضو]",
-    "usage_unvmute": "{0} [العضو]",
-    "usage_role": "{0} [العضو] (-\/+) [اسم الرتب\/ة يُفصل بينها ب فاصله]\n{0} all [اسم الرتبة]",
-    "usage_warn": "{0} [العضو] [السبب]",
-    "usage_setcolor": "{0} [اسم الرتبه] [كود اللون]",
-    "usage_warnings": "{0}\n{0} [العضو]",
-    "usage_setnick": "{0} [العضو]\n{0} [العضو] [اللقب الجديد]",
-    "usage_play": "{0} [اسم الاغنية] - تشغيل النتيجة الاولى في اليوتيوب\n{0} [URL] - تشغيل الأغنية , قائمة التشغيل , البث بناءًا على الرابط المُرفق",
+    "usage_vkick": "{0} [user]",
+    "usage_unban": "{0} [username \/ user id]",
+    "usage_kick": "{0} [user] [reason]",
+    "usage_move": "{0} [user] [user or channel]\n{0} all",
+    "usage_lock": "{0} [channel]",
+    "usage_unlock": "{0} [channel]",
+    "usage_mute": "{0} [user] [time ends with m,h,d,mo,y] [reason]",
+    "usage_vmute": "{0} [user] [time ends with m,h,d,mo,y] [reason]",
+    "usage_unmute": "{0} [user]",
+    "usage_unvmute": "{0} [user]",
+    "usage_role": "{0} [user] (+\/-)[roles names separated by comma]\n{0} all (+\/-)[role name]",
+    "usage_warn": "{0} [user] [reason]",
+    "usage_setcolor": "{0} [role name] [color code]",
+    "usage_warnings": "{0}\n{0} [user]",
+    "usage_setnick": "{0} [user]\n{0} [user] [New nickname]",
+    "usage_play": "{0} [song title] - plays the first result from Youtube\n{0} [URL] - plays the provided song, playlist, or stream",
     "usage_skip": "{0}",
-    "usage_search": "{0} [اسم الاغنية]",
+    "usage_search": "{0} [song's name]",
     "usage_queue": "{0}",
     "usage_stop": "{0}",
-    "usage_vol": "{0} [الصوت]",
+    "usage_vol": "{0} [volume]",
     "usage_pause": "{0}",
     "usage_np": "{0}",
     "usage_repeat": "{0}",
-    "usage_seek": "{0} [الموقع المراد التشغيل منه]",
-    "usage_credits": "{0}\n{0} [العضو]\n{0} [العضو] [المبلغ]",
-    "usage_restore": "{0} [كود الباك اب]",
+    "usage_seek": "{0} [target point]",
+    "usage_credits": "{0}\n{0} [user]\n{0} [user] [amount]",
+    "usage_restore": "{0} [backup code]",
     "usage_support": "{0}",
-    "usage_color": "{0} [رقم اللون]",
-    "usage_title": "{0}\n{0} [العنوان الجديد]",
+    "usage_color": "{0} [color's number]",
+    "usage_title": "{0}\n{0} [new title]",
     "usage_colors": "{0}",
     "usage_reset": "{0} [text \/ voice \/ invites]",
-    "usage_rep": "{0} [العضو]",
+    "usage_rep": "{0} [user]",
     "usage_daily": "{0}",
     "usage_ping": "{0}",
-    "usage_vip": "{0}\n{0} move [رقم البوت]\n{0} transfer [رقم البوت] [العضو]\n{0} restart\n{0} avatar [رابط الصورة]\n{0} username [الاسم الجديد]\n{0} status [الحالة الجديدة]",
-    "usage_temp": "{0} [ on \/ off ]\n{0} [time] [المدة]\n{0} [max] [الحد] ",
-    "usage_short": "{0} [الرابط]",
-    "usage_deletebackup": "{0} [كود الباك اب]",
-    "usage_roll": "{0} [الرقم]",
-    "usage_points": "`{0} [user] 1` - تحديد نقاط العضو\n`{0} [user] +1` - زياده نقاط العضو \n`{0} [user] -1` -  خصم نقاط من العضو\n`{0} [user] 0` - تصفير نقاط العضو\n`{0} reset` - تصفير النقاط لجميع الاعضاء",
-    "aliases": "الأختصارات:",
-    "examples": "أمثله للأمر",
-    "rank_description": "إظهار بطاقة الترتيب (الرانك) الخاصة بك او بشخص اخر بالسيرفر",
+    "usage_vip": "{0}\n{0} move [bot's number]\n{0} transfer [bot's number] [user]\n{0} restart\n{0} avatar [avatar link]\n{0} username [new name]\n{0} status [new status]",
+    "usage_temp": "{0} [ on \/ off ]\n{0} [time] [duration]\n{0} [max] [limit] ",
+    "usage_short": "{0} [Link]",
+    "usage_deletebackup": "{0} [Backup Code]",
+    "usage_roll": "{0} [number]",
+    "usage_points": "`#points [user] 1`  - set the points of a user\n`#points [user] +1` - increase the points of a user\n`#points [user] -1` - decrease the points of a user\n`#points [user] 0` -  reset the points of a user\n`#points reset` - resets all points",
+    "aliases": "Aliases:",
+    "examples": "Examples:",
+    "rank_description": "View yours or someone else's server rank card.",
     "examples_rank": "{0} @Dramex",
-    "usage_rank": "{0}\n{0} [العضو]",
-    "click_to_recharge": "( إعادة الشحن )",
-    "LANGUAGE": "العربية",
-    "MODULE_SETTINGS": "قائمة الخصائص",
-    "GENERAL": "عام",
-    "OVERVIEW": "نظرة عامة",
-    "AUTO_RESPONDER": "الرد التلقائي",
-    "WELCOMER": "الترحيب",
-    "clear_description": "تنظيف رسائل الشات.",
-    "moveme_description": "ينقلك إلى روم صوتي.",
-    "id_description": "عرض بطاقة تصنيف السيرفر الخاصة بك أو بشخص آخر.",
-    "profile_description": "عرض بطاقة التعريف الشخصية العامة المخصصة لك أو لشخص آخر.",
-    "top_description": "عرض الأعضاء الذين لديهم أكثر نقاط في السيرفر.",
-    "user_description": "يعرض معلومات، مثل تاريخ دخول السيرفر وتاريخ التسجيل في الديسكورد عنك او عن مستخدم آخر.",
-    "avatar_description": "الحصول على الصورة الرمزية للمستخدمين.",
-    "server_description": "يظهر معلومات حول السيرفر.",
-    "roles_description": "احصل على قائمة برولات السيرفر وعدد الأعضاء.",
-    "ban_description": "حظر العضو.",
-    "unban_description": "إزالة الحظر عن عضو.",
-    "kick_description": "طرد العضو.",
-    "vkick_description": "طرد العضو من الروم الصوتي.",
-    "mute_description": "منع أحد الأعضاء من الكتابة في الرومات الكتابية.",
-    "unmute_description": "الغاء منع كتابي من عضو.",
-    "vmute_description": "منع أحد الأعضاء من التحدث في الرومات الصوتية.",
-    "unvmute_description": "الغاء منع صوتي من عضو.",
-    "move_description": "نقل عضو إلى روم صوتي.",
-    "role_description": "إضافة او إزالة مستخدم من رول.",
-    "warn_description": "تحذير العضو.",
-    "setcolor_description": "تغيير لون رول عن طريق الـHex Code.",
-    "warnings_description": "الحصول على انذارات العضو.",
-    "setnick_description": "تغيير لقب العضو.",
-    "play_description": "أضف أغنية لقائمة الانتظار وتشغيلها.",
-    "skip_description": "تخطي المقطع الحالي.",
-    "search_description": "يبحث في YouTube عن نتائج لتشغيل احدها.",
-    "queue_description": "اعرض قائمة الانتظار للمقاطع الحالية في قائمة التشغيل.",
-    "stop_description": "ايقاف الأغنية الحالية ومسح قائمة انتظار الموسيقى بأكملها.",
-    "vol_description": "يغير \/ يعرض حجم الصوت الحالي.",
-    "pause_description": "إيقاف المقطع الذي يتم تشغيلة حاليًا.",
-    "np_description": "يوضح المقطع الذي يتم تشغيله حاليًا.",
-    "repeat_description": "يغير وضع التكرار.",
-    "seek_description": "يتخطى إلى وقت معين في المقطع.",
-    "restore_description": "إستعادة نسختك الإحتياطية!",
-    "credits_description": "يظهر رصيدك أو رصيد شخص ما.",
-    "support_description": "احصل على رابط دعوة سيرفر الدعم.",
-    "color_description": "لتغيير لونك بالسيرفر.",
-    "colors_description": "يسرد لك كل الألوان المتاحة.",
-    "title_description": "يغير عنوانك في الأمر #profile.",
-    "reset_description": "اعادة تعيين النقاط الكتابيه\/الصوتية\/الانفايت من جميع الاعضاء.",
-    "rep_description": "منح شخص نقطة سمعة. يمكن استخدامها مرة واحدة فقط كل 24 ساعة.",
-    "daily_description": "الحصول على راتبك اليومي.",
-    "vip_description": "يعرض معلومات حول بوت البرميوم.",
-    "ping_description": "اختبار وقت استجابة البوت.",
-    "temp_description": "الرومات المؤقتة.",
-    "deletebackup_description": "حذف النسخة الإحتياطية.",
-    "short_description": "اختصار رابط.",
-    "roll_description": "رمي حجر نرد.",
-    "points_description": "النقاط التي يمكن أن تعطى من قبل المشرفين.",
-    "Utility": "الاوامر العامة",
-    "Moderation": "الإشراف",
-    "Logs": "اللوق",
-    "Colors": "الألوان",
-    "Assignable_roles": "رولاتي",
-    "Music": "الموسيقى",
-    "Link": "الرابط",
-    "Voice_Online": "الفويس أونلاين",
-    "protection": "الحماية الخاصة",
-    "Aliases": "الأختصارات",
-    "ENABLED_ROLES": "الرولات المفعلة",
-    "DISABLED_ROLES": "الرولات المعطلة",
-    "ENABLED_CHANNELS": "الرومات المفعلة",
-    "DISABLED_CHANNELS": "الرومات المعطلة",
-    "DELETE_MESSAGE_HISTORY": "حذف سجل الرسائل ",
-    "ROLES_MAX_LIMIT": "الرتب التي بإمكانها تجاوز الحد الأقصى",
-    "MAX_LIMIT_NO_SKIP": "الحد الذي لايمكن تخطيه",
-    "NO_TIME_ACTION": "الاجراء في حالة عدم كتابة الوقت",
-    "SPECIFIC_TIME": "الوقت المراد",
-    "MIN": "دقائق",
-    "DAYS": "أيام",
-    "HOURS": "ساعات",
-    "WEEKS": "أسابيع",
-    "MONTHS": "أشهر",
-    "Reasons": "الأسباب",
-    "AUTO_INVOCATION": "الحذف التلقائي للأمر المستعدى",
-    "AUTO_DELETE_REPLY": "مسح تلقائي لرسالة الرد من البوت بعد ٥ ثواني",
-    "SAVE_SETTINGS": "حفظ الإعدادات",
-    "DAY": "يوم",
-    "NONE": "لا شيء",
-    "WELCOME_MESSAGE": "ارسال رسالة عند دخول عضو للسيرفر",
-    "WELCOME_IMAGE": "ارسال صورة عند دخول عضو للسيرفر",
-    "WIDTH": "العرض",
-    "HEIGHT": "الإرتفاع",
-    "AVATAR_TYPE": "نوع الصورة ",
-    "SQUARE": "مربع",
-    "CIRCLE": "دائرة",
-    "AVATAR_WIDTH": "عرض الصورة ",
-    "AVATAR_HEIGHT": "إرتفاع الصورة",
-    "Coordinate_left": "احداثيات (يسار)",
-    "Coordinate_top": "احداثيات (أعلى)",
-    "TEXT_SIZE": "حجم النص",
-    "TEXT_COLOR": "لون النص",
-    "TEXT_ALIGN": "محاذاة النص",
-    "EDIT_IT_USING_MOUSE": "يمكنك التعديل باستخدام الماوس.",
-    "CENTER": "وسط",
-    "LEFT": "يسار",
-    "RIGHT": "يمين",
-    "SEND_AS_DM": "ارسال كرسالة خاصة",
-    "SEND_TO_CHANNEL": "إرسال للروم",
-    "Background": "الخلفية",
-    "Avatar": "الصوره الرمزيه",
-    "Username": "إسم المستخدم",
-    "Text": "النص",
-    "WITH_TEXT": "مع رسالة الترحيب",
-    "BEFORE_TEXT": "قبل رساله الترحيب",
-    "EDIT": "تعديل",
-    "ADD_RESPONSE": "إضافة رد تلقائي",
-    "Trigger": "الرسالة",
-    "Response": "الرد",
-    "Action": "إجراء",
-    "Variables": "المتغيرات",
-    "COLORS_LIST_TITLE": "نص قائمه الالوان",
-    "COLORS_SHAPE": "شكل الالوان",
-    "SQUIRCLE": "مربعة",
-    "COLORS_BACKGROUND": "خلفية قائمة الألوان",
-    "UPLOAD": "رفع",
-    "Transparent": "شفافة",
-    "SPECIFIC_BACKGROUND": "خلفيه محدده",
-    "Enabled": "مُفعل",
-    "Disabled": "مُعطل",
-    "update_server": "تغيير إعدادات السيرفر",
-    "ban_member": "اضافه باند",
-    "unban_member": "فك الباند",
-    "member_joined": "دخول عضو الى السيرفر",
-    "member_left": "خروج عضو من السيرفر",
-    "edit_messages": "تعديل الرسالة",
-    "delete_messages": "حذف رسالة",
-    "probot_mods": "أمر المشرف المستخدم",
-    "voice_state": "حاله الصوت ( ميوت \\ ديفن)",
-    "servers_invites": "دعوات السيرفرات",
-    "create_role": "إنشاء رتبة",
-    "update_role": "تعديل رتبة",
-    "delete_role": "حذف رتبة",
-    "member_roles_update": "تحديث رولات عضو",
-    "role_given": "إعطاء رتبة",
-    "role_removed": "سحب رتبة",
-    "nickname_changed": "تغيير إسم مستعار",
-    "create_channel": "إنشاء غرفة جديدة",
-    "update_channel": "تعديل الروم",
-    "delete_channel": "حذف الروم",
-    "update_channel_premissions": "تعديل صلاحيات الروم",
-    "voice_joined": "دخول عضو لروم صوتي",
-    "voice_left": "خروج عضو من روم صوتي",
-    "voice_switched": "تنقل العضو بين الرومات",
-    "to_channel": "إلى روم",
-    "send": "إرسال",
-    "command": "الأمر",
-    "message_on_link_request": "نص عند طلب الرابط",
-    "message_on_link_field": "ارسل رساله في السيرفر عند تعذر ارسال الرساله بالخاص",
-    "text_with_link": "نص أعلى الرابط",
-    "link_age": "عمر الرابط بالدقائق",
-    "link_uses": "عدد استخدامات الرابط",
-    "link_default_channel": "الروم الأفتراضي للرابط",
-    "link_limit": "عدد الطلبات المسموح طلبها قبل الأنتظار",
-    "link_wait_time": "وقت الأنتظار بالساعات",
-    "link_wait_message": "نص الأنتظار",
-    "link_disable_wait": "تخطي وقت الأنتظار",
-    "link_invite_permission": "أي شخص لديه صلاحية 'دعوة أعضاء'",
-    "link_auto_delete": "مسح تلقائي لطلب العضو ورسالة الرد بعد ٥ ثواني",
-    "channel": "روم",
-    "hidden_channels": "الرومات المخفية",
-    "no_bots": "عدم احتساب البوتات",
-    "mod_roles": "رولات المشرفين",
-    "voice_mute_time": "مدة الميوت الصوتي اليدوي الأفتراضية",
-    "ADD_ROLE": "اضافة رول معين",
-    "ROLE_LIMITS": "حدود %ROLE_NAME% :",
-    "BAN_LIMIT": "الحد الأعلى للباند",
-    "KICK_LIMIT": "الحد الأعلى للكيك",
-    "CHANNELS_LIMIT": "الحد الأعلى للرومات",
-    "ROLES_LIMIT": "الحد الأعلى للرولات",
-    "ACTION_IF_ROLE": "الأجراء اذا تم تجاوز حد الرولات",
-    "ACTION_IF_CHANNELS": "الأجراء اذا تم تجاوز حد الرومات",
-    "ACTION_IF_KICK": "الأجراء اذا تم تجاوز حد الكيك",
-    "ACTION_IF_BAN": "الأجراء اذا تم تجاوز حد الباند",
-    "PERMISSIONS_ALL": "إزالة جميع الصلاحيات الادارية من الرولات",
-    "PERMISSIONS_USER": "إزالة جميع الصلاحيات الادارية من رولات العضو",
-    "REMOVE_ROLES": "إزالة العضو من الرولات الإدارية",
-    "PROTECTED_ROLES": "الرولات المحمية",
-    "PROTECTED_HINT": "يُنصح بأضافة الأوتو رول و %EVERYONE%",
-    "ACTION_WHEN_PROTECTED": "الأجراء اذا تم تعديل\/حذف أحد الرولات المحمية",
-    "UNDO_REMOVE_ALL": "التراجع عن الإجراء + إزالة كافة الصلاحيات الإدارية من جميع الرولات",
-    "PROTECT_BOT_JOINED": "الأجراء عند انضمام بوت للسيرفر",
-    "REMOVE_ADMIN_BOT": "إزالة جميع الصلاحيات الادارية من البوت",
-    "KICK_THE_BOT": "طرد البوت من السيرفر",
-    "BOTS_HINT": "هذا سيحمي سيرفرك من البوتات الغير معروفة.",
-    "WHITELIST_BOTS": "البوتات المسموح بها",
-    "DELETE_WITH_MESSAGE_DELETION": "حذف رد البوت تلقائياً عندما يتم حذف رسالة العضو",
-    "AUTOMOD_SPAM": "ازعاج بالرسائل (5 رسائل \\ 5 ثواني)",
-    "AUTOMOD_BADWORDS": "الكلمات المسيئة",
-    "AUTOMOD_DUPS": "تكرار النص",
-    "AUTOMOD_LINKS": "الروابط",
-    "AUTOMOD_DISCORD_INVITES": "روابط السيرفرات",
-    "AUTOMOD_REPEATED": "الرسائل المكررة",
-    "AUTOMOD_MASS_MENTION": "ازعاج منشن",
-    "AUTOMOD_EMOJI_SPAM": "ازعاج EMOJI",
+    "usage_rank": "{0}\n{0} [user]",
+    "click_to_recharge": "( Recharge )",
+    "LANGUAGE": "English",
+    "MODULE_SETTINGS": "MODULE SETTINGS",
+    "GENERAL": "GENERAL",
+    "OVERVIEW": "Overview",
+    "AUTO_RESPONDER": "Auto Responder",
+    "WELCOMER": "Welcomer",
+    "clear_description": "Cleans messages from a channel.",
+    "moveme_description": "Moves you to a voice channel.",
+    "id_description": "View yours or someone else's server rank card.",
+    "profile_description": "View yours or someone else's customizable personal global profile card.",
+    "top_description": "Display members with the most server score or global XP.",
+    "user_description": "Shows info, such as ID and join date, about yourself or a user.",
+    "avatar_description": "Get a users' avatar.",
+    "server_description": "Shows info about a server",
+    "roles_description": "Get a list of server roles and member counts.",
+    "ban_description": "Bans a member.",
+    "unban_description": "Unbans a member.",
+    "kick_description": "Kicks a member.",
+    "vkick_description": "Kicks a member from a voice channel",
+    "mute_description": "Mute a member from text channels so they cannot type.",
+    "unmute_description": "Unmutes a member.",
+    "vmute_description": "Mute a member from voice channels so they cannot speak.",
+    "unvmute_description": "Unmutes a member from voice channels.",
+    "move_description": "Moves a member to a voice channel.",
+    "role_description": "Add\/remove a user to a role or roles.",
+    "warn_description": "Warns a member.",
+    "setcolor_description": "Changes roles' colors by hex codes.",
+    "warnings_description": "Get warnings for the server or user.",
+    "setnick_description": "Changes the nickname of a member.",
+    "play_description": "Add a song to queue and play.",
+    "skip_description": "Skip the current song.\t",
+    "search_description": "Searches YouTube for results to play.",
+    "queue_description": "Display the queue of the current tracks in the playlist.",
+    "stop_description": "Stop the current song and clears the entire music queue.",
+    "vol_description": "Changes\/Shows the current volume.",
+    "pause_description": "Pauses the currently playing track.",
+    "np_description": "Shows what song the bot is currently playing.",
+    "repeat_description": "Changes the repeat mode.",
+    "seek_description": "Seeks to a certain point in the current track.",
+    "restore_description": "Restores your backup!",
+    "credits_description": "Shows your or someone's balance.",
+    "support_description": "Get our support server invite link.",
+    "color_description": "Changes roles' color.",
+    "colors_description": "Lists you all the available colors.",
+    "title_description": "Changes your title in the #profile command.",
+    "reset_description": "Reset text\/voice\/invites xp points for all members.",
+    "rep_description": "Award someone a reputation point. Can only be used once every 24 hours.",
+    "daily_description": "Get your daily salary.",
+    "vip_description": "Displays info about your premium bot.",
+    "ping_description": "Test the bots response time.",
+    "temp_description": "Temporary channels.",
+    "deletebackup_description": "Deletes the backup.",
+    "short_description": "Shortens a URL.",
+    "roll_description": "rolling dice.",
+    "points_description": "A server based points that can be given by moderators.",
+    "Utility": "Utility",
+    "Moderation": "Moderation",
+    "Logs": "Logs",
+    "Colors": "Colors",
+    "Assignable_roles": "Assignable roles",
+    "Music": "Music",
+    "Link": "Temp Link",
+    "Voice_Online": "Voice Online",
+    "protection": "VIP Protection",
+    "Aliases": "Aliases",
+    "ENABLED_ROLES": "ENABLED ROLES",
+    "DISABLED_ROLES": "DISABLED ROLES",
+    "ENABLED_CHANNELS": "ENABLED CHANNELS",
+    "DISABLED_CHANNELS": "DISABLED CHANNELS",
+    "DELETE_MESSAGE_HISTORY": "DELETE MESSAGE HISTORY",
+    "ROLES_MAX_LIMIT": "Roles can skip max limit",
+    "MAX_LIMIT_NO_SKIP": "Max limit cannot be skipped.",
+    "NO_TIME_ACTION": "Action if time isn't specified",
+    "SPECIFIC_TIME": "A specified time",
+    "MIN": "Minutes",
+    "DAYS": "Days",
+    "HOURS": "Hours",
+    "WEEKS": "Weeks",
+    "MONTHS": "Months",
+    "Reasons": "Reasons",
+    "AUTO_INVOCATION": "Auto-delete command invocation message",
+    "AUTO_DELETE_REPLY": "Auto-delete bot's reply message after 5 seconds",
+    "SAVE_SETTINGS": "Save Settings",
+    "DAY": "Day",
+    "NONE": "None",
+    "WELCOME_MESSAGE": "Send a message when a user joins the server",
+    "WELCOME_IMAGE": "Send an image when a user joins the server",
+    "WIDTH": "Width",
+    "HEIGHT": "Height",
+    "AVATAR_TYPE": "Avatar Type",
+    "SQUARE": "Square",
+    "CIRCLE": "Circle",
+    "AVATAR_WIDTH": "Avatar Width",
+    "AVATAR_HEIGHT": "Avatar Height",
+    "Coordinate_left": "Coordinate (left)",
+    "Coordinate_top": "Coordinate (top)",
+    "TEXT_SIZE": "Text Size",
+    "TEXT_COLOR": "Text Color",
+    "TEXT_ALIGN": "Text Alignment",
+    "EDIT_IT_USING_MOUSE": "You can use the mouse to edit it.",
+    "CENTER": "Center",
+    "LEFT": "Left",
+    "RIGHT": "Right",
+    "SEND_AS_DM": "Send as DM",
+    "SEND_TO_CHANNEL": "Send to a channel",
+    "Background": "Background",
+    "Avatar": "Avatar",
+    "Username": "Username",
+    "Text": "Text",
+    "WITH_TEXT": "With Text message",
+    "BEFORE_TEXT": "Before Text message",
+    "EDIT": "Edit",
+    "ADD_RESPONSE": "Add Response",
+    "Trigger": "Trigger",
+    "Response": "Response",
+    "Action": "Action",
+    "Variables": "Variables",
+    "COLORS_LIST_TITLE": "Color list title",
+    "COLORS_SHAPE": "Color shape",
+    "SQUIRCLE": "Squircle",
+    "COLORS_BACKGROUND": "Color backgrounds",
+    "UPLOAD": "Upload",
+    "Transparent": "Transparent",
+    "SPECIFIC_BACKGROUND": "Specific background",
+    "Enabled": "Enabled",
+    "Disabled": "Disabled",
+    "update_server": "Update Server",
+    "ban_member": "Member Banned",
+    "unban_member": "Member Unbanned",
+    "member_joined": "Member Joined",
+    "member_left": "Member Left",
+    "edit_messages": "Message Edited",
+    "delete_messages": "Message Deleted",
+    "probot_mods": "Moderation Command Used",
+    "voice_state": "Voice State (Mute\/Deafen)",
+    "servers_invites": "Servers Invites",
+    "create_role": "Role Created",
+    "update_role": "Role Updated",
+    "delete_role": "Role Deleted",
+    "member_roles_update": "Member Roles Update",
+    "role_given": "Role Given",
+    "role_removed": "Role Removed",
+    "nickname_changed": "Nickname Changed",
+    "create_channel": "Channel Created",
+    "update_channel": "Channel Updated",
+    "delete_channel": "Channel Deleted",
+    "update_channel_premissions": "Channel Permissions Updated",
+    "voice_joined": "Member Joined Voice Channel",
+    "voice_left": "Member Left Voice Channel",
+    "voice_switched": "Member Switched between Voice Channels",
+    "to_channel": "To a channel",
+    "send": "Send",
+    "command": "Command",
+    "message_on_link_request": "Message To Send To Server When The Link is Requested",
+    "message_on_link_field": "Message To Send To Server When The Link Cannot Be Sent",
+    "text_with_link": "Text with the link message",
+    "link_age": "Link age in mintues",
+    "link_uses": "Link uses",
+    "link_default_channel": "Link invite default channel",
+    "link_limit": "How many links should be able to be requested before wait time",
+    "link_wait_time": "Wait time in hours",
+    "link_wait_message": "Message to send to server for wait time",
+    "link_disable_wait": "Disable wait time",
+    "link_invite_permission": "Anyone who has 'invite members' permission",
+    "link_auto_delete": "Auto-delete User & Bot message after 5 seconds",
+    "channel": "Channel",
+    "hidden_channels": "Hidden Channels",
+    "no_bots": "No Bots",
+    "mod_roles": "Mod Roles",
+    "voice_mute_time": "manual voice mute time",
+    "ADD_ROLE": "Add specific role",
+    "ROLE_LIMITS": "%ROLE_NAME% Limits :",
+    "BAN_LIMIT": "Ban limit",
+    "KICK_LIMIT": "Kick limit",
+    "CHANNELS_LIMIT": "Channels limit",
+    "ROLES_LIMIT": "Roles limit",
+    "ACTION_IF_ROLE": "Action if the roles limit is exceeded",
+    "ACTION_IF_CHANNELS": "Action if the channels limit is exceeded",
+    "ACTION_IF_KICK": "Action if the kick limit is exceeded",
+    "ACTION_IF_BAN": "Action if the ban limit is exceeded",
+    "PERMISSIONS_ALL": "Remove all administrative permissions from all the roles",
+    "PERMISSIONS_USER": "Remove administrative permissions from user roles",
+    "REMOVE_ROLES": "Remove the member from the administrative roles",
+    "PROTECTED_ROLES": "Protected roles",
+    "PROTECTED_HINT": "its recommended to add %EVERYONE% + the auto role",
+    "ACTION_WHEN_PROTECTED": "Action when protected role updated\/deleted",
+    "UNDO_REMOVE_ALL": "Undo the action + Remove all administrative permission from all roles",
+    "PROTECT_BOT_JOINED": "Action when a bot joins the server",
+    "REMOVE_ADMIN_BOT": "Remove all administrative permission from the bot roles",
+    "KICK_THE_BOT": "Kick the bot",
+    "BOTS_HINT": "This will protect your server from unknown bots.",
+    "WHITELIST_BOTS": "Whitelist bots",
+    "DELETE_WITH_MESSAGE_DELETION": "Auto-Delete with message deletion",
+    "AUTOMOD_SPAM": "SPAM (5 messages\/5 sec)",
+    "AUTOMOD_BADWORDS": "BAD WORDS",
+    "AUTOMOD_DUPS": "DUPLICATED TEXT",
+    "AUTOMOD_LINKS": "LINKS",
+    "AUTOMOD_DISCORD_INVITES": "DISCORD INVITES",
+    "AUTOMOD_REPEATED": "REPEATED MESSAGES",
+    "AUTOMOD_MASS_MENTION": "MASS MENTION",
+    "AUTOMOD_EMOJI_SPAM": "EMOJI SPAM",
     "AUTOMOD_CAPS": "SPAMMED CAPS (70% > CAPS)",
-    "AUTOMOD_IGNORED_CHANNELS": "تخطي الرومات:",
-    "AUTOMOD_IGNORED_ROLES": "تخطي الرولات:",
-    "AUTOMOD_ONLY_IMAGES": "رومات صور فقط:",
-    "AUTOMOD_ONLY_YOUTUBE": "رومات يوتيوب فقط:",
-    "SELECT_REASON": "تخيير الأداري بقائمة اسباب",
-    "REASONS": "الأسباب",
-    "ID_BACKGROUNDS": "خلفيات الهوية",
-    "OTHERS": "اخرى",
-    "LOGOUT": "خروج",
-    "LOGOUT_CONFIRM": "هل انت متأكد انك تريد تسجيل الخروج؟",
-    "PANEL_LOGS": "سجل لوحة التحكم",
-    "TIME_ACTIONS": "العقوبات المؤقتة",
-    "WARNINGS": "التحذيرات",
-    "BLACKLIST_LINKS": "الروابط الممنوعة",
-    "MATCH_THE_WHOLE_SENTENCE": "مطابقة جميع الجملة",
-    "MESSAGES": "الرسائل",
-    "TODAY_JOINS_LEFTS": "الدخول\\ المغادرة اخر 24 ساعة",
-    "ONLINE_MEMBERS": "الأعضاء المتصلين",
-    "TOTAL_MEMBERS": "عدد الأعضاء",
-    "JOINS_LEAVES": "الدخول \/ المغادرة",
-    "MESSAGE_STATS": "عدد الرسائل ( باستثناء البوتات )",
-    "BOT_GIVEN_A_ROLE": "الأجراء عندما يتم اعطاء اي بوت رول يمتلك صلاحيات ادارية",
-    "USE_COMMA": "استخدم الفاصلة لاضافة اكثر من ايدي",
-    "GUILD_UPDATE_ACTION": "الأجراء عند تغيير اسم\\صورة السيرفر",
-    "CREDITS_STORE": "متاجر الكريدت",
-    "BADGES": "شارات البروفايل",
-    "PROFILE_BACKGROUNDS": "خلفيات البروفايل",
-    "TOTAL_AND_ONLINE": "اجمالي الأعضاء \\ المتصلين",
-    "DAILY_MESSAGES_COUNT": "الرسائل الجديدة اخر 24 ساعة",
-    "CHART_7_DAYS": "الأحصائيات اخر 7 ايام",
-    "PROTECTION_ACCESS": "من يستطيع دخول لوحة تحكم بروبوت؟",
-    "PROTECTION_ACCESS_ANY_ADMINISTRATOR": "أي عضو يمتلك صلاحية Administrator",
-    "PROTECTION_ACCESS_MEMBERS": "صاحب السيرفر + اعضاء معينيين يمتلكون صلاحية Administrator",
-    "MEMBERS": "الأعضاء",
-    "PROTECTION_ONLY_OWNER": "حصر تعديل خصائص الحماية على صاحب السيرفر",
-    "UNSAVED_CONFIRM": "احذر — لديك تغييرات لم يتم حفظها!",
-    "cancel": "إلغاء",
-    "SAVE_CHANGES": "حفظ التغييرات",
-    "MOD_UNTIL_LEAVES": "حتى خروج العضو من السيرفر",
-    "AUTO_ROLES": "الرولات التلقائية",
-    "AUTO_ROLES_NOTE": "حسب طلب المجتمع ، تعمل الرولات التلقائية فقط إذا كان الرول لا يملك أذونات إدارية.",
-    "RECOMMANDED": "ينصح به",
-    "PERMISSIONS_LIMITS": "حدود الصلاحيات",
-    "COMMANDS_LIMITS": "حدود الأوامر",
-    "COMMAND_LIMIT": "حد امر",
-    "CHANNELS_LIMIT_HINT": "سيتم تطبيق هذا الحد على إنشاء \/ تحديث \/ حذف الرومات.",
-    "ROLE_LIMIT_HINT": "سيتم تطبيق هذا الحد على إنشاء \/ تحديث \/ حذف الرولات.",
-    "REQUIRES_SETUP": "هذا السيرفر يتطلب الإعداد.",
-    "CONTINUE_TO_DISCORD": "الانتقال الى الديسكورد",
-    "kick_member": "طرد العضو",
-    "color": "لون",
-    "enable": "تفعيل",
-    "apply_to_all": "التطبيق على الجميع.",
-    "yes": "نعم",
+    "AUTOMOD_IGNORED_CHANNELS": "Ignored Channels:",
+    "AUTOMOD_IGNORED_ROLES": "Ignored Roles:",
+    "AUTOMOD_ONLY_IMAGES": "Only Images Channels:",
+    "AUTOMOD_ONLY_YOUTUBE": "Only YouTube Links Channels:",
+    "SELECT_REASON": "Select a reason from the list",
+    "REASONS": "Reasons",
+    "ID_BACKGROUNDS": "ID Backgrounds",
+    "OTHERS": "Others",
+    "LOGOUT": "Logout",
+    "LOGOUT_CONFIRM": "Are you sure you want to logout?",
+    "PANEL_LOGS": "Control Panel Logs",
+    "TIME_ACTIONS": "Time Actions",
+    "WARNINGS": "Warnings",
+    "BLACKLIST_LINKS": "Blacklist links",
+    "MATCH_THE_WHOLE_SENTENCE": "Match the exact word",
+    "MESSAGES": "Messages",
+    "TODAY_JOINS_LEFTS": "Members joined\/left last 24h",
+    "ONLINE_MEMBERS": "Online Members",
+    "TOTAL_MEMBERS": "Total Members",
+    "JOINS_LEAVES": "Joins \/ Leaves",
+    "MESSAGE_STATS": "Number of messages (excl. Bots)",
+    "BOT_GIVEN_A_ROLE": "Action when bot has given an administrative role",
+    "USE_COMMA": "Use comma to seperate them",
+    "GUILD_UPDATE_ACTION": "Action when server name\/icon has been changed",
+    "CREDITS_STORE": "Credits Store",
+    "BADGES": "Profile Badges",
+    "PROFILE_BACKGROUNDS": "Profile Backgrounds",
+    "TOTAL_AND_ONLINE": "TOTAL MEMBERS \/ ONLINE",
+    "DAILY_MESSAGES_COUNT": "New messages last 24h",
+    "CHART_7_DAYS": "Charts over the last 7 days",
+    "PROTECTION_ACCESS": "Who can access to ProBot control panel?",
+    "PROTECTION_ACCESS_ANY_ADMINISTRATOR": "Any members with Administrator permission",
+    "PROTECTION_ACCESS_MEMBERS": "Owner + Specific members with Administrator permission",
+    "MEMBERS": "Members",
+    "PROTECTION_ONLY_OWNER": "Restrict protection properties to the owner of the server",
+    "UNSAVED_CONFIRM": "Careful — you have unsaved changes!",
+    "cancel": "Cancel",
+    "SAVE_CHANGES": "Save Changes",
+    "MOD_UNTIL_LEAVES": "Until member leaves the server",
+    "AUTO_ROLES": "Auto Roles",
+    "AUTO_ROLES_NOTE": "By community request, AutoRole only works if the role does not have administrative permissions.",
+    "RECOMMANDED": "Recommanded",
+    "PERMISSIONS_LIMITS": "Permissions Limits",
+    "COMMANDS_LIMITS": "Commands limits",
+    "COMMAND_LIMIT": "Limit",
+    "CHANNELS_LIMIT_HINT": "This limit will applies on channel create\/update\/delete events.",
+    "ROLE_LIMIT_HINT": "This limit will applies on role create\/update\/delete events.",
+    "REQUIRES_SETUP": "This server requires setup.",
+    "CONTINUE_TO_DISCORD": "Continue to Discord",
+    "kick_member": "Member kicked",
+    "color": "Color",
+    "enable": "Enable",
+    "apply_to_all": "Apply to all",
+    "yes": "Yes",
     "move_command": "#move command",
-    "without_administrative": "رولات بلا صلاحيات ادارية",
-    "select_placeholder_create": "إنشاء ..",
-    "select_placeholder_select": "اختر ..",
-    "number": "رقم",
-    "reason": "سبب",
-    "EDIT_COMMAND_SETTINGS": "تعديل اعدادات {0}",
-    "commands": "الأوامر",
-    "support": "الدعم الفني",
-    "probot_commands": "أوامر بروبوت",
-    "search_for_command": "البحث عن أمر 🔍",
-    "all": "الكل",
-    "General": "عام",
-    "soical": "اجتماعي",
-    "info": "معلومات",
-    "usage": "الاستخدامات",
-    "index_this_is": "هذا هو {0}",
-    "probot": "بروبوت",
-    "index_header_big_string": "البوت العربي الأول في ديسكورد",
-    "index_get_started": "الدخول بإستخدام ديسكورد",
-    "index_why_probot": "لماذا بروبوت",
-    "index_feature_1_title": "افضل ترحيب",
-    "index_feature_1_description": "ترحيب بروبوت يقوم بالترحيب بالأعضاء الجدد عن طريق الصور المعدة من قبلنا مسبقاً او بامكانك تصميم صور خاصة في سيرفرك",
-    "index_feature_2_title": "الحماية",
-    "index_feature_2_description": "يكشف سلوك المتطفلين ويرد تلقائيا على مختلف المستويات",
-    "index_feature_3_title": "الرد التلقائي",
-    "index_feature_3_description": "بإمكانك جعل البوت يقوم بالرد على أي كلمة انت تريدها",
-    "index_feature_4_title": "الرقابة التلقائية",
-    "index_feature_4_description": "يقوم بروبوت بمراقبة المخالفات في سيرفرك واتخاذ الاجراءات حسب الرغبة",
-    "index_feature_5_title": "متعدد اللغات",
-    "index_feature_5_description": "يدعم بروبوت مختلف اللغات مثل اللغة الأنجليزية والتركية وبالتأكيد العربيه.",
-    "index_feature_6_title": "تواصل بلا انقطاع 99.99%",
-    "index_feature_6_description": "لا تقلق بروبوت متصل دائماً، لن يكون هناك اي انقطاع بمشيئة الله",
-    "index_premium_1_title": "موسيقى ذات جودة عالية",
-    "index_premium_1_description": "Youtube, SoundCloud, روابط http, viemo, Mixed والكثير من المواقع المدعومة\n",
-    "index_premium_2_title": "رومات محدده",
-    "index_premium_2_description": "قم بتحديد رومات معينة للصور أو روابط اليوتيوب",
-    "index_premium_3_title": "اوامر إدارية قوية",
-    "index_premium_3_description": "تزيد دائماً أوامرنا الإدارية وضعك في السيطرة مرة أخرى على سيرفراتك واعضائك. بروبوت هو الأفضل في إدارة سيرفرات الديسكورد.",
-    "index_premium_4_title": "اوامر إجتماعية",
-    "index_premium_4_description": "Credits, profile, daily والمزيد.\n",
-    "index_premium_5_title": "رولات بواسطة الرياكشن",
-    "index_premium_5_description": "أضف رياكشن على رسالة للحصول على رول! إضف العديد من الرولات كرياكشن كما تريد لرسالتك! امنح أعضائك صلاحيات أكثر.",
-    "index_premium_6_title": "اللوقات",
-    "index_premium_6_description": "سجل متقدم لجميع الإجراءات المنفذة على سيرفرك واعضائك",
-    "index_counter1": "مجموع السيرفرات",
-    "index_counter2": "عدد المستخدمين",
-    "index_counter3": "الأوامر المتوفرة",
-    "index_counter4": "اوامر تم طلبها",
-    "index_join": "انظم الى مجتمعنا الأن!",
-    "index_join2": "لمعرفة أخر التحديثات والمميزات الجديدة",
-    "index_join_button": "سيرفر الديسكورد",
-    "index_many_more": "والمزيد المزيد ...",
-    "index_wondering": "إذا كنت تتساءل",
-    "index_premium_headline": "لدينا أيضا الميزات الأساسية",
-    "index_premium_description": "هدفنا بروبوت هو خدمة سيرفرك بالطريقة التي أنت تريدها",
-    "why_probot_text": "بوت متعدد الأغراض قابل للتخصيص جدًا حيث يوفر لك تخصيص صورة كرسالة ترحيبية وسجلات متعمقة وأوامر اجتماعية وموسيقى وإشراف وأكثر ...",
-    "POINTS_MANAGERS": "رولات بإمكانها اضافة نقاط (Points Managers)",
-    "prime_servers": "سيرفرات البرايم",
-    "premium_bots": "بوتات البرميوم",
-    "amount_balance": "رصيد الحساب",
-    "add_server": "اضافة سيرفر",
-    "invite": "دعوة",
-    "pay_now": "ادفع الأن",
-    "you_have_zero_prime": "انت تمتلك 0 سيرفرات برايم.",
-    "add_bot": "إضافة بوت",
-    "ends": "ينتهي",
-    "renews": "يتجدد",
-    "you_have_zero_premium": "انت تمتلك 0 بوتات برميوم.",
-    "choose_payment_method": "اختر وسيلة الدفع",
-    "are_you_sure": "هل أنت متأكد؟",
-    "undone_unrefund": "هذا الأجراء لايمكن التراجع عنه \/ لن يتمكن فريقنا من أسترجاع المبالغ المترتبة على ذلك.",
-    "add_to_discord": "اضافة البوت في Discord",
-    "login": "دخول",
-    "dashboard": "لوحة التحكم",
-    "index_card1_title": "صمم صور الترحيب",
-    "index_card1_description": "بإمكانك باستخدام بروبوت تصميم صور ترحيب تحتوي على صورة العضو واسمه وسيقوم بروبوت بالترحيب نيابة عنك!",
-    "index_card2_title": "انشاء الإيمبد بسهولة",
-    "index_card2_description": "كن أكثر إبداعًا مع بروبوت وأرسل الايمبد الى اي روم. في اي وقت، مع المعاينة قبل الإرسال، وإذا كنت ترغب في تعديل الايمبد مستقبلاً فلك ذلك!",
-    "index_card3_title": "نظام اللفلات",
-    "index_card3_description": "عزز سيرفر الديسكورد الخاص بك من خلال لفلات بروبوت النصية والصوتية.",
-    "index_card4_title": "أفضل بوت للإدارة",
-    "index_card4_description": "إدارة سيرفر الديسكورد الخاص بك مع الكثير من أوامر الإدارة المفيدة.",
-    "index_card5_title": "موسيقى عالية الجودة",
-    "index_card5_description": "لا تفوت! استمع إلى الموسيقى التي كبرت معها!",
-    "get_premium": "اشتراكات البريميوم",
-    "top_xp": "أعلى 100 بواسطة XP",
-    "top_credits": "اطنخ 100 مليونير",
-    "credit_transactions": "سجل عمليات الكريدت",
-    "server_settings": "اعدادات السيرفر",
-    "language": "اللغة",
-    "prefix": "بادئة البوت",
-    "embeder": "رسائل الإيمبد",
-    "embed_add_elements": "اضافة عناصر للإيمبد :",
-    "embed_content": "محتوى",
-    "embed_title": "عنوان",
-    "embed_description": "وصف",
-    "embed_url": "رابط",
-    "embed_image": "صورة",
-    "embed_thumbnail": "الصورة المصغّرة",
-    "embed_color": "اللون",
-    "embed_footer": "ذيل",
-    "embed_field": "حقل",
-    "embed_message_content": "محتوى الرسالة",
-    "embed_author": "الكاتب",
-    "embed_name": "الإسم",
-    "embed_icon_url": "رابط الأيقونة",
-    "embed_text": "نص",
-    "embed_icon": "أيقونة",
-    "embed_value": "القيمة",
-    "embed_inline": "في النسق",
-    "embed_save": "حفظ التغييرات",
-    "embed_send": "إرسال رسالة جديدة",
-    "embed_edit": "تعديل رسالة مُرسلة",
-    "embed_delete": "حذف الإيمبد",
-    "embed_choosechannel": "اختر روم",
-    "embed_choosemsg": "اخر رسالة",
-    "embed_selectone": "حدد الإيمبد أو قم بإنشاء واحد :)",
-    "embed_compose": "إنشاء",
-    "embed_embedname": "اسم الإيمبد",
-    "upload_image": "رفع صورة",
-    "insertorupload": "أدخل الرابط او ارفع صورة",
-    "protection_autorole_removeall": "إزالة جميع الصلاحيات الإدارية في حالة حذف الأوتو رول (للحماية من البرون)",
-    "automod": "الرقابة التلقائية",
-    "tos_title": "شروط الاستخدام",
-    "tos_content": "تعتبر الشروط والأحكام الخاصة بموقعنا بمثابة المرشد للعملاء لتعريفهم بكيفية استخدام موقعنا والحصول على خدماته بطريقة سهلة وبسيطة.\n#أولاً: شروط عامة خاصة بموقع بروبوت:-\n1- تنطبق كافة الشروط والأحكام المذكورة بهذه الصفحة على كافة مستخدمي الموقع.\n2- بمجرد تسجيل العميل في الموقع فهذا يعني موافقته التامة والكاملة على الشروط والأحكام الواردة بهذه الصفحة وأي شروط يتم إضافتها في المستقبل.\n3- يجب أن يقر كافة العملاء بصحة بياناتهم الشخصية التي يقومون بتزويدنا بها حتى يتمكن من التسجيل في الموقع والحصول على خدماته.\n4- نرحب باستفسارات كافة العملاء , وموظفي الدعم الفني لدينا جاهزين للإجابة على كافة استفسارات العملاء على مدار اليوم.\n5- من الممكن تعديل بنود الشروط والأحكام في أي وقت أو إضافة بنود جديدة لها , لذلك نرجو من السادة العملاء الإطلاع من وقت لأخر على صفحة الشروط والأحكام الخاصة بنا ليكونوا على دراية وعلم بأي شروط جديدة قد تم إضافتها.\n\n#ثانياً: شروط استخدام موقع بروبوت:-\n1- يجب على السادة العملاء تزويدنا بكافة المعلومات والبيانات المطلوبة منهم ويجب أن تكون صحيجة بنسبة 100%.\n2- لا يعتبر الموقع مسؤول عن أية ضرر يقع للعميل نتيجة سوء استخدام لموقعنا أو حدوث عطل مفاجىء لموقعنا.\n3- يمنع بيع الاشتركات لأشخاص أخرين , فالعميل فقط هو من له الحق في استخدام البوتات.\n4- يمنع استخدام خدماتنا بشكل تجاري غير مصرح به.\n5- يتعهد المستخدم بأنه استخدامه للبوتات لن يضر بموقعنا ولن يخالف شروط وأحكام موقعنا.\n6- يتعهد المستخدم بأنه هو المسؤول الأول عن أي مخالفة تصدر منه, ويتحمل مسؤولية هذه المخالفة.\n7- إدارة الموقع تخلي مسؤوليتها عن وقوع أي اضرار أو خسائر للعميل نتيجة استخدامه الخاطىء لموقعنا.\n8- يحق للإدارة إيقاف اشتراك أو حساب أحد المشتركين إذا خالف شروط وأحكام الموقع.\n9- يمنع التعامل خارج الموقع , وأي تعاملات يجب أن تتم بداخل الموقع حتى لا يحدث أي نوع من الغش والنصب على العملاء.\n10- يمنع استخدام خدماتنا فيما ينافي الشريعة الإسلامية أو يسبب ضرر لموقعنا أو لأي شخص أخر.\n\n#يمنع استخدام أو إعادة استخدام أو نسخ أو لصق الخدمات أو المحتوى الموجود بموقع بروبوت , وكل شيء موجود بموقع بروبوت هو ملك له لوحده , ومن يخالف ذلك يعرض نفسه أو شركته أو موقعه أو تطبيقه للمسائلة والملاحقة القانونية من قبل إدارة موقع بروبوت.\n",
-    "pp_title": "سياسة الخصوصية",
-    "pp_content": "نشكر السادة العملاء على قرأتهم لصفحة سياسة الخصوصية الخاصة بنا , ونؤكد لكافة العملاء أن بياناتهم ومعلوماتهم الشخصية ستكون في أمان تام بموقعنا , لأننا مسؤولين عن الحفاظ عن تلك البيانات ونسعى بشتى الطرق للحفاظ عليها , وتتضمن صفحة سياسة الخصوصية الخاصة بنا , بعض البنود كالآتي:-\n1- البيانات والمعلومات التي نطلبها من العملاء:-\nيطلب موقع بروبوت بعض البيانات والمعلومات من العملاء لكي يتمكنوا من التسجيل بموقعنا والحصول على خدماته فعلى سبيل المثال يطلب موقعنا البريد الالكتروني الخاص بالعميل واسمه ورقم هاتفه وعمل كلمة مرور لحسابه على موقعنا وغيره من المعلومات والتي من الممكن أن يطلبها موقعنا. \n2- مسؤولية العميل في موقعنا:-\nالعميل مسؤول عن سلامة حسابه في الموقع , فلا يجب عليه أن يقوم بتزويد أي شخص بمعلومات حساسة عن حسابه كأعطاء شخص كلمة المرور الخاصة بحسابه مما يتسبب ذلك في وقوع بعض الأضرار إلى حساب العميل , فننصح العملاء بألا يقوموا بإعطاء أي معلومات خاصة بهم لأشخاص أخرين.\n3- كيف نحمي بيانات العملاء بموقعنا:-\nيتبع موقعنا أفضل الإجراءات المتبعة عالمياً وذلك لحماية بيانات ومعلومات عملائنا الشخصية , ويضمن الموقع لكافة العملاء بأن تكون بياناتهم في سرية تامة معنا , ويلتزم الموقع بشروط الاتحاد الأوربي لحماية بيانات العملاء (GDPR).\n4- حقوق العميل المالية بموقعنا:-\nتحرص إدارة الموقع على حقوق العملاء المالية , فلن يظهر الرصيد إلا للعميل في صفحة الأوامر , ولن يقوم موقعنا بتزويد أي شخص بييانات العملاء المالية.\n5- استخدامات موقعنا لبيانات العملاء:-\nيستخدم موقعنا بيانات العملاء فقط لتقديم خدماتهم لهم , وعند الحصول على معلومات تفيد الموقع في تطوير خدماته , وعند الرد على استفسارات العملاء , وعند تنفيذ عمليات الشراء.\n6- نحن نتبع شروط الاتحاد الأوربي لحماية بيانات العملاء:- \nقام الاتحاد الأوربي بإنشاء قانون يساعد بشكل كبير على حماية بيانات العملاء , ونحن نعمل بكافة الطرق على الحفاظ على بيانات العملاء لذلك يتبع موقعنا شروط الاتحاد الأوربي لحماية بيانات العملاء , وهذا القانون يسمح لكافة العملاء بحذف أو تعديل بياناتهم عند حدوث خرق لهذه البيانات , ويجب على موقعنا الإبلاغ عن هذا الخرق في غضون 72 ساعة من حدوثه.\n7- حقوق موقعنا:-\nلموقعنا الحق الكامل في تعديل بنود سياسة الخصوصية الخاصة بنا أو إضافة بنود جديدة لها في أي وقت إذا رأت إدارة الموقع ضرورة لعمل ذلك , وعلى السادة العملاء الإطلاع من وقت لأخر على صفحة سياسة الخصوصية ليكونوا على دراية بأي تعديل أو بنود قد تم إضافتها لصفحة سياسة الخصوصية الخاصة بنا.\n8- حقوق النشر الخاصة بموقعنا:-\nيمنع تماماً نسخ أو لصق أو استخدام أو إعادة استخدام أي شيء خاص بموقع بروبوت , وأي محتوى موجود بالموقع هو ملك لموقع بروبوت فقط , ومن يقوم بنسخ أو لصق أو استخدام أي محتوى أو خدمات خاصة بموقع بروبوت فإن بذلك يعرض نفسه أو موقعه أو شركته للمسائلة والملاحقة القانونية من قبل إدارة الموقع.\n",
-    "rp_title": "شروط الإسترجاع",
-    "rp_content": "نضمن لكافة العملاء أن تتم عملية الإستبدال والإسترجاع بسهولة تامة معنا, فنحن نبذل كل جهدنا في سبيل إرضاء كافة عملائنا الكرام , فيمكن للعملاء الكرام طلب عملية إستبدال خدمة أو استرجاعها في مدة أقصاها 7 أيام من تاريخ الشراء بشرط:-\n1- أن يقوم بعملية الإستبدال أو الإسترجاع فقط الشخص الذي قام بشرائهم منا.\n2- أن يتم إثبات عملية الشراء عن طريق توضيح رقم الطلب والفاتورة.\n3- عند طلب استبدال يجب على العميل ألا يكون قد استخدم البوتات المشتراه.",
-    "logout_all": "تسجيل الخروج من جميع الأجهزة ايضاً.",
-    "logout_yes": "نعم، سجل خروجي!",
-    "logout_no": "لا! الغاء",
-    "title": "بروبوت - البوت العربي الأول في ديسكورد",
-    "description": "صور ترحيب، إدارة، مستويات، موسيقى عالية الجودة والمزيد !",
-    "lock_description": "يقوم بتعطيل خاصية ارسال الرسائل من الجميع في روم معين.",
-    "unlock_description": "يقوم بتفعيل ارسال الرسائل من الجميع في روم معين.",
-    "name_of_user": "يظهر اسم العضو بدون الإشاره له",
-    "user_invites_counter": "عدد دعوات العضو",
-    "to_mention_author": "الإشارة إلى الكاتب",
-    "random_responses": "ردود عشوائية",
-    "edit_response": "تعديل رد",
-    "link_command": "#رابط",
-    "link_onorder": " ** تم إرسال الرابط برسالة خاصة **",
-    "link_onlink": "ينتهي الرابط بعد: ** يـــوم **\nعدد إستخدامات الرابط : ** 3 **",
-    "link_onfiald": "** لم استطع ارسال رسالة خاصة، يرجى مراجعة اعدادات الخصوصية **",
-    "link_waittext": "** يجب الإنتظار 6 ساعات قبل طلب رابط جديد\n⏰[time]  **"
+    "without_administrative": "Roles without administrative",
+    "select_placeholder_create": "Create ..",
+    "select_placeholder_select": "Select ..",
+    "number": "Number",
+    "reason": "Reason",
+    "EDIT_COMMAND_SETTINGS": "EDIT {0} SETTINGS",
+    "commands": "Commands",
+    "support": "Support",
+    "probot_commands": "ProBot Commands",
+    "search_for_command": "Search for command 🔍",
+    "all": "All",
+    "General": "General",
+    "soical": "Social",
+    "info": "Info",
+    "usage": "Usage:",
+    "index_this_is": "This is {0}",
+    "probot": "ProBot",
+    "index_header_big_string": "Make A Professional Discord Server!",
+    "index_get_started": "Get Started",
+    "index_why_probot": "Why ProBot",
+    "index_feature_1_title": "Best Welcomer",
+    "index_feature_1_description": "Our welcomer welcomes users via a ready-to-use designs and customizble designs",
+    "index_feature_2_title": "Anti-raid Protection",
+    "index_feature_2_description": "detect raid behavior and respond automatically at various levels",
+    "index_feature_3_title": "Auto Responder",
+    "index_feature_3_description": "Let the bot responds to any trigger words",
+    "index_feature_4_title": "Auto Moderation",
+    "index_feature_4_description": "ProBot's automod system detect bad users' behaviour and take actions on them",
+    "index_feature_5_title": "MultiLingual",
+    "index_feature_5_description": "ProBot support more than 13 languages!",
+    "index_feature_6_title": "99.99% Uptime",
+    "index_feature_6_description": "You don't have to worry about downtimes, ProBot is online!",
+    "index_premium_1_title": "HIGH QUALITY MUSIC",
+    "index_premium_1_description": "Youtube, SoundCloud, http urls, viemo, Mixed and many supported websites",
+    "index_premium_2_title": "SPECIFIED CHANNELS",
+    "index_premium_2_description": "Specify channels for pictures or youtube links only",
+    "index_premium_3_title": "POWERFUL MODERATION",
+    "index_premium_3_description": "Always growing simple yet powerful moderation utilities. Putting you back in control of your community.",
+    "index_premium_4_title": "SOCIAL COMMANDS",
+    "index_premium_4_description": "Credits, profile, daily and many more.",
+    "index_premium_5_title": "REACTIONS ROLES",
+    "index_premium_5_description": "React to a message to get a role! Add as many reaction roles as you want to your message! empower your users.",
+    "index_premium_6_title": "LOGS",
+    "index_premium_6_description": "Advanced log for all actions performed on your discord server and users",
+    "index_counter1": "TOTAL SERVERS",
+    "index_counter2": "UNIQUE USERS",
+    "index_counter3": "AVAILABLE COMMANDS",
+    "index_counter4": "EXECUTED COMMANDS",
+    "index_join": "Join our community now!",
+    "index_join2": "see latest updates and new features",
+    "index_join_button": "Discord server",
+    "index_many_more": "And many many more ...",
+    "index_wondering": "if you are wondering",
+    "index_premium_headline": "We also have basic features",
+    "index_premium_description": "ProBot goal to serv your discord server the way you want",
+    "why_probot_text": "A very customizable multipurpose bot for welcome image, In-depth logs, Social commands, Music, Moderation and many more ...",
+    "POINTS_MANAGERS": "Roles can add points (Points Managers)",
+    "prime_servers": "Prime Servers",
+    "premium_bots": "Premium Bots",
+    "amount_balance": "Amount Balance",
+    "add_server": "Add Server",
+    "invite": "Invite",
+    "pay_now": "Pay Now",
+    "you_have_zero_prime": "You have 0 ProBot Prime servers.",
+    "add_bot": "Add Bot",
+    "ends": "ends",
+    "renews": "renews",
+    "you_have_zero_premium": "You have 0 ProBot Premium bots.",
+    "choose_payment_method": "Choose Payment Method",
+    "are_you_sure": "Are you sure?",
+    "undone_unrefund": "This action can not be undone \/ refund.",
+    "add_to_discord": "Add To Discord",
+    "login": "Login",
+    "dashboard": "Dashboard",
+    "index_card1_title": "Design Welcome Images",
+    "index_card1_description": "ProBot let you design your own welcome images that includes user avatar and user name and welcomes your users for you!",
+    "index_card2_title": "Create Embeds Easily",
+    "index_card2_description": "Be more creative with ProBot and send embeds in any channel. any time! we let your preview it before you send, and if you want to edit the same embed in the future you can!",
+    "index_card3_title": "Leveling System",
+    "index_card3_description": "Enhance your Discord server with ProBot text and voice levels",
+    "index_card4_title": "Best bot for moderation",
+    "index_card4_description": "Manage your Discord server with plenty of useful moderation commands.",
+    "index_card5_title": "High Quality Music",
+    "index_card5_description": "DON'T MISS A BEAT! Listen to the music you GREW up with!",
+    "get_premium": "Get Premium",
+    "top_xp": "Top 100 by XP",
+    "top_credits": "Richest 100 billionaires",
+    "credit_transactions": "Credits Transactions",
+    "server_settings": "Server Settings",
+    "language": "Language",
+    "prefix": "Prefix",
+    "embeder": "Embed Messages",
+    "embed_add_elements": "ADD ELEMENT TO THE EMBED :",
+    "embed_content": "Content",
+    "embed_title": "Title",
+    "embed_description": "Description",
+    "embed_url": "URL",
+    "embed_image": "image",
+    "embed_thumbnail": "thumbnail",
+    "embed_color": "color",
+    "embed_footer": "footer",
+    "embed_field": "Field",
+    "embed_message_content": "Message Content",
+    "embed_author": "Author",
+    "embed_name": "Name",
+    "embed_icon_url": "Icon Url",
+    "embed_text": "text",
+    "embed_icon": "Icon",
+    "embed_value": "Value",
+    "embed_inline": "inline",
+    "embed_save": "SAVE CHANGES",
+    "embed_send": "SEND NEW MESSAGE",
+    "embed_edit": "EDIT SENT MESSAGE",
+    "embed_delete": "DELETE EMBED",
+    "embed_choosechannel": "Choose a channel",
+    "embed_choosemsg": "Choose a message",
+    "embed_selectone": "select embed or create one :)",
+    "embed_compose": "Compose",
+    "embed_embedname": "EMBED NAME",
+    "upload_image": "Upload Image",
+    "insertorupload": "Insert URL or Upload image",
+    "protection_autorole_removeall": "Remove all administrative permissions when the AutoRole deleted (This protect you from discord prune button)",
+    "automod": "Automod",
+    "tos_title": "Terms Of Use",
+    "tos_content": "The terms and conditions of our site serve as a guide for clients to show them how to use our site and how to use its services with ease.\n\n\n#First: General conditions for ProBot site: -\n1- All the terms and conditions mentioned on this page are applied to all users of the site.\n2 - Once the client is registered on our site, it means that he completely agrees with the terms and conditions mentioned in this page and any terms that may be added in the future.\n3 - All clients must certify that the personal data they provide to us is correct so that they can register on the site and get its services.\n4 - We welcome the inquiries of all clients, and our technical support staff is ready to answer all inquiries of clients throughout the day.\n5 - It is possible for us to change the terms and conditions at any time or add new ones, so we kindly ask clients to see them from time to time to be aware of any new terms that have been added.\n\n\n#Second: Terms of Use of ProBot Website: -\n1. The clients should provide us with all required information and data and it must be 100% accurate.\n2. The site is not responsible for any damage caused to the client as a result of a misuse of our site or a sudden failure of our site.\n3. It is forbidden to sell subscriptions to other people. Only the client has the right to use the bots.\n4. It is prohibited to use our services in an unauthorized commercial use.\n5- The user assures that his use of bots will not harm our site and will not violate the terms and conditions of our site.\n6- The user assures that he is responsible for any violation issued from him, and he is responsible for this violation.\n7- The administration of our site disclaims the responsibility for any damage or losses to the client as a result of his misuse of our site.\n8- Our administration has the right to stop the subscription or account of a participant if he violates the terms and conditions of our site.\n\n9- It is forbidden to deal outside the site, and any transactions must be done within the site so as not to occur any kind of fraud and cheating on clients.\n10- It is forbidden to use our services in against law or cause harm to our site or to any other person.\n\n#It is forbidden to use or reuse, copy or paste the services or content existed on the site of ProBot, and everything that exists on the site of ProBot is owned by the site alone, and any person violates these conditions, he will expose himself or his company or his site or his application for liability and prosecution by the administration of the site.\n",
+    "pp_title": "Privacy Policy",
+    "pp_content": "We thank our dear clients for reading our privacy policy page. We assure to our clients that their personal data and information will be completely secure on our site, because we are responsible for maintaining these data and we seek in every way to preserve it. Our privacy policy page includes some items as follows:\n\n1- Data and information that we request from our clients:\n\nProBot site requests some data and information from the clients in order to be able to register on our site and use its services for example our site requests client's e-mail, his name and phone number and he should make a password for his account on our site and other information may be requested by our site.\n\n2- The client's responsibility on our site:\n\nThe client is responsible for the safety of his account on our site. He should not provide anyone with sensitive information about his account such as giving someone the password of his account, which causes some damage to the client account. We advise our clients do not give any private information to other people.\n\n3- How we protect our clients' data in our site:-\n\nOur site follows the best procedures globally to protect our clients' personal data and information. Our site ensures to all clients that their data will be secure with us. Our site complies with the requirements of the European Union to protect the client data (GDPR).\n\n: - 4- Client's financial rights in our site\n\nOur site administration is keen on the financial rights of the clients. The balance will only appear to the client in the orders page. Our site will not provide anyone with the financial data of the clients\n\n5- The uses of our site for clients' data: -\n\nOur site uses the client data only to provide their services to them, when we obtain useful information to the site and develop its services. When we respond to the client inquiries, and when we carry out purchases.\n\n6. We follow the European Union requirements to protect our client data:\n\nThe European Union has created a law that greatly helps to protect the client data. We work in all ways to preserve client data. This law allows to all clients to delete or modify their data when it occurs a breach of this data, and our site must report this breach within 72 hours of its occurrence.\n\n7- Our site rights:-\n\nOur site has the complete right to modify any item of its privacy policy page or add some new items to it in any time if our administrator sees that it is necessary to do this, so our dear clients, you should take a look from time to time to our privacy policy page to be aware off any changes made upon our privacy policy page.\n\n8. Copyright of our site: -\n\nIt is strictly forbidden to copy or paste, use or reuse anything related to ProBot site, Any content existed in this site is belonged only to ProBot site. Any person copies, pastes, or uses any content or services of a ProBot site; he will expose himself or his site or his company to liability and prosecution by the administration of the site.",
+    "rp_title": "Refund Policy",
+    "rp_content": "We guarantee to all clients that the replacement and refund process will be done easily with us; we work hard to satisfy all our dear clients. The clients can request a replacement service or refund within 7 days of the date of purchase with a condition that:\n1- The replacement and refund process can only carry out to the person who bought the services from us.\n2- The purchase must be confirmed by clarifying the order number and invoice.\n3- When the client requests a replacement, he must not have used the purchased bots.",
+    "logout_all": "log me out from other devices as well.",
+    "logout_yes": "Yes, log me out!",
+    "logout_no": "Nope! Sorry",
+    "title": "ProBot - Bot for Discord",
+    "description": "Description:",
+    "lock_description": "Disables @everyone from sending messages in specific channel.",
+    "unlock_description": "Removes denied sending messages from @everyone in specific channel.",
+    "name_of_user": "Displays the user's name, without pinging the user.",
+    "user_invites_counter": "User's invite counter",
+    "to_mention_author": "Mentions the user who invoked the response",
+    "random_responses": "Random responses",
+    "edit_response": "Edit Response",
+    "link_command": "#link",
+    "link_onorder": " ** The link sent to your DM **",
+    "link_onlink": " Link ends in: ** 1 day **\nLink can be used: ** 3 times **",
+    "link_onfiald": "** I coudn't sent a DM to you. check your privacy settings **",
+    "link_waittext": "** You must wait 6 hours before requesting a new link \n ⏰[time] **"
 }
