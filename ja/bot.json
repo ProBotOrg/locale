@@ -1,7 +1,7 @@
 {
     "rank_description": "自分 または 他のメンバーのランクカードを見る",
     "examples_rank": "{0} {1}",
-    "usage_rank": "{0}\n{0} (user)",
+    "usage_rank": "{0}\n{0} (ユーザー)",
     "clear_description": "チェンネルのメッセージを削除します",
     "moveme_description": "ボイスチャンネルへ移動します",
     "profile_description": "自分 または 他のメンバーの変更可能なグローバルプロフィールカードを確認する",
