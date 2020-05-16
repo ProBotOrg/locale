@@ -1,7 +1,7 @@
 {
     "rank_description": "Megjeleníti a tiéd vagy más szerver rangkártyáját.",
     "examples_rank": "{0} {1}",
-    "usage_rank": "{0}\n\n{0} [user]",
+    "usage_rank": "{0}\n{0} (user)",
     "clear_description": "Törli az üzenetet a csatornáról.",
     "moveme_description": "Áthelyez téged egy hangcsatornára.",
     "profile_description": "Megnézi a tiéd vagy mások testreszabható szeméyles profilkártyáját.",
