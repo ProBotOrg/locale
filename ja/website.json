@@ -512,5 +512,5 @@
     "link_onorder": " ** リンクはDMに送信されました**",
     "link_onlink": " ** 1 日 **後に無効になります\nリンクはあと** 3 回 **使用することができます。",
     "link_onfiald": "** DMにメッセージを送信できません。プライバシー設定を確認してください**",
-    "link_waittext": "** You must wait 6 hours before requesting a new link \n ⏰[time] **"
+    "link_waittext": "** 新たにリンクを要求するにはあと6時間待つ必要があります。 \n ⏰[時間] **"
 }
