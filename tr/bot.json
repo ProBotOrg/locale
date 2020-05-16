@@ -1,7 +1,7 @@
 {
     "rank_description": "Kendinizin veya başka birinin sunucu sıralama kartını görüntüleyin.",
     "examples_rank": "{0} {1}",
-    "usage_rank": "{0}\n{0} [kullanıcı]",
+    "usage_rank": "{0}\n{0} (user)",
     "clear_description": "Mesajları bir kanaldan temizler.",
     "moveme_description": "Sizi bir sesli kanala taşır.",
     "profile_description": "Kendinizin veya bir başkasının özelleştirilebilir kişisel global profil kartını görüntüler.",
