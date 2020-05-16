@@ -1,7 +1,7 @@
 {
     "rank_description": "Zeigen Sie Ihre oder die Server-Rangkarte eines anderen an.",
     "examples_rank": "{0} {1}",
-    "usage_rank": "{0}\n{0} [user]",
+    "usage_rank": "{0}\n{0} (user)",
     "clear_description": "Lüschen Nachrichten von einem Kanal.",
     "moveme_description": "bewegt sich zu einem Sound Kanal",
     "profile_description": "Zeigen Sie Ihre oder die anpassbare persönliche globale Profilkarte einer anderen Person an.",
