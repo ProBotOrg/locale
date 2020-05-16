@@ -53,7 +53,7 @@
     "examples_roll": "{0}\n{0} 100",
     "examples_short": "{0} https:\/\/probot.io\/Αυτός-είναι-ένα-πολύ-μεγάλος-σύνδεσμος",
     "examples_points": "#points @Dramex 1\n#points @Dramex +1 \n#points @Dramex -1\n#points @Dramex 0\n#points reset",
-    "usage_clear": "{0} [number of messages]\n{0} bots [number of messages]\n{0} [user] [number of messages]",
+    "usage_clear": "{0} [αριθμός μηνυμάτων]\n{0} bots [αριθμός μηνυμάτων]\n{0} [χρήστης] [αριθμός μηνυμάτων]",
     "usage_id": "{0}\n{0} [user]",
     "usage_moveme": "{0} [channel or user]",
     "usage_profile": "{0}\n{0} [user]",
