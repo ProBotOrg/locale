@@ -54,7 +54,7 @@
     "examples_short": "{0} https:\/\/probot.io\/This-is-A-very-Long-Link-lol",
     "examples_points": "#points @Dramex 1\n#points @Dramex +1\n#points @Dramex -1\n#points @Dramex 0\n#points 初期化",
     "usage_clear": "{0} [合計メッセージ数]\n{0} ボット [合計メッセージ数]\n{0} [user] [合計メッセージ数]",
-    "usage_id": "{0}\n{0} [user]",
+    "usage_id": "{0}\n{0} [ユーザー名]",
     "usage_moveme": "{0} [チャンネル または ユーザー]",
     "usage_profile": "{0}\n{0} [user]",
     "usage_top": "{0}\n{0} [日\/ 週間 \/ ヶ月]\n{0} [文字\/ ボイスチャット\/ 招待] [ページ数]",
