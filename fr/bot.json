@@ -1,7 +1,7 @@
 {
     "rank_description": "View yours or someone else's server rank card.",
     "examples_rank": "{0} {1}",
-    "usage_rank": "{0}\n{0} [user]",
+    "usage_rank": "{0}\n{0} (user)",
     "clear_description": "Supprime tous les messages d'un salon.",
     "moveme_description": "Vous déplace vers un salon vocal.",
     "profile_description": "Consultez votre carte de profil globale personnelle ou celle de quelqu'un d'autre.",
