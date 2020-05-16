@@ -311,7 +311,7 @@
     "AUTOMOD_REPEATED": "الرسائل المكررة",
     "AUTOMOD_MASS_MENTION": "ازعاج منشن",
     "AUTOMOD_EMOJI_SPAM": "ازعاج EMOJI",
-    "AUTOMOD_CAPS": "SPAMMED CAPS (70% > CAPS)",
+    "AUTOMOD_CAPS": "سبام الأحرف الكبيرة (70% > احرف مكبرة)",
     "AUTOMOD_IGNORED_CHANNELS": "تخطي الرومات:",
     "AUTOMOD_IGNORED_ROLES": "تخطي الرولات:",
     "AUTOMOD_ONLY_IMAGES": "رومات صور فقط:",
