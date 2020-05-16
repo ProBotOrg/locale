@@ -1,5 +1,5 @@
 {
-    "rank_description": "View yours or someone else's server rank card.",
+    "rank_description": "Affichez la carte de classement de votre serveur ou celle de quelqu'un d'autre.",
     "examples_rank": "{0} {1}",
     "usage_rank": "{0}\n{0} (user)",
     "clear_description": "Supprime tous les messages d'un salon.",
