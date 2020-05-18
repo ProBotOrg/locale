@@ -527,5 +527,6 @@
     "leveling_no_xp_roles": "رتب بدون XP",
     "leveling_default_levelup": "[user], لقد وصلت إلى ** المستوى [level]! ** 🥳",
     "leveling_no_xp_channels": "رومات بدون XP",
-    "leveling_variables": "[level] - لكتابة اللفل الجديد\n[oldLevel] - لكتابة اللفل القديم\n[userName] - لكتابة اسم العضو\n[userTag] - لعمل منشن للعضو"
+    "leveling_variables": "[level] - لكتابة اللفل الجديد\n[oldLevel] - لكتابة اللفل القديم\n[userName] - لكتابة اسم العضو\n[userTag] - لعمل منشن للعضو",
+    "leveling_add_role_reward": "Add Role Reward"
 }
