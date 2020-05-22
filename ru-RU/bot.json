@@ -32,7 +32,7 @@
     "vol_description": "Изменить\/показать текущий уровень громкости.",
     "pause_description": "Поставить на паузу воспроизведение.",
     "np_description": "Показать название песни, которую играет бот.",
-    "repeat_description": "Вкл\/Выкл режим повтора.",
+    "repeat_description": "Toggles the repeat mode.",
     "seek_description": "Поиск определенной точки в текущей песни.",
     "restore_description": "Восстановить резервную копию!",
     "credits_description": "Показать состояние вашего или чужого счета.",
