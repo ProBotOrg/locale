@@ -335,7 +335,7 @@
     "server_channels_value": "**{0}** Szöveg | **{1}** Hang",
     "server_others": ":earth_africa: Egyebek",
     "server_others_value": "**Körzet:** {0}\n\n**Igazolási szint:** {1}",
-    "server_roles": ":closed_lock_with_key:  Roles ({0})",
+    "server_roles": ":closed_lock_with_key: Szerepek ({0})",
     "server_roles_value": "Ha az összes beosztást látni szeretnéd, használd: **#roles**",
     "temp_activated": ":white_check_mark: **A tulajdonság sikeresen aktiválva**",
     "temp_need_enabled": ":rolling_eyes: - **Az ideiglenes csatornáknak engedélyezve kell lenniük a funkció használatához, meg tudod tenni ezzel: `#temp on`**",
