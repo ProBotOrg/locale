@@ -32,7 +32,7 @@
     "vol_description": "Modifică\/Arată nivelul actual al volumului. ",
     "pause_description": "Pune pe pauză cântecul actual. ",
     "np_description": "Arată ce cântec este momentan ascultat. ",
-    "repeat_description": "Schimbă modul de repetat. ",
+    "repeat_description": "Toggles the repeat mode.",
     "seek_description": "Du-te la o poziție în cântecul actual. ",
     "restore_description": "Restabilește copia de rezervă!",
     "credits_description": "Îți arată balanța ta sau a altcuiva și transferă credite pentru cineva. ",
