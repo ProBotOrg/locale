@@ -32,7 +32,7 @@
     "vol_description": "現在の音量を表示\/変更します。",
     "pause_description": "再生中の曲を一時停止します。",
     "np_description": "再生中の曲の情報を表示します。",
-    "repeat_description": "リピート再生設定を変更します。",
+    "repeat_description": "Toggles the repeat mode.",
     "seek_description": "再生地点を指定します。",
     "restore_description": "バックアップを適用します！",
     "credits_description": "自分または他のメンバーの残高を表示して、クレジットを送ります。",
