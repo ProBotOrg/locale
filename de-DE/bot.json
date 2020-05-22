@@ -32,7 +32,7 @@
     "vol_description": "Ändert\/Zeigt die aktuelle Lautstärke an.",
     "pause_description": "Pausiert den aktuell wiedergegebenen Track.",
     "np_description": "Zeigt an, welchen Song der Bot gerade spielt.",
-    "repeat_description": "Ändert den Wiederholungsmodus.",
+    "repeat_description": "Toggles the repeat mode.",
     "seek_description": "Seeks to a certain point in the current track.",
     "restore_description": "Stellt Ihr Backup wieder her!",
     "credits_description": "Zeigt Ihren Geldstand oder den von jemand anderem an.",
