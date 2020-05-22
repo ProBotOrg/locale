@@ -32,7 +32,7 @@
     "vol_description": "Zmienia\/pokazuje aktualny poziom głośności.",
     "pause_description": "Zatrzymuje aktualnie odtwarzany utwór.",
     "np_description": "Pokazuje utwór, który jest aktualnie odtwarzany przez bota.",
-    "repeat_description": "Zmienia tryb powtarzania.",
+    "repeat_description": "Toggles the repeat mode.",
     "seek_description": "Szuka określonego punktu w bieżącym utworze.",
     "restore_description": "Przywraca kopię zapasową!",
     "credits_description": "Pokazuje Twoje saldo lub kogoś innego.",
