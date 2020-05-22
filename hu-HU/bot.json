@@ -32,7 +32,7 @@
     "vol_description": "Átállítja\/megjeleníti a jelenlegi hangerőt.",
     "pause_description": "Szünetelteti az aktuális zeneszámot.",
     "np_description": "Megjeleníti a bot által aktuálisan lejátszott zeneszámot.",
-    "repeat_description": "Átállítja az ismétlés módot.",
+    "repeat_description": "Toggles the repeat mode.",
     "seek_description": "Egy megadott pontra ugrik az aktuális zeneszámon.",
     "restore_description": "Feltölti a támogatásod!",
     "credits_description": "Megmutatja a te vagy mások egyenlegét és pénzt utal át a másiknak,",
