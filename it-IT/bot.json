@@ -32,7 +32,7 @@
     "vol_description": "Cambia\/mostra il volume attuale del bot",
     "pause_description": "Mette in pausa la canzone in riproduzione",
     "np_description": "Mostra quale canzone il bot sta riproducendo",
-    "repeat_description": "Toggles the repeat mode.",
+    "repeat_description": "Abilità\/disabilità la modalità ripetizione",
     "seek_description": "Riproduce un certo punto del brano musicale",
     "restore_description": "Ripristina il tuo backup!",
     "credits_description": "Mostra il tuo o il bilancio di un altro utente",
