@@ -32,7 +32,7 @@
     "vol_description": "يغير \/ يعرض حجم الصوت الحالي.",
     "pause_description": "إيقاف المقطع الذي يتم تشغيلة حاليًا.",
     "np_description": "يوضح المقطع الذي يتم تشغيله حاليًا.",
-    "repeat_description": "Toggles the repeat mode.",
+    "repeat_description": "تفعيل \/ إلغاء وضع التكرار.",
     "seek_description": "يتخطى إلى وقت معين في المقطع.",
     "restore_description": "إستعادة نسختك الإحتياطية!",
     "credits_description": "تحويل رصيد لشخص ما او اظهار رصيدك أو رصيد شخص آخر.",
