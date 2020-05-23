@@ -1,7 +1,7 @@
 {
     "blacklisted_call_dramex": "ご利用のアカウントは不審なアクティビティが検出されたため、ブラックリストに追加されました。詳細は @Dramex までお問い合わせください。",
     "blacklisted_title": "ご利用のアカウントは不審なアクティビティが検出されたため、ブラックリストに追加されました。解除するにはCaptcha認証を行ってください。",
-    "blacklisted_note": "これは一回限り有効のチケットです。絶対に無駄にしないでください。",
+    "blacklisted_note": "この操作は1回限り有効です。誤操作は許されません。",
     "examples_clear": "{0} 1000\n{0} ボット 10\n{0} @Dramex 10",
     "examples_moveme": "{0} 基本\n{0} @ZEUS",
     "examples_id": "{0} @Dramex",
