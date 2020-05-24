@@ -330,7 +330,7 @@
     "MOD_UNTIL_LEAVES": "Until member leaves the server",
     "AUTO_ROLES": "Auto Roles",
     "AUTO_ROLES_NOTE": "By community request, AutoRole only works if the role does not have administrative permissions.",
-    "RECOMMANDED": "Recommanded",
+    "RECOMMANDED": "Recommended",
     "PERMISSIONS_LIMITS": "Permissions Limits",
     "COMMANDS_LIMITS": "Commands limits",
     "COMMAND_LIMIT": "Limit",
