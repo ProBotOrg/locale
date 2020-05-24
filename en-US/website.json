@@ -1,7 +1,7 @@
 {
-    "blacklisted_call_dramex": "Your account blacklisted for suspicious activity, please contact @Dramex for more details",
-    "blacklisted_title": "Your account blacklisted for suspicious activity, please solve the captcha to continue",
-    "blacklisted_note": "This 1 time ticket, don't waste it",
+    "blacklisted_call_dramex": "Your account has been blacklisted for suspicious activity, please contact @Dramex for more details",
+    "blacklisted_title": "Your account has been blacklisted for suspicious activity, please solve the captcha to continue",
+    "blacklisted_note": "This is a 1 time ticket, don't waste it",
     "examples_clear": "{0} 1000\n{0} bots 10\n{0} @Dramex 10",
     "examples_moveme": "{0} general\n{0} @ZEUS",
     "examples_id": "{0} @Dramex",
