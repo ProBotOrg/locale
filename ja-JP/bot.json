@@ -184,7 +184,7 @@
     "mute_user_muted": ":white_check_mark: **@{0} がテキストチャンネルからミュートしました！ :zipper_mouth:**",
     "daily_credits_refreshes_description": "**:rolling_eyes: |  {0}、あなたの毎日のクレジットは {1}で更新されます。 **",
     "daily_not_have_rank_description": ":robot:  **|  {0}**、ボットにランクがありません！",
-    "daily_credits_got_description": "**:moneybag: {0}, あなたは :dollar: {1} 日給を獲得しました！**",
+    "daily_credits_got_description": "**:moneybag: {0}, あなたは :dollar: {1} クレジットを獲得しました！**",
     "daily_user_not_found_description": ":rolling_eyes: **|  {0}**、ユーザーが見つかりません。",
     "role_specify_one_description": ":rolling_eyes: - ** ロール名を1つ指定してください**",
     "role_dont_have_access_description": ":rolling_eyes: - {0} を与える権限がありません。",
