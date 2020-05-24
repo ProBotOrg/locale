@@ -66,7 +66,7 @@
     "usage_setnick": "{0} (user)\n{0} (user) (New nickname)",
     "usage_play": "{0} (song title) - plays the first result from Youtube\n{0} (URL) - plays the provided song, playlist, or stream",
     "usage_search": "{0} （歌曲名稱）",
-    "usage_vol": "{0} (volume)",
+    "usage_vol": "{0} （音量）",
     "usage_seek": "{0} (target point)",
     "usage_credits": "{0}\n{0} (user)\n{0} (user) (amount)",
     "usage_restore": "{0} (backup code)",
