@@ -79,7 +79,7 @@
     "usage_short": "{0} (Link)",
     "usage_deletebackup": "{0} (Backup Code)",
     "usage_roll": "{0} (number)",
-    "usage_points": "`#points (user) 1`  - set the points of a user\n`#points (user) +1` - increase the points of a user\n`#points (user) -1` - decrease the points of a user\n`#points (user) 0` -  reset the points of a user\n`#points reset` - resets all points",
+    "usage_points": "`{0} points (کەس) 1`    - دانانی خاڵ بۆ کەسێک  \n`{0} points (کەس) +1`  - زیاد کردنی خاڵ بۆ کەسێک   \n`{0} points (کەس) -1`   -  کم کردنەوەی خاڵ لە کەسێک  \n`{0} points (کەس) 0`   - رێسیت کردنەوەی خاڵی کەسێک   \n`{0} reset` - رێسیت کردنی هەموو خاڵەکان   ",
     "aliases": "Aliases:",
     "examples": "Examples:",
     "rank_description": "View yours or someone else's server rank card.",
