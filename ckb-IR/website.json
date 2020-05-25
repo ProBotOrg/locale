@@ -83,7 +83,7 @@
     "aliases": "Aliases:",
     "examples": "Examples:",
     "rank_description": "View yours or someone else's server rank card.",
-    "24/7_description": "Toggles the 24/7 mode, this makes the bot don't leave the voice channel until you stop it.",
+    "24/7_description": "گۆرینی جۆری 24/7 ، ئەمە وا لە بۆتەکا دەکات لە ڤۆیس نێتە دەرەوە تاوەکو تۆ راینەوەستێنی.",
     "examples_rank": "{0} @Dramex",
     "usage_rank": "{0}\n{0} (user)",
     "click_to_recharge": "( Recharge )",
