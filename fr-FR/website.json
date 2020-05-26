@@ -505,6 +505,6 @@
     "leveling_default_levelup": "[user], vous avez atteint le **niveau [level]!** 🥳",
     "leveling_no_xp_channels": "PAS de salons XP",
     "leveling_note": "* Pour éviter le spam les utilisateurs obtiennent une quantité aléatoire de xp chaque minute en la conversation",
-    "leveling_variables": "[level] - pour imprimer le niveau donné\n[oldLevel] - pour imprimer l'ancien niveau\n[user] - pour envoyer une requête ping à l'utilisateur\n[userName] - pour imprimer le nom d'utilisateur\n[userTag] - pour apporter la balise utilisateur",
+    "leveling_variables": "[level] - pour imprimer le niveau donné\n[oldLevel] - pour imprimer l'ancien niveau\n[user] - pour mentionner l'utilisateur\n[userName] - pour imprimer le nom d'utilisateur\n[userTag] - pour imprimer le tag de l'utlisateur",
     "leveling_add_role_reward": "Ajouter une récompense de rôle"
 }
