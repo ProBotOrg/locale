@@ -125,7 +125,7 @@
     "pause_description": "暫停當前播放的歌曲",
     "np_description": "顯示現正播放的歌曲",
     "repeat_description": "Toggles the repeat mode.\n",
-    "seek_description": "Seeks to a certain point in the current track.",
+    "seek_description": "尋找現正播放歌曲裡的某一點",
     "restore_description": "從備份恢復！",
     "credits_description": "Shows your or someone's balance.",
     "support_description": "取得我們支援伺服器的邀請網址",
