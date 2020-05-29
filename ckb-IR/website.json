@@ -59,7 +59,7 @@
     "usage_vmute": "{0} (user) (time ends with m,h,d,mo,y) (reason)",
     "usage_unmute": "{0} {بەکارهێنەر}",
     "usage_unvmute": "{0} {بەکارهێنەر}",
-    "usage_role": "{0} (user) (+/-)(roles names separated by comma)\n{0} all (+/-)(role name)",
+    "usage_role": "{0} (بەکارهێنەر) (+/-)(ناوی ڕۆڵ جگه له کۆماند)\n{0} هەموو (+/-)(ناوی ڕۆڵ)",
     "usage_warn": "(بەکارهێنەر) (بەلگە)",
     "usage_setcolor": "{0} (ناوی رۆل) (کۆدی ڕەنگ)",
     "usage_warnings": "{0}\n{0} (بەکارهێنەر)",
