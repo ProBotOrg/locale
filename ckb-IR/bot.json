@@ -276,7 +276,7 @@
     "vip_please_specify_description": ":rolling_eyes: - **Please specify**",
     "vip_details_description": "**Premium Number:** {0}\n**Premium ends in** {1}\n**Registered for:** {2}",
     "vip_ended_description": "ended",
-    "credits_not_enough": "** :thinking: | {0}, Your balance is not enough for that!**",
+    "credits_not_enough": "‌** :thinking: | {0}, باڵانسی پێویستت نیه!**",
     "credits_trans_done": "**:moneybag: | {0}, has transferred `${1}` to {2} **",
     "credits_receipt": ":atm:  |  Transfer Receipt ```You have received ${0} from user {1} (ID: {2})```",
     "credits_blacklist": ":sweat: ** هەژمارەکەت لە لیستی رەشە. **",
