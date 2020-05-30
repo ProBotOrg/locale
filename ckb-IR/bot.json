@@ -233,7 +233,7 @@
     "unban_premium_only_description": "تەنها بۆ پریمیومە.",
     "unban_members_being_description": ":white_check_mark: **{0}** members being unbanned.",
     "unban_unbanned_description": ":white_check_mark: **{0} unbanned!**",
-    "unban_cant_find_description": ":rolling_eyes: - **I can't find {0} in the ban list**",
+    "unban_cant_find_description": ":rolling_eyes: - **ناتوانم بیدۆزمه‌وه‌ له‌ ریزی بانده‌کان.٭٭",
     "vmute_main_description": "{0}, By: {1}#{2}, REASON: {3} ENDS ON: {4}",
     "vmute_muted_from_description": ":white_check_mark: **@{0} muted from the voice! :zipper_mouth:**",
     "vmute_couldnt_mute_description": ":rolling_eyes: - I couldn't mute that user. Please check my permissions.",
