@@ -282,7 +282,7 @@
     "DELETE_WITH_MESSAGE_DELETION": "メッセージ削除で自動削除",
     "AUTOMOD_SPAM": "迷惑行為（5メッセージ/5秒）",
     "AUTOMOD_BADWORDS": "規制単語",
-    "AUTOMOD_DUPS": "内容重複投稿",
+    "AUTOMOD_DUPS": "重複投稿",
     "AUTOMOD_LINKS": "リンク",
     "AUTOMOD_DISCORD_INVITES": "他のサーバーの招待",
     "AUTOMOD_REPEATED": "連続投稿",
