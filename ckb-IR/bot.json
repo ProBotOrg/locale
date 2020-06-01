@@ -222,7 +222,7 @@
     "warn_select_description": "هۆکارێک هەڵبژێرە",
     "warn_specify_description": "تکایە هۆکارەکە دیاری بکە",
     "warn_been_removed_description": ":white_check_mark:{0}ئاگادار کردنەوەکانی سڕڕانەوە",
-    "warn_cant_warning_description": "🔍 **I can't find the warning that you're looking for.**",
+    "warn_cant_warning_description": "من ناتوانم ئاگاداریەکە بدۆزمەوە کە تۆ بەدوای دەگەڕێی",
     "warn_specify_number_description": ":rolling_eyes: - **Please specify warning number or user mention or (all) to delete all warnings.**",
     "vkick_cant_permission_description": "ناتوانم ئەو کەسە کیک بکەم تکایە سەیری پێرمشنەکانم بکە",
     "vkick_you_cant_description": ":rolling_eyes: - ** تۆ ناتوانیت فڕەی بەیتە دەرەوە @{0}. **",
