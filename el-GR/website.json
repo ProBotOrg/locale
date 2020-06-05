@@ -237,6 +237,8 @@
     "voice_joined": "Μέλος Συνδέθηκε σε Κανάλι Φωνής",
     "voice_left": "Μέλος Αποχώρησε από Κανάλι Φωνής",
     "voice_switched": "Μέλος Μεταφέρθηκε μεταξύ Καναλιών Φωνής",
+    "voice_move": "Member moved to another voice channel",
+    "voice_disconnect": "Member disconnected from voice channel",
     "to_channel": "Σε ένα κανάλι",
     "send": "Αποστολή",
     "command": "Εντολή",
