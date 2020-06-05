@@ -237,6 +237,8 @@
     "voice_joined": "Membru intrat pe canal de voce",
     "voice_left": "Membru ieșit canal de voce",
     "voice_switched": "Un membru a schimbat între canalele de voce",
+    "voice_move": "Member moved to another voice channel",
+    "voice_disconnect": "Member disconnected from voice channel",
     "to_channel": "Către un canal",
     "send": "Trimite",
     "command": "Comandă",
