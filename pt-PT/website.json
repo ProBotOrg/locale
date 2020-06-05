@@ -237,6 +237,8 @@
     "voice_joined": "Membro Ingressou no Canal de Voz",
     "voice_left": "Canal de Voz Esquerda do Membro",
     "voice_switched": "Membro comutado entre canais de voz",
+    "voice_move": "Member moved to another voice channel",
+    "voice_disconnect": "Member disconnected from voice channel",
     "to_channel": "Para um canal",
     "send": "Enviar",
     "command": "Comando",
