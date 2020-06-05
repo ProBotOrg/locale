@@ -237,6 +237,8 @@
     "voice_joined": "Член Се Присъедини Към Гласов Канал",
     "voice_left": "Член Напусна Гласов Канал",
     "voice_switched": "Член се превключи между Гласовите Канали",
+    "voice_move": "Member moved to another voice channel",
+    "voice_disconnect": "Member disconnected from voice channel",
     "to_channel": "В канал",
     "send": "Изпратете",
     "command": "Команда",
