@@ -237,6 +237,8 @@
     "voice_joined": "Участник присоединялся к каналу",
     "voice_left": "Участник сменил канал",
     "voice_switched": "Член Переключение между голосовыми каналами",
+    "voice_move": "Member moved to another voice channel",
+    "voice_disconnect": "Member disconnected from voice channel",
     "to_channel": "На канал",
     "send": "Отправить",
     "command": "Командование",
