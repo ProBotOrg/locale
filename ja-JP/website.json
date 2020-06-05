@@ -237,6 +237,8 @@
     "voice_joined": "メンバーがボイスチャンネルに参加しました",
     "voice_left": "メンバーがボイスチャンネルを退出しました",
     "voice_switched": "メンバーがボイスチャンネルを切り替えました",
+    "voice_move": "Member moved to another voice channel",
+    "voice_disconnect": "Member disconnected from voice channel",
     "to_channel": "チャンネルへ",
     "send": "送信",
     "command": "コマンド",
