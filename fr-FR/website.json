@@ -237,6 +237,8 @@
     "voice_joined": "Connexion d'un membre à un salon vocal",
     "voice_left": "Déconnexion d'un membre d'un salon vocal",
     "voice_switched": "Membre déplacé entre les salons vocaux",
+    "voice_move": "Member moved to another voice channel",
+    "voice_disconnect": "Member disconnected from voice channel",
     "to_channel": "Vers un salon",
     "send": "Envoyer",
     "command": "Commande",
