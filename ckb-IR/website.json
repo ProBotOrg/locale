@@ -237,6 +237,8 @@
     "voice_joined": "Member Joined Voice Channel",
     "voice_left": "Member Left Voice Channel",
     "voice_switched": "Member Switched between Voice Channels",
+    "voice_move": "Member moved to another voice channel",
+    "voice_disconnect": "Member disconnected from voice channel",
     "to_channel": "بۆ ژوورەکە",
     "send": "ناردن",
     "command": "فەرمان",
