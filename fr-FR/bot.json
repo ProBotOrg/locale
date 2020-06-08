@@ -32,7 +32,7 @@
     "vol_description": "Modifie \/ montre le volume actuel.",
     "pause_description": "Mettre en pause le morceau en cours d'écoute.",
     "np_description": "Montre quel morceau le bot joue actuellement.",
-    "repeat_description": "Change le mode de répétition.",
+    "repeat_description": "Activer\/désactiver le mode de répétition.",
     "seek_description": "Chercher à un certain endroit du morceau en cours.",
     "restore_description": "Restaure votre sauvegarde !",
     "credits_description": "Montre votre solde ou celui de quelqu'un d'autre.",
