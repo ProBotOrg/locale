@@ -237,7 +237,7 @@
     "voice_joined": "دخول عضو لروم صوتي",
     "voice_left": "خروج عضو من روم صوتي",
     "voice_switched": "تنقل العضو بين الرومات",
-    "voice_move": "Member moved to another voice channel",
+    "voice_move": "انتقال العضو إلى روم صوتي أخر",
     "voice_disconnect": "Member disconnected from voice channel",
     "to_channel": "إلى روم",
     "send": "إرسال",
