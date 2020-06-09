@@ -504,9 +504,9 @@
     "leveling_current_channel": "Canal curent",
     "leveling_disabled": "Dezactivat",
     "leveling_no_xp_roles": "Roluri FĂRĂ XP",
-    "leveling_default_levelup": "[user], you've reached **level [level]!** 🥳",
-    "leveling_no_xp_channels": "NO XP Channels",
-    "leveling_note": "* To avoid spamming users get random amount of xp each minute while chatting",
-    "leveling_variables": "[level] - to print given level\n[oldLevel] - to print old level\n[user] - to ping the user\n[userName] - to print user name\n[userTag] - to bring user tag",
-    "leveling_add_role_reward": "Add Role Reward"
+    "leveling_default_levelup": "[user], ai atins **nivel [level]!** 🥳",
+    "leveling_no_xp_channels": "Canale FĂRĂ XP",
+    "leveling_note": "* Pentru a evita spam-ul utilizatorilor, utilizatorii primesc o sumă aleatorie de xp în fiecare minut în timp ce scriu pe chat",
+    "leveling_variables": "[level] - pentru a arăta nivelul dat\n[oldLevel] - pentru a arăta vechiul nivel\n[user] - pentru a-i da tag utilizatorului\n[userName] - pentru a arăta numele de utilizator\n[userTag] - pentru a arăta eticheta utilizatorului",
+    "leveling_add_role_reward": "Adaugă Recompensă Rol"
 }
