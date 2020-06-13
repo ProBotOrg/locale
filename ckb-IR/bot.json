@@ -177,7 +177,7 @@
     "channel_has_been_locked": "** :lock: {0} داخرا",
     "channel_has_been_unlocked": "**:unlock: {0} کراوە",
     "lock_description": "لادانی @everyone لە ناردنی نامە لەناو ژورێکی دیاریکراو",
-    "unlock_description": "Removes denied sending messages from @everyone in specific channel.",
+    "unlock_description": "رۆلی ئێڤریوە‌ن ناتوانێ لە‌ كە‌نالی تایبە‌ت نامە‌ بنێرێت ",
     "requested_by_embed": "داۆا کراو لە لایەن {0}#{1}",
     "cant_mute_user": "-** تۆ ناتوانێت بێدەنگی بکەیت @{0}. **",
     "cant_find_member": ":rolling_eyes: - ٭٭ناتوانم ئەم ئەندامە بدۆزمەوە٭٭",
