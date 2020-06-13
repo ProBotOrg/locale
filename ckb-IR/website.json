@@ -481,7 +481,7 @@
     "title": "پڕوبۆت - ڕۆبۆتێک بۆ دیسکۆرد",
     "description": "دەربارە :",
     "lock_description": "لادانی @everyone لە ناردنی نامە لەناو ژورێکی دیاریکراو",
-    "unlock_description": "Removes denied sending messages from @everyone in specific channel.",
+    "unlock_description": "رۆلی ئێڤریوە‌ن ناتوانێ لە‌ كە‌نالی تایبە‌ت نامە‌ بنێرێت ",
     "name_of_user": "Displays the user's name, without pinging the user.",
     "user_invites_counter": "User's invite counter",
     "to_mention_author": "Mentions the user who invoked the response",
