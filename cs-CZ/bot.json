@@ -15,7 +15,7 @@
     "kick_description": "Vyhodí člena.",
     "vkick_description": "Vyhodí člena z hlasového kanálu",
     "mute_description": "Ztlumí člena z textových kanálů, takže nebude moct psát.",
-    "unmute_description": "Unmutes a member.",
+    "unmute_description": "Zruší umlčení člena.",
     "vmute_description": "Mute a member from voice channels so they cannot speak.",
     "unvmute_description": "Unmutes a member from voice channels.",
     "move_description": "Moves a member to a voice channel.",
