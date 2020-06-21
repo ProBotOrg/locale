@@ -286,7 +286,7 @@
     "AUTOMOD_BADWORDS": "गाली\ngaalee",
     "AUTOMOD_DUPS": "डुप्लिकेटेड पाठ\ndupliketed paath",
     "AUTOMOD_LINKS": "लिंक\nlink",
-    "AUTOMOD_DISCORD_INVITES": "DISCORD INVITES",
+    "AUTOMOD_DISCORD_INVITES": "DISCORD आमंत्रण\ndischord aamantran",
     "AUTOMOD_REPEATED": "REPEATED MESSAGES",
     "AUTOMOD_MASS_MENTION": "MASS MENTION",
     "AUTOMOD_EMOJI_SPAM": "EMOJI SPAM",
