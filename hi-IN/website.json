@@ -258,7 +258,7 @@
     "hidden_channels": "छिपे हुए चैनल\nchhipe hue chainal",
     "no_bots": "कोई बॉट नहीं\nkoee bot nahin",
     "mod_roles": "मॉड रोल्स\nmod rols",
-    "voice_mute_time": "manual voice mute time",
+    "voice_mute_time": "मैनुअल आवाज मूक समय\nmainual aavaaj mook samay",
     "ADD_ROLE": "Add specific role",
     "ROLE_LIMITS": "%ROLE_NAME% Limits :",
     "BAN_LIMIT": "Ban limit",
