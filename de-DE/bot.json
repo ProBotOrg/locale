@@ -177,7 +177,7 @@
     "channel_has_been_locked": "**:lock: {0} wurde gesperrt.**",
     "channel_has_been_unlocked": "**:unlock: {0} wurde entsperrt.**",
     "lock_description": "Hindert @everyone davon, Nachrichten in einem spezifischen Kanal zu schicken.",
-    "unlock_description": "Removes denied sending messages from @everyone in specific channel.",
+    "unlock_description": "Elimina los mensajes denegados de @everyone en un canal específico.",
     "requested_by_embed": "Anfrage von {0}",
     "cant_mute_user": ":rolling_eyes: - ** Du kannst @{0} nicht Stummschalten. **",
     "cant_find_member": ":rolling_eyes: - **Ich konnte dieses Mitglied nicht finden**",
