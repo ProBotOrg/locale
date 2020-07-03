@@ -2,6 +2,8 @@
   "name": "probot-locale",
   "version": "1.0.0",
   "description": "",
+  "main": "./_web.js",
+  "module": "./_web.js",
   "exports": {
     "import": "./_web.js",
     "require": "./_bot.js"
