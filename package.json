@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/Dramex/probot-locale/issues"
   },
-  "homepage": "https://github.com/Dramex/probot-locale#readme"
+  "homepage": "https://github.com/Dramex/probot-locale#readme",
+  "dependencies": {
+    "glob": "^7.1.6"
+  }
 }
