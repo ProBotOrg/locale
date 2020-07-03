@@ -18,5 +18,5 @@ languages.tr = require("./tr-TR/bot.json");
 languages.uk = require("./uk-UA/bot.json");
 languages.zh = require("./zh-CN/bot.json");
 languages["zh-TW"] = require("./zh-CN/bot.json");
-
+languages.cs = require("./cs-CZ/bot.json");
 module.exports = languages;

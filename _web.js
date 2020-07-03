@@ -17,6 +17,7 @@ import tr from './tr-TR/website.json';
 import uk from './uk-UA/website.json';
 import zh from './zh-CN/website.json';
 import zh_TW from './zh-TW/website.json';
+import cs from './cs-CZ/website.json';
 export default {
     en,
     ar,
@@ -36,5 +37,6 @@ export default {
     ja,
     hu,
     el,
-    zh_TW
+    zh_TW,
+    cs
 };
