@@ -1,6 +1,10 @@
-import en from "./en-US/website.json"
 import ar from './ar-SA/website.json';
 import bg from './bg-BG/website.json';
+import zh from './zh-CN/website.json';
+import zh_TW from './zh-TW/website.json';
+import cs from './cs-CZ/website.json';
+import uk from './uk-UA/website.json';
+import en from "./en-US/website.json"
 import de from './de-DE/website.json';
 import el from './el-GR/website.json';
 import es from './es-ES/website.json';
@@ -14,9 +18,9 @@ import pt from './pt-PT/website.json';
 import ro from './ro-RO/website.json';
 import ru from './ru-RU/website.json';
 import tr from './tr-TR/website.json';
-import uk from './uk-UA/website.json';
-import zh from './zh-CN/website.json';
-import zh_TW from './zh-TW/website.json';
+import hi from './hi-IN/website.json';
+import sk from './sk-SK/website.json';
+
 export default {
     en,
     ar,
@@ -36,5 +40,8 @@ export default {
     ja,
     hu,
     el,
-    zh_TW
+    zh_TW,
+    cs,
+    hi,
+    sk
 };
