@@ -430,12 +430,12 @@
     "protection_backup_id_invalid": ":rolling_eyes: - **備份ID無效，請再度嘗試**",
     "protection_restored": ":white_check_mark: **{0}** 已復原",
     "protection_permissions_removed": ":white_check_mark: **{0}**：權限已被移除",
-    "protection_removed_from_member": ":white_check_mark: **{0}** : Removed from the member",
+    "protection_removed_from_member": ":white_check_mark: **{0}**：已從成員移除",
     "protection_action": "**動作：**",
-    "protection_backup_saved": "☁ **Roles Cloud Backup has been saved.**",
-    "protection_restore_backup_use": "to restore the backup use: ```#restore {0}```",
+    "protection_backup_saved": "☁ **身份組雲端備份已成功儲存**",
+    "protection_restore_backup_use": "如果要回復備份，請用 ```#restore {0}```",
     "protection_from_bots": "**{0}** has bots : {1} \n**Action has been taken :slight_smile: **",
-    "protection_deleted_auto_role": "**{0} ({1}) deleted the auto role**: {2}.\n**Action being taken...**",
-    "protection_limit_exceeded": ":rolling_eyes: - **#{0}**'s today limit has been exceeded.",
-    "protection_limit_name": "{0} has excused the **{1}** limit.\n**Action being taken...**"
+    "protection_deleted_auto_role": "**{0} ({1}) 刪除了自動身份組**：{2}\n**動作已經執行 ...**",
+    "protection_limit_exceeded": ":rolling_eyes: - **#{0}**的今日限制已觸發",
+    "protection_limit_name": "{0} 觸發了 **{1}** 限制\n**動作已經執行 ...**"
 }
