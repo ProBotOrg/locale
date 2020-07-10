@@ -74,7 +74,7 @@
     "usage_title": "{0}\n{0} （新標題）",
     "usage_reset": "{0} （文字/語音/邀請）",
     "usage_rep": "{0} （使用者）",
-    "usage_vip": "{0}\n{0} move (bot's number)\n{0} transfer (bot's number) (user)\n{0} restart\n{0} avatar (avatar link)\n{0} username (new name)\n{0} status (new status)",
+    "usage_vip": "{0}\n{0} move （機器人代碼）\n{0} transfer （機器人代碼） （使用者）\n{0} restart\n{0} avatar （頭像網址）\n{0} username （新的名稱）\n{0} status （新的自訂狀態）",
     "usage_temp": "{0}   ( on / off )\n{0} （時間） （持續時間）",
     "usage_short": "{0} （網址）",
     "usage_deletebackup": "{0} （備份碼）",
