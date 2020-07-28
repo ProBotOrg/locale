@@ -200,8 +200,8 @@
     "unvmute_member_voice_description": ": white_check_mark: {0} अनमैटेड!\n: whitai_chhaichk_mark: {0} anamaited!",
     "unvmute_not_muted_description": ": ब्लश: ** {0} मौन नहीं है। **\n: blash: ** {0} maun nahin hai. **",
     "ban_from_server_description": ": white_check_mark: ** {0} सर्वर से प्रतिबंधित! :विमान:**\n: whitai_chhaichk_mark: ** {0} sarvar se pratibandhit! :vimaan:**",
-    "ban_cant_description": ":rolling_eyes: - ** You can't ban @{0}. **",
-    "ban_missing_permission_description": ":rolling_eyes: - I couldn't ban that user. Please check my permissions and role position.",
+    "ban_cant_description": ": रोलिंग_येज: - ** आप @ {0} पर प्रतिबंध नहीं लगा सकते। **\n: roling_yej: - ** aap @ {0} par pratibandh nahin laga sakate. **",
+    "ban_missing_permission_description": ": रोलिंग_येज: - मैं उस उपयोगकर्ता पर प्रतिबंध नहीं लगा सकता। कृपया मेरी अनुमति और भूमिका की स्थिति देखें।\n: roling_yej: - main us upayogakarta par pratibandh nahin laga sakata. krpaya meree anumati aur bhoomika kee sthiti dekhen.",
     "clear_cooldown_description": "**{0}**, Cool down (**{1}** left)",
     "clear_cant_description": ":rolling_eyes: - I couldn't clear this channel. Please check my permissions.",
     "clear_message_has": "{0} message has been deleted.",
@@ -432,10 +432,10 @@
     "protection_permissions_removed": ": white_check_mark: ** {0} **: अनुमतियाँ हटा दी गईं\n: whitai_chhaichk_mark: ** {0} **: anumatiyaan hata dee gaeen",
     "protection_removed_from_member": ": white_check_mark: ** {0} **: सदस्य से हटाया गया\n: whitai_chhaichk_mark: ** {0} **: sadasy se hataaya gaya",
     "protection_action": "** क्रिया: **\n** kriya: **",
-    "protection_backup_saved": "☁ **Roles Cloud Backup has been saved.**",
-    "protection_restore_backup_use": "to restore the backup use: ```#restore {0}```",
-    "protection_from_bots": "**{0}** has bots : {1} \n**Action has been taken :slight_smile: **",
-    "protection_deleted_auto_role": "**{0} ({1}) deleted the auto role**: {2}.\n**Action being taken...**",
-    "protection_limit_exceeded": ":rolling_eyes: - **#{0}**'s today limit has been exceeded.",
-    "protection_limit_name": "{0} has excused the **{1}** limit.\n**Action being taken...**"
+    "protection_backup_saved": "\n☁ ** रोल्स क्लाउड बैकअप सहेजा गया है। **\n☁ ** rols klaud baikap saheja gaya hai. **",
+    "protection_restore_backup_use": "बैकअप उपयोग को बहाल करने के लिए: `` #restore {0} `` `\nbaikap upayog ko bahaal karane ke lie: `` #raistorai {0} `` `",
+    "protection_from_bots": "** {0} ** में बॉट्स हैं: {1}\n** कार्रवाई की गई है:\n** {0} ** mein bots hain: {1}\n** kaarravaee kee gaee hai:",
+    "protection_deleted_auto_role": "** {0} ({1}) ने ऑटो भूमिका को हटा दिया **: {2}।\n** कार्रवाई की जा रही है ... **\n** {0} ({1}) ne oto bhoomika ko hata diya **: {2}.\n** kaarravaee kee ja rahee hai ... **",
+    "protection_limit_exceeded": ": रोलिंग_येज: - ** # {0} ** की आज की सीमा पार हो गई है।\n: roling_yej: - ** # {0} ** kee aaj kee seema paar ho gaee hai.",
+    "protection_limit_name": "{0} ने ** {1} ** सीमा का बहाना किया है।\n** कार्रवाई की जा रही है ... **\n{0} ne ** {1} ** seema ka bahaana kiya hai.\n** kaarravaee kee ja rahee hai ... **"
 }
