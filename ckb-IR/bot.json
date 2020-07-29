@@ -239,7 +239,7 @@
     "vmute_couldnt_mute_description": "من ناتوانم ئە‌و ئە‌ندامە‌ میوت بكە‌م . تكایە‌ پێداچوونە‌وە‌كی پلە‌كە‌م بكە‌ن . ",
     "vmute_cant_description": "تو ناتوانی میوتی قسە‌ بكە‌ی ",
     "setnick_changed_description": ":white_check_mark: **{0}** نیک نەیمەکە گۆڕا بۆ {1}! ",
-    "setnick_reset_description": ":white_check_mark: **{0}**'s nick has been reset.",
+    "setnick_reset_description": ":white_check_mark: نیکنەیمی **{0}** رسێت بۆوە",
     "setnick_couldnt_update_description": ":rolling_eyes: - I couldn't update that user. Please check my permissions and role position.",
     "unmute_cant_find_description": ":rolling_eyes: - **ناتوانم رۆلی بێدەنگیەکە بدۆزمەۆە.**",
     "unmute_check_permissions_description": ":rolling_eyes: - تکایە شوێنگەی رۆل و مۆلەتەکەم تاوتوێ بکە. ",
