@@ -267,7 +267,7 @@
     "vip_previous_transfer_description": "**:rolling_eyes: - There is a previous transfer request, a new link has been sent to your DM **",
     "vip_transfer_link_description": "**:white_check_mark: You can transfer the bot through the link sent to you on the DM, knowing that the link expires in 10 minutes and requires you to request the link again.**",
     "vip_link_expired_description": "Link has been expired",
-    "vip_must_ownership_description": "**:rolling_eyes: - You must be the ownership of this bot.**",
+    "vip_must_ownership_description": "**:rolling_eyes: - You must be the owner of this bot.**",
     "vip_owner_only_description": "Owner only~",
     "vip_select_one_description": "** Select one: **",
     "vip_restarting_description": ":timer: **Restarting ...**",
