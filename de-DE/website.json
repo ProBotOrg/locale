@@ -40,7 +40,7 @@
     "examples_deletebackup": "{0} Zeuscode",
     "examples_roll": "{0}\n{0} 100",
     "examples_short": "{0} https://probot.io/This-is-A-very-Long-Link-lol",
-    "examples_points": "#points @Dramex 1\n#points @Dramex +1 \n#points @Dramex -1\n#points @Dramex 0\n#points reset",
+    "examples_points": "#Punkte @Dramex 1\n#Punkte @Dramex +1 \n#Punkte @Dramex -1\n#Punkte @Dramex 0\n#Punkte zurücksetzen",
     "usage_clear": "{0} (Anzahl der Nachrichten)\n{0} Bots (Anzahl der Nachrichten)\n{0} (Nutzer) (Anzahl der Nachrichten)",
     "usage_id": "{0}\n{0} (Benutzer)",
     "usage_moveme": "{0} (Kanal oder Benutzer)",
