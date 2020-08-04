@@ -208,7 +208,7 @@
     "clear_messages_have": "{0} mesaj silindi.",
     "kick_cant_description": ":rolling_eyes: - ** @{0} 'ı sunucudan atamazsın. **",
     "kick_couldnt_description": ":rolling_eyes: - Bu kullanıcıyı sunucudan atamadım. Lütfen izinlerimi ve rol sıralamasını kontrol edin.",
-    "kick_server_description": "white_check_mark: **@{0} sunucudan atıldı! **",
+    "kick_server_description": ":white_check_mark: **@{0} sunucudan atıldı! **",
     "reset_point_done_description": ":white_check_mark: ** İstatistikler başarıyla sıfırlandı. **",
     "yes_description": "evet",
     "setcolor_role_name_description": ":rolling_eyes: - ** Lütfen rol ismini girin **",
