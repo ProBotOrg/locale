@@ -245,7 +245,7 @@
     "unmute_check_permissions_description": ":rolling_eyes: - تکایە شوێنگەی رۆل و مۆلەتەکەم تاوتوێ بکە. ",
     "unmute_command_require_description": "ئه‌م فه‌رمانه‌ ڕێگا پێدراوه‌ بۆ   `Administrator` ",
     "unmute_unmuting_description": "**{0} ئەندام لە بێدانگی لا بران.**",
-    "link_must_have_description": ":rolling_eyes: - ** Bot must have `Create instant invite` permission on the invite's default channel **",
+    "link_must_have_description": "S",
     "link_error_description": ":rolling_eyes: - **هەڵە**",
     "link_cant_find_description": ":rolling_eyes: - **من ناتوانم لینکی ژورە جیاۆازەکان بدۆزمە.**",
     "vip_ownership_successfully_description": "** خاۆەناێەتی بە سەرکەوتوویی گۆێزرایەۆە **",
