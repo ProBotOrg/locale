@@ -562,7 +562,7 @@
     "automod_mute_time_years": "Années",
     "automod_delete_essage": "Supprimer le message",
     "automod_warn_member": "Avertir le membre",
-    "automod_mute_member": "Mute Member",
-    "server_index_memberflow": "Memberflow",
-    "new": "NEW"
+    "automod_mute_member": "Membre Muet",
+    "server_index_memberflow": "Membreflux",
+    "new": "NOUVEAU"
 }
