@@ -25,7 +25,7 @@
     "examples_setcolor": "{0} members #000001",
     "examples_warnings": "{0}\n{0} @Dramex",
     "examples_setnick": "{0} @Dramex new nickname",
-    "examples_play": "{0} Havana\n{0} {0} https://www.youtube.com/watch?v=HCjNJDNzw8Y",
+    "examples_play": "{0} Havana\n{0} https://www.youtube.com/watch?v=HCjNJDNzw8Y",
     "examples_search": "{0} Havana",
     "examples_vol": "{0}\n{0} 100",
     "examples_seek": "{0} 11:00",
