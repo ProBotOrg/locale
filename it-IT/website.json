@@ -528,7 +528,7 @@
     "store_anime": "Anime",
     "store_tv_cienma": "TV e Cinema",
     "store_badge_been_deleted": "Il badge è stato cancellato 👌 ",
-    "store_error_contact_support": "Errore, perfavore contatta un membro del supporto",
+    "store_error_contact_support": "Errore, perfavore contatta un membro del team di supporto",
     "store_background_changed": "Lo sfondo è stato cambiato 👌",
     "store_badge_changed": "Il badge è stato cambiato 👌",
     "store_credits_too_low": "I tuoi crediti sono troppo bassi per effetuare il pagamento",
@@ -561,8 +561,8 @@
     "automod_mute_time_months": "Mesi",
     "automod_mute_time_years": "Anni",
     "automod_delete_essage": "Cancella messaggio",
-    "automod_warn_member": "Warn Member",
-    "automod_mute_member": "Mute Member",
-    "server_index_memberflow": "Memberflow",
-    "new": "NEW"
+    "automod_warn_member": "Avvisa un membro",
+    "automod_mute_member": "Muta un membro",
+    "server_index_memberflow": "Flusso dei membri",
+    "new": "NUOVO"
 }
