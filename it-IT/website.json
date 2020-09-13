@@ -1,7 +1,7 @@
 {
     "blacklisted_call_dramex": "Il tuo account è stato inserito nella blacklist per attività sospette, per favore contatta @Dramex per maggiori informazioni",
-    "blacklisted_title": "Il tuo account è in blacklist per attività sospette, si prega di risolvere il captcha per continuare",
-    "blacklisted_note": "Questo ticket è valido per 1 sola volta, non sprecarlo",
+    "blacklisted_title": "Il tuo account è nella blacklist per attività sospette, si prega di risolvere il captcha per continuare",
+    "blacklisted_note": "Questo ticket è valido per un solo utilizzo, non sprecarlo",
     "examples_clear": "{0} 1000\n{0} bot 10\n{0} @Dramex 10",
     "examples_moveme": "{0} generale\n{0} @ZEUS",
     "examples_id": "{0} @Dramex",
@@ -79,7 +79,7 @@
     "usage_short": "{0} (Link) ",
     "usage_deletebackup": "{0} (codice di backup)",
     "usage_roll": "{0} (numero)",
-    "usage_points": "`#points [user] 1` - imposta i punti dell'utente sulla quantità inserita\n`#points [user] +1` - aumenta i punti di un utente della quantità inserita\n`#points [user] -1` - diminuisce i punti di un utente della quantità inserita\n`#points [user] 0` - resetta i punti di un utente\n`#point reset` - resetta tutti i punti di tutti gli utenti nel server",
+    "usage_points": "`#points [utente] 1` - imposta i punti dell'utente sulla quantità inserita\n`#points [utente] +1` - aumenta i punti di un utente della quantità inserita\n`#points [utente] -1` - diminuisce i punti di un utente della quantità inserita\n`#points [utente] 0` - resetta i punti di un utente\n`#point reset` - resetta tutti i punti di tutti gli utenti nel server",
     "aliases": "Alias:",
     "examples": "Esempi:",
     "rank_description": "Visualizza la tua o la server rank card di qualcun altro",
