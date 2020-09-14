@@ -176,7 +176,7 @@
     "WELCOME_IMAGE": "Poslať obrázok keď sa užívateľ pripojí na server",
     "WIDTH": "Šírka",
     "HEIGHT": "výška",
-    "AVATAR_TYPE": "\ntyp avataru",
+    "AVATAR_TYPE": "typ avataru",
     "SQUARE": "Štvorec",
     "CIRCLE": "Kruh",
     "AVATAR_WIDTH": "Šírka avataru",
@@ -564,5 +564,5 @@
     "automod_warn_member": "Varovať Člena",
     "automod_mute_member": "Stlmiť Člena",
     "server_index_memberflow": "Memberflow",
-    "new": "NEW"
+    "new": "NOVÉ"
 }
