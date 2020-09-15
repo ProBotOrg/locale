@@ -508,5 +508,61 @@
     "leveling_no_xp_channels": "رومات بدون XP",
     "leveling_note": "* لتفادي السبام يمكن للمستخدمين الحصول على كمية عشوائية من xp كل دقيقة أثناء محادثة",
     "leveling_variables": "[level] - لكتابة اللفل الجديد\n[oldLevel] - لكتابة اللفل القديم\n[userName] - لكتابة اسم العضو\n[userTag] - لعمل منشن للعضو",
-    "leveling_add_role_reward": "اضافة رتبة كمكافأة"
+    "leveling_add_role_reward": "اضافة رتبة كمكافأة",
+    "Premium": "برميوم",
+    "LEADERBOARD": "لائحة المتصدرين",
+    "transactions_date": "التاريخ",
+    "transactions_user": "المستخدم",
+    "transactions_amount": "المبلغ",
+    "transactions_balance": "الرصيد",
+    "store_owned": "مملوك",
+    "store_newest": "الأحدث",
+    "store_low_price": "السعر: من الأدنى إلى الأعلى",
+    "store_high_price": "السعر: من الأعلى إلى الأدنى",
+    "store_select_abadge": "يرجى تحديد شارة",
+    "store_all": "الكل",
+    "store_games": "ألعاب",
+    "store_flags": "أعلام\n",
+    "store_football": "كرة القدم",
+    "store_pokemon": "بوكيمون",
+    "store_anime": "أنمي",
+    "store_tv_cienma": "التلفاز و السينما",
+    "store_badge_been_deleted": "تمت ازالة الشارة 👌",
+    "store_error_contact_support": "خطأ، يرجى الاتصال بالدعم",
+    "store_background_changed": "تم تغيير الخلفية 👌",
+    "store_badge_changed": "تم تغيير الشارة 👌",
+    "store_credits_too_low": "رصيدك غير كافي للقيام بهذا الإجراء",
+    "store_bg_current": "الحالي",
+    "success": "تم بنجاح 👌",
+    "premium_month": "شهر",
+    "premium_months": "أشهر",
+    "premium_year": "سنة",
+    "premium_bot_username": "اسم البوت",
+    "premium_bot_status": "حالة البوت",
+    "premium_bot_avatar": "صورة البوت",
+    "premium_auto_renew": "التجديد التلقائي",
+    "premium_add_prime": "إضافة سيرفر برايم",
+    "premium_add_bot": "إضافة بوت بريميوم",
+    "premium_payment_amount": "اختر مبلغ الدفع",
+    "premium_ended": "انتهى",
+    "premium_dont_have_balance": "ليس لديك الرصيد الكافي لهذا",
+    "premium_current_credits_is": "رصيدك الحالي هو {0}",
+    "protection_options": "اعدادات الحماية:",
+    "protection_delete_limits": "حذف {0} حدود",
+    "music_dj_roles": "رولات DJ",
+    "both_voice_and_text": "كل من الصوتي والكتابي",
+    "whitelist_urls": "الروابط المسموحة",
+    "automod_mute_time": "وقت الاسكات",
+    "automod_mute_violations": "عدد مخالفات الاسكات",
+    "automod_mute_in": "في",
+    "automod_mute_time_mintues": "دقائق",
+    "automod_mute_time_hours": "ساعات",
+    "automod_mute_time_days": "أيام",
+    "automod_mute_time_months": "أشهر",
+    "automod_mute_time_years": "سنوات",
+    "automod_delete_essage": "حذف الرسالة",
+    "automod_warn_member": "تحذير العضو",
+    "automod_mute_member": "اسكات العضو",
+    "server_index_memberflow": "تدفق الاعضاء",
+    "new": "جديد"
 }
