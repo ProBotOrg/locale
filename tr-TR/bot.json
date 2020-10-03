@@ -198,7 +198,7 @@
     "role_changing_for_description": ":white_check_mark: {0} üye için roller değiştiriliyor, {1}**{2}**",
     "unvmute_required_voice_description": ":rolling_eyes: - **unvmute komutunu kullanamadan önce kullanıcılar ses kanalında olmalıdır.**",
     "unvmute_member_voice_description": ":white_check_mark: {0} 'ın susturması kaldırıldı!",
-    "unvmute_not_muted_description": "blush: **{0} susturulmamış.**",
+    "unvmute_not_muted_description": ":blush: **{0} susturulmamış.**",
     "ban_from_server_description": ":white_check_mark: **{0} sunucudan yasaklandı! :airplane:**",
     "ban_cant_description": ":rolling_eyes: - ** @{0} 'ı sunucudan yasaklayamazsın. **",
     "ban_missing_permission_description": ":rolling_eyes: - O kullanıcıyı sunucudan yasaklayamadım. Lütfen rol izinlerimi ve rol sıralamasını kontrol edin.",
