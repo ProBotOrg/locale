@@ -105,7 +105,7 @@
     "usage_profile": "{0}\n{0} (kullanici)",
     "usage_top": "{0}\n{0} (gün \/ hafta \/ ay)\n{0} (metin \/ ses \/ davetler) (sayfa numarası)",
     "usage_user": "{0} (user)",
-    "usage_avatar": "{0} (kullanıcı)\n{0} sunucu",
+    "usage_avatar": "{0} (kullanıcı)\n{0} server",
     "usage_server": "{0}",
     "usage_roles": "{0}",
     "usage_ban": "{0} (kullanıcı) (süre m\/h\/d\/mo\/y) (sebep)",
