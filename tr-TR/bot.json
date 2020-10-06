@@ -44,7 +44,7 @@
     "rep_description": "Birine bir itibar puanı verin. Her 24 saatte yalnızca bir kez kullanılabilir.",
     "daily_description": "Günlük ücretinizi alın.",
     "vip_description": "Premium botunuz hakkında bilgileri görüntüler.",
-    "ping_description": "Botların tepki süresini test eder.",
+    "ping_description": "Botun tepki süresini test eder.",
     "temp_description": "Geçici kanallar.",
     "deletebackup_description": "Yedeklemeyi siler.",
     "short_description": "Bir URL'yi kısaltır.",
