@@ -41,10 +41,10 @@
     "examples_roll": "{0}\n{0} 100",
     "examples_short": "{0} https://probot.io/Bu-Cok-Uzun-Bir-Link-lol",
     "examples_points": "#points @Dramex 1\n#points @Dramex +1 \n#points @Dramex -1\n#points @Dramex 0\n#points reset",
-    "usage_clear": "{0} (mesaj sayısı) \n{0) bot (mesaj sayısı)\n{0} (kullanıcı) (mesaj sayısı)",
+    "usage_clear": "{0} (mesaj sayısı) \n{0} bot (mesaj sayısı)\n{0} (kullanıcı) (mesaj sayısı)",
     "usage_id": "{0} \n{0} (kullanıcı)",
     "usage_moveme": "{0} (kanal veya kullanıcı)",
-    "usage_profile": "{0}\n{0} (kullanici)",
+    "usage_profile": "{0}\n{0} (kullanıcı)",
     "usage_top": "{0}\n{0} (gün / hafta / ay)\n{0} (metin / ses / davetler) (sayfa numarası)",
     "usage_user": "{0} (kullanıcı)",
     "usage_avatar": "{0} (kullanıcı)\n{0} sunucu",
@@ -564,5 +564,11 @@
     "automod_warn_member": "Üyeyi Uyar",
     "automod_mute_member": "Üyeyi Sustur",
     "server_index_memberflow": "Üye Akışı",
-    "new": "YENİ"
+    "new": "YENİ",
+    "removewarn_description": "Remove warnings for the server or user.",
+    "usage_removewarn": "{0} (warnID)\n{0} (user)\n{0} all",
+    "examples_removewarn": "{0} 56323094912\n{0} @Dramex\n{0} all",
+    "leveling_voice_only": "Voice Only",
+    "leveling_text_only": "Text Only",
+    "leveling_role_poisiton": "Role Poisiton"
 }
