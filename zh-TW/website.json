@@ -566,7 +566,7 @@
     "server_index_memberflow": "成員數",
     "new": "新功能",
     "removewarn_description": "從伺服器或使用者移除警告",
-    "usage_removewarn": "{0} (warnID)\n{0} (user)\n{0} all",
+    "usage_removewarn": "{0}（警告 ID)\n{0}（使用者）\n{0}  全部",
     "examples_removewarn": "{0} 56323094912\n{0} @Dramex\n{0} all",
     "leveling_voice_only": "Voice Only",
     "leveling_text_only": "Text Only",
