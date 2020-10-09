@@ -567,8 +567,8 @@
     "new": "新功能",
     "removewarn_description": "從伺服器或使用者移除警告",
     "usage_removewarn": "{0}（警告 ID)\n{0}（使用者）\n{0}  全部",
-    "examples_removewarn": "{0} 56323094912\n{0} @Dramex\n{0} all",
-    "leveling_voice_only": "Voice Only",
-    "leveling_text_only": "Text Only",
-    "leveling_role_poisiton": "Role Poisiton"
+    "examples_removewarn": "{0} 56323094912\n{0} @Dramex\n{0} 全部",
+    "leveling_voice_only": "只限語音",
+    "leveling_text_only": "只限文字",
+    "leveling_role_poisiton": "身份組位置"
 }
