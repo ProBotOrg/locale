@@ -565,7 +565,7 @@
     "automod_mute_member": "Umlčet člena",
     "server_index_memberflow": "Počet členů",
     "new": "NOVÉ",
-    "removewarn_description": "Remove warnings for the server or user.",
+    "removewarn_description": "Odebere varování serveru či uživateli.",
     "usage_removewarn": "{0} (warnID)\n{0} (user)\n{0} all",
     "examples_removewarn": "{0} 56323094912\n{0} @Dramex\n{0} all",
     "leveling_voice_only": "Voice Only",
