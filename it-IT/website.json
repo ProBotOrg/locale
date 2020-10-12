@@ -566,8 +566,8 @@
     "server_index_memberflow": "Flusso dei membri",
     "new": "NUOVO",
     "removewarn_description": "Rimuovi gli avvertimenti per il server o per l'utente.",
-    "usage_removewarn": "{0} (warnID)\n{0} (user)\n{0} all",
-    "examples_removewarn": "{0} 56323094912\n{0} @Dramex\n{0} tutto",
+    "usage_removewarn": "{0} (warnID)\n{0} (utente)\n{0} all",
+    "examples_removewarn": "{0} 56323094912\n{0} @Dramex\n{0} all",
     "leveling_voice_only": "Solo chat vocale",
     "leveling_text_only": "Solo chat testuale.",
     "leveling_role_poisiton": "Posizione del ruolo."
