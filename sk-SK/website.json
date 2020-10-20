@@ -564,5 +564,11 @@
     "automod_warn_member": "Varovať Člena",
     "automod_mute_member": "Stlmiť Člena",
     "server_index_memberflow": "Memberflow",
-    "new": "NOVÉ"
+    "new": "NOVÉ",
+    "removewarn_description": "Odstráňte varovania pre server alebo používateľa.\n",
+    "usage_removewarn": "{0} (warnID)\n{0} (user)\n{0} all",
+    "examples_removewarn": "{0} 56323094912\n{0} @Dramex\n{0} all",
+    "leveling_voice_only": "Iba hlas",
+    "leveling_text_only": "Iba text",
+    "leveling_role_poisiton": "Pozícia role"
 }

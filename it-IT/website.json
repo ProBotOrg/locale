@@ -516,7 +516,7 @@
     "transactions_amount": "quantità",
     "transactions_balance": "bilancio",
     "store_owned": "posseduto",
-    "store_newest": "Newest",
+    "store_newest": "Il nuovissimo",
     "store_low_price": "prezzo - basso ad alto",
     "store_high_price": "prezzo - alto a basso",
     "store_select_abadge": "perfavore seleziona un badge",
@@ -554,7 +554,7 @@
     "whitelist_urls": "WHITELIST URLS",
     "automod_mute_time": "Tempo di mute",
     "automod_mute_violations": "Violazioni necessarie prima del mute",
-    "automod_mute_in": "In",
+    "automod_mute_in": "in ",
     "automod_mute_time_mintues": "Minuti",
     "automod_mute_time_hours": "Ore",
     "automod_mute_time_days": "Giorni",
@@ -564,5 +564,11 @@
     "automod_warn_member": "Avvisa un membro",
     "automod_mute_member": "Muta un membro",
     "server_index_memberflow": "Flusso dei membri",
-    "new": "NUOVO"
+    "new": "NUOVO",
+    "removewarn_description": "Rimuovi gli avvertimenti per il server o per l'utente.",
+    "usage_removewarn": "{0} (warnID)\n{0} (utente)\n{0} all",
+    "examples_removewarn": "{0} 56323094912\n{0} @Dramex\n{0} all",
+    "leveling_voice_only": "Solo chat vocale",
+    "leveling_text_only": "Solo chat testuale.",
+    "leveling_role_poisiton": "Posizione del ruolo."
 }

@@ -564,5 +564,11 @@
     "automod_warn_member": "Предупредить Участника",
     "automod_mute_member": "Заглушить Участника",
     "server_index_memberflow": "Рост Участников",
-    "new": "НОВОЕ"
+    "new": "НОВОЕ",
+    "removewarn_description": "Удалить предупреждения сервера или пользователя.",
+    "usage_removewarn": "{0} (ID предупреждения)\n{0} (пользователь)\n{0} все",
+    "examples_removewarn": "{0} 56323094912\n{0} @Dramex\n{0} все",
+    "leveling_voice_only": "Только голосовые каналы",
+    "leveling_text_only": "Только текстовые каналы",
+    "leveling_role_poisiton": "Положение роли"
 }
