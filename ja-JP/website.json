@@ -92,7 +92,7 @@
     "GENERAL": "基本",
     "OVERVIEW": "概要",
     "AUTO_RESPONDER": "自動返信",
-    "WELCOMER": "歓迎メッセージ",
+    "WELCOMER": "ようこそメッセージ",
     "clear_description": "チャンネルのメッセージを消去する",
     "moveme_description": "ボイスチャンネルに移動します。",
     "id_description": "自分 または 他のメンバーのサーバーランクカードを表示します。",
