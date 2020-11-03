@@ -1,5 +1,5 @@
 {
-    "rank_description": "server",
+    "rank_description": "View yours or someone else's server rank card.",
     "examples_rank": "{0} {1}",
     "usage_rank": "{0}\n{0} (user)",
     "clear_description": "Cleans messages from a channel.",
@@ -193,7 +193,7 @@
     "role_couldnt_change_description": ":rolling_eyes: - I couldn't change the roles for that user. Please check my permissions and role position.",
     "role_position_higher_description": ":rolling_eyes: - **{0}**'s position higher than yours.",
     "role_changed_description": ":white_check_mark: Changed roles for {0}, **{1}**",
-    "role_must_have_permission_description": ":rolling_eyes: - ** You must have Administrator permission to do this command.",
+    "role_must_have_permission_description": ":rolling_eyes: - **You must have Administrator permission to do this command.**",
     "role_specify_name_description": ":rolling_eyes: - ** Please specify role name **",
     "role_changing_for_description": ":white_check_mark: Changing roles for {0} members, {1}**{2}**",
     "unvmute_required_voice_description": ":rolling_eyes: - **Discord required members to be in voice channels before unvmute.**",
