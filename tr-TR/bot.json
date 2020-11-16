@@ -268,7 +268,7 @@
     "vip_transfer_link_description": "**: white_check_mark: Bağlantının 10 dakika içinde sona erdiğini ve bağlantıyı tekrar istemeniz gerektiğini bilerek botu DM üzerinden size gönderilen bağlantı aracılığıyla aktarabilirsiniz. **",
     "vip_link_expired_description": "Link'in kullanım tarihi sona erdi",
     "vip_must_ownership_description": "**:rolling_eyes: - Botun sahibi olmalısınız.**",
-    "vip_owner_only_description": "Sadece sahip~",
+    "vip_owner_only_description": "Sadece sunucu sahibi~",
     "vip_select_one_description": "** Birini seçin: **",
     "vip_restarting_description": ":timer: **Yeniden başlatılıyor ...**",
     "vip_please_wait_description": "**:stopwatch: | {0}, lütfen bekleyin {1}. **",
