@@ -570,5 +570,11 @@
     "examples_removewarn": "{0} 56323094912\n{0} @Dramex\n{0} all",
     "leveling_voice_only": "Только голосовые каналы",
     "leveling_text_only": "Только текстовые каналы",
-    "leveling_role_poisiton": "Положение роли"
+    "leveling_role_poisiton": "Положение роли",
+    "welcomer_variable_user": "Mentions the new member",
+    "welcomer_variable_username": "New member name without mentioning",
+    "welcomer_variable_inviter": "Mentions the Inviter",
+    "welcomer_variable_invitername": "Inviter name without mentioning",
+    "welcomer_variable_membercount": "Amount of members reached",
+    "welcomer_variable_server": "Server name"
 }
