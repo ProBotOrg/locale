@@ -571,12 +571,12 @@
     "leveling_voice_only": "صوت فقط",
     "leveling_text_only": "كتابي فقط",
     "leveling_role_poisiton": "موقع الرتبة",
-    "welcomer_variable_user": "Mentions the new member",
-    "welcomer_variable_username": "اسم العضو الجديد بدون منشن",
-    "welcomer_variable_inviter": "منشن للداعي",
+    "welcomer_variable_user": "منشن المدعو",
+    "welcomer_variable_username": "اسم المدعو بدون منشن",
+    "welcomer_variable_inviter": "منشن الداعي",
     "welcomer_variable_invitername": "اسم الداعي بدون منشن",
     "welcomer_variable_membercount": "عدد الأعضاء",
     "welcomer_variable_server": "اسم السيرفر",
-    "login_required": "You need to login to view this content!",
-    "login_using_discord": "Login using Discord"
+    "login_required": "يجب أن تسجل دخولك لـ تتمكن من رؤية الصفحة!",
+    "login_using_discord": "تسجيل الدخول"
 }
