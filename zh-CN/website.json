@@ -576,5 +576,7 @@
     "welcomer_variable_inviter": "Mentions the Inviter",
     "welcomer_variable_invitername": "Inviter name without mentioning",
     "welcomer_variable_membercount": "Amount of members reached",
-    "welcomer_variable_server": "Server name"
+    "welcomer_variable_server": "Server name",
+    "login_required": "You need to login to view this content!",
+    "login_using_discord": "Login using Discord"
 }

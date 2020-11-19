@@ -58,7 +58,7 @@
     "examples_avatar": "{0}\n{0} サーバー\n{0} {1}\n{0} 157605500488384512",
     "examples_server": "{0}",
     "examples_roles": "{0}",
-    "examples_ban": "{0} {1}\n{0} {1} スパム禁止\n{0} {1} スパム禁止（1時間）\n{0} {1} スパム禁止（1日）\n{0} {1} スパム禁止（1週間）",
+    "examples_ban": "{0} {1}\n{0} {1} spamming\n{0} {1} 1h spamming\n{0} {1} 1d spamming\n{0} {1} 1w ",
     "examples_vkick": "{0} {1}",
     "examples_unban": "{0} {1}\n{0} 157605500488384512",
     "examples_kick": "{0} {1}\n{0} 157605500488384512",
