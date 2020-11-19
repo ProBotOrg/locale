@@ -576,5 +576,7 @@
     "welcomer_variable_inviter": "Zmíní zvoucího",
     "welcomer_variable_invitername": "Jméno zvoucího bez zmínky",
     "welcomer_variable_membercount": "Celkový počet členů",
-    "welcomer_variable_server": "Název serveru"
+    "welcomer_variable_server": "Název serveru",
+    "login_required": "You need to login to view this content!",
+    "login_using_discord": "Login using Discord"
 }
