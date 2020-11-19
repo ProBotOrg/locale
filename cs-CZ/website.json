@@ -570,5 +570,11 @@
     "examples_removewarn": "{0} 56323094912\n{0} @Dramex\n{0} all",
     "leveling_voice_only": "Pouze hlas",
     "leveling_text_only": "Pouze text",
-    "leveling_role_poisiton": "Pozice role"
+    "leveling_role_poisiton": "Pozice role",
+    "welcomer_variable_user": "Zmíní nového člena",
+    "welcomer_variable_username": "Jméno nového člena bez zmínky",
+    "welcomer_variable_inviter": "Zmíní zvoucího",
+    "welcomer_variable_invitername": "Jméno zvoucího bez zmínky",
+    "welcomer_variable_membercount": "Celkový počet členů",
+    "welcomer_variable_server": "Název serveru"
 }
