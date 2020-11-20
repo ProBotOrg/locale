@@ -571,12 +571,12 @@
     "leveling_voice_only": "Solo chat vocale",
     "leveling_text_only": "Solo chat testuale.",
     "leveling_role_poisiton": "Posizione del ruolo.",
-    "welcomer_variable_user": "Mentions the new member",
-    "welcomer_variable_username": "New member name without mentioning",
-    "welcomer_variable_inviter": "Mentions the Inviter",
+    "welcomer_variable_user": "Menziona il nuovo membro",
+    "welcomer_variable_username": "Il nome del nuovo membro senza menzionarlo. ",
+    "welcomer_variable_inviter": "Menziona la persona che l'ha invitato",
     "welcomer_variable_invitername": "Inviter name without mentioning",
-    "welcomer_variable_membercount": "Amount of members reached",
-    "welcomer_variable_server": "Server name",
+    "welcomer_variable_membercount": "Numero di membri raggiunto",
+    "welcomer_variable_server": "Nome del server",
     "login_required": "You need to login to view this content!",
     "login_using_discord": "Login using Discord"
 }
