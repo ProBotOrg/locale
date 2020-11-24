@@ -571,12 +571,12 @@
     "leveling_voice_only": "Voix Uniquement",
     "leveling_text_only": "Texte Uniquement",
     "leveling_role_poisiton": "Position du rôle",
-    "welcomer_variable_user": "Mentions the new member",
-    "welcomer_variable_username": "New member name without mentioning",
-    "welcomer_variable_inviter": "Mentions the Inviter",
-    "welcomer_variable_invitername": "Inviter name without mentioning",
-    "welcomer_variable_membercount": "Amount of members reached",
-    "welcomer_variable_server": "Server name",
-    "login_required": "You need to login to view this content!",
-    "login_using_discord": "Login using Discord"
+    "welcomer_variable_user": "Mentionne le nouveau membre",
+    "welcomer_variable_username": "Nouveau nom de membre sans mentionner",
+    "welcomer_variable_inviter": "Mentionne l'invitant",
+    "welcomer_variable_invitername": "Nom de l'invitant sans mentionner",
+    "welcomer_variable_membercount": "Nombre de membres atteints",
+    "welcomer_variable_server": "Nom du serveur",
+    "login_required": "Vous devez vous connecter pour voir ce contenu!",
+    "login_using_discord": "Se connecter en utilisant Discord"
 }

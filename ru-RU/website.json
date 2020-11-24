@@ -571,12 +571,12 @@
     "leveling_voice_only": "Только голосовые каналы",
     "leveling_text_only": "Только текстовые каналы",
     "leveling_role_poisiton": "Положение роли",
-    "welcomer_variable_user": "Mentions the new member",
-    "welcomer_variable_username": "New member name without mentioning",
-    "welcomer_variable_inviter": "Mentions the Inviter",
-    "welcomer_variable_invitername": "Inviter name without mentioning",
-    "welcomer_variable_membercount": "Amount of members reached",
-    "welcomer_variable_server": "Server name",
-    "login_required": "You need to login to view this content!",
-    "login_using_discord": "Login using Discord"
+    "welcomer_variable_user": "Упоминание нового участника",
+    "welcomer_variable_username": "Имя нового участника без упоминания",
+    "welcomer_variable_inviter": "Упоминание приглашенного ",
+    "welcomer_variable_invitername": "Имя приглашающего без упоминания",
+    "welcomer_variable_membercount": "Общее число участников",
+    "welcomer_variable_server": "Название сервера",
+    "login_required": "Для просмотра этого раздела необходимо войти в систему!",
+    "login_using_discord": "Вход с помощью Discord"
 }
