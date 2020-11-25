@@ -573,10 +573,10 @@
     "leveling_role_poisiton": "Poziția rolului",
     "welcomer_variable_user": "Menționează noul membru",
     "welcomer_variable_username": "Numele membrului nou fără a-l menționa",
-    "welcomer_variable_inviter": "Menționează cel ce l-a invitat",
+    "welcomer_variable_inviter": "Menționează pe cel ce l-a invitat",
     "welcomer_variable_invitername": "Numele celui ce l-a invitat fără a-l menționa",
-    "welcomer_variable_membercount": "Amount of members reached",
-    "welcomer_variable_server": "Server name",
-    "login_required": "You need to login to view this content!",
-    "login_using_discord": "Login using Discord"
+    "welcomer_variable_membercount": "Suma membrilor atinși",
+    "welcomer_variable_server": "Numele serverului",
+    "login_required": "Trebuie să fii conectat pentru a vedea acest conținut!",
+    "login_using_discord": "Conectează-te folosind Discord"
 }
