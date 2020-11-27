@@ -480,7 +480,7 @@
     "logout_no": "Nope! Sorry",
     "title": "ProBot - Bot for Discord",
     "description": "Mô tả:",
-    "lock_description": "Disables @everyone from sending messages in specific channel.",
+    "lock_description": "Chặn khả năng gửi tin nhắn của @everyone trong kênh được xác định.",
     "unlock_description": "Removes denied sending messages from @everyone in specific channel.",
     "name_of_user": "Displays the user's name, without pinging the user.",
     "user_invites_counter": "User's invite counter",
