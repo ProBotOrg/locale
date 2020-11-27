@@ -176,7 +176,7 @@
     "lock_must_has_manage_channels": ":rolling_eyes: **`Tùy chỉnh kênh` là quyền cần có để thực hiện lệnh**",
     "channel_has_been_locked": "**:lock: {0} đã bị khóa.**",
     "channel_has_been_unlocked": "**:unlock: đã mở khóa {0}.**",
-    "lock_description": "Disables @everyone from sending messages in specific channel.",
+    "lock_description": "Chặn khả năng gửi tin nhắn của @everyone trong kênh được xác định.",
     "unlock_description": "Removes denied sending messages from @everyone in specific channel.",
     "requested_by_embed": "Requested by {0}#{1}",
     "cant_mute_user": ":rolling_eyes: - ** You can't mute @{0}. **",
