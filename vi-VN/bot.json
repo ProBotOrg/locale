@@ -416,7 +416,7 @@
     "logs_message_updated_content_new": "**Mới**",
     "logs_voice_joined": "**{0} đã tham gia kênh thoại `{1}`.**",
     "logs_voice_left": "**{0} đã rời kênh thoại `{1}`.**",
-    "logs_voice_switched": "**{0} switched voice channel  `{1}` => `{2}`.**",
+    "logs_voice_switched": "**{0} đã đổi kênh thoại `{1}` -> `{2}`.**",
     "logs_voicestate_updated": "**Voice state of {0} has been updated.**",
     "logs_voicestate_server_mute": ":microphone2: ** Server Mute **",
     "logs_voicestate_server_deafen": ":speaker: ** Server Deafen **",
