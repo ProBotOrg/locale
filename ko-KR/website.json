@@ -134,7 +134,7 @@
     "title_description": "당신의 이름을 #profile 명령어를 사용하여 바꿉니다.",
     "reset_description": "모든 멤버의 채팅, 음성, 초대 포인트를 초기화합니다.",
     "rep_description": "멤버의 명성 포인트를 높입니다. 24시간마다 한 번씩 가능합니다.",
-    "daily_description": "Get your daily salary.",
+    "daily_description": "당신의 일급을 받으세요.",
     "vip_description": "당신의 프리미엄 봇의 정보를 보여줍니다.",
     "ping_description": "봇의 응답시간을 테스트 합니다.",
     "temp_description": "Temporary channels.",
