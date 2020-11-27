@@ -600,5 +600,9 @@
     "message_anti_raid_end": "Message to send when a raid ends",
     "users_names": "Users names without mentioning them",
     "users_mentions": "Mentions the users",
-    "users_amount": "The amount of users"
+    "users_amount": "The amount of users",
+    "reset_guild_settings": "Reset '{0}' settings",
+    "reset_settings_confirm": "Are you sure you want to reset settings?",
+    "reset_settings_warn": "THIS ACTION CAN'T UNDONE!",
+    "reset_settings": "Reset Settings"
 }
