@@ -437,5 +437,6 @@
     "protection_from_bots": "**{0}** are boți : {1} \n**O măsură a fost luată :slight_smile: **",
     "protection_deleted_auto_role": "**{0} ({1}) a șters rolul automat**: {2}.\n**O măsură este luată...**",
     "protection_limit_exceeded": ":rolling_eyes: - Limita lui **#{0}** a fost depășită.",
-    "protection_limit_name": "{0} a depășit limita **{1}**.\n**O măsură este luată...**"
+    "protection_limit_name": "{0} a depășit limita **{1}**.\n**O măsură este luată...**",
+    "temp_already_enabled": ":x: **This feature already enabled, to disable it use `{0} off`.**"
 }
