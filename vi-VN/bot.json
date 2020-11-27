@@ -332,7 +332,7 @@
     "server_members": ":busts_in_silhouette: Thành viên ({0})",
     "server_members_online": "**{0}** trực tuyến",
     "server_channels": ":speech_balloon: Kênh ({0})",
-    "server_channels_value": "**{0}** Text | **{1}** Voice\n",
+    "server_channels_value": "**{0}** Tin nhắn | **{1}** Âm thoại",
     "server_others": ":earth_africa: Others",
     "server_others_value": "**Region:** {0}\n**Verification Level:** {1}",
     "server_roles": ":closed_lock_with_key:  Roles ({0})",
