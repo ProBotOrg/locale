@@ -424,7 +424,7 @@
     "logs_voice_disconnected": "**{0} đã ngắt kết nối.**",
     "protection_no_backup_to_delete": "**Không có bản sao lưu nào để xóa cả**",
     "protection_backup_deleted": "**Đã xóa bản sao lưu**",
-    "protection_add_admin_permissions": "**{0} ({1})\nAdded administrative permissions to role:\n{2}\nProBot removed these permissions, no action needed**",
+    "protection_add_admin_permissions": "**{0} ({1})\nĐã thêm quyền quản trị cho vai trò:\n{2}\nProbot đã gỡ bỏ quyền, không cần hành động gì thêm**",
     "protection_permissions_all_following": "The permissions of all the following administrative roles have been removed:",
     "protection_insert_backup_id": ":rolling_eyes: - **Please insert backup id**",
     "protection_backup_id_invalid": ":rolling_eyes: - **Your backup id is invalid. Please try again.**",
