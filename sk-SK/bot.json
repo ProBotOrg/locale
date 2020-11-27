@@ -437,5 +437,6 @@
     "protection_from_bots": "**{0}** má boty : {1} \n** Podnikli sa kroky :slight_smile: **",
     "protection_deleted_auto_role": "**{0} ({1}) vymazal automatickú rolu**: {2}.\n**Prijaté opatrenia ...**",
     "protection_limit_exceeded": ":rolling_eyes: - **#{0}** dnešný limit bol prekročený.",
-    "protection_limit_name": "{0} ospravedlnil limit **{1}**.\n**Prijaté opatrenia ...**"
+    "protection_limit_name": "{0} ospravedlnil limit **{1}**.\n**Prijaté opatrenia ...**",
+    "temp_already_enabled": ":x: **This feature already enabled, to disable it use `{0} off`.**"
 }
