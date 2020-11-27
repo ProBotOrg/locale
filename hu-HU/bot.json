@@ -437,5 +437,6 @@
     "protection_from_bots": "**{0}** botjai : {1}\n\n**Művelet végrehajtva :slight_smile: **",
     "protection_deleted_auto_role": "**{0} ({1}) auto-beosztást törölte**: {2}\n\n**Művelet végrehajtása...**",
     "protection_limit_exceeded": ":rolling_eyes: - **#{0}** napi határa túllépve.",
-    "protection_limit_name": "{0} feloldotta a **{1}** korlátozást.\n\n**Művelet végrehajtása...**"
+    "protection_limit_name": "{0} feloldotta a **{1}** korlátozást.\n\n**Művelet végrehajtása...**",
+    "temp_already_enabled": ":x: **This feature already enabled, to disable it use `{0} off`.**"
 }
