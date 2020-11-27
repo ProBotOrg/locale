@@ -437,5 +437,6 @@
     "protection_from_bots": "**{0}** ボット: {1} \n**次の操作が行われました :slight_smile: **",
     "protection_deleted_auto_role": "**{0} ({1}) が自動ロール付与機能を削除しました**: {2}.\n**操作は実行中です..**",
     "protection_limit_exceeded": ":rolling_eyes: - **#{0}**の今日の制限を超えています。",
-    "protection_limit_name": "{0} は **{1}の制限を許しました。\n**処理中です**"
+    "protection_limit_name": "{0} は **{1}の制限を許しました。\n**処理中です**",
+    "temp_already_enabled": ":x: **This feature already enabled, to disable it use `{0} off`.**"
 }
