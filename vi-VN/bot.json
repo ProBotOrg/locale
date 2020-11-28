@@ -249,7 +249,7 @@
     "link_error_description": ":eyes: - **Lỗi**",
     "link_cant_find_description": ":rolling_eyes: - **Tôi không tìm thấy kênh nguồn mặc định.**",
     "vip_ownership_successfully_description": "**Đã chuyển quyền sở hữu thành công**",
-    "vip_mistake_description": ":rolling_eyes: - Spelling mistake.",
+    "vip_mistake_description": ":rolling_eyes: - Sự cố đánh vần.",
     "vip_twitch_channel_description": "Specifiy a twitch channel url:",
     "vip_wrong_url_description": ":rolling_eyes: - ** Wrong url, canceling... **",
     "vip_changing_description": "**Changing ...** (This may take a while due to discord restrictions)",
