@@ -601,8 +601,8 @@
     "users_names": "أسماء المستخدمين دون منشنتهم",
     "users_mentions": "منشن المستخدمين",
     "users_amount": "عدد المستخدمين ",
-    "reset_guild_settings": "Reset '{0}' settings",
-    "reset_settings_confirm": "Are you sure you want to reset settings?",
-    "reset_settings_warn": "THIS ACTION CAN'T UNDONE!",
-    "reset_settings": "Reset Settings"
+    "reset_guild_settings": "إعادة تعيين '{0}' اعدادات",
+    "reset_settings_confirm": "هل انت متأكد لإعادة تعيين الإعدادات؟ ",
+    "reset_settings_warn": "هذا الإجراء لا يمكن أن يكون غير منتهي!",
+    "reset_settings": "إعادة تعيين الإعدادات"
 }
