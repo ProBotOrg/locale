@@ -438,5 +438,6 @@
     "protection_deleted_auto_role": "**{0} ({1}) odstranil automatickou roli**: {2}.\n**Vykonávání akce...**",
     "protection_limit_exceeded": ":rolling_eyes: - Dnešní limit **#{0}** byl překročen.",
     "protection_limit_name": "{0} překročil limit **{1}**.\n**Vykonává se akce...**",
-    "temp_already_enabled": ":x: **Tato funkce je již povolena, pro její zakázání použijte `{0} off`.**"
+    "temp_already_enabled": ":x: **Tato funkce je již povolena, pro její zakázání použijte `{0} off`.**",
+    "reset_confirm_member": "**Are you sure you want to reset {0}'s points ?**"
 }

@@ -438,5 +438,6 @@
     "protection_deleted_auto_role": "**{0} ({1}) hat die Auto-Rolle gelöscht**: {2}.\n**Aktion wird durchgeführt...**",
     "protection_limit_exceeded": ":rolling_eyes: - **#{0}**'s heutiges Limit wurde überschritten.",
     "protection_limit_name": "{0} hat das **{1}** Limit entschuldigt.\n**Aktion wird ausgeführt...**",
-    "temp_already_enabled": ":x: **This feature already enabled, to disable it use `{0} off`.**"
+    "temp_already_enabled": ":x: **This feature already enabled, to disable it use `{0} off`.**",
+    "reset_confirm_member": "**Are you sure you want to reset {0}'s points ?**"
 }

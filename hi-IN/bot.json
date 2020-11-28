@@ -438,5 +438,6 @@
     "protection_deleted_auto_role": "** {0} ({1}) ne oto bhoomika ko hata diya **: {2}.\n** kaarravaee kee ja rahee hai ... **",
     "protection_limit_exceeded": ":rolling_eyes: - **#{0} ** kee aaj kee seema paar ho gaee hai.",
     "protection_limit_name": "{0} ne **{1}** seema ka bahaana kiya hai.\n** kaarravaee kee ja rahee hai ...**",
-    "temp_already_enabled": ":x: **This feature already enabled, to disable it use `{0} off`.**"
+    "temp_already_enabled": ":x: **yah suvidha pahale se hee saksham hai, ise upayog ko nishkriy karane ke lie`{0} off`.**",
+    "reset_confirm_member": "**kya aap vaakee {0} ke ank reeset karana chaahate hain?**"
 }
