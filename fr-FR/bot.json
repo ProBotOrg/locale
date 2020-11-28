@@ -437,5 +437,6 @@
     "protection_from_bots": "**{0}** a les bots : {1}\n**L'action a été executée :slight_smile: **",
     "protection_deleted_auto_role": "**{0} ({1}) a supprimé le rôle automatique**: {2}.\n**Action en cours d'exécution...**",
     "protection_limit_exceeded": ":rolling_eyes: - La limite quotidienne de **#{0}** a été dépassée.",
-    "protection_limit_name": "{0} a excusé la limite de **{1}**.\n**Action en cours d'exécution...**"
+    "protection_limit_name": "{0} a excusé la limite de **{1}**.\n**Action en cours d'exécution...**",
+    "temp_already_enabled": ":x: **This feature already enabled, to disable it use `{0} off`.**"
 }

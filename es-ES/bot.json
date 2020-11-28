@@ -437,5 +437,6 @@
     "protection_from_bots": "**{0}** tiene bots: {1} \n**Una acción ha sido tomada :slight_smile:**",
     "protection_deleted_auto_role": "**{0} ({1}) eliminó el rol automático**: {2}.\n**Acción en proceso...**",
     "protection_limit_exceeded": ":rolling_eyes: - El límite de hoy de **#{0}** ha sido superado.",
-    "protection_limit_name": "{0} ha excusado el límite de **{1}**.\n**Acción en proceso...**"
+    "protection_limit_name": "{0} ha excusado el límite de **{1}**.\n**Acción en proceso...**",
+    "temp_already_enabled": ":x: **This feature already enabled, to disable it use `{0} off`.**"
 }
