@@ -438,5 +438,6 @@
     "protection_deleted_auto_role": "**{0} ({1}) otomatik rolü sildi**: {2}.\n**İşlem yapılıyor...**",
     "protection_limit_exceeded": ":rolling_eyes: - **#{0}**'ın bugünkü sınırı aşıldı",
     "protection_limit_name": "{0} **{1}** sınırını yerine getirdi.\n**İşlem yapılıyor...**",
-    "temp_already_enabled": ":x: **This feature already enabled, to disable it use `{0} off`.**"
+    "temp_already_enabled": ":x: **This feature already enabled, to disable it use `{0} off`.**",
+    "reset_confirm_member": "**Are you sure you want to reset {0}'s points ?**"
 }
