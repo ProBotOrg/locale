@@ -599,10 +599,10 @@
     "message_anti_raid_start": "Сообщение, которое необходимо отправить, когда начнется рейд.",
     "message_anti_raid_end": "Сообщение, которое необходимо отправить, когда рейд закончится",
     "users_names": "Имена пользователей не упоминая их",
-    "users_mentions": "Mentions the users",
-    "users_amount": "The amount of users",
-    "reset_guild_settings": "Reset '{0}' settings",
-    "reset_settings_confirm": "Are you sure you want to reset settings?",
-    "reset_settings_warn": "THIS ACTION CAN'T UNDONE!",
-    "reset_settings": "Reset Settings"
+    "users_mentions": "Упоминания пользователей",
+    "users_amount": "Количество пользователей",
+    "reset_guild_settings": "Сброс '{0}' настроек",
+    "reset_settings_confirm": "Вы уверены, что хотите сбросить настройки?",
+    "reset_settings_warn": "ЭТО ДЕЙСТВИЕ НЕ МОЖЕТ БЫТЬ ОТМЕНЕНО!",
+    "reset_settings": "Сброс настроек"
 }
