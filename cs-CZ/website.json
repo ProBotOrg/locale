@@ -604,5 +604,5 @@
     "reset_guild_settings": "Obnovit nastavení serveru '{0}'",
     "reset_settings_confirm": "Opravdu chcete obnovit nastavení?",
     "reset_settings_warn": "TATO AKCE JE NEVRATNÁ!",
-    "reset_settings": "Reset Settings"
+    "reset_settings": "Obnovit nastavení"
 }
