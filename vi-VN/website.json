@@ -545,7 +545,7 @@
     "premium_add_prime": "Add Prime Server",
     "premium_add_bot": "Add Premium Bot",
     "premium_payment_amount": "Choose Payment Amount",
-    "premium_ended": "ended",
+    "premium_ended": "đã kết thúc",
     "premium_dont_have_balance": "Oops! you don't have balance to do that,",
     "premium_current_credits_is": "Your current credits is {0}",
     "protection_options": "Protection options:",
