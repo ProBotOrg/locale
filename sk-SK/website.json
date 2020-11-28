@@ -596,13 +596,13 @@
     "1_months": "1 Mesiac",
     "3_months": "3 mesiace",
     "send_message_channel": "Odoslať správu do kanálu",
-    "message_anti_raid_start": "Message to send when a raid starts",
-    "message_anti_raid_end": "Message to send when a raid ends",
-    "users_names": "Users names without mentioning them",
-    "users_mentions": "Mentions the users",
-    "users_amount": "The amount of users",
-    "reset_guild_settings": "Reset '{0}' settings",
-    "reset_settings_confirm": "Are you sure you want to reset settings?",
-    "reset_settings_warn": "THIS ACTION CAN'T UNDONE!",
-    "reset_settings": "Reset Settings"
+    "message_anti_raid_start": "Správa, ktorá sa má odoslať, keď sa začne nájazd",
+    "message_anti_raid_end": "Správa, ktorá sa má odoslať, keď nájazd skončí",
+    "users_names": "Používaťelské mená bez spomenutia",
+    "users_mentions": "Spomenie uživateľov",
+    "users_amount": "Počet užívateľov",
+    "reset_guild_settings": "Obnoviť '{0}' nastavenie",
+    "reset_settings_confirm": "Naozaj chcete obnoviť všetky nastavenia?",
+    "reset_settings_warn": "TÁTO AKCIA SA NEDÁ VRÁTIŤ!",
+    "reset_settings": "Obnoviť nastavenie"
 }
