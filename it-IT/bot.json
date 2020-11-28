@@ -438,5 +438,5 @@
     "protection_deleted_auto_role": "**{0} ({1}) ha cancellato l'autorole**: {2}\n**provvedimenti saranno presi... **",
     "protection_limit_exceeded": ":rolling_eyes: **#{0}** il limite di oggi è stato raggiunto.",
     "protection_limit_name": "{0} ha superato il **{1}** limite\n**Provvedimenti saranno presi...**",
-    "temp_already_enabled": ":x: **This feature already enabled, to disable it use `{0} off`.**"
+    "temp_already_enabled": ":x:  **questa funzione è già abilitata, per disabilitarla utilizza `{0} off`.**"
 }
