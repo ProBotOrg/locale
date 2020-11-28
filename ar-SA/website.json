@@ -602,7 +602,7 @@
     "users_mentions": "منشن المستخدمين",
     "users_amount": "عدد المستخدمين ",
     "reset_guild_settings": "إعادة تعيين '{0}' اعدادات",
-    "reset_settings_confirm": "هل أنت متأكد من رغبتك في اعادة تعيين الإعدادات؟",
+    "reset_settings_confirm": "هل أنت متأكد من رغبتك لإعادة تعيين الإعدادات؟",
     "reset_settings_warn": "لا يمكنك التراجع عن هذا الإجراء!",
     "reset_settings": "إعادة تعيين الإعدادات"
 }
