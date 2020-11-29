@@ -438,6 +438,6 @@
     "protection_deleted_auto_role": "**{0} ({1}) auto-beosztást törölte**: {2}\n\n**Művelet végrehajtása...**",
     "protection_limit_exceeded": ":rolling_eyes: - **#{0}** napi határa túllépve.",
     "protection_limit_name": "{0} feloldotta a **{1}** korlátozást.\n\n**Művelet végrehajtása...**",
-    "temp_already_enabled": ":x: **This feature already enabled, to disable it use `{0} off`.**",
-    "reset_confirm_member": "**Are you sure you want to reset {0}'s points ?**"
+    "temp_already_enabled": ":x: **Ez a funkció már be van kapcsolva. Ha ki szeretnéd kapcsolni, használd a `{0} off` parancsot.**",
+    "reset_confirm_member": "**Biztosan vissza szeretnéd állítani {0} pontjait?**"
 }
