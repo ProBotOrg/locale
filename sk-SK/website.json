@@ -590,6 +590,7 @@
     "no_action": "Žiadna akcia",
     "action_ban": "Ban Každému členovy",
     "action_mute": "Stíšiť každého člena",
+    "blahblah": "Hello world",
     "list_length": "Dĺžka listu",
     "list_time": "Čas na vyplnenie listu",
     "1_weeks": "1 týžden",
@@ -604,5 +605,6 @@
     "reset_guild_settings": "Obnoviť '{0}' nastavenie",
     "reset_settings_confirm": "Naozaj chcete obnoviť všetky nastavenia?",
     "reset_settings_warn": "TÁTO AKCIA SA NEDÁ VRÁTIŤ!",
-    "reset_settings": "Obnoviť nastavenie"
+    "reset_settings": "Obnoviť nastavenie",
+    "only_owner_reset_settings": "Only server owner can reset the settings"
 }
