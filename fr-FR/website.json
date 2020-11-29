@@ -601,8 +601,8 @@
     "users_names": "Noms d'utilisateurs sans les mentionner",
     "users_mentions": "Mentionne les utilisateurs",
     "users_amount": "Le montant d'utilisateurs",
-    "reset_guild_settings": "Reset '{0}' settings",
-    "reset_settings_confirm": "Are you sure you want to reset settings?",
-    "reset_settings_warn": "THIS ACTION CAN'T UNDONE!",
-    "reset_settings": "Reset Settings"
+    "reset_guild_settings": "Réinitialiser '{0}' paramétres",
+    "reset_settings_confirm": "Êtes-vous sûr de vouloir réinitialiser les paramètres ?",
+    "reset_settings_warn": "CETTE ACTION NE PEUT PAS ANNULER!",
+    "reset_settings": "Réinitialiser les paramètres"
 }
