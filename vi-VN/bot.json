@@ -377,7 +377,7 @@
     "Warnings_item_user": "Người dùng: {0}",
     "reset_confirm_text": ":thinking: **Bạn chắc là muốn đặt lại toàn bộ xp tin nhắn?**",
     "reset_confirm_voice": ":thinking: **Bạn chắc là muốn đặt lại toàn bộ xp âm thoại?**",
-    "reset_confirm_invites": ":thinking: **Are you sure you want to reset all invites?**",
+    "reset_confirm_invites": ":thinking: **Bạn chắc là muốn đặt lại toàn bộ lời mời?**",
     "logs_responsible_moderator": "**Responsible Moderator:**",
     "logs_reason": "**Reason:**",
     "logs_channel_created": ":house: **Channel Created: `{0}`**",
