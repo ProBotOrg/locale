@@ -590,6 +590,7 @@
     "no_action": "Brak akcji",
     "action_ban": "Zbanuj każdego członka",
     "action_mute": "Wycisz każdego członka",
+    "blahblah": "Hello world",
     "list_length": "Długość listy",
     "list_time": "Time to fill the list",
     "1_weeks": "1 tydzień",
@@ -604,5 +605,6 @@
     "reset_guild_settings": "Reset '{0}' settings",
     "reset_settings_confirm": "Are you sure you want to reset settings?",
     "reset_settings_warn": "THIS ACTION CAN'T UNDONE!",
-    "reset_settings": "Zresetuj ustawienia"
+    "reset_settings": "Zresetuj ustawienia",
+    "only_owner_reset_settings": "Only server owner can reset the settings"
 }
