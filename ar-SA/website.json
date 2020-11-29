@@ -590,6 +590,7 @@
     "no_action": "بدون إجراء",
     "action_ban": "حظر كل عضو",
     "action_mute": "اسكات كل عضو",
+    "blahblah": "Hello world",
     "list_length": "طول القائمة",
     "list_time": "الوقت اللازم لملء القائمة",
     "1_weeks": "اسبوع واحد",
@@ -604,5 +605,6 @@
     "reset_guild_settings": "إعادة تعيين إعدادات '{0}'",
     "reset_settings_confirm": "هل أنت متأكد من رغبتك لإعادة تعيين الإعدادات؟",
     "reset_settings_warn": "لا يمكنك التراجع عن هذا الإجراء!",
-    "reset_settings": "إعادة تعيين الإعدادات"
+    "reset_settings": "إعادة تعيين الإعدادات",
+    "only_owner_reset_settings": "Only server owner can reset the settings"
 }
