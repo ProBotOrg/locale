@@ -590,6 +590,7 @@
     "no_action": "Без действия",
     "action_ban": "Забанить каждого участника",
     "action_mute": "Заглушить каждого участника",
+    "blahblah": "Hello world",
     "list_length": "Длина списка",
     "list_time": "Время заполнения списка",
     "1_weeks": "1 неделя",
@@ -604,5 +605,6 @@
     "reset_guild_settings": "Сброс '{0}' настроек",
     "reset_settings_confirm": "Вы уверены, что хотите сбросить настройки?",
     "reset_settings_warn": "ЭТО ДЕЙСТВИЕ НЕ МОЖЕТ БЫТЬ ОТМЕНЕНО!",
-    "reset_settings": "Сброс настроек"
+    "reset_settings": "Сброс настроек",
+    "only_owner_reset_settings": "Only server owner can reset the settings"
 }
