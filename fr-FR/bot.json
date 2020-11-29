@@ -439,5 +439,5 @@
     "protection_limit_exceeded": ":rolling_eyes: - La limite quotidienne de **#{0}** a été dépassée.",
     "protection_limit_name": "{0} a excusé la limite de **{1}**.\n**Action en cours d'exécution...**",
     "temp_already_enabled": ":x: **Cette fonctionnalité est déjà activée, pour la désactiver, utilisez `{0} désactivé`.**",
-    "reset_confirm_member": "**Are you sure you want to reset {0}'s points ?**"
+    "reset_confirm_member": "**Êtes-vous sûr de vouloir réinitialiser les points de {0}?**"
 }
