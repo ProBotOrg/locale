@@ -124,7 +124,7 @@
     "vol_description": "Thay đổi/hiển thị âm lượng.",
     "pause_description": "Tạm ngừng bài hát đang chơi.",
     "np_description": "Hiển thị bài hát mà bot đang chơi.",
-    "repeat_description": "Toggles the repeat mode.\n",
+    "repeat_description": "Bật/tắt chế độ lặp.",
     "seek_description": "Tìm một điểm nhất định trong bài hát đang chơi.",
     "restore_description": "Khôi phục bản sao lưu của bạn!",
     "credits_description": "Shows your or someone's balance.",
