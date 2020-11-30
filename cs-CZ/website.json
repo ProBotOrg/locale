@@ -606,5 +606,5 @@
     "reset_settings_confirm": "Opravdu chcete obnovit nastavení?",
     "reset_settings_warn": "TATO AKCE JE NEVRATNÁ!",
     "reset_settings": "Obnovit nastavení",
-    "only_owner_reset_settings": "Only server owner can reset the settings"
+    "only_owner_reset_settings": "Pouze majitel serveru může obnovit nastavení"
 }
