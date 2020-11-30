@@ -438,6 +438,6 @@
     "protection_deleted_auto_role": "**{0} ({1}) đã xóa vai trò tự động**: {2}\n**Đang thực hiện hành động...**",
     "protection_limit_exceeded": ":rolling_eyes: - Đã vượt quá giới hạn hôm nay của **#{0}**.",
     "protection_limit_name": "{0} đã miễn giới hạn cho **{1}**.",
-    "temp_already_enabled": ":x: **This feature already enabled, to disable it use `{0} off`.**",
-    "reset_confirm_member": "**Are you sure you want to reset {0}'s points ?**"
+    "temp_already_enabled": ":x: **Tính năng này đã được kích hoạt, vô hiệu hóa bằng lệnh `{0} off`.**",
+    "reset_confirm_member": "**Bạn chắc là muốn đặt lại điểm của {0}?**"
 }
