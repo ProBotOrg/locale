@@ -90,7 +90,7 @@
     "examples_color": "{0} 15",
     "examples_colors": "{0}",
     "examples_title": "{0} This is a Title",
-    "examples_reset": "{0} text\n{0} voice\n{0} invites",
+    "examples_reset": "{0} text {1}\n{0} voice {1}\n{0} invites all",
     "examples_rep": "{0}\n{0} {1}\n{0} 157605500488384512",
     "examples_daily": "{0}",
     "examples_vip": "{0}\n{0} move 1000\n{0} transfer 1000 {1}\n{0} restart\n{0} avatar http:\/\/i8.ae\/CKNhH\n{0} username SystemBot\n{0} status Hello i am probot",
@@ -438,6 +438,6 @@
     "protection_deleted_auto_role": "** {0} ({1}) قام بحذف الرتبه التلقائيه** : {2}.\n**جاري إتخاد الاجراء اللازم ...** ",
     "protection_limit_exceeded": " - الحد اليومي من **#{0}** تم تجاوزه.  :rolling_eyes:",
     "protection_limit_name": "{0} تخطى الحد المسموح من **{1}** \n** جاري تنفيذ الاجراء ...**",
-    "temp_already_enabled": ":x: **هذه الميزه مفعله بالفعل، لتعطيلها استخدم `{0} off`.**",
-    "reset_confirm_member": "**Are you sure you want to reset {0}'s points ?**"
+    "temp_already_enabled": ":x: **هذه الميزه مفعله بالفعل، لتعطيلها استخدم \n`{0} off`.**",
+    "reset_confirm_member": "**هل انت متأكد من انك تريد إعادة تعيين نقاط {0}؟**"
 }

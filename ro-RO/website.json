@@ -590,6 +590,7 @@
     "no_action": "Nicio acțiune",
     "action_ban": "Interzice fiecare membru",
     "action_mute": "Amuțește fiecare membru",
+    "blahblah": "Hello world",
     "list_length": "Lungime listă",
     "list_time": "Timpul necesar pentru a completa lista",
     "1_weeks": "1 săptămână",
@@ -604,5 +605,6 @@
     "reset_guild_settings": "Resetează setările '{0}'",
     "reset_settings_confirm": "Sunteţi sigur că doriţi să resetaţi setările?",
     "reset_settings_warn": "ACEASTĂ ACȚIUNE ESTE IREVERSIBILĂ!",
-    "reset_settings": "Resetează setările"
+    "reset_settings": "Resetează setările",
+    "only_owner_reset_settings": "Only server owner can reset the settings"
 }

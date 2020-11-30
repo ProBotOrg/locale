@@ -590,6 +590,7 @@
     "no_action": "Žádná akce",
     "action_ban": "Zabanovat každého člena",
     "action_mute": "Umlčet každého člena",
+    "blahblah": "Ahoj světe",
     "list_length": "Délka seznamu",
     "list_time": "Čas k zaplnění seznamu",
     "1_weeks": "1 týden",
@@ -604,5 +605,6 @@
     "reset_guild_settings": "Obnovit nastavení serveru '{0}'",
     "reset_settings_confirm": "Opravdu chcete obnovit nastavení?",
     "reset_settings_warn": "TATO AKCE JE NEVRATNÁ!",
-    "reset_settings": "Obnovit nastavení"
+    "reset_settings": "Obnovit nastavení",
+    "only_owner_reset_settings": "Pouze majitel serveru může obnovit nastavení"
 }

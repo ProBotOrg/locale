@@ -40,7 +40,7 @@
     "color_description": "Changes roles' color.",
     "colors_description": "Lists you all the available colors.",
     "title_description": "Changes your title in the #profile command.",
-    "reset_description": "Reset text\/voice\/invites xp points for all members.",
+    "reset_description": "Reset text\/voice\/invites xp points for all members or specific members",
     "rep_description": "Award someone a reputation point. Can only be used once every 24 hours.",
     "daily_description": "Get your daily salary.",
     "vip_description": "Displays info about your premium bot.",
@@ -140,7 +140,7 @@
     "usage_color": "{0} (color's number)",
     "usage_colors": "{0}",
     "usage_title": "{0}\n{0} (new title)",
-    "usage_reset": "{0} (text \/ voice \/ invites)",
+    "usage_reset": "{0} (text \/ voice \/ invites) (all \/ user)",
     "usage_rep": "{0} (user)",
     "usage_daily": "{0}",
     "usage_vip": "{0}\n{0} move (bot's number) \n{0} transfer (bot's number) (user)\n{0} restart \n{0} avatar (avatar link)\n{0} username (new name)\n{0} status (new status)",
@@ -439,5 +439,5 @@
     "protection_limit_exceeded": ":rolling_eyes: - **#{0}**'s today limit has been exceeded.",
     "protection_limit_name": "{0} has excused the **{1}** limit.\n**Action being taken...**",
     "temp_already_enabled": ":x: **This feature already enabled, to disable it use `{0} off`.**",
-    "reset_confirm_member": "**Are you sure you want to reset {0}'s points ?**"
+    "reset_confirm_member": "**Are you sure you want to reset {0}'s points?**"
 }

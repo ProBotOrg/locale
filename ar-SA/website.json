@@ -33,7 +33,7 @@
     "examples_credits": "{0}\n{0} @ZEUS\n{0} @ZEUS 15000",
     "examples_color": "{0} 15",
     "examples_title": "{0} العنوان",
-    "examples_reset": "{0} text\n{0} voice\n{0} invites",
+    "examples_reset": "{0} text {1}\n{0} voice {1}\n{0} invites all",
     "examples_rep": "{0}\n{0} @Dramex\n{0} 157605500488384512",
     "examples_vip": "{0}\n{0} move 1000\n{0} transfer 1000 @Dramex\n{0} restart\n{0} avatar AvatarLink\n{0} username SystemBot\n{0} status SystemBot",
     "examples_temp": "{0} on\n{0} off\n{0} time 5\n{0} max 1",
@@ -590,6 +590,7 @@
     "no_action": "بدون إجراء",
     "action_ban": "حظر كل عضو",
     "action_mute": "اسكات كل عضو",
+    "blahblah": "مرحبا بالعالم",
     "list_length": "طول القائمة",
     "list_time": "الوقت اللازم لملء القائمة",
     "1_weeks": "اسبوع واحد",
@@ -604,5 +605,6 @@
     "reset_guild_settings": "إعادة تعيين إعدادات '{0}'",
     "reset_settings_confirm": "هل أنت متأكد من رغبتك لإعادة تعيين الإعدادات؟",
     "reset_settings_warn": "لا يمكنك التراجع عن هذا الإجراء!",
-    "reset_settings": "إعادة تعيين الإعدادات"
+    "reset_settings": "إعادة تعيين الإعدادات",
+    "only_owner_reset_settings": "يمكن لصاحب السيرفر فقط إعادة تعيين الإعدادات"
 }
