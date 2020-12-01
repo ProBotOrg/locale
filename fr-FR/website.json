@@ -590,7 +590,7 @@
     "no_action": "Aucune action",
     "action_ban": "Bannir chacun membre",
     "action_mute": "Muet chacun membre",
-    "blahblah": "Hello world",
+    "blahblah": "Bonjour le monde",
     "list_length": "Longueur de la liste",
     "list_time": "Temps de remplir la liste",
     "1_weeks": "1 Semaine",
@@ -606,5 +606,5 @@
     "reset_settings_confirm": "Êtes-vous sûr de vouloir réinitialiser les paramètres ?",
     "reset_settings_warn": "CETTE ACTION NE PEUT PAS ANNULER!",
     "reset_settings": "Réinitialiser les paramètres",
-    "only_owner_reset_settings": "Only server owner can reset the settings"
+    "only_owner_reset_settings": "Seul le propriétaire du serveur peut réinitialiser les paramètres"
 }
