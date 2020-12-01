@@ -603,7 +603,7 @@
     "users_mentions": "Mentions the users",
     "users_amount": "The amount of users",
     "reset_guild_settings": "Reset '{0}' settings",
-    "reset_settings_confirm": "Are you sure you want to reset settings?",
+    "reset_settings_confirm": "Ayarları sıfırlamak istediğinizden emin misiniz?",
     "reset_settings_warn": "BU EYLEM GERİ ALINAMAZ!",
     "reset_settings": "Ayarları sıfırla",
     "only_owner_reset_settings": "Sadece sunucu sahibi ayarları sıfırlayabilir"
