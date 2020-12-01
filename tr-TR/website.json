@@ -576,7 +576,7 @@
     "welcomer_variable_username": "Etiketlemeden yeni üyenin ismi",
     "welcomer_variable_inviter": "Davet eden kişiyi etiketler",
     "welcomer_variable_invitername": "Etiketlemeden davet eden kişinin ismi",
-    "welcomer_variable_membercount": "Amount of members reached",
+    "welcomer_variable_membercount": "Üye sayısına ulaşıldı.",
     "welcomer_variable_server": "Sunucu İsmi",
     "login_required": "Bu içeriği görüntüleyebilmek için giriş yapmalısınız!",
     "login_using_discord": "Discord kullanarak giriş yap",
@@ -604,7 +604,7 @@
     "users_amount": "The amount of users",
     "reset_guild_settings": "Reset '{0}' settings",
     "reset_settings_confirm": "Are you sure you want to reset settings?",
-    "reset_settings_warn": "THIS ACTION CAN'T UNDONE!",
-    "reset_settings": "Reset Settings",
+    "reset_settings_warn": "BU EYLEM GERİ ALINAMAZ!",
+    "reset_settings": "Ayarları sıfırla",
     "only_owner_reset_settings": "Sadece sunucu sahibi ayarları sıfırlayabilir"
 }
