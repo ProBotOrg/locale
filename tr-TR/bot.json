@@ -265,7 +265,7 @@
     "vip_confirm_description": "** :innocent: Lütfen `confirm` yaz. **",
     "vip_send_dm_description": "**:rolling_eyes: - Lütfen botun DM göndermesine izin verin.**",
     "vip_previous_transfer_description": "**:rolling_eyes: - Daha önceden bir transfer isteği var, DM'inize yeni bir bağlantı linki gönderildi **",
-    "vip_transfer_link_description": "**: white_check_mark: Bağlantının 10 dakika içinde sona erdiğini ve bağlantıyı tekrar istemeniz gerektiğini bilerek botu DM üzerinden size gönderilen bağlantı aracılığıyla aktarabilirsiniz. **",
+    "vip_transfer_link_description": "**:white_check_mark: Bağlantının 10 dakika içinde sona erdiğini ve bağlantıyı tekrar istemeniz gerektiğini bilerek botu DM üzerinden size gönderilen bağlantı aracılığıyla aktarabilirsiniz. **",
     "vip_link_expired_description": "Link'in kullanım tarihi sona erdi",
     "vip_must_ownership_description": "**:rolling_eyes: - Botun sahibi olmalısınız.**",
     "vip_owner_only_description": "Sadece sunucu sahibi~",
