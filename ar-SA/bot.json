@@ -140,7 +140,7 @@
     "usage_color": "{0} (رقم اللون)",
     "usage_colors": "{0}",
     "usage_title": "{0}\n{0} (العنوان الجديد)",
-    "usage_reset": "{0} (text \/ voice \/ invites)\n",
+    "usage_reset": "{0} (text\/voice \/invites) (all\/@user)\n",
     "usage_rep": "{0} (العضو)",
     "usage_daily": "{0}",
     "usage_vip": "{0}\n{0} move (رقم البوت)\n{0} transfer (رقم البوت) (العضو)\n{0} restart\n{0} avatar (رابط الصورة)\n{0} username (الاسم الجديد)\n{0} status (الحالة الجديدة)",

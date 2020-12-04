@@ -603,7 +603,7 @@
     "users_mentions": "منشن الاعضاء",
     "users_amount": "عدد الاعضاء",
     "reset_guild_settings": "إعادة تعيين إعدادات '{0}'",
-    "reset_settings_confirm": "هل أنت متأكد من رغبتك لإعادة تعيين الإعدادات؟",
+    "reset_settings_confirm": "هل أنت متأكد من رغبتك في اعادة تعيين الإعدادات؟",
     "reset_settings_warn": "لا يمكنك التراجع عن هذا الإجراء!",
     "reset_settings": "إعادة تعيين الإعدادات",
     "only_owner_reset_settings": "يمكن لصاحب السيرفر فقط إعادة تعيين الإعدادات"
