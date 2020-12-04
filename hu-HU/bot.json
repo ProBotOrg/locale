@@ -439,5 +439,6 @@
     "protection_limit_exceeded": ":rolling_eyes: - **#{0}** napi határa túllépve.",
     "protection_limit_name": "{0} feloldotta a **{1}** korlátozást.\n\n**Művelet végrehajtása...**",
     "temp_already_enabled": ":x: **Ez a funkció már be van kapcsolva. Ha ki szeretnéd kapcsolni, használd a `{0} off` parancsot.**",
-    "reset_confirm_member": "**Biztosan vissza szeretnéd állítani {0} pontjait?**"
+    "reset_confirm_member": "**Biztosan vissza szeretnéd állítani {0} pontjait?**",
+    "role_error_managed": ":rolling_eyes: - **{0}** is managed by integration and can't be given."
 }
