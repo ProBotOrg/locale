@@ -439,5 +439,6 @@
     "protection_limit_exceeded": ":rolling_eyes: - Đã vượt quá giới hạn hôm nay của **#{0}**.",
     "protection_limit_name": "{0} đã miễn giới hạn cho **{1}**.",
     "temp_already_enabled": ":x: **Tính năng này đã được kích hoạt, vô hiệu hóa bằng lệnh `{0} off`.**",
-    "reset_confirm_member": "**Bạn chắc là muốn đặt lại điểm của {0}?**"
+    "reset_confirm_member": "**Bạn chắc là muốn đặt lại điểm của {0}?**",
+    "role_error_managed": ":rolling_eyes: - **{0}** is managed by integration and can't be given."
 }
