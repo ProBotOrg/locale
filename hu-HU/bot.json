@@ -299,7 +299,7 @@
     "top_only_premium": "Teljesítményi okok miatt, ez a parancs egyenlőre prémiumoknak van csak.",
     "top_error": ":rolling_eyes: - **Hiba oldalszám ** ettől: {0}  eddig: {1}",
     "top_cant_find_list": "Legjobbak listája nem található",
-    "top_leaderboards": "📋 Céh Ranglista",
+    "top_leaderboards": "📋 Szerver Ranglista",
     "top_5text": "**5 LEGJOBB SZÖVEG :speech_balloon:**",
     "top_text_score": ":speech_balloon: SZÖVEG PONTOK",
     "top_5voice": "**5 LEGJOBB HANG :microphone2:**",
@@ -440,5 +440,5 @@
     "protection_limit_name": "{0} feloldotta a **{1}** korlátozást.\n\n**Művelet végrehajtása...**",
     "temp_already_enabled": ":x: **Ez a funkció már be van kapcsolva. Ha ki szeretnéd kapcsolni, használd a `{0} off` parancsot.**",
     "reset_confirm_member": "**Biztosan vissza szeretnéd állítani {0} pontjait?**",
-    "role_error_managed": ":rolling_eyes: - **{0}** is managed by integration and can't be given."
+    "role_error_managed": ":rolling_eyes: - **{0}** integrációval kezeli, és nem adható meg."
 }
