@@ -439,5 +439,6 @@
     "protection_limit_exceeded": ":rolling_eyes: - **#{0}** dnešný limit bol prekročený.",
     "protection_limit_name": "{0} ospravedlnil limit **{1}**.\n**Prijaté opatrenia ...**",
     "temp_already_enabled": ":x: **Táto vlastnosť už je zapnutá, pre jej vypnutie použite`{0} off`.**",
-    "reset_confirm_member": "**Ste si istý, že chcete vynulovať {0}'s points ?**"
+    "reset_confirm_member": "**Ste si istý, že chcete vynulovať {0}'s points ?**",
+    "role_error_managed": ":rolling_eyes: - **{0}** is managed by integration and can't be given."
 }
