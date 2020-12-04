@@ -439,5 +439,6 @@
     "protection_limit_exceeded": ":rolling_eyes: - **#{0}**'ın bugünkü sınırı aşıldı",
     "protection_limit_name": "{0} **{1}** sınırını yerine getirdi.\n**İşlem yapılıyor...**",
     "temp_already_enabled": ":x: **Bu özellik zaten aktif, devre dışı bırakmak için `{0} off` kullanın.**",
-    "reset_confirm_member": "**{0}'ın puanlarını sıfırlamak istediğinden emin misin?**"
+    "reset_confirm_member": "**{0}'ın puanlarını sıfırlamak istediğinden emin misin?**",
+    "role_error_managed": ":rolling_eyes: - **{0}** is managed by integration and can't be given."
 }
