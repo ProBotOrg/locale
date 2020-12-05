@@ -5,7 +5,7 @@
     "clear_description": "Dọn dẹp tin nhắn từ kênh nào đó.",
     "moveme_description": "Chuyển bạn đến một kênh thoại.",
     "profile_description": "Xem hồ sơ cá nhân tùy chỉnh của bạn hoặc ai đó.",
-    "top_description": "Xem thành viên có số điểm hoặc kinh nghiệm toàn cầu cao nhất.\n",
+    "top_description": "Xem thành viên có số điểm hoặc kinh nghiệm toàn cầu cao nhất.",
     "user_description": "Hiển thị thông tin như ID và ngày tham gia, thông tin về bạn hoặc ai đó.",
     "avatar_description": "Lấy ảnh hồ sơ của người dùng nào đó.",
     "server_description": "Hiển thị thông tin của máy chủ nào đó.",
@@ -440,5 +440,5 @@
     "protection_limit_name": "{0} đã miễn giới hạn cho **{1}**.",
     "temp_already_enabled": ":x: **Tính năng này đã được kích hoạt, vô hiệu hóa bằng lệnh `{0} off`.**",
     "reset_confirm_member": "**Bạn chắc là muốn đặt lại điểm của {0}?**",
-    "role_error_managed": ":rolling_eyes: - **{0}** is managed by integration and can't be given."
+    "role_error_managed": ":rolling_eyes: - **{0}** được quản lí một cách hội nhập và không thể được cho."
 }
