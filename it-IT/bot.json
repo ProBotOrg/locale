@@ -440,5 +440,5 @@
     "protection_limit_name": "{0} ha superato il **{1}** limite\n**Provvedimenti saranno presi...**",
     "temp_already_enabled": ":x:  **questa funzione è già abilitata, per disabilitarla utilizza `{0} off`.**",
     "reset_confirm_member": "**Sei sicuro di voler resettare {0} punti?**",
-    "role_error_managed": ":rolling_eyes: - **{0}** is managed by integration and can't be given."
+    "role_error_managed": ":rolling_eyes: - **{0}** è gestito da integrazione e non può essere assegnato."
 }
