@@ -20,7 +20,7 @@
     "unvmute_description": "Unmutes a member from voice channels.",
     "move_description": "Moves a member to a voice channel.",
     "role_description": "Add\/remove a user to a role or roles.",
-    "warn_description": "Warns a member.",
+    "warn_description": "اخطار به کاربر",
     "setcolor_description": "Changes roles' colors by hex codes.",
     "warnings_description": "Get warnings for the server or user.",
     "setnick_description": "Changes the nickname of a member.",
