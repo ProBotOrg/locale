@@ -382,7 +382,7 @@
     "logs_reason": "**Sebep:**",
     "logs_channel_created": ":house: **Kanal Oluşturuldu: `{0}`**",
     "logs_channel_deleted": ":house: **Kanal Silindi: `{0}`**",
-    "logs_channel_updated": ":house: **Kanal Güncellendi: `{0}`*",
+    "logs_channel_updated": ":house: **Kanal Güncellendi: `{0}`**",
     "logs_channel_permissions_updated": ":house: **Kanal İzinleri Güncellendi: `{0}`**",
     "logs_banned_from_server": ":airplane: **{0} sunucudan yasaklandı.**",
     "logs_unbanned": ":airplane_arriving: **{0}'ın yasağı kaldırıldı.**",
@@ -440,5 +440,5 @@
     "protection_limit_name": "{0} **{1}** sınırını yerine getirdi.\n**İşlem yapılıyor...**",
     "temp_already_enabled": ":x: **Bu özellik zaten aktif, devre dışı bırakmak için `{0} off` kullanın.**",
     "reset_confirm_member": "**{0}'ın puanlarını sıfırlamak istediğinden emin misin?**",
-    "role_error_managed": ":rolling_eyes: {0}, entegrasyonla yönetilir ve verilemez."
+    "role_error_managed": ":rolling_eyes: **{0}** entegrasyonla yönetilir ve verilemez."
 }
