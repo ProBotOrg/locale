@@ -549,7 +549,7 @@
     "premium_dont_have_balance": "Ups! Bu işlemi gerçekleştirmek için yeterli bakiyeniz yok",
     "premium_current_credits_is": "Mevcut bakiyeniz {0}",
     "protection_options": "Koruma seçenekleri:",
-    "protection_delete_limits": "Silme Limitleri {0}",
+    "protection_delete_limits": "Silme {0} Limitleri",
     "music_dj_roles": "DJ ROLLERİ",
     "both_voice_and_text": "Hem Ses Hem Yazı",
     "whitelist_urls": "BEYAZ LİSTE URLLERİ",
