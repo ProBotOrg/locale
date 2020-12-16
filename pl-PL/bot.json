@@ -299,7 +299,7 @@
     "top_only_premium": "Ze względu na wydajność to polecenie jest obecnie dostępne tylko dla premium.",
     "top_error": ":rolling_eyes: - **Błędny numer strony: ** {0} z {1} ",
     "top_cant_find_list": "Nie można znaleźć TOP listy",
-    "top_leaderboards": "📋 Tabele wyników serwera",
+    "top_leaderboards": "📋 Tablica wyników serwera",
     "top_5text": "**TOP 5 - Kanały tekstowe :speech_balloon:**",
     "top_text_score": ":speech_balloon: WYNIKI - TEKST.",
     "top_5voice": "**TOP 5 - Kanały głosowe :microphone2:**",
@@ -311,7 +311,7 @@
     "points_done_reset": ":sparkles: **Wszystkie punkty zostały pomyślnie zresetowane.**",
     "points_valid_number": ":rolling_eyes: - **Użyj poprawnej liczby.**",
     "points_target_user": ":sparkles: Punkty **{0}**': **{1}**",
-    "points_new": ":sparkles: **{0}** otrzymał **{1}** pkt .",
+    "points_new": ":sparkles: **{0}** otrzymał **{1}** pkt.",
     "move_not_in_voice": ":rolling_eyes: - ** Nie jesteś na kanale głosowym! **",
     "move_being_moved": ":white_check_mark: ** Wszyscy członkowie zostali przeniesieni!**",
     "move_more_specific": ":rolling_eyes: -  **Sprecyzuj** ```{0} ```",
@@ -355,7 +355,7 @@
     "music_include_query": ":no_entry_sign: Podaj zapytanie.",
     "music_under_maintenance2": "Muzyka jest w trakcie konserwacji, skontaktuj się z nami na serwerze wsparcia.",
     "music_not_found": ":mag: **Nie znaleziono. **",
-    "music_new_songs": ":fire: **{0}** Utwory z `{1}` zostały dodane do **ProQueue**!",
+    "music_new_songs": ":fire: **{0}** utwory z playlisty `{1}` zostały dodane do **ProQueue**!",
     "music_added_to": ":notes: Dodano do **ProQueue** [ **{0}** ] (`{1}`)!",
     "music_Resumed": ":notes: Wznowienie muzyki **{0}**.",
     "music_must_be": ":no_entry_sign: Musi być odtwarzana muzyka!",
@@ -438,6 +438,7 @@
     "protection_deleted_auto_role": "**{0} ({1}) usunął auto rolę**: {2}.\n**Podejmowane działania...**",
     "protection_limit_exceeded": ":rolling_eyes: - **Dzisiejszy limit **#{0}** został przekroczony.",
     "protection_limit_name": "{0} usprawiedliwił limit **{1}**.\n**Podejmowane działania...**",
-    "temp_already_enabled": ":x: **This feature already enabled, to disable it use `{0} off`.**",
-    "reset_confirm_member": "**Are you sure you want to reset {0}'s points ?**"
+    "temp_already_enabled": ":x: **Ta funkcja jest już włączona, aby ją wyłączyć, użyj`{0} off`.**",
+    "reset_confirm_member": "**Czy na pewno chcesz zresetować punkty {0}?**",
+    "role_error_managed": ":rolling_eyes: - **{0}** jest zarządzany przez integrację i nie można go podać."
 }
