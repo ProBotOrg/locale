@@ -590,7 +590,7 @@
     "no_action": "koee kaarravaee nahin",
     "action_ban": "pratyek sadasy ko pratibandhit karen",
     "action_mute": "pratyek sadasy ko myoot karen",
-    "blahblah": "Hello world",
+    "blahblah": "namaste duniya",
     "list_length": "soochee kee lambaee",
     "list_time": "soochee bharane ka samay",
     "1_weeks": "1 saptaah",
@@ -606,5 +606,5 @@
     "reset_settings_confirm": "kya aap vaakee setting reset karana chaahate hain?",
     "reset_settings_warn": "is kaarravaee ko nahin kiya ja sakata hai!",
     "reset_settings": "settings ko dubaara karen",
-    "only_owner_reset_settings": "Only server owner can reset the settings"
+    "only_owner_reset_settings": "keval server svaamee hee setings ko reset kar sakata hai"
 }
