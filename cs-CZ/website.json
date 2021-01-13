@@ -504,9 +504,9 @@
     "leveling_actions": "Akce",
     "leveling_current_channel": "Aktuální kanál",
     "leveling_disabled": "Zakázáno",
-    "leveling_no_xp_roles": "Žádné XP role",
+    "leveling_no_xp_roles": "Role bez XP",
     "leveling_default_levelup": "[user], dosáhl jsi **úrovně [level]!** 🥳",
-    "leveling_no_xp_channels": "Žádné XP kanály",
+    "leveling_no_xp_channels": "Kanály bez XP",
     "leveling_note": "* Pro zabránění spamování dostanou uživatelé každou minutu chatování náhodné množství XP",
     "leveling_variables": "[level] - pro zobrazení současné úrovně\n[oldLevel] - pro zobrazení staré úrovně\n[user] - pro označení uživatele\n[userName] - pro zobrazení uživatelského jména\n[userTag] - pro zobrazení tagu uživatele",
     "leveling_add_role_reward": "Přidat odměnu (role)",
@@ -606,5 +606,14 @@
     "reset_settings_confirm": "Opravdu chcete obnovit nastavení?",
     "reset_settings_warn": "TATO AKCE JE NEVRATNÁ!",
     "reset_settings": "Obnovit nastavení",
-    "only_owner_reset_settings": "Pouze majitel serveru může obnovit nastavení"
+    "only_owner_reset_settings": "Pouze majitel serveru může obnovit nastavení",
+    "add_message": "Add Message",
+    "reaction_roles": "Reaction Roles",
+    "rr_message": "Message",
+    "rr_choose": "Choose...",
+    "rr_type": "Type",
+    "rr_toggle": "Toggle",
+    "rr_only_gives": "Only Gives",
+    "rr_only_remove": "Only Remove",
+    "rr_emoji": "Emoji reaction"
 }
