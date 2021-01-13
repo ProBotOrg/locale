@@ -606,5 +606,14 @@
     "reset_settings_confirm": "kya aap vaakee setting reset karana chaahate hain?",
     "reset_settings_warn": "is kaarravaee ko nahin kiya ja sakata hai!",
     "reset_settings": "settings ko dubaara karen",
-    "only_owner_reset_settings": "keval server svaamee hee setings ko reset kar sakata hai"
+    "only_owner_reset_settings": "keval server svaamee hee setings ko reset kar sakata hai",
+    "add_message": "Add Message",
+    "reaction_roles": "Reaction Roles",
+    "rr_message": "Message",
+    "rr_choose": "Choose...",
+    "rr_type": "Type",
+    "rr_toggle": "Toggle",
+    "rr_only_gives": "Only Gives",
+    "rr_only_remove": "Only Remove",
+    "rr_emoji": "Emoji reaction"
 }
