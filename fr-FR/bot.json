@@ -356,7 +356,7 @@
     "music_under_maintenance2": "La musique est en maintenance, merci de nous contacter sur le serveur de support.",
     "music_not_found": ":mag: **Je n'ai pas trouvé. **",
     "music_new_songs": ":fire: **{0}** Morceaux de `{1}` Ajouté à la **ProQueue**!\n",
-    "music_added_to": ":notes: **{0}** ajouté à la **ProQueue** (`{1}`)!",
+    "music_added_to": ":notes: **{0}** Ajoutée à la **ProQueue** (`{1}`)!",
     "music_Resumed": ":notes:  Reprise de **{0}** .",
     "music_must_be": ":no_entry_sign: Il doit y avoir de la musique en cours pour utiliser cela !",
     "music_player_paused": ":bulb: Le lecteur est déjà en pause ! Utilisez `#play` pour reprendre !",
