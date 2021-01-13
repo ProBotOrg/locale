@@ -286,7 +286,7 @@
     "credits_bots": ":thinking: | **{0}**, boty nie posiadają salda!",
     "credits_need_transfer": "** :interrobang: | {0}, wpisz kwotę, którą chcesz przelać!**",
     "credits_transfer_fees": "** {0}, Opłaty za transfer : `{1}`, Ilość :`${2}`\n** wpisz te liczby, aby potwierdzić:",
-    "profile_robot": ":robot: **| {0}**, boty nie mają rang!",
+    "profile_robot": ":robot: **| {0}**, boty nie posiadają rang!",
     "profile_cant_find": ":mag: **| {0}**, nie można znaleźć użytkownika.",
     "short_url": "Proszę podać adres URL",
     "title_long": ":rolling_eyes: - **Tytuł jest za długi.**",
