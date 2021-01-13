@@ -286,7 +286,7 @@
     "credits_bots": ":thinking:  | **{0}**, a botoknak nincs pénzük!",
     "credits_need_transfer": "** :interrobang: |  {0}, írd be az összeget amit át kéne utalnod!**",
     "credits_transfer_fees": "** {0} , Átutalási díj: `{1}`, mennyiség : `${2}` \n\n ** ird ezeket a számokat a megerősítéshez :",
-    "profile_robot": ":robot: ** |{0}**, a botoknak nincsen rangjuk!",
+    "profile_robot": ":robot: ** |{0}**, a botoknak nincsen beosztásuk!",
     "profile_cant_find": ":mag: **|  {0}**, a felhasználó nem található.",
     "short_url": "Kérlek írj be egy URl-t",
     "title_long": ":rolling_eyes: - **cím túl hosszú.**",
