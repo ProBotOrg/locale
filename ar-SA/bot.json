@@ -1,444 +1,0 @@
-{
-    "rank_description": "إظهار بطاقة الترتيب (الرانك) الخاصة بك او بشخص اخر بالسيرفر",
-    "examples_rank": "{0} {1}",
-    "usage_rank": "{0}\n{0} (العضو)",
-    "clear_description": "تنظيف رسائل الشات.",
-    "moveme_description": "ينقلك إلى روم صوتي.",
-    "profile_description": "عرض بطاقة التعريف الشخصية العامة المخصصة لك أو لشخص آخر.",
-    "top_description": "عرض الأعضاء الذين لديهم أكثر نقاط في السيرفر.",
-    "user_description": "يعرض معلومات، مثل تاريخ دخول السيرفر وتاريخ التسجيل في الديسكورد عنك او عن مستخدم آخر.",
-    "avatar_description": "الحصول على الصورة الرمزية للمستخدمين.",
-    "server_description": "يظهر معلومات حول السيرفر.",
-    "roles_description": "احصل على قائمة برولات السيرفر وعدد الأعضاء.",
-    "ban_description": "حظر العضو.",
-    "unban_description": "إزالة الحظر عن عضو.",
-    "kick_description": "طرد العضو.",
-    "vkick_description": "طرد العضو من الروم الصوتي.",
-    "mute_description": "منع أحد الأعضاء من الكتابة في الرومات الكتابية.",
-    "unmute_description": "الغاء منع كتابي من عضو.",
-    "vmute_description": "منع أحد الأعضاء من التحدث في الرومات الصوتية.",
-    "unvmute_description": "فك الكتم الصوتي من العضو",
-    "move_description": "نقل عضو إلى روم صوتي.",
-    "role_description": "إضافة او إزالة مستخدم من رول.",
-    "warn_description": "تحذير العضو.",
-    "setcolor_description": "تغيير لون رول عن طريق الـHex Code.",
-    "warnings_description": "الحصول على انذارات العضو.",
-    "setnick_description": "تغيير لقب العضو.",
-    "play_description": "أضف أغنية لقائمة الانتظار وتشغيلها.",
-    "skip_description": "تخطي المقطع الحالي.",
-    "search_description": "يبحث في يوتيوب عن نتائج لتشغيل احدها.",
-    "queue_description": "اعرض قائمة الانتظار للمقاطع الحالية في قائمة التشغيل.",
-    "stop_description": "ايقاف الأغنية الحالية ومسح قائمة انتظار الموسيقى بأكملها.",
-    "vol_description": "يغير \/ يعرض حجم الصوت الحالي.",
-    "pause_description": "إيقاف المقطع الذي يتم تشغيلة حاليًا.",
-    "np_description": "يوضح المقطع الذي يتم تشغيله حاليًا.",
-    "repeat_description": "تفعيل \/ إلغاء وضع التكرار.",
-    "seek_description": "يتخطى إلى وقت معين في المقطع.",
-    "restore_description": "إستعادة نسختك الإحتياطية!",
-    "credits_description": "تحويل رصيد لشخص ما او اظهار رصيدك أو رصيد شخص آخر.",
-    "support_description": "احصل على رابط دعوة سيرفر الدعم.",
-    "color_description": "لتغيير لونك بالسيرفر.",
-    "colors_description": "يسرد لك كل الألوان المتاحة.",
-    "title_description": "يغير عنوانك في الأمر #profile.",
-    "reset_description": "اعادة تعيين النقاط الكتابيه\/الصوتية\/الانفايت من جميع الاعضاء.",
-    "rep_description": "منح شخص نقطة سمعة. يمكن استخدامها مرة واحدة فقط كل 24 ساعة.",
-    "daily_description": "الحصول على راتبك اليومي.",
-    "vip_description": "يعرض معلومات حول بوت البرميوم.",
-    "ping_description": "اختبار وقت استجابة البوت.",
-    "temp_description": "الرومات المؤقتة.",
-    "deletebackup_description": "حذف النسخة الإحتياطية.",
-    "short_description": "اختصار رابط.",
-    "roll_description": "رمي حجر نرد.",
-    "points_description": "النقاط التي يمكن أن تُعطى من قبل المشرفين.",
-    "examples_clear": "{0} 1000\n{0} bots 10\n{0} {1} 10",
-    "examples_moveme": "{0} general",
-    "examples_profile": "{0}\n{0} {1}\n{0} 157605500488384512",
-    "examples_top": "{0} day\n{0} week\n{0} month\n{0} text day \n{0} voice week 2\n{0} invites",
-    "examples_user": "{0}\n{0} {1}\n{0} 157605500488384512",
-    "examples_avatar": "{0}\n{0} server\n{0} {1}\n{0} 157605500488384512",
-    "examples_server": "{0}",
-    "examples_roles": "{0}",
-    "examples_ban": "{0} {1}\n{0} {1} سبام\n{0} {1} 1h سبام\n{0} {1} 1d سبام\n{0} {1} 1w ",
-    "examples_vkick": "{0} {1}",
-    "examples_unban": "{0} {1}\n{0} 157605500488384512",
-    "examples_kick": "{0} {1}\n{0} 157605500488384512",
-    "examples_move": "{0} {1}\n{0} {1} {2}\n{0} {1} General\n{0} all",
-    "examples_lock": "{0}\n{0} 664942006245654532",
-    "examples_unlock": "{0}\n{0} general",
-    "examples_mute": "{0} {1} 1m سبام\n{0} {1} 1h\n{0} {1} 1d\n{0} {1} 1mo\n{0} {1} 1y",
-    "examples_vmute": "{0} {1} 1m إزعاج\n{0} {1} 1h\n{0} {1} 1d\n{0} {1} 1mo\n{0} {1} 1y",
-    "examples_unmute": "{0} {1}\n{0} 157605500488384512",
-    "examples_unvmute": "{0} {1}\n{0} 157605500488384512",
-    "examples_role": "{0} {1} Admin\n{0} all members\n{0} bots System\n{0} humans members",
-    "examples_warn": "{0} {1}\n{0} {1} سبام ",
-    "examples_setcolor": "{0} members #000001",
-    "examples_warnings": "{0}\n{0} {1}",
-    "examples_setnick": "{0} {1} \n{0} {1} درامكس",
-    "examples_play": "{0} Havana\n{0} https:\/\/www.youtube.com\/watch?v=HCjNJDNzw8Y",
-    "examples_skip": "{0}",
-    "examples_search": "{0} Havana",
-    "examples_queue": "{0}",
-    "examples_stop": "{0}",
-    "examples_vol": "{0}\n{0} 100",
-    "examples_pause": "{0}",
-    "examples_np": "{0}",
-    "examples_repeat": "{0}",
-    "examples_seek": "{0} 11:00",
-    "examples_restore": "{0} ZeusCode",
-    "examples_credits": "{0}\n{0} {1}\n{0} {1} 15000",
-    "examples_support": "{0}",
-    "examples_color": "{0} 15",
-    "examples_colors": "{0}",
-    "examples_title": "{0} This is a Title",
-    "examples_reset": "{0} text {1}\n{0} voice {1}\n{0} invites all",
-    "examples_rep": "{0}\n{0} {1}\n{0} 157605500488384512",
-    "examples_daily": "{0}",
-    "examples_vip": "{0}\n{0} move 1000\n{0} transfer 1000 {1}\n{0} restart\n{0} avatar http:\/\/i8.ae\/CKNhH\n{0} username SystemBot\n{0} status Hello i am probot",
-    "examples_ping": "{0}",
-    "examples_temp": "{0} on\n{0} off\n{0} time 5\n{0} max 1",
-    "examples_deletebackup": "{0} ZeusCode",
-    "examples_short": "{0} https:\/\/probot.io\/This-is-A-very-Long-Link-lol",
-    "examples_roll": "{0}\n{0} 100",
-    "examples_points": "{0} {1} 1\n{0} {1} +1 \n{0} {1} -1\n{0} {1} 0\n{0} reset",
-    "usage_clear": "{0} [عدد الرسائل]\n{0} bots [عدد الرسائل]\n{0} [العضو] [عدد الرسائل]",
-    "usage_moveme": "{0} [روم صوتي أو عضو]",
-    "usage_profile": "{0}\n{0} (العضو)",
-    "usage_top": "{0}\n{0} [day \/ week \/ month]\n{0} [text \/ voice\/ invites] [رقم الصفحه]",
-    "usage_user": "{0} (العضو)",
-    "usage_avatar": "{0} (العضو)\n{0} server",
-    "usage_server": "{0}",
-    "usage_roles": "{0}",
-    "usage_ban": "{0} (العضو) (الوقت : m\/h\/d\/mo\/y) (السبب)\n",
-    "usage_vkick": "{0} (العضو)",
-    "usage_unban": "{0} (اسم العضو \/ ايدي العضو)",
-    "usage_kick": "{0} (العضو) (السبب)",
-    "usage_move": "{0} (العضو) (العضو او الروم)\n{0} all",
-    "usage_lock": "{0} (الروم)",
-    "usage_unlock": "{0} (الروم)",
-    "usage_mute": "{0} (العضو) (الوقت ينتهي مع : m,h,d,mo,y) (السبب)\n",
-    "usage_vmute": "{0} (العضو) (الوقت ينتهي مع : m,h,d,mo,y) (السبب)\n",
-    "usage_unmute": "{0} (العضو)",
-    "usage_unvmute": "{0} (العضو)",
-    "usage_role": "{0} (العضو) (-\/+) (اسم الرتب\/ة يُفصل بينها ب فاصله)\n{0} all (اسم الرتبة)",
-    "usage_warn": "{0} (العضو) (السبب)",
-    "usage_setcolor": "{0} (اسم الرتبة) (كود اللون)",
-    "usage_warnings": "{0}\n{0} (العضو)",
-    "usage_setnick": "{0} (العضو)\n{0} (العضو) (اللقب الجديد)",
-    "usage_play": "{0} (اسم الاغنية) - تشغيل النتيجة الاولى في اليوتيوب\n{0} (URL) - تشغيل الأغنية , قائمة التشغيل , البث بناءًا على الرابط المُرفق",
-    "usage_skip": "{0}",
-    "usage_search": "{0} (اسم الاغنية)",
-    "usage_queue": "{0}",
-    "usage_stop": "{0}",
-    "usage_vol": "{0} (الصوت)",
-    "usage_pause": "{0}",
-    "usage_np": "{0}",
-    "usage_repeat": "{0}",
-    "usage_seek": "{0} (الموقع المراد التشغيل منه)",
-    "usage_restore": "{0} (كود الباك اب)",
-    "usage_credits": "{0}\n{0} (العضو)\n{0} (العضو) (الكمية)",
-    "usage_support": "{0}",
-    "usage_color": "{0} (رقم اللون)",
-    "usage_colors": "{0}",
-    "usage_title": "{0}\n{0} (العنوان الجديد)",
-    "usage_reset": "{0} (text\/voice \/invites) (all\/@user)\n",
-    "usage_rep": "{0} (العضو)",
-    "usage_daily": "{0}",
-    "usage_vip": "{0}\n{0} move (رقم البوت)\n{0} transfer (رقم البوت) (العضو)\n{0} restart\n{0} avatar (رابط الصورة)\n{0} username (الاسم الجديد)\n{0} status (الحالة الجديدة)",
-    "usage_ping": "{0}",
-    "usage_temp": "{0} ( on \/ off )\n{0} (time) (المدة)\n{0} (max) (الحد) ",
-    "usage_deletebackup": "{0} (كود الباك اب)",
-    "usage_short": "{0} (الرابط)",
-    "usage_roll": "{0} (الرقم)",
-    "usage_points": "`{0} (العضو) 1` - تحديد نقاط العضو\n`{0} (العضو) +1` - زياده نقاط العضو \n`{0} (العضو) -1` -  خصم نقاط من العضو\n`{0} (العضو) 0` - تصفير نقاط العضو\n`{0} reset` - تصفير النقاط لجميع الاعضاء",
-    "usage": "الاستخدام:",
-    "description": "وصف:",
-    "aliases": "الأختصارات:",
-    "Language has been changed successfully": ":white_check_mark: ** تم تغيير اللغة بنجاح **",
-    "Joined Discord": "تاريخ الدخول للديسكورد",
-    "Joined Server": "تاريخ الدخول للسيرفر",
-    "Invited By": "تم دعوتة بواسطة",
-    "Last seen in voice channels": "اخر تواجد بالرومات الصوتية",
-    "Online": "متصل الآن",
-    "cant_find_member_search_term": "** ـ {0}**, لم أستطع العثور على {1} في السيرفر. :rolling_eyes:",
-    "cant_find_user": "** ـ {0}**, لم أستطع العثور على {1} في السيرفر. :rolling_eyes:",
-    "choose_color": ":rolling_eyes: يرجى إختيار رقم اللون",
-    "Color has been removed successfully!": "تم إزالة اللون بنجاح!",
-    "Requested by": "تم طلبة بواسطة",
-    "colors_already": ":rolling_eyes: أنت تمتلك هذا اللون مسبقاً.",
-    "colors_permission": ":rolling_eyes: ** اللون يجب أن لايمتلك صلاحيات إدارية **",
-    "colors_done": "تم تغيير اللون بنجاح!",
-    "I don't have permission to give you this color": "لا أمتلك صلاحية لإعطائك هذا اللون",
-    "Wrong color number": "رقم اللون خاطئ",
-    "You should enter numbers :1234:": "يجب إدخال ارقام :1234:",
-    ":rolling_eyes: - **I can't find this command.**": ":rolling_eyes: **لم أستطع العثور على هذا الأمر.**",
-    "examples": "أمثله للأمر:",
-    "Invites": "الدعوات",
-    "lock_must_has_manage_channels": ":rolling_eyes: ** يجب اعطاء البوت خاصية التعديل على الرومات.**",
-    "channel_has_been_locked": "** ـ {0} تم قفل الروم.**:lock:",
-    "channel_has_been_unlocked": "** ـ {0} تم فتح الروم.**:unlock:",
-    "lock_description": "يقوم بتعطيل خاصية إرسال الرسائل من الجميع في روم معين.",
-    "unlock_description": "يقوم بتفعيل إرسال الرسائل من الجميع في روم معين.",
-    "requested_by_embed": "بطلب من {0}#{1}",
-    "cant_mute_user": "**لا يمكنك إسكات {0}.** :rolling_eyes:",
-    "cant_find_member": ":rolling_eyes: - ** لا يمكنني العثور على هذا العضو **",
-    "mute_user_muted": "✅ ** تم إسكات {0}! 🤐**",
-    "daily_credits_refreshes_description": "** ـ {0}, يمكنك طلب مكافئتك اليومية بعد {1}. ** :rolling_eyes: ",
-    "daily_not_have_rank_description": "**ـ {0}**, البوتات لا تملك مراكز! **|** :robot:",
-    "daily_credits_got_description": "** ـ {0}, حصلت على  :dollar: {1} كمكافأة لهذا اليوم**  :moneybag:",
-    "daily_user_not_found_description": "** ـ {0}**, لم اتمكن من العثور على هذا العضو. :rolling_eyes:",
-    "role_specify_one_description": ":rolling_eyes: - ** يرجى ذكر إسم الرتبة **",
-    "role_dont_have_access_description": "ليس لديك الإذن لإعطاء {0}. :rolling_eyes:",
-    "role_cant_find_description": "لم اتمكن من العثور على الرولات التالية {0}. :rolling_eyes:",
-    "role_cant_find_2_description": "لم أتمكن من العثور على الرتبة **{0}**. :rolling_eyes:",
-    "role_couldnt_change_description": ":rolling_eyes: - ** لم استطع تغيير الرتب لهذا العضو، يرجى مراجعة صلاحياتي وترتيب رتبتي**",
-    "role_position_higher_description": "موضع الرتبة **{0}** اعلى من رتبتك. :rolling_eyes:",
-    "role_changed_description": " تم تغيير الرولات لـ {0}, **{1}** :white_check_mark:",
-    "role_must_have_permission_description": " ** يجب أن تمتلك صلاحية Administrator حتى تقوم بهذا الإجراء**. :rolling_eyes:",
-    "role_specify_name_description": ":rolling_eyes: - ** الرجاء إدخال اسم الرتبة **",
-    "role_changing_for_description": " جاري تغيير رتبة {0} عضو, {1}**{2}** :white_check_mark: ",
-    "unvmute_required_voice_description": ":rolling_eyes: - **حسب شروط الديسكورد لإستخدام هذا الأمر فإنه يجب ان يتواجد العضو بروم صوتي.**",
-    "unvmute_member_voice_description": ":white_check_mark: تم فك الاسكات عن {0}!",
-    "unvmute_not_muted_description": ":blush: **لم يتم إسكات {0}.**",
-    "ban_from_server_description": "✅ **تم حظر {0} من السيرفر! ✈️**",
-    "ban_cant_description": "**لا يمكنك حظر {0}.** :rolling_eyes:",
-    "ban_missing_permission_description": ":rolling_eyes: - ** لم استطع طرد هذا العضو، يرجى مراجعة صلاحياتي وترتيب رتبتي**",
-    "clear_cooldown_description": "** ـ {0}**, يرجى الإنتظار (تبقى **{1}**)",
-    "clear_cant_description": ":rolling_eyes: - لا يمكنني مسح رسائل هذه الروم , يرجى مراجعة صلاحياتي",
-    "clear_message_has": "تم مسح {0} رسالة.",
-    "clear_messages_have": "تم مسح {0} رسالة.",
-    "kick_cant_description": "**لا يمكنك طرد {0}.** :rolling_eyes:",
-    "kick_couldnt_description": ":rolling_eyes: - ** لم استطع طرد هذا العضو، يرجى مراجعة صلاحياتي وترتيب رتبتي**",
-    "kick_server_description": "** تم طرد {0} من السيرفر**  :white_check_mark:",
-    "reset_point_done_description": "** تم إعادة ضبط الإحصائيات بنجاح. ** :white_check_mark:",
-    "yes_description": "نعم",
-    "setcolor_role_name_description": ":rolling_eyes: - ** الرجاء إدخال اسم الرتبة **",
-    "setcolor_cant_find_description": ":rolling_eyes: ** لا يمكن العثور على هذه الرتبة **",
-    "setcolor_miss_permission_description": ":rolling_eyes: ** ليس لديك صلاحيات على هذه الرتبة **",
-    "setcolor_cant_change_description": ":rolling_eyes: - لم أستطع تغيير هذه الرتبة. يرجى التحقق من صلاحياتي وترتيب رتبتي.",
-    "setcolor_hex_description": ":rolling_eyes: - يجب أن يتكون كود اللون من 3 أو 6 احرف او ارقام",
-    "setcolor_done_description": " ** تم تغيير لون {0} بنجاح. **:white_check_mark:",
-    "setcolor_permission_need_description": ":rolling_eyes: ** ليس لدي صلاحيات على هذه الرتبة **",
-    "warn_cant_description": "**لا يمكنك تحذير {0}.** :rolling_eyes:",
-    "warn_select_description": "**اختر سبباً:**",
-    "warn_specify_description": ":rolling_eyes: - ** يرجى تحديد سبب. **",
-    "warn_been_removed_description": ":white_check_mark: **  تمت إزالة {0} تحذير. **",
-    "warn_cant_warning_description": "🔍 ** لا يمكنني العثور على التحذير الذي تبحث عنه. **",
-    "warn_specify_number_description": " ** يرجى تحديد رقم التحذير أو ذكر المستخدم أو (all) لحذف جميع التحذيرات. **  :rolling_eyes:",
-    "vkick_cant_permission_description": ":rolling_eyes: - لم أستطع طرد هذا المستخدم. يرجى التحقق من صلاحياتي.",
-    "vkick_you_cant_description": "**لا يمكنك طرد {0}.** :rolling_eyes:",
-    "vkick_not_voice_description": "**العضو ليس في روم صوتي!** :rolling_eyes:",
-    "vkick_voice_kicked_description": ":white_check_mark: ** تم طرد {0} من الروم الصوتي! **",
-    "unban_couldnt_user_description": ":rolling_eyes: - لم أستطع إلغاء حظر هذا المستخدم. يرجى التحقق من صلاحياتي.",
-    "unban_all_members_description": ":rolling_eyes: - ** لإلغاء حظر جميع الأعضاء ، يجب أن يكون لديك صلاحية Administrator. **",
-    "unban_premium_only_description": "هذا الأمر للبرميوم فقط (الآن).",
-    "unban_members_being_description": ":white_check_mark: جاري فك حظر **{0}** عضو ...",
-    "unban_unbanned_description": ":white_check_mark: تم فك حظر **{0}**.",
-    "unban_cant_find_description": "** لا يمكنني العثور على {0} في قائمة الحظر ** :rolling_eyes: ",
-    "vmute_main_description": "{0}، بواسطة: {1}#{2} ، سبب: {3} ينتهي في: {4}",
-    "vmute_muted_from_description": ":white_check_mark: **تم إسكات {0} من الرومات الصوتية!** :zipper_mouth:",
-    "vmute_couldnt_mute_description": ":rolling_eyes: - لم أستطع إسكات هذا المستخدم. يرجى التحقق من صلاحياتي.",
-    "vmute_cant_description": "**انت لا تستطيع إسكات {0}.** :rolling_eyes:",
-    "setnick_changed_description": ":white_check_mark: لقد تم تغيير الاسم المستعار للعضو **{0}** الى {1}!",
-    "setnick_reset_description": ":white_check_mark: لقد تم إعادة تعيين الإسم المستعار للعضو **{0}**.",
-    "setnick_couldnt_update_description": ":rolling_eyes: - ** لم استطع تعديل هذا العضو، يرجى مراجعة صلاحياتي وترتيب رتبتي**",
-    "unmute_cant_find_description": ":rolling_eyes: - **لم استطع ايجاد رتبة الإسكات**",
-    "unmute_check_permissions_description": ":rolling_eyes: - يرجى التحقق من صلاحياتي وترتيب رتبتي.",
-    "unmute_command_require_description": "** هذا الأمر يتطلب صلاحية `Administrator`  ** :rolling_eyes:",
-    "unmute_unmuting_description": "** جاري الغاء الإسكات عن {0} عضو. **",
-    "link_must_have_description": "**البوت يجب أن يمتلك خاصيه `Create instant invite` في الروم الإفتراضي للدعوة** :rolling_eyes:",
-    "link_error_description": ":rolling_eyes: - **هنالك خطأ**",
-    "link_cant_find_description": ":rolling_eyes: - **لا أستطيع العثور على الروم الاساسي للرابط**",
-    "vip_ownership_successfully_description": " ** لقد تم تحويل الملكية بنجاح**  :white_check_mark:",
-    "vip_mistake_description": ":rolling_eyes: - خطأ إملائي",
-    "vip_twitch_channel_description": "حدد رابط قناة تويتش:",
-    "vip_wrong_url_description": ":rolling_eyes: - **الرابط خطأ , جاري الإلغاء...**",
-    "vip_changing_description": "**جاري التغيير ... ** (قد يستغرق هذا بعض الوقت بسبب قوانين الديسكورد)",
-    "vip_done_description": " تم :white_check_mark:",
-    "vip_error_description": "**:rolling_eyes: - خطأ رقم 503**",
-    "vip_canceling_description": ":rolling_eyes: - **جاري الإلغاء ...**",
-    "vip_wrong_bot_description": ":rolling_eyes: - هنالك خطأ برقم البوت",
-    "vip_command_premium_description": "** - هذا الأمر للبرميوم فقط. إذا تعذر الوصول إلى البرميوم ، فيمكنك كتابة الأمر متبوعًا بـ ID البوت أو الرقم. ** :rolling_eyes:",
-    "vip_must_enter_description": "** يجب إدخال الأمر متبوعًا بمنشن أو ID الشخص الذي تريد نقل البوت إليه. ** :rolling_eyes:",
-    "vip_error_id_description": "** خطأ في منشن أو ID العضو ** :rolling_eyes: ",
-    "vip_bans_bots_description": ":rolling_eyes: - **قانون كاليفورنيا يحظر البوت من التظاهر بأنه إنسان**\nhttps:\/\/www.pcmag.com\/news\/364132\/california-law-bans-bots-from-pretending-to-be-human",
-    "vip_joke_description": "** تستهبل؟ **",
-    "vip_confirm_description": "**  يرجى كتابة `confirm`. **  :innocent:",
-    "vip_send_dm_description": "**:rolling_eyes: - فضلاً اسمح للبوت بإرسال رسالة بالخاص.**",
-    "vip_previous_transfer_description": "**:rolling_eyes: - يوجد طلب نقل سابق، تم إرسال رابط جديد لك على الخاص**",
-    "vip_transfer_link_description": "**:white_check_mark: يمكنك نقل البوت من خلال الرابط المُرسل إليك على خاصك ، مع العلم أن الرابط ينتهي في 10 دقائق ويتطلب منك أن تطلب الرابط مرة أخرى. **",
-    "vip_link_expired_description": "إنتهت صلاحية الرابط",
-    "vip_must_ownership_description": "**:rolling_eyes: - يجب أن تكون مالك هذا البوت.**",
-    "vip_owner_only_description": "للمالك فقط~",
-    "vip_select_one_description": "** اختر واحدًا: **",
-    "vip_restarting_description": ":timer: **جارِ إعادة التشغيل ...**",
-    "vip_please_wait_description": "**:stopwatch: | {0}, فضلاً انتظر {1}. **",
-    "vip_please_attach_description": ":rolling_eyes: - ** يرجى تحديد أو إرفاق **",
-    "vip_please_specify_description": ":rolling_eyes: - ** يرجى التحديد **",
-    "vip_details_description": "**رقم البوت:** {0}\n**البوت ينتهي في** {1}\n**مسجل لـ:** {2}",
-    "vip_ended_description": "انتهى",
-    "credits_not_enough": "**ـ {0}, رصيدك غير كافي لهذا!**  :thinking: ",
-    "credits_trans_done": "**ـ {0}, قام بتحويل `${1}` لـ {2} ** |:moneybag:",
-    "credits_receipt": ":atm: | إيصال التحويل  ```{1} (ID: {2})لقد استلمت ${0} من المستخدم```",
-    "credits_blacklist": ":sweat: ** حسابك مدرج في القائمة السوداء. **",
-    "credits_balance": "**ـ {0}, رصيد حسابك هو `${1}`.** | :bank:",
-    "credits_balance_mentions": "** رصيد {0} هو `${1}`.**  :credit_card:",
-    "credits_cant_find": "**ـ {0}, لا يمكنني العثور على {1}!** :interrobang: ",
-    "credits_bots": "**ـ {0}**, البوتات لا تملك أرصدة! | :thinking:",
-    "credits_need_transfer": "**ـ {0}, اكتب المبلغ الذي تريد تحويله!** |:interrobang:",
-    "credits_transfer_fees": "** ـ {0}, رسوم التحويل: `{1}`, الكمية :`${2}`\n** اكتب هذه الأرقام للتأكيد :",
-    "profile_robot": "ـ **{0}**, البوتات لا تملك مرتبات! | :robot:",
-    "profile_cant_find": "ـ **{0}**, لا يمكن إيجاد العضو. | :mag:",
-    "short_url": "فضلاً ادخل رابط",
-    "title_long": ":rolling_eyes: - **العنوان طويل جداً.**",
-    "avatar_cant_find": "ـ {0}, لا يمكنني إيجاد **{1}**!  :rolling_eyes:",
-    "rep_must_have": ":no_mouth: يجب أن يكون مستواك +١٠ لتعطي نقطة سمعة للآخرين.",
-    "rep_can_award": "**ـ {0}, يمكنك إعطاء المزيد من نقاط السمعة في {1}. **  |:stopwatch:",
-    "rep_not_bots": "ـ **{0}**, البوتات لا تملك مرتبات! :rolling_eyes:",
-    "rep_cannot_give": "**ـ {0}, لا يمكنك أن تعطي لنفسك نقاط سمعة! ** :rolling_eyes:",
-    "rep_given": "**ـ {0} اعطى {1} نقطة سمعة!** | :up:",
-    "top_only_premium": "لأسباب تتعلق بالأداء ، هذا الأمر حاليًا مخصصًا للبريميوم فقط",
-    "top_error": "**خطأ برقم الصفحة ** {0} من {1}  :rolling_eyes:",
-    "top_cant_find_list": "لا يمكنني العثور على القائمة الأفضل",
-    "top_leaderboards": "📋 لائحة متصدرين نقاط السيرفر",
-    "top_5text": "**أعلى ٥ كتابياً :speech_balloon:**",
-    "top_text_score": ":speech_balloon: نقاط الكتابة",
-    "top_5voice": "**أعلى ٥ صوتياً :microphone2:**",
-    "top_voice_score": ":microphone2: نقاط الصوت",
-    "top_more": "المزيد؟",
-    "points_title": "النقاط :",
-    "points_requested": "تم طلبة بواسطة {0}",
-    "points_only_managers": ":rolling_eyes: - يمكن لمسؤولين النقاط فقط إدارة النقاط.",
-    "points_done_reset": ":sparkles: ** تم إعادة ضبط جميع النقاط بنجاح. **",
-    "points_valid_number": ":rolling_eyes: - ** الرجاء استخدام رقم صحيح. **",
-    "points_target_user": ":sparkles: نقاط **{0}** هي **{1}**",
-    "points_new": ":sparkles: نقاط **{0}** الجديدة هي **{1}**.",
-    "move_not_in_voice": "**أنت لست في روم صوتي!** 🙄",
-    "move_being_moved": ":white_check_mark: ** جارِ نقل جميع الأعضاء! **",
-    "move_more_specific": ":rolling_eyes: - ** يرجى أن تكون أكثر تحديدا ** ```{0} ```",
-    "move_cant_find": "** لا يمكن العثور على** {0}  :rolling_eyes:",
-    "move_already_in": "**ـ {0} موجود بالفعل في الروم الصوتي! ** :white_check_mark: ",
-    "move_channel_full": ":rolling_eyes: -  ** هذا الروم ممتلئ ! ({0}\/{1}) **",
-    "move_moved_to": "**ـ تم سحب {0} إلى {1}!**  ✅",
-    "move_ins_perm": ":rolling_eyes: -  ** صلاحيات غير كافية **",
-    "move_confirm": "**هل أنت متأكد؟ اكتب (y) للتأكيد**",
-    "move_cant_find_channel": ":rolling_eyes: - ** لا يمكنني العثور على الروم المقصود **",
-    "color_error": ":rolling_eyes: - خطأ في الخلفية. إذا حدث هذا فجأة ، يرجى الاتصال بالدعم.",
-    "time_reasons_limit": ":rolling_eyes: - ** (h ، d ، w ، m ، y) يجب أن يكون الحد الزمني واحدًا من **",
-    "user_warn_warned": ":white_check_mark: **تم تحذير {0}! **",
-    "user_warn_you_are_warned": ":warning: **!لقد تم تحذيرك**",
-    "server_id": ": ايدي السيرفر :id:",
-    "server_created": ":calendar: تاريخ الانشاء",
-    "server_owned": ":crown: مملوك بواسطة",
-    "server_members": ":busts_in_silhouette:  الأعضاء ({0})",
-    "server_members_online": "المتصلين **{0}**",
-    "server_channels": ":speech_balloon: الرومات ({0})",
-    "server_channels_value": "**{0}** كتابي | **{1}** صوتي\n",
-    "server_others": ":earth_africa: أخرى",
-    "server_others_value": "**المنطقة:** {0}\n**مستوى التحقق:** {1}",
-    "server_roles": ":closed_lock_with_key: عدد الرولات ({0})",
-    "server_roles_value": "** #roles** لرؤية جميع الرتب إستخدم",
-    "temp_activated": ":white_check_mark: **تم تفعيل الخاصية بنجاح**",
-    "temp_need_enabled": ":rolling_eyes: `#temp on` يجب تمكين الرومات المؤقتة، للقيام بذلك عن طريق",
-    "temp_disabled": " **تم تعطيل الخاصية بنجاح** :white_check_mark:",
-    "temp_updated": " **تم تحديث الخاصية بنجاح** :white_check_mark:",
-    "temp_invalid": "**متغيرات غير صالحة**",
-    "temp_create": "إنشاء روم مؤقت",
-    "music_no_played": "لا توجد موسيقى يتم تشغيلها!",
-    "music_now_playing": "**:notes: يعمل الآن في {0}....**",
-    "music_no_playing": "**لا توجد موسيقى قيد التشغيل. :frowning2:**",
-    "music_current_queue": "**:notes: القائمة الحالية | {0} مدخلات**",
-    "music_added_ProQueue": "تم إضافة **{0}** الى **قائمة الإنتظار** (`{1}`)!  :notes:",
-    "music_must_listening": ":no_entry_sign: يجب ان تستمع الى **{0}** لتستخدم هذا الأمر!",
-    "music_join_voice": ":no_entry_sign: يجب أن تكون بروم صوتي لإستعمال هذا الأمر!",
-    "music_under_maintenance": "الموسيقى تحت الصيانة.",
-    "music_searching": "(`{0}`) جارِ البحث ... :watch:",
-    "music_include_query": ":no_entry_sign: يرجى ادخال نص",
-    "music_under_maintenance2": "الموسيقى تحت الصيانة ، يرجى الاتصال بنا على سيرفر الدعم الفني.",
-    "music_not_found": ":mag: **.غير موجود **",
-    "music_new_songs": "تم إضافة عدد **{0}** من `{1}` الى **قائمة الإنتظار**! :fire:\n",
-    "music_added_to": " تم إضافة **{0}** الى **قائمة الإنتظار** (`{1}`)! :notes:",
-    "music_Resumed": ":notes: إستئناف**{0}**.",
-    "music_must_be": ":no_entry_sign: يجب أن تكون الموسيقى تعمل لإستعمال هذا الأمر!",
-    "music_player_paused": "المُشغل مؤقف مسبقاً. اكتب `#شغل` لإعادة التشغيل! :notes:",
-    "music_paused": " تم إيقاف **{0}**. اكتب `#شغل` لإعادة التشغيل! :notes:",
-    "music_player_stopped": "تم إيقاف المُشغل ومسح قائمة الانتظار. :notes: ",
-    "music_example_seek": ":rolling_eyes: `#seek 2:12` مثال",
-    "music_song_not_long": ":rolling_eyes: - الأغنية ليست طويلة بشكل كافي.",
-    "music_volume": "!مستوى الصوت يجب أن يكون مابين 0 و 150 :no_entry_sign:",
-    "music_wrong_skip": ":rolling_eyes: ** رقم تخطي خاطئ **",
-    "music_skipped": "  <@!{1}> -  تم تخطي **{0}** :notes:",
-    "music_volume_changed": "تم تغيير مستوى الصوت من `{0}` الى `{1}`",
-    "music_current_volume": "مستوى الصوت الحالي هو `{0}`",
-    "music_repeat": " :notes: وضع التكرار : ",
-    "music_Repeat_on": "يعمل",
-    "music_Repeat_off": "لا يعمل",
-    "Warnings_count": "**{0} التحذيرات** ( {1}\/{2} )",
-    "Warnings_item": "تحذير رقم (**{0}**) - بواسطة {1}\n{2}\n```{3}```",
-    "Warnings_item_user": "عضو: {0}",
-    "reset_confirm_text": ":thinking: **هل أنت متأكد من أنك تريد إعادة ضبط جميع النقاط الكتابية؟**",
-    "reset_confirm_voice": ":thinking: **هل أنت متأكد من أنك تريد إعادة ضبط جميع النقاط الصوتية؟**",
-    "reset_confirm_invites": ":thinking: **هل أنت متأكد من أنك تريد إعادة ضبط جميع الدعوات؟**",
-    "logs_responsible_moderator": "**المشرف المسؤول:**",
-    "logs_reason": "**السبب:**",
-    "logs_channel_created": "**تم إنشاء روم: `{0}`** :house:",
-    "logs_channel_deleted": "**تم إزالة روم: `{0}`** :house:",
-    "logs_channel_updated": "**تم تحديث روم: `{0}`** :house:",
-    "logs_channel_permissions_updated": "**تم تحديث صلاحيات روم: `{0}`** :house:",
-    "logs_banned_from_server": "**تم حظر {0} من السيرفر.** :airplane:",
-    "logs_unbanned": "** تم فك حظر {0}. ** :airplane_arriving:",
-    "logs_welcome_inviter": "**الداعي**",
-    "logs_welcome_invite_code": "**كود الدعوة**",
-    "logs_welcome_age": "⏲** عمر الحساب:**",
-    "logs_joined_server": "**انضم {0} إلى السيرفر. **",
-    "logs_member_kicked": "**تم طرد {0}. ** :wave:",
-    "logs_member_left": "**غادر {0}.**",
-    "logs_member_updated": "**تم تحديث {0}.** :writing_hand: ",
-    "logs_old_nickname": "**الإسم المستعار القديم :**",
-    "logs_new_nickname": "**الإسم المستعار الجديد :**",
-    "logs_member_updated_roles": "** الرتب : **",
-    "logs_nickname_reset": "تم إعادة تعيين الإسم المستعار الخاص بـ {0}.",
-    "logs_nickname_changed": "تم تغيير الإسم المستعار الخاص بـ {0}.",
-    "logs_role_created": "**تم إنشاء الرتبة `{0}`.** :family_mmb:",
-    "logs_role_updated": "**تم تحديث الرتبة `{0}`.** :family_mmb:",
-    "logs_role_deleted": "**تم إزالة الرتبة `{0}`.** :family_mmb:",
-    "logs_role_old_name": "**الإسم القديم**",
-    "logs_role_new_name": "**الإسم الجديد**",
-    "logs_role_old_mentionable": "**إمكانية الإشارة له سابقاً**",
-    "logs_role_new_mentionable": "**إمكانية الإشارة له حالياً**",
-    "logs_role_old_hoist": "**ظاهر سابقاً**",
-    "logs_role_new_hoist": "**ظاهر حالياً**",
-    "logs_role_old_color": "**اللون القديم**",
-    "logs_role_new_color": "**اللون الجديد**",
-    "logs_role_new_permissions": "**صلاحيات جديدة**",
-    "logs_message_deleted": "**رسالة أُرسِلت بواسطة {0} مُسِحت في {1}.** :wastebasket:\n{2}",
-    "logs_message_updated": "**رسالة أُرسلت بواسطة {0} عُدِّلَت في {1}.** :pencil2:",
-    "logs_message_updated_content_old": "**القديمة**",
-    "logs_message_updated_content_new": "**الجديدة**",
-    "logs_voice_joined": "**دخل {0} الروم الصوتي `{1}`.**",
-    "logs_voice_left": "**غادر {0} الروم الصوتي `{1}`.**",
-    "logs_voice_switched": "**تنقل {0} من الروم الصوتي `{1}` الى `{2}`. **",
-    "logs_voicestate_updated": "**تم تعديل الحالة الصوتية الخاصة بـ {0}.**",
-    "logs_voicestate_server_mute": ":microphone2: ** إسكات صوتي**",
-    "logs_voicestate_server_deafen": ":speaker: **الديفن**",
-    "logs_voice_moved": "**تم سحب {0} من `{1}` الى `{2}`.**",
-    "logs_voice_disconnected": "**تم قطع إتصال {0}.**",
-    "protection_no_backup_to_delete": "** لا يوجد باك اب لحذفه**",
-    "protection_backup_deleted": "** تم حذف الباك اب **",
-    "protection_add_admin_permissions": "**{0} ({1}) \nقام باضافة صلاحيات الاشراف للرتبة : \n{2} \nبروبوت قام ب ازاله هذه الصلاحيات , لا داعي للقلق**",
-    "protection_permissions_all_following": "الصلاحيات الإدارية للرتب التالية تم مسحها :",
-    "protection_insert_backup_id": ":rolling_eyes: - **يرجى ادخال رمز الباك اب**",
-    "protection_backup_id_invalid": ":rolling_eyes: - ** رمز الباك اب خاطئ او غير صالح, يرجى المحاوله مجدداً.**",
-    "protection_restored": ":white_check_mark: ** {0} ** : إستُرجِعت",
-    "protection_permissions_removed": "**{0}** : تمت إزالة الصلاحيات :white_check_mark:",
-    "protection_removed_from_member": "** {0} ** : تم ازالتها من العضو  :white_check_mark:",
-    "protection_action": "** الاجراء:**",
-    "protection_backup_saved": "☁ **تم حفظ نسخه الباك اب الخاصه بالرتب.**",
-    "protection_restore_backup_use": "لاستعادة الباك اب قم بإستخدم الامر : ``` #restore {0} ```",
-    "protection_from_bots": "** {0} ** يوجد بها بوتات : {1} \n** تم إتخاذ الاجراء اللازم :slight_smile:**",
-    "protection_deleted_auto_role": "** {0} ({1}) قام بحذف الرتبه التلقائيه** : {2}.\n**جاري إتخاد الاجراء اللازم ...** ",
-    "protection_limit_exceeded": " - الحد اليومي من **#{0}** تم تجاوزه.  :rolling_eyes:",
-    "protection_limit_name": "{0} تخطى الحد المسموح من **{1}** \n** جاري تنفيذ الاجراء ...**",
-    "temp_already_enabled": ":x: **هذه الميزه مفعله بالفعل، لتعطيلها استخدم \n`{0} off`.**",
-    "reset_confirm_member": "**هل انت متأكد من انك تريد إعادة تعيين نقاط {0}؟**",
-    "role_error_managed": ":rolling_eyes: - **{0}** يتم إدارتها عن طريق التكامل ولا يمكن أن تعطي."
-}
