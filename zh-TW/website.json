@@ -50,10 +50,10 @@
     "usage_avatar": "{0} （使用者）\n{0} 伺服器",
     "usage_ban": "{0} （使用者） （解除時間 m/d/mo/y） （原因）",
     "usage_vkick": "{0} （使用者）",
-    "usage_unban": "{0} （使用者/使用者ID）",
+    "usage_unban": "{0} （使用者名稱/使用者ID）",
     "usage_kick": "{0} （使用者） （原因）",
     "usage_move": "{0} （使用者） （使用者或頻道）\n{0} 全部",
-    "usage_lock": "{0} （頻道）",
+    "usage_lock": "{0}（頻道）",
     "usage_unlock": "{0}（頻道）",
     "usage_mute": "{0} （使用者） （有效時間 m/d/mo/y） （原因）",
     "usage_vmute": "{0} （使用者） （有效時間 m/d/mo/y） （原因）",
@@ -606,5 +606,14 @@
     "reset_settings_confirm": "Are you sure you want to reset settings?",
     "reset_settings_warn": "THIS ACTION CAN'T UNDONE!",
     "reset_settings": "Reset Settings",
-    "only_owner_reset_settings": "Only server owner can reset the settings"
+    "only_owner_reset_settings": "Only server owner can reset the settings",
+    "add_message": "Add Message",
+    "reaction_roles": "Reaction Roles",
+    "rr_message": "Message",
+    "rr_choose": "Choose...",
+    "rr_type": "Type",
+    "rr_toggle": "Toggle",
+    "rr_only_gives": "Only Gives",
+    "rr_only_remove": "Only Remove",
+    "rr_emoji": "Emoji reaction"
 }
