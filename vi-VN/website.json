@@ -606,5 +606,14 @@
     "reset_settings_confirm": "Bạn chắc là muốn đặt lại cài đặt?",
     "reset_settings_warn": "HÀNH ĐỘNG NÀY KHÔNG THỂ HOÀN TÁC!",
     "reset_settings": "Đặt lại cài đặt",
-    "only_owner_reset_settings": "Chỉ có người sở hữu máy chủ mới có thể đặt lại cài đặt"
+    "only_owner_reset_settings": "Chỉ có người sở hữu máy chủ mới có thể đặt lại cài đặt",
+    "add_message": "Add Message",
+    "reaction_roles": "Reaction Roles",
+    "rr_message": "Message",
+    "rr_choose": "Choose...",
+    "rr_type": "Type",
+    "rr_toggle": "Toggle",
+    "rr_only_gives": "Only Gives",
+    "rr_only_remove": "Only Remove",
+    "rr_emoji": "Emoji reaction"
 }
