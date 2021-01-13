@@ -356,7 +356,7 @@
     "music_under_maintenance2": "Funcția de muzică este sub mentenanță, te rog contactează-ne la serverul de ajutor.",
     "music_not_found": ":mag: ** Nu a fost găsit **",
     "music_new_songs": ":fire: **{0}** cântece din `{1}` adăugate la **ProQueue**!",
-    "music_added_to": ":notes: **{0}** adăugat la **ProQueue** (`{1}`)!",
+    "music_added_to": ":notes: Am adăugat **{0}** la **ProQueue** (`{1}`)!!!",
     "music_Resumed": ":notes: **{0}** a fost reluat.",
     "music_must_be": ":no_entry_sign: Trebuie să fie muzică pentru a folosi aia!",
     "music_player_paused": ":bulb: Muzica este deja pusă pe pauză! Folosește`#play` pentru a relua!",
