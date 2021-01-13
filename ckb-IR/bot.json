@@ -273,7 +273,7 @@
     "vip_restarting_description": "**ڕيستارت دەكات...**",
     "vip_please_wait_description": "‌ **:stopwatch: |  {0}, تکایه‌ چاوه‌ڕێ بکه {1}. **",
     "vip_please_attach_description": ":rolling_eyes: - **Please specify or attach**",
-    "vip_please_specify_description": ":rolling_eyes: - **Please specify**",
+    "vip_please_specify_description": "تکایە دیاریبکە",
     "vip_details_description": "**Premium Number:** {0}\n**Premium ends in** {1}\n**Registered for:** {2}",
     "vip_ended_description": "كۆتاييى هات\n",
     "credits_not_enough": "‌** :thinking: | {0}, باڵانسی پێویستت نیه!**",
