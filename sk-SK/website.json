@@ -97,7 +97,7 @@
     "moveme_description": "Presunie vás na hlasový kanál.",
     "id_description": "Prezerajte si svoju alebo druhú hodnotiacu kartu servera.\n",
     "profile_description": "Prezrite si svoju osobnú globálnu profilovú kartu prispôsobiteľnú vám alebo niekomu inému.",
-    "top_description": "Zobraziť členov s najvyšším skóre servera alebo globálnym XP.\n",
+    "top_description": "Zobraziť členov s najväčším počtom bodov alebo globálnymi skúsenosťami na serveri\n",
     "user_description": "Zobrazuje informácie o sebe alebo o používateľovi, napríklad ID a dátum pripojenia.\n",
     "avatar_description": "Získajte avatar používateľov.\n",
     "server_description": "Zobrazuje informácie o serveri\n",
@@ -606,5 +606,14 @@
     "reset_settings_confirm": "Naozaj chcete obnoviť všetky nastavenia?",
     "reset_settings_warn": "TÁTO AKCIA SA NEDÁ VRÁTIŤ!",
     "reset_settings": "Obnoviť nastavenie",
-    "only_owner_reset_settings": "Iba vlastník servera môže obnoviť nastavenia"
+    "only_owner_reset_settings": "Iba vlastník servera môže obnoviť nastavenia",
+    "add_message": "Add Message",
+    "reaction_roles": "Reaction Roles",
+    "rr_message": "Message",
+    "rr_choose": "Choose...",
+    "rr_type": "Type",
+    "rr_toggle": "Toggle",
+    "rr_only_gives": "Only Gives",
+    "rr_only_remove": "Only Remove",
+    "rr_emoji": "Emoji reaction"
 }
