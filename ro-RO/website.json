@@ -615,5 +615,6 @@
     "rr_toggle": "Toggle",
     "rr_only_gives": "Only Gives",
     "rr_only_remove": "Only Remove",
-    "rr_emoji": "Emoji reaction"
+    "rr_emoji": "Emoji reaction",
+    "mod_actions": "Mod Actions"
 }
