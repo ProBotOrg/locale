@@ -613,8 +613,8 @@
     "rr_choose": "Выбрать...",
     "rr_type": "Тип",
     "rr_toggle": "Переключить",
-    "rr_only_gives": "Только давать",
-    "rr_only_remove": "Только забирать",
+    "rr_only_gives": "Только выдавать",
+    "rr_only_remove": "Только забрать",
     "rr_emoji": "Реакция эмодзи ",
     "mod_actions": "Мод действия"
 }
