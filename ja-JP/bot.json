@@ -440,5 +440,5 @@
     "protection_limit_name": "{0} は **{1}の制限を許しました。\n**処理中です**",
     "temp_already_enabled": ":x: **この機能は既に有効になっています。無効にするには、`{0} `オフ`を使用します。**",
     "reset_confirm_member": "**Are you sure you want to reset {0}'s points ?**",
-    "role_error_managed": ":rolling_eyes: - **{0}** is managed by integration and can't be given."
+    "role_error_managed": ":rolling_eyes: -**{0}**  統合によって管理されており、与えることはできません。"
 }
