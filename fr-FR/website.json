@@ -328,7 +328,7 @@
     "PROTECTION_ONLY_OWNER": "Restreindre les propriétés de protection au propriétaire du serveur",
     "UNSAVED_CONFIRM": "Attention - vous avez des modifications non sauvegardées !",
     "cancel": "Annuler",
-    "SAVE_CHANGES": "Sauveguarder les modifications",
+    "SAVE_CHANGES": "Sauvegarder les modifications",
     "MOD_UNTIL_LEAVES": "Jusqu'à ce que le membre quitte le serveur",
     "AUTO_ROLES": "Rôles automatiques",
     "AUTO_ROLES_NOTE": "À la demande de la communauté, AutoRole ne fonctionne que si le rôle n'a pas de permissions administratives.",
