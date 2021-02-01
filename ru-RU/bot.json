@@ -53,7 +53,7 @@
     "examples_clear": "{0} 1000\n{0} боты 10\n{0} {1} 10",
     "examples_moveme": "{0} основной",
     "examples_profile": "{0} {1}",
-    "examples_top": "{0} день \n{0} неделя \n{0} месяц \n{0} текст день \n{0} голос неделя 2 \n{0} приглашений",
+    "examples_top": "{0} day\n{0} week\n{0} month\n{0} text day \n{0} voice week 2\n{0} invites",
     "examples_user": "{0} {1}",
     "examples_avatar": "{0}\n{0} сервер\n{0} {1}\n{0} 157605500488384512",
     "examples_server": "{0}",
