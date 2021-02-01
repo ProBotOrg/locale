@@ -641,5 +641,9 @@
     "rr_embeds": "Embeds",
     "rr_select_embed": "Select an embed",
     "rr_create_embed": "Create an embed!",
-    "rr_select_message": "Select a message"
+    "rr_select_message": "Select a message",
+    "daily": "Claim your daily reward",
+    "cant_use_multi_devices": "You can't use multiple devices",
+    "claimed_last_daily": "You have claimed {0} credits in your last daily",
+    "daily_get_upto": "You can get up to {0} every day."
 }
