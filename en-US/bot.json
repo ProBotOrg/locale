@@ -440,5 +440,6 @@
     "protection_limit_name": "{0} has excused the **{1}** limit.\n**Action being taken...**",
     "temp_already_enabled": ":x: **This feature already enabled, to disable it use `{0} off`.**",
     "reset_confirm_member": "**Are you sure you want to reset {0}'s points?**",
-    "role_error_managed": ":rolling_eyes: - **{0}** is managed by integration and can't be given."
+    "role_error_managed": ":rolling_eyes: - **{0}** is managed by integration and can't be given.",
+    "jump_to_message": "Jump to Message"
 }
