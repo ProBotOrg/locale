@@ -441,5 +441,5 @@
     "temp_already_enabled": ":x: **هذه الميزه مفعله بالفعل، لتعطيلها استخدم \n`{0} off`.**",
     "reset_confirm_member": "**هل انت متأكد من انك تريد إعادة تعيين نقاط {0}؟**",
     "role_error_managed": ":rolling_eyes: - **{0}** هذا الرول يدار بواسطة طرف ثالث ولايمكن اعطاءه.",
-    "jump_to_message": "Jump to Message"
+    "jump_to_message": "انتقل إلى الرسالة"
 }
