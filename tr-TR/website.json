@@ -636,7 +636,7 @@
     "rr_give_desc": "Bu tür reaksiyon eklendiğinde/çıkarıldığında rol ekler. Kuralları kabul ettirmek için iyi!",
     "rr_take": "Al",
     "rr_take_desc": "Bu tür reaksiyon eklendiğinde/çıkarıldığında rolü kaldırır .",
-    "rr_requires_embed_1": "This feature is in Beta stage and it requires an Embed,",
+    "rr_requires_embed_1": "Bu özellik Beta aşamasında ve bir Gömülü Öge gerektirir",
     "rr_requires_embed_2": "Buradan bir gömülü öge oluştur.",
     "rr_embeds": "Gömülü Mesajlar",
     "rr_select_embed": "Bir gömülü öge seç",
