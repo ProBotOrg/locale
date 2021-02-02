@@ -324,7 +324,7 @@
     "move_cant_find_channel": ":rolling_eyes: - **I can't find target channel**",
     "color_error": ":rolling_eyes: - Error with background. if this happened in sudden please contact support.",
     "time_reasons_limit": ":rolling_eyes: - **time limit must equals one of (h, d, w, m, y)**",
-    "user_warn_warned": ":rolling_eyes: - **time limit must equals one of (h, d, w, m, y)**",
+    "user_warn_warned": ":white_check_mark: **@{0} warned! **",
     "user_warn_you_are_warned": ":warning: **You were warned!**",
     "server_id": ":id: Server ID:",
     "server_created": ":calendar: Created On",
