@@ -644,6 +644,6 @@
     "rr_select_message": "Выберите сообщение",
     "daily": "Получите ежедневное вознаграждение",
     "cant_use_multi_devices": "Использование нескольких устройств запрещено",
-    "claimed_last_daily": "You have claimed {0} credits in your last daily",
-    "daily_get_upto": "You can get up to {0} every day."
+    "claimed_last_daily": "Вы заработали {0} кредитов за последний день",
+    "daily_get_upto": "Вы можете получить до {0} каждый день."
 }
