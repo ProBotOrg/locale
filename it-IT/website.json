@@ -284,7 +284,7 @@
     "WHITELIST_BOTS": "Whitelist bots",
     "DELETE_WITH_MESSAGE_DELETION": "Eliminazione automatica con cancellazione dei messaggi",
     "AUTOMOD_SPAM": "SPAM (5 messaggi/5 sec)",
-    "AUTOMOD_BADWORDS": "PAROLACCIE",
+    "AUTOMOD_BADWORDS": "PAROLACCE",
     "AUTOMOD_DUPS": "TESTO DUPLICATO",
     "AUTOMOD_LINKS": "LINKS",
     "AUTOMOD_DISCORD_INVITES": "INVITI DEI SERVER",
