@@ -642,8 +642,8 @@
     "rr_select_embed": "Выберите вложение",
     "rr_create_embed": "Создать вложение!",
     "rr_select_message": "Выберите сообщение",
-    "daily": "Claim your daily reward",
-    "cant_use_multi_devices": "You can't use multiple devices",
+    "daily": "Получите ежедневное вознаграждение",
+    "cant_use_multi_devices": "Использование нескольких устройств запрещено",
     "claimed_last_daily": "You have claimed {0} credits in your last daily",
     "daily_get_upto": "You can get up to {0} every day."
 }
