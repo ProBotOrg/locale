@@ -441,5 +441,5 @@
     "temp_already_enabled": ":x: **Cette fonctionnalité est déjà activée, pour la désactiver, utilisez `{0} désactivé`.**",
     "reset_confirm_member": "**Êtes-vous sûr de vouloir réinitialiser les points de {0}?**",
     "role_error_managed": ":rolling_eyes: - **{0}** est géré par intégration et ne peut pas être donné.",
-    "jump_to_message": "Jump to Message"
+    "jump_to_message": "Aller au message"
 }
