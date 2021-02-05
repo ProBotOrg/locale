@@ -645,5 +645,8 @@
     "daily": "Vyber si svou denní odměnu",
     "cant_use_multi_devices": "Nemůžeš použít více zařízení",
     "claimed_last_daily": "Z tvé poslední denní odměny jsi dostal/a {0} kreditů",
-    "daily_get_upto": "Můžeš dostat až {0} každý den."
+    "daily_get_upto": "Můžeš dostat až {0} každý den.",
+    "daily_disable_vpn": "Please turn off your Proxy or VPN and try again",
+    "daily_wrong_captcha": "Captcha not right try again",
+    "daily_already_claimed": "You have already claimed the reward"
 }
