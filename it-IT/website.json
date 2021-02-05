@@ -645,5 +645,8 @@
     "daily": "Richiedi la tua ricompensa giornaliera",
     "cant_use_multi_devices": "Non puoi usare più dispositivi",
     "claimed_last_daily": "Hai ottenuto {0} crediti nel tuo ultimo giorno",
-    "daily_get_upto": "Puoi ottenere fino a {0} ogni giorno."
+    "daily_get_upto": "Puoi ottenere fino a {0} ogni giorno.",
+    "daily_disable_vpn": "Please turn off your Proxy or VPN and try again",
+    "daily_wrong_captcha": "Captcha not right try again",
+    "daily_already_claimed": "You have already claimed the reward"
 }
