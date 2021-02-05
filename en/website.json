@@ -645,5 +645,8 @@
 	"daily":"Claim your daily reward",
 	"cant_use_multi_devices":"You can't use multiple devices",
 	"claimed_last_daily":"You have claimed {0} credits in your last daily",
-	"daily_get_upto":"You can get up to {0} every day."
+	"daily_get_upto":"You can get up to {0} every day.",
+	"daily_disable_vpn": "Please turn off your Proxy or VPN and try again",
+	"daily_wrong_captcha": "Captcha not right try again",
+	"daily_already_claimed": "You have already claimed the reward"
 }
