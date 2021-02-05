@@ -441,5 +441,5 @@
     "temp_already_enabled": ":x: **Táto vlastnosť už je zapnutá, pre jej vypnutie použite`{0} off`.**",
     "reset_confirm_member": "**Ste si istý, že chcete vynulovať {0}'s points ?**",
     "role_error_managed": ":rolling_eyes: - **{0}** je riadený integráciou a nemožno ho uviesť.",
-    "jump_to_message": "Jump to Message"
+    "jump_to_message": "Prejsť na správu"
 }
