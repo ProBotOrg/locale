@@ -646,7 +646,7 @@
     "cant_use_multi_devices": "Aap kaee upakaranon ka upayog nahin kar sakate",
     "claimed_last_daily": "Aapane apane antim dainik mein {0} kredit ka daava kiya hai",
     "daily_get_upto": "Aap har din {0} tak uth sakate hain.",
-    "daily_disable_vpn": "Please turn off your Proxy or VPN and try again",
-    "daily_wrong_captcha": "Captcha not right try again",
-    "daily_already_claimed": "You have already claimed the reward"
+    "daily_disable_vpn": "Krpaya apana Proxy ya VPN band karen aur punah prayaas karen",
+    "daily_wrong_captcha": "Captcha sahee nahin phir koshish karen",
+    "daily_already_claimed": "Aap pahale hee inaam ka daava kar chuke hain"
 }
