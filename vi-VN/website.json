@@ -645,5 +645,8 @@
     "daily": "Nhận thưởng hằng ngày",
     "cant_use_multi_devices": "Bạn không thể dùng nhiều thiết bị",
     "claimed_last_daily": "Bạn đã nhận được {0} credit trong lần daily vừa rồi",
-    "daily_get_upto": "Bạn có thể nhận đến {0} mỗi ngày."
+    "daily_get_upto": "Bạn có thể nhận đến {0} mỗi ngày.",
+    "daily_disable_vpn": "Please turn off your Proxy or VPN and try again",
+    "daily_wrong_captcha": "Captcha not right try again",
+    "daily_already_claimed": "You have already claimed the reward"
 }
