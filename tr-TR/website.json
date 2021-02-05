@@ -645,5 +645,8 @@
     "daily": "Günlük ödülünü topla",
     "cant_use_multi_devices": "Birden fazla cihaz kullanamazsın",
     "claimed_last_daily": "Son günlük ödülünüzde {0} kredi kazandınız",
-    "daily_get_upto": "Her gün {0} adede kadar alabilirsin"
+    "daily_get_upto": "Her gün {0} adede kadar alabilirsin",
+    "daily_disable_vpn": "Please turn off your Proxy or VPN and try again",
+    "daily_wrong_captcha": "Captcha not right try again",
+    "daily_already_claimed": "You have already claimed the reward"
 }
