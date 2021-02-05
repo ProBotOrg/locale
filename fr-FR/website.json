@@ -645,5 +645,8 @@
     "daily": "Réclamez votre récompense quotidienne",
     "cant_use_multi_devices": "Vous ne pouvez pas utiliser plusieurs appareils",
     "claimed_last_daily": "Vous avez réclamé {0} crédits lors de votre dernier quotidien",
-    "daily_get_upto": "Vous pouvez vous lever jusqu'à {0} chaque jour."
+    "daily_get_upto": "Vous pouvez vous lever jusqu'à {0} chaque jour.",
+    "daily_disable_vpn": "Please turn off your Proxy or VPN and try again",
+    "daily_wrong_captcha": "Captcha not right try again",
+    "daily_already_claimed": "You have already claimed the reward"
 }
