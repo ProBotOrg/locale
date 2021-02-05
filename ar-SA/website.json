@@ -645,5 +645,8 @@
     "daily": "احصل على مكافأتك اليومية",
     "cant_use_multi_devices": "لا يمكنك استخدام أجهزة متعددة",
     "claimed_last_daily": "لقد حصلت على {0} كريدت في آخر راتب يومي لك.",
-    "daily_get_upto": "يمكنك الحصول على كريدت يصل إلى {0} كل يوم."
+    "daily_get_upto": "يمكنك الحصول على كريدت يصل إلى {0} كل يوم.",
+    "daily_disable_vpn": "Please turn off your Proxy or VPN and try again",
+    "daily_wrong_captcha": "Captcha not right try again",
+    "daily_already_claimed": "You have already claimed the reward"
 }
