@@ -442,5 +442,8 @@
     "reset_confirm_member": "**Are you sure you want to reset {0}'s points ?**",
     "role_error_managed": ":rolling_eyes: - **{0}** is managed by integration and can't be given.",
     "jump_to_message": "Jump to Message",
-    "credits_no_reason": "No reason provided"
+    "credits_no_reason": "No reason provided",
+    "removewarn_description": "從伺服器或使用者移除警告",
+    "usage_removewarn": "{0}（警告 ID)\n{0}（使用者）\n{0}  全部",
+    "examples_removewarn": "{0} 56323094912\n{0} @Dramex\n{0} 全部"
 }
