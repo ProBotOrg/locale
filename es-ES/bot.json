@@ -85,7 +85,7 @@
     "examples_repeat": "{0}",
     "examples_seek": "{0} 11:00",
     "examples_restore": "{0} ZeusCode",
-    "examples_credits": "{0}\n{0} {1}\n{0} {1} 15000",
+    "examples_credits": "{0}\n{0} {1}\n{0} {1} 15000\n{0} {1} 15000 Hello",
     "examples_support": "{0}",
     "examples_color": "{0} 15",
     "examples_colors": "{0}",
@@ -442,5 +442,8 @@
     "reset_confirm_member": "**¿Estás seguro de que quieres resetear los puntos de {0}?**",
     "role_error_managed": ":rolling_eyes: - **{0}** es administrado por una integración y no puede ser otorgado.",
     "jump_to_message": "Jump to Message",
-    "credits_no_reason": "No reason provided"
+    "credits_no_reason": "No reason provided",
+    "removewarn_description": "Eliminar advertencias para el servidor o usuario.",
+    "usage_removewarn": "{0} (IDdelaadvertencia)\n{0} (usuario)\n{0} todos",
+    "examples_removewarn": "{0} 56323094912\n{0} @Dramex\n{0} todos"
 }

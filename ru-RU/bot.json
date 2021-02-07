@@ -442,5 +442,8 @@
     "reset_confirm_member": "**Вы уверены, что хотите сбросить очки: {0}?**",
     "role_error_managed": ":rolling_eyes: - **{0}** — управляется интеграцией и не может быть назначена. ",
     "jump_to_message": "Перейти к сообщению",
-    "credits_no_reason": "Причина не указана."
+    "credits_no_reason": "Причина не указана.",
+    "removewarn_description": "Удалить предупреждения сервера или пользователя.",
+    "usage_removewarn": "{0} (ID предупреждения)\n{0} (пользователь)\n{0} all",
+    "examples_removewarn": "{0} 56323094912\n{0} @Dramex\n{0} all"
 }

@@ -374,7 +374,7 @@
     "music_Repeat_off": "OFF",
     "Warnings_count": "**{0} Warnings** ( {1}\/{2} )",
     "Warnings_item": "Warn ID (**{0}**) - By {1}\n{2}\n```{3}```",
-    "Warnings_item_user": "Users {0}",
+    "Warnings_item_user": "User: {0}",
     "reset_confirm_text": ":thinking: **Are you sure you want to reset all text xp?**",
     "reset_confirm_voice": ":thinking: **Are you sure you want to reset all voice xp?**",
     "reset_confirm_invites": ":thinking: **Are you sure you want to reset all invites?**",
@@ -442,5 +442,8 @@
     "reset_confirm_member": "**Are you sure you want to reset {0}'s points?**",
     "role_error_managed": ":rolling_eyes: - **{0}** is managed by integration and can't be given.",
     "jump_to_message": "Jump to Message",
-    "credits_no_reason": "No reason provided"
+    "credits_no_reason": "No reason provided",
+    "removewarn_description": "Remove warnings for the server or user.",
+    "usage_removewarn": "{0} (warnID)\n{0} (user)\n{0} all",
+    "examples_removewarn": "{0} 56323094912\n{0} @Dramex\n{0} all"
 }

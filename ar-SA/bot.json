@@ -85,7 +85,7 @@
     "examples_repeat": "{0}",
     "examples_seek": "{0} 11:00",
     "examples_restore": "{0} ZeusCode",
-    "examples_credits": "{0}\n{0} {1}\n{0} {1} 15000",
+    "examples_credits": "{0}\n{0} {1}\n{0} {1} 15000\n{0} {1} 15000 Hello",
     "examples_support": "{0}",
     "examples_color": "{0} 15",
     "examples_colors": "{0}",
@@ -442,5 +442,8 @@
     "reset_confirm_member": "**هل انت متأكد من انك تريد إعادة تعيين نقاط {0}؟**",
     "role_error_managed": ":rolling_eyes: - **{0}** هذا الرول يدار بواسطة طرف ثالث ولايمكن اعطاءه.",
     "jump_to_message": "انتقل إلى الرسالة",
-    "credits_no_reason": "لم يتم تقديم سبب"
+    "credits_no_reason": "لم يتم تقديم سبب",
+    "removewarn_description": "إزالة انذارات السيرفر أو العضو.",
+    "usage_removewarn": "{0} (رقم التحذير)\n{0} (العضو)\n{0} all",
+    "examples_removewarn": "{0} 56323094912\n{0} @Dramex\n{0} all"
 }

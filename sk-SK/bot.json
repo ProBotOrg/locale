@@ -442,5 +442,8 @@
     "reset_confirm_member": "**Ste si istý, že chcete vynulovať {0}'s points ?**",
     "role_error_managed": ":rolling_eyes: - **{0}** je riadený integráciou a nemožno ho uviesť.",
     "jump_to_message": "Prejsť na správu",
-    "credits_no_reason": "Žiadny uvedený dôvod."
+    "credits_no_reason": "Žiadny uvedený dôvod.",
+    "removewarn_description": "Odstráňte varovania pre server alebo používateľa.\n",
+    "usage_removewarn": "{0} (warnID)\n{0} (user)\n{0} all",
+    "examples_removewarn": "{0} 56323094912\n{0} @Dramex\n{0} all"
 }

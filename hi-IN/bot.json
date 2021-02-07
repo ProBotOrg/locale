@@ -442,5 +442,8 @@
     "reset_confirm_member": "**kya aap vaakee {0} ke ank reeset karana chaahate hain?**",
     "role_error_managed": ":rolling_eyes: - **{0}** ekeekaran dvaara prabandhit aur diya nahin ja sakata.",
     "jump_to_message": "Sandesh par jaen",
-    "credits_no_reason": "Koe kaaran nahin bataaya gaya"
+    "credits_no_reason": "Koe kaaran nahin bataaya gaya",
+    "removewarn_description": "sarvar ya upayogakarta ke lie chetaavanee nikaalen.",
+    "usage_removewarn": "{0} (warnID)\n{0} (user)\n{0} all",
+    "examples_removewarn": "{0} 56323094912\n{0} @Dramex\n{0} all"
 }
