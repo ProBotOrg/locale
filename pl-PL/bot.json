@@ -442,5 +442,8 @@
     "reset_confirm_member": "**Czy na pewno chcesz zresetować punkty {0}?**",
     "role_error_managed": ":rolling_eyes: - **{0}** jest zarządzany przez integrację i nie można go podać.",
     "jump_to_message": "Przejdź do wiadomości",
-    "credits_no_reason": "Nie podano powodu."
+    "credits_no_reason": "Nie podano powodu.",
+    "removewarn_description": "Usuń ostrzeżenia dla serwera lub użytkownika.",
+    "usage_removewarn": "{0} (ID ostrzeżenia)\n{0} (użytkownik)\n{0} all",
+    "examples_removewarn": "{0} 56323094912\n{0} @Dramex\n{0} all"
 }
