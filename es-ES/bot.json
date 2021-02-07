@@ -442,5 +442,8 @@
     "reset_confirm_member": "**¿Estás seguro de que quieres resetear los puntos de {0}?**",
     "role_error_managed": ":rolling_eyes: - **{0}** es administrado por una integración y no puede ser otorgado.",
     "jump_to_message": "Jump to Message",
-    "credits_no_reason": "No reason provided"
+    "credits_no_reason": "No reason provided",
+    "removewarn_description": "Eliminar advertencias para el servidor o usuario.",
+    "usage_removewarn": "{0} (IDdelaadvertencia)\n{0} (usuario)\n{0} todos",
+    "examples_removewarn": "{0} 56323094912\n{0} @Dramex\n{0} todos"
 }
