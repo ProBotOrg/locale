@@ -278,7 +278,7 @@
     "vip_ended_description": "ended",
     "credits_not_enough": "** :thinking: | {0}, Your balance is not enough for that!**",
     "credits_trans_done": "**:moneybag: | {0}, has transferred `${1}` to {2} **",
-    "credits_receipt": ":atm:  |  Transfer Receipt ```You have received ${0} from user {1} (ID: {2})```",
+    "credits_receipt": ":atm:  |  Transfer Receipt ```You have received ${0} from user {1} (ID: {2})\nReason: {3} \n```",
     "credits_blacklist": ":sweat: ** Your account is blacklisted. **",
     "credits_balance": ":bank: | ** {0}, your account balance is `${1}`.**",
     "credits_balance_mentions": "** {0} :credit_card: balance is `${1}`.**",
