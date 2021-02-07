@@ -441,5 +441,6 @@
     "temp_already_enabled": ":x: **Esse objeto já está habilitado, para desabilitar ele use `{0} off`.**",
     "reset_confirm_member": "**Você tem certeza que quer redefinir os pontos de {0}?**",
     "role_error_managed": ":rolling_eyes: - **{0}** é gerenciado pela integração e não pode ser dado.",
-    "jump_to_message": "Jump to Message"
+    "jump_to_message": "Jump to Message",
+    "credits_no_reason": "Nenhum motivo fornecido"
 }
