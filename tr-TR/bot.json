@@ -140,7 +140,7 @@
     "usage_color": "{0} (renkin kodu)",
     "usage_colors": "{0}",
     "usage_title": "{0}\n{0} (yeni başlık)",
-    "usage_reset": "{0} (yazı \/ ses \/ davet sayısı)",
+    "usage_reset": "{0} (text \/ voice \/ invites)",
     "usage_rep": "{0} (user)",
     "usage_daily": "{0}",
     "usage_vip": "{0}\n{0} move (botun numarası)\n{0} transfer (botun numarası) (kullanıcı)\n{0} restart\n{0} avatar (avatar linki)\n{0} username (yeni isim)\n{0} status (new durum mesajı)",
@@ -440,5 +440,7 @@
     "protection_limit_name": "{0} **{1}** sınırını yerine getirdi.\n**İşlem yapılıyor...**",
     "temp_already_enabled": ":x: **Bu özellik zaten aktif, devre dışı bırakmak için `{0} off` kullanın.**",
     "reset_confirm_member": "**{0}'ın puanlarını sıfırlamak istediğinden emin misin?**",
-    "role_error_managed": ":rolling_eyes: **{0}** entegrasyonla yönetilir ve verilemez."
+    "role_error_managed": ":rolling_eyes: **{0}** entegrasyonla yönetilir ve verilemez.",
+    "jump_to_message": "Mesaja Git",
+    "credits_no_reason": "Bir sebep belirtilmedi"
 }

@@ -90,7 +90,7 @@
     "examples_color": "{0} 15",
     "examples_colors": "{0}",
     "examples_title": "{0} Dies ist ein Titel",
-    "examples_reset": "{0} Text\n{0} Stimme\n{0} lädt ein",
+    "examples_reset": "{0} text\n{0} voice\n{0} invites",
     "examples_rep": "{0}\n{0} {1}\n{0} 157605500488384512",
     "examples_daily": "{0}",
     "examples_vip": "{0}\n{0} bewegt 1000\n{0} Überweisung 1000 {1}\n{0} Neustart\n{0} Avatar http:\/\/i8.ae\/CKNhH\n{0} Benutzername SystemBot\n{0} Status Hallo ich bin Probot",
@@ -149,7 +149,7 @@
     "usage_deletebackup": "{0} (Wiederherstellungscode)",
     "usage_short": "{0} (Link)",
     "usage_roll": "{0} (Nummer)",
-    "usage_points": "`{0} (Benutzer) 1` - setzt die Punkte eines Benutzers\n`{0} (Benutzer) +1` - erhöht die Punkte eines Benutzers\n`{0} (Benutzer) -1` - verringert die Punkte eines Benutzers \n`{0} (Benutzer) 0` - setzt die Punkte eines Benutzers zurück \n`{0} zurück- setzt alle Punkte zurück",
+    "usage_points": "`{0} (Benutzer) 1` - setzt die Punkte eines Benutzers\n`{0} (Benutzer) +1` - erhöht die Punkte eines Benutzers\n`{0} (Benutzer) -1` - verringert die Punkte eines Benutzers \n`{0} (Benutzer) 0` - setzt die Punkte eines Benutzers zurück \n`{0} reset` - setzt alle Punkte zurück",
     "usage": "Verwendung:",
     "description": "Beschreibung: ",
     "aliases": "Aliase:",
@@ -440,5 +440,7 @@
     "protection_limit_name": "{0} hat das **{1}** Limit entschuldigt.\n**Aktion wird ausgeführt...**",
     "temp_already_enabled": ":x: **Diese Funktion ist bereits aktiviert, um sie zu deaktivieren benutze: `{0} off`.**",
     "reset_confirm_member": "**Bist du sicher, dass du {0}'s Punkte zurücksetzen möchtest ?**",
-    "role_error_managed": ":rolling_eyes: - **{0}** wird von der Integration verwaltet und kann nicht vergeben werden."
+    "role_error_managed": ":rolling_eyes: - **{0}** wird von der Integration verwaltet und kann nicht vergeben werden.",
+    "jump_to_message": "Jump to Message",
+    "credits_no_reason": "No reason provided"
 }

@@ -1,9 +1,9 @@
 {
-    "rank_description": "apana ya kisee aur ka sarvar raink kaard dekhen.",
+    "rank_description": "Apana ya kisee aur ka server rank kaard dekhen.",
     "examples_rank": "{0} {1}",
     "usage_rank": "{0}\n{0} (upayogakarta)",
-    "clear_description": "ek chainal ke sandeshon ko saaph karata hai.",
-    "moveme_description": "aapako ek vois chainal par le jaata hai.",
+    "clear_description": "Ek channel ke sandeshon ko saaph karata hai.",
+    "moveme_description": "Aapako ek voice channel par le jaata hai.",
     "profile_description": "aapaka ya kisee aur ka anukoolan yogy vyaktigat vaishvik profail kaard dekhen.",
     "top_description": "aapaka ya kisee aur ka anukoolan yogy vyaktigat vaishvik profail kaard dekhen.\n",
     "user_description": "jaanakaaree, jaise ki aaeedee aur judane kee taareekh, apane ya upayogakarta ke baare mein dikhaata hai.",
@@ -53,7 +53,7 @@
     "examples_clear": "{0} 1000\n{0} bots 10\n{0} {1} 10",
     "examples_moveme": "{0} general\n{0} {1}",
     "examples_profile": "{0}\n{0} {1}\n{0} 157605500488384512",
-    "examples_top": "{0} day\n{0} week\n{0} month\n{0} text day \n{0} voice week 2\n{0} invites",
+    "examples_top": "{0} din\n{0} saptaah\n{0} maheena\n{0} paath ka din\n{0} aavaaj saptaah 5\n{0} aise aamantran",
     "examples_user": "{0}\n{0} {1}\n{0} 157605500488384512",
     "examples_avatar": "{0}\n{0} server\n{0} {1}\n{0} 157605500488384512",
     "examples_server": "{0}",
@@ -89,7 +89,7 @@
     "examples_support": "{0}",
     "examples_color": "{0} 15",
     "examples_colors": "{0}",
-    "examples_title": "{0} This is a Title",
+    "examples_title": "{0} Yah Ek sheershak hai",
     "examples_reset": "{0} text\n{0} voice\n{0} invites",
     "examples_rep": "{0}\n{0} {1}\n{0} 157605500488384512",
     "examples_daily": "{0}",
@@ -440,5 +440,7 @@
     "protection_limit_name": "{0} ne **{1}** seema ka bahaana kiya hai.\n** kaarravaee kee ja rahee hai ...**",
     "temp_already_enabled": ":x: **yah suvidha pahale se hee saksham hai, ise upayog ko nishkriy karane ke lie`{0} off`.**",
     "reset_confirm_member": "**kya aap vaakee {0} ke ank reeset karana chaahate hain?**",
-    "role_error_managed": ":rolling_eyes: - **{0}** ekeekaran dvaara prabandhit aur diya nahin ja sakata."
+    "role_error_managed": ":rolling_eyes: - **{0}** ekeekaran dvaara prabandhit aur diya nahin ja sakata.",
+    "jump_to_message": "Sandesh par jaen",
+    "credits_no_reason": "Koe kaaran nahin bataaya gaya"
 }

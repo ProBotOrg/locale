@@ -440,5 +440,7 @@
     "protection_limit_name": "{0} a depășit limita **{1}**.\n**O măsură este luată...**",
     "temp_already_enabled": ":x: **Această caracteristică este deja activată, pentru a o dezactiva folosește `{0} off`.**",
     "reset_confirm_member": "**Are you sure you want to reset {0}'s points ?**",
-    "role_error_managed": ":rolling_eyes: - **{0}** is managed by integration and can't be given."
+    "role_error_managed": ":rolling_eyes: - **{0}** is managed by integration and can't be given.",
+    "jump_to_message": "Jump to Message",
+    "credits_no_reason": "No reason provided"
 }

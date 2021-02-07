@@ -440,5 +440,7 @@
     "protection_limit_name": "{0} ha excusado el límite de **{1}**.\n**Acción en proceso...**",
     "temp_already_enabled": ":x: **Esta característica ya está habilitada, para deshabilitarla use `{0} off`.**",
     "reset_confirm_member": "**¿Estás seguro de que quieres resetear los puntos de {0}?**",
-    "role_error_managed": ":rolling_eyes: - **{0}** es administrado por una integración y no puede ser otorgado."
+    "role_error_managed": ":rolling_eyes: - **{0}** es administrado por una integración y no puede ser otorgado.",
+    "jump_to_message": "Jump to Message",
+    "credits_no_reason": "No reason provided"
 }

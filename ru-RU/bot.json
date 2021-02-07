@@ -53,7 +53,7 @@
     "examples_clear": "{0} 1000\n{0} боты 10\n{0} {1} 10",
     "examples_moveme": "{0} основной",
     "examples_profile": "{0} {1}",
-    "examples_top": "{0} день \n{0} неделя \n{0} месяц \n{0} текст день \n{0} голос неделя 2 \n{0} приглашений",
+    "examples_top": "{0} day\n{0} week\n{0} month\n{0} text day \n{0} voice week 2\n{0} invites",
     "examples_user": "{0} {1}",
     "examples_avatar": "{0}\n{0} сервер\n{0} {1}\n{0} 157605500488384512",
     "examples_server": "{0}",
@@ -90,7 +90,7 @@
     "examples_color": "{0} 15",
     "examples_colors": "{0}",
     "examples_title": "{0} Это Заголовок",
-    "examples_reset": "{0} текстовые \n{0} голосовые \n{0} приглашения",
+    "examples_reset": "{0} text\n{0} voice\n{0} invites",
     "examples_rep": "{0} {1}",
     "examples_daily": "{0}",
     "examples_vip": "{0} \n{0} передать 1000\n{0} передано 1000 {1}\n{0} перезагрузка\n{0} аватар http:\/\/i8.ae\/CKNhH\n{0} имя Системный Бот \n{0} статус Здравствуйте, я probot",
@@ -140,7 +140,7 @@
     "usage_color": "{0} (номер цвета)",
     "usage_colors": "{0}",
     "usage_title": "{0}\n{0} (новое название)",
-    "usage_reset": "{0} (текст \/ голос \/ приглашения)",
+    "usage_reset": "{0} (text \/ voice \/ invites)",
     "usage_rep": "{0} (пользователь)",
     "usage_daily": "{0}",
     "usage_vip": "{0}\n{0} move (номер бота)\n{0} transfer (номер бота)\n{0} restart\n{0} avatar (ссылка на аватар)\n{0} username  (новое имя)\n{0} status (новый статус)",
@@ -440,5 +440,7 @@
     "protection_limit_name": "{0} привесил **{1}** лимит.\n**Действие было выполнено...**",
     "temp_already_enabled": ":x: **Эта функция уже включена, чтобы отключить ее используйте команду`{0} off`.**",
     "reset_confirm_member": "**Вы уверены, что хотите сбросить очки: {0}?**",
-    "role_error_managed": ":rolling_eyes: - **{0}** — управляется интеграцией и не может быть назначена. "
+    "role_error_managed": ":rolling_eyes: - **{0}** — управляется интеграцией и не может быть назначена. ",
+    "jump_to_message": "Перейти к сообщению",
+    "credits_no_reason": "Причина не указана."
 }

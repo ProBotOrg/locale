@@ -252,7 +252,7 @@
     "vip_mistake_description": ":rolling_eyes: - هەڵەکە بەش بەش بکە",
     "vip_twitch_channel_description": "لینکی twitchێک دەستنیشان بکە",
     "vip_wrong_url_description": ":rolling_eyes: - **لینکێکی هەڵەیە، هەڵدەوەشێتەوە...**",
-    "vip_changing_description": "**Changing ...** (This may take a while due to discord restrictions)",
+    "vip_changing_description": "This could take couple hours",
     "vip_done_description": ":white_check_mark: جێبەجێ کرا",
     "vip_error_description": "**:rolling_eyes: - هەڵەی 503 **",
     "vip_canceling_description": ":rolling_eyes: - ** پووچەڵ کردنەوە ... **",
@@ -440,5 +440,7 @@
     "protection_limit_name": "{0} has excused the **{1}** limit.\n**Action being taken...**",
     "temp_already_enabled": ":x: **This feature already enabled, to disable it use `{0} off`.**",
     "reset_confirm_member": "**Are you sure you want to reset {0}'s points ?**",
-    "role_error_managed": ":rolling_eyes: - **{0}** is managed by integration and can't be given."
+    "role_error_managed": ":rolling_eyes: - **{0}** is managed by integration and can't be given.",
+    "jump_to_message": "Jump to Message",
+    "credits_no_reason": "No reason provided"
 }
