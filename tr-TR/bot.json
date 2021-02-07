@@ -442,5 +442,8 @@
     "reset_confirm_member": "**{0}'ın puanlarını sıfırlamak istediğinden emin misin?**",
     "role_error_managed": ":rolling_eyes: **{0}** entegrasyonla yönetilir ve verilemez.",
     "jump_to_message": "Mesaja Git",
-    "credits_no_reason": "Bir sebep belirtilmedi"
+    "credits_no_reason": "Bir sebep belirtilmedi",
+    "removewarn_description": "Sunucu veya kullanıcı için uyarıları kaldırın.",
+    "usage_removewarn": "{0} (uyarı IDsi)\n{0} (kullanıcı)\n{0} all",
+    "examples_removewarn": "{0} 56323094912\n{0} @Dramex\n{0} all"
 }
