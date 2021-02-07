@@ -445,5 +445,5 @@
     "credits_no_reason": "No reason provided",
     "removewarn_description": "Remove warnings for the server or user.",
 	"usage_removewarn": "{0} (warnID)\n{0} (user)\n{0} all",
-	"examples_removewarn": "{0} 56323094912\n{0} @Dramex\n{0} all",
+	"examples_removewarn": "{0} 56323094912\n{0} @Dramex\n{0} all"
 }
