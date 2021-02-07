@@ -442,5 +442,8 @@
     "reset_confirm_member": "**Bạn chắc là muốn đặt lại điểm của {0}?**",
     "role_error_managed": ":rolling_eyes: - **{0}** được quản lí một cách hội nhập và không thể được cho.",
     "jump_to_message": "Đến tin nhắn",
-    "credits_no_reason": "Không có lí do được đưa ra"
+    "credits_no_reason": "Không có lí do được đưa ra",
+    "removewarn_description": "Gỡ bỏ cảnh cáo cho máy chủ hoặc người dùng.",
+    "usage_removewarn": "{0} (ID cảnh cáo)\n{0} (người dùng)\n{0} all",
+    "examples_removewarn": "{0} 56323094912\n{0} @Dramex\n{0} all"
 }
