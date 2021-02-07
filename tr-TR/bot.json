@@ -441,5 +441,6 @@
     "temp_already_enabled": ":x: **Bu özellik zaten aktif, devre dışı bırakmak için `{0} off` kullanın.**",
     "reset_confirm_member": "**{0}'ın puanlarını sıfırlamak istediğinden emin misin?**",
     "role_error_managed": ":rolling_eyes: **{0}** entegrasyonla yönetilir ve verilemez.",
-    "jump_to_message": "Mesaja Git"
+    "jump_to_message": "Mesaja Git",
+    "credits_no_reason": "Bir sebep belirtilmedi"
 }
