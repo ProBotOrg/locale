@@ -441,5 +441,6 @@
     "temp_already_enabled": ":x: **Ez a funkció már be van kapcsolva. Ha ki szeretnéd kapcsolni, használd a `{0} off` parancsot.**",
     "reset_confirm_member": "**Biztosan vissza szeretnéd állítani {0} pontjait?**",
     "role_error_managed": ":rolling_eyes: - **{0}** integrációval kezeli, és nem adható meg.",
-    "jump_to_message": "Ugrás az üzenethez"
+    "jump_to_message": "Ugrás az üzenethez",
+    "credits_no_reason": "Nincs ok megadva."
 }
