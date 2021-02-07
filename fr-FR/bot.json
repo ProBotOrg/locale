@@ -442,5 +442,8 @@
     "reset_confirm_member": "**Êtes-vous sûr de vouloir réinitialiser les points de {0}?**",
     "role_error_managed": ":rolling_eyes: - **{0}** est géré par intégration et ne peut pas être donné.",
     "jump_to_message": "Aller au message",
-    "credits_no_reason": "Aucune raison fournie"
+    "credits_no_reason": "Aucune raison fournie",
+    "removewarn_description": "Supprimer les avertissements pour le serveur ou l'utilisateur.",
+    "usage_removewarn": "{0} (avertissementID)\n{0} (utilisateur)\n{0} all",
+    "examples_removewarn": "{0} 56323094912\n{0} @Dramex\n{0} tout"
 }
