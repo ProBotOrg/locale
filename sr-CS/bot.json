@@ -441,5 +441,6 @@
     "temp_already_enabled": ":x: **Ova opcija je već aktivirana, da je isključiš koristi `{0} off`.**",
     "reset_confirm_member": "**Da li si siguran da želiš resetovati {0}'s poene ?**",
     "role_error_managed": ":rolling_eyes: - **{0}** se upravlja integracijom i ne može biti dat.",
-    "jump_to_message": "Skoči na Poruku"
+    "jump_to_message": "Skoči na Poruku",
+    "credits_no_reason": "No reason provided"
 }
