@@ -442,5 +442,8 @@
     "reset_confirm_member": "**Opravdu chceš obnovit body člena {0}?**",
     "role_error_managed": ":rolling_eyes: - Role **{0}** je spravována integrací a nemůže být přidělena.",
     "jump_to_message": "Přejít na zprávu",
-    "credits_no_reason": "Bez uvedení důvodu"
+    "credits_no_reason": "Bez uvedení důvodu",
+    "removewarn_description": "Odebere varování serveru či uživateli.",
+    "usage_removewarn": "{0} (IDvarování)\n{0} (uživatel)\n{0} all",
+    "examples_removewarn": "{0} 56323094912\n{0} @Dramex\n{0} all"
 }
