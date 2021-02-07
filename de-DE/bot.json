@@ -441,5 +441,6 @@
     "temp_already_enabled": ":x: **Diese Funktion ist bereits aktiviert, um sie zu deaktivieren benutze: `{0} off`.**",
     "reset_confirm_member": "**Bist du sicher, dass du {0}'s Punkte zurücksetzen möchtest ?**",
     "role_error_managed": ":rolling_eyes: - **{0}** wird von der Integration verwaltet und kann nicht vergeben werden.",
-    "jump_to_message": "Jump to Message"
+    "jump_to_message": "Jump to Message",
+    "credits_no_reason": "No reason provided"
 }
