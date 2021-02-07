@@ -441,5 +441,6 @@
     "temp_already_enabled": ":x: **Tato funkce je již povolena, pro její zakázání použijte `{0} off`.**",
     "reset_confirm_member": "**Opravdu chceš obnovit body člena {0}?**",
     "role_error_managed": ":rolling_eyes: - Role **{0}** je spravována integrací a nemůže být přidělena.",
-    "jump_to_message": "Přejít na zprávu"
+    "jump_to_message": "Přejít na zprávu",
+    "credits_no_reason": "Bez uvedení důvodu"
 }
