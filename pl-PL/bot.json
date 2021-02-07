@@ -441,5 +441,6 @@
     "temp_already_enabled": ":x: **Ta funkcja jest już włączona, aby ją wyłączyć, użyj`{0} off`.**",
     "reset_confirm_member": "**Czy na pewno chcesz zresetować punkty {0}?**",
     "role_error_managed": ":rolling_eyes: - **{0}** jest zarządzany przez integrację i nie można go podać.",
-    "jump_to_message": "Przejdź do wiadomości"
+    "jump_to_message": "Przejdź do wiadomości",
+    "credits_no_reason": "Nie podano powodu."
 }
