@@ -442,5 +442,8 @@
     "reset_confirm_member": "**Biztosan vissza szeretnéd állítani {0} pontjait?**",
     "role_error_managed": ":rolling_eyes: - **{0}** integrációval kezeli, és nem adható meg.",
     "jump_to_message": "Ugrás az üzenethez",
-    "credits_no_reason": "Nincs ok megadva."
+    "credits_no_reason": "Nincs ok megadva.",
+    "removewarn_description": "Figyelmeztetések eltávolítása a felhasználóról vagy a szerverről.",
+    "usage_removewarn": "{0} (figyelmeztetés ID-je)\n{0} (felhasználó)\n{0} all",
+    "examples_removewarn": "{0} 56323094912\n{0} @Dramex\n{0} all"
 }
