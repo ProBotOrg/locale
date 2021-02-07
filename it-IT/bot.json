@@ -441,5 +441,6 @@
     "temp_already_enabled": ":x:  **questa funzione è già abilitata, per disabilitarla utilizza `{0} off`.**",
     "reset_confirm_member": "**Sei sicuro di voler resettare {0} punti?**",
     "role_error_managed": ":rolling_eyes: - **{0}** è gestito da integrazione e non può essere assegnato.",
-    "jump_to_message": "Vai al messaggio"
+    "jump_to_message": "Vai al messaggio",
+    "credits_no_reason": "Non è stata fornita una ragione."
 }
