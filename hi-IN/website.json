@@ -648,5 +648,8 @@
     "daily_get_upto": "Aap har din {0} tak uth sakate hain.",
     "daily_disable_vpn": "Krpaya apana Proxy ya VPN band karen aur punah prayaas karen",
     "daily_wrong_captcha": "Captcha sahee nahin phir koshish karen",
-    "daily_already_claimed": "Aap pahale hee inaam ka daava kar chuke hain"
+    "daily_already_claimed": "Aap pahale hee inaam ka daava kar chuke hain",
+    "responder_want_delete": "Do you really want to delete this responder",
+    "index_card6_title": "riekshan rols",
+    "index_card6_description": "Reactions Roles allow users to take roles for themself by tapping on a reaction."
 }
