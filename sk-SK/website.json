@@ -648,5 +648,8 @@
     "daily_get_upto": "môžete získať až {0} každý deň.",
     "daily_disable_vpn": "prosím vypnite si svoje Proxy alebo VPN a skúste ešte raz.",
     "daily_wrong_captcha": "Captcha nebola správna skúste to znova",
-    "daily_already_claimed": "Už ste prevzali svoju odmenu"
+    "daily_already_claimed": "Už ste prevzali svoju odmenu",
+    "responder_want_delete": "Do you really want to delete this responder",
+    "index_card6_title": "Reakčné role",
+    "index_card6_description": "Reactions Roles allow users to take roles for themself by tapping on a reaction."
 }
