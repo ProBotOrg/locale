@@ -649,7 +649,7 @@
     "daily_disable_vpn": "يرجى إيقاف تشغيل VPN أو Proxy وحاول مرة أخرى",
     "daily_wrong_captcha": "التحقق غير صحيح, حاول مرة أخرى",
     "daily_already_claimed": "لقد استلمت بالفعل هذه المكافأة",
-    "responder_want_delete": "Do you really want to delete this responder",
+    "responder_want_delete": "هل تريد حقاً حذف هذا الرد",
     "index_card6_title": "رولات الرياكشن",
-    "index_card6_description": "Reactions Roles allow users to take roles for themself by tapping on a reaction."
+    "index_card6_description": "تسمح خاصية الرياكشن رول للمستخدمين بأخذ رولات لأنفسهم من خلال النقر على الرياكشن."
 }
