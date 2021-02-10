@@ -647,9 +647,9 @@
     "claimed_last_daily": "Vous avez réclamé {0} crédits lors de votre dernier quotidien",
     "daily_get_upto": "Vous pouvez vous lever jusqu'à {0} chaque jour.",
     "daily_disable_vpn": "Veuillez désactiver votre Proxy ou VPN et réessayer",
-    "daily_wrong_captcha": "Captcha not right try again",
-    "daily_already_claimed": "You have already claimed the reward",
-    "responder_want_delete": "Do you really want to delete this responder",
+    "daily_wrong_captcha": "Captcha non droit réessayez ",
+    "daily_already_claimed": "Vous avez déjà réclamé la récompense",
+    "responder_want_delete": "Voulez-vous vraiment supprimer ce répondeur",
     "index_card6_title": "Rôles de réactions",
-    "index_card6_description": "Reactions Roles allow users to take roles for themself by tapping on a reaction."
+    "index_card6_description": "Les rôles de réaction permettent aux utilisateurs de prendre des rôles pour eux-mêmes en appuyant sur une réaction."
 }
