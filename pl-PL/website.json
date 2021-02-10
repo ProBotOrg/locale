@@ -649,7 +649,7 @@
     "daily_disable_vpn": "Wyłącz proxy lub VPN i spróbuj ponownie",
     "daily_wrong_captcha": "Captcha nie jest poprawna, spróbuj ponownie",
     "daily_already_claimed": "Już odebrałeś tę nagrodę",
-    "responder_want_delete": "Do you really want to delete this responder",
+    "responder_want_delete": "Czy na pewno chcesz usunąć ten responder?",
     "index_card6_title": "Role reakcją",
-    "index_card6_description": "Reactions Roles allow users to take roles for themself by tapping on a reaction."
+    "index_card6_description": "Role reakcji pozwalają użytkownikom przyjmować role dla siebie, naciskając na reakcję."
 }
