@@ -646,10 +646,10 @@
     "cant_use_multi_devices": "Использование нескольких устройств запрещено",
     "claimed_last_daily": "Вы заработали {0} кредитов за последний день",
     "daily_get_upto": "Вы можете получить до {0} каждый день.",
-    "daily_disable_vpn": "Please turn off your Proxy or VPN and try again",
-    "daily_wrong_captcha": "Captcha not right try again",
-    "daily_already_claimed": "You have already claimed the reward",
-    "responder_want_delete": "Do you really want to delete this responder",
+    "daily_disable_vpn": "Пожалуйста, выключите прокси или VPN и попробуйте еще раз.",
+    "daily_wrong_captcha": "Проверка не пройдена, попробуйте еще раз",
+    "daily_already_claimed": "Вы уже получили награду",
+    "responder_want_delete": "Вы действительно хотите удалить это сообщение?",
     "index_card6_title": "Роли по реакции",
-    "index_card6_description": "Reactions Roles allow users to take roles for themself by tapping on a reaction."
+    "index_card6_description": "Роли по реакции позволяют участникам получать роли по нажатию на реакции."
 }
