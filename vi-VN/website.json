@@ -649,7 +649,7 @@
     "daily_disable_vpn": "Vui lòng tắt Proxy hay VPN của bạn và thử lại",
     "daily_wrong_captcha": "Captcha chưa đúng, vui lòng thử lại",
     "daily_already_claimed": "Bạn đã nhận phần thưởng rồi",
-    "responder_want_delete": "Do you really want to delete this responder",
+    "responder_want_delete": "Bạn thực sự muốn xóa phản hồi này?",
     "index_card6_title": "Reaction role",
-    "index_card6_description": "Reactions Roles allow users to take roles for themself by tapping on a reaction."
+    "index_card6_description": "Reaction Role cho phép người dùng khác nhận các vai trò đã cho bằng cách nhấn vào một biểu cảm."
 }
