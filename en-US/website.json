@@ -48,7 +48,7 @@
     "usage_top": "{0}\n{0} (day / week / month)\n{0} (text / voice/ invites) (page number)",
     "usage_user": "{0} (user)",
     "usage_avatar": "{0} (user)\n{0} server",
-    "usage_ban": "{0} Havana",
+    "usage_ban": "{0} (user) (time m/h/d/mo/y) (reason)",
     "usage_vkick": "{0} (user)",
     "usage_unban": "{0} (username / user id)",
     "usage_kick": "{0} (user) (reason)",
