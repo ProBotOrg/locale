@@ -645,7 +645,7 @@
     "daily": "Odbierz swoją dzienną nagrodę",
     "cant_use_multi_devices": "Nie możesz używać wielu urządzeń",
     "claimed_last_daily": "Twoja ostatnia dzienna nagroda wynosiła {0}$",
-    "daily_get_upto": "Możesz dostać do {0} każdego dnia.",
+    "daily_get_upto": "Możesz dostać do {0}$ każdego dnia.",
     "daily_disable_vpn": "Wyłącz proxy lub VPN i spróbuj ponownie",
     "daily_wrong_captcha": "Captcha nie jest poprawna, spróbuj ponownie",
     "daily_already_claimed": "Już odebrałeś tę nagrodę",
