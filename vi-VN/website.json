@@ -651,5 +651,7 @@
     "daily_already_claimed": "Bạn đã nhận phần thưởng rồi",
     "responder_want_delete": "Bạn thực sự muốn xóa phản hồi này?",
     "index_card6_title": "Reaction role",
-    "index_card6_description": "Reaction Role cho phép người dùng khác nhận các vai trò đã cho bằng cách nhấn vào một biểu cảm."
+    "index_card6_description": "Reaction Role cho phép người dùng khác nhận các vai trò đã cho bằng cách nhấn vào một biểu cảm.",
+    "error_upload_5": "File type not supported",
+    "error_upload_500": "Internal Server Error"
 }
