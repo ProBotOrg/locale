@@ -651,5 +651,7 @@
     "daily_already_claimed": "Ödülü zaten aldın",
     "responder_want_delete": "Do you really want to delete this responder",
     "index_card6_title": "Tepki Rolleri",
-    "index_card6_description": "Tepki rolleri, kullanıcılara; tepki vererek kendilerine rol almalarını sağlar."
+    "index_card6_description": "Tepki rolleri, kullanıcılara; tepki vererek kendilerine rol almalarını sağlar.",
+    "error_upload_5": "File type not supported",
+    "error_upload_500": "Internal Server Error"
 }
