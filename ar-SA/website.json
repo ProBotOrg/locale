@@ -651,5 +651,7 @@
     "daily_already_claimed": "لقد استلمت بالفعل هذه المكافأة",
     "responder_want_delete": "هل تريد حقاً حذف هذا الرد",
     "index_card6_title": "رولات الرياكشن",
-    "index_card6_description": "تسمح خاصية الرياكشن رول للمستخدمين بأخذ رولات لأنفسهم من خلال النقر على الرياكشن."
+    "index_card6_description": "تسمح خاصية الرياكشن رول للمستخدمين بأخذ رولات لأنفسهم من خلال النقر على الرياكشن.",
+    "error_upload_5": "File type not supported",
+    "error_upload_500": "Internal Server Error"
 }
