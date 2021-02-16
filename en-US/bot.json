@@ -108,7 +108,7 @@
     "usage_avatar": "{0} (user)\n{0} server",
     "usage_server": "{0}",
     "usage_roles": "{0}",
-    "usage_ban": "{0} Havana",
+    "usage_ban": "{0} (user) (time m\/h\/d\/mo\/y) (reason)",
     "usage_vkick": "{0} (user)",
     "usage_unban": "{0} (username \/ user id)",
     "usage_kick": "{0} (user) (reason)",
