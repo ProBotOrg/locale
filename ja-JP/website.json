@@ -651,5 +651,7 @@
     "daily_already_claimed": "既に報酬を受け取っています",
     "responder_want_delete": "本当にこのユーザーを削除しますか？",
     "index_card6_title": "リアクションロール",
-    "index_card6_description": "リアクション ロールはリアクションをタップすることで、ユーザーが自分のロールを取ることができます。"
+    "index_card6_description": "リアクション ロールはリアクションをタップすることで、ユーザーが自分のロールを取ることができます。",
+    "error_upload_5": "File type not supported",
+    "error_upload_500": "Internal Server Error"
 }
