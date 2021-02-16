@@ -651,5 +651,7 @@
     "daily_already_claimed": "Вы уже получили награду",
     "responder_want_delete": "Вы действительно хотите удалить это сообщение?",
     "index_card6_title": "Роли по реакции",
-    "index_card6_description": "Роли по реакции позволяют участникам получать роли по нажатию на реакции."
+    "index_card6_description": "Роли по реакции позволяют участникам получать роли по нажатию на реакции.",
+    "error_upload_5": "File type not supported",
+    "error_upload_500": "Internal Server Error"
 }
