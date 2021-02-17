@@ -646,12 +646,12 @@
     "cant_use_multi_devices": "Nemůžeš použít více zařízení",
     "claimed_last_daily": "Z tvé poslední denní odměny jsi dostal/a {0} kreditů",
     "daily_get_upto": "Můžeš dostat až {0} každý den.",
-    "daily_disable_vpn": "Please turn off your Proxy or VPN and try again",
-    "daily_wrong_captcha": "Captcha not right try again",
-    "daily_already_claimed": "You have already claimed the reward",
-    "responder_want_delete": "Do you really want to delete this responder",
+    "daily_disable_vpn": "Vypni si prosím proxy nebo VPN a zkus to znovu",
+    "daily_wrong_captcha": "Captcha není správná, zkus to znovu",
+    "daily_already_claimed": "Již sis vyzvedl/a odměnu!",
+    "responder_want_delete": "Opravdu chceš odstranit tento odpovídač?",
     "index_card6_title": "Reakční role",
-    "index_card6_description": "Reactions Roles allow users to take roles for themself by tapping on a reaction.",
-    "error_upload_5": "File type not supported",
-    "error_upload_500": "Internal Server Error"
+    "index_card6_description": "Reakční role umožňují uživatelům nastavit si role kliknutím na reakci.",
+    "error_upload_5": "Typ souboru není podporován",
+    "error_upload_500": "Interní chyba serveru"
 }
