@@ -652,6 +652,6 @@
     "responder_want_delete": "Czy na pewno chcesz usunąć ten responder?",
     "index_card6_title": "Role reakcją",
     "index_card6_description": "Role reakcji pozwalają użytkownikom przyjmować role dla siebie, naciskając na reakcję.",
-    "error_upload_5": "File type not supported",
-    "error_upload_500": "Internal Server Error"
+    "error_upload_5": "Ten typ pliku nie jest obsługiwany",
+    "error_upload_500": "Wewnętrzny błąd serwera"
 }
