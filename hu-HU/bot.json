@@ -395,7 +395,7 @@
     "logs_member_updated": "\n\n\n:writing_hand: **{0} frissítve.**\n",
     "logs_old_nickname": "**Régi becenév: **",
     "logs_new_nickname": "**Új becenév: **",
-    "logs_member_updated_roles": "**Beosztások :**",
+    "logs_member_updated_roles": "**Rangok :**",
     "logs_nickname_reset": "{0} beceneve visszaállítva.",
     "logs_nickname_changed": "{0} régi beceneve megváltoztatva.",
     "logs_role_created": ":family_mmb: **`{0}` beosztás létrehozva.**",
