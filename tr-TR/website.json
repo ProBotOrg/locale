@@ -33,7 +33,7 @@
     "examples_credits": "{0}\n{0} @ZEUS\n{0} @ZEUS 15000\n{0} @ZEUS 15000 Hello",
     "examples_color": "{0} 15",
     "examples_title": "{0} Bu bir Başlık",
-    "examples_reset": "{0} text\n{0} voice\n{0} invites",
+    "examples_reset": "{0} text all\n{0} voice all\n{0} invites all\n{0} text {1}\n{0} voice {1}\n{0} invites {1}",
     "examples_rep": "{0}\n{0} @Dramex\n{0} 157605500488384512",
     "examples_vip": "{0}\n{0} move 1000\n{0} transfer 1000 @Dramex\n{0} restart\n{0} avatar AvatarLink\n{0} username SystemBot\n{0} status SystemBot",
     "examples_temp": "{0} on\n{0} off\n{0} time 5\n{0} max 1",
