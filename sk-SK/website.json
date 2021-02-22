@@ -649,9 +649,9 @@
     "daily_disable_vpn": "prosím vypnite si svoje Proxy alebo VPN a skúste ešte raz.",
     "daily_wrong_captcha": "Captcha nebola správna skúste to znova",
     "daily_already_claimed": "Už ste prevzali svoju odmenu",
-    "responder_want_delete": "Do you really want to delete this responder",
+    "responder_want_delete": "Naozaj chcete odstrániť túto odpoveď?",
     "index_card6_title": "Reakčné role",
-    "index_card6_description": "Reactions Roles allow users to take roles for themself by tapping on a reaction.",
-    "error_upload_5": "File type not supported",
-    "error_upload_500": "Internal Server Error"
+    "index_card6_description": "Reakčné role povolia používateľom vziať si pre seba role kliknutím na reakciu.",
+    "error_upload_5": "Typ súboru nie je podporovaný",
+    "error_upload_500": "Interná chyba servera"
 }
