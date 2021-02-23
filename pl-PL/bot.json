@@ -221,7 +221,7 @@
     "warn_cant_description": ":rolling_eyes: - **Nie możesz dać ostrzeżenia @{0}. **",
     "warn_select_description": "**Wybierz powód:**",
     "warn_specify_description": ":rolling_eyes: - **Podaj powód.**",
-    "warn_been_removed_description": ":white_check_mark: **Ostrzeżenia {0} zostały usunięte.**",
+    "warn_been_removed_description": ":white_check_mark: **{0} ostrzeżenia zostały usunięte.**",
     "warn_cant_warning_description": "🔍 **Nie mogę znaleźć ostrzeżenia, którego szukasz.**",
     "warn_specify_number_description": ":rolling_eyes: - **Podaj numer ostrzeżenia lub wspomnij użytkownika lub wszystkich (all), aby usunąć wszystkie ostrzeżenia.**",
     "vkick_cant_permission_description": ":rolling_eyes: - Nie mogę wyrzucić tego użytkownika. Sprawdź moje uprawnienia.",
