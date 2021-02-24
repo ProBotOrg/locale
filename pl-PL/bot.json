@@ -270,7 +270,7 @@
     "vip_must_ownership_description": "**:rolling_eyes: - Musisz być właścicielem tego bota.**",
     "vip_owner_only_description": "Tylko właściciel~",
     "vip_select_one_description": "** Wybierz jeden: **",
-    "vip_restarting_description": ":timer: **Ponowne uruchomienie ...**",
+    "vip_restarting_description": ":timer: **Trwa ponowne uruchamianie...**",
     "vip_please_wait_description": "**:stopwatch: | {0}, proszę czekać {1}. **",
     "vip_please_attach_description": "Proszę sprecyzować lub załączyć",
     "vip_please_specify_description": ":rolling_eyes: - **Proszę sprecyzuj**",
