@@ -652,6 +652,6 @@
     "responder_want_delete": "Voulez-vous vraiment supprimer ce répondeur",
     "index_card6_title": "Rôles de réactions",
     "index_card6_description": "Les rôles de réaction permettent aux utilisateurs de prendre des rôles pour eux-mêmes en appuyant sur une réaction.",
-    "error_upload_5": "File type not supported",
-    "error_upload_500": "Internal Server Error"
+    "error_upload_5": "Type de fichier non pris en charge",
+    "error_upload_500": "Erreur interne du serveur"
 }
