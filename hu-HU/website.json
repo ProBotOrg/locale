@@ -633,7 +633,7 @@
     "rr_toggle": "Váltás",
     "rr_toggle_desc": "Ez a típus hozzáadja/eltávolítja a rango(ka)t, ha a felhasználó reagált az adott reakcióval. AJÁNLOTT!",
     "rr_give": "Megadás",
-    "rr_give_desc": "This type adds the roles whenever a reaction is added/removed. Good for accepting rules!",
+    "rr_give_desc": "Ez a típus megadja a rangot a felhasználónak, ha egy reakciót hozzáad/eltávolít. Jó szabályok betartatásához!",
     "rr_take": "Elvétel",
     "rr_take_desc": "Ez a típus elveszi a rangot a felhasználótól, ha egy reakciót hozzáad/eltávolít.",
     "rr_requires_embed_1": "Ez a funkció Béta állapotban van, és beágyazást igényel,",
