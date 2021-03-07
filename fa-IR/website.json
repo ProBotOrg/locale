@@ -250,7 +250,7 @@
     "link_uses": "Link uses",
     "link_default_channel": "Link invite default channel",
     "link_limit": "How many links should be able to be requested before wait time",
-    "link_wait_time": "Wait time in hours",
+    "link_wait_time": "مدت زمان انتظار به ساعت",
     "link_wait_message": "Message to send to server for wait time",
     "link_disable_wait": "غیرفعال کردن زمان انتظار",
     "link_invite_permission": "هرکسی که دسترسی 'دعوت کاربران' را دارد",
@@ -290,56 +290,56 @@
     "AUTOMOD_DISCORD_INVITES": "DISCORD INVITES",
     "AUTOMOD_REPEATED": "REPEATED MESSAGES",
     "AUTOMOD_MASS_MENTION": "MASS MENTION",
-    "AUTOMOD_EMOJI_SPAM": "EMOJI SPAM",
-    "AUTOMOD_CAPS": "SPAMMED CAPS (70% > CAPS)",
-    "AUTOMOD_IGNORED_CHANNELS": "Ignored Channels:",
-    "AUTOMOD_IGNORED_ROLES": "Ignored Roles:",
-    "AUTOMOD_ONLY_IMAGES": "Only Images Channels:",
-    "AUTOMOD_ONLY_YOUTUBE": "Only YouTube Links Channels:",
-    "SELECT_REASON": "Select a reason from the list",
-    "ID_BACKGROUNDS": "ID Backgrounds",
-    "OTHERS": "Others",
-    "LOGOUT": "Logout",
-    "LOGOUT_CONFIRM": "Are you sure you want to logout?",
-    "PANEL_LOGS": "Control Panel Logs",
+    "AUTOMOD_EMOJI_SPAM": "اسپم شکلک ها",
+    "AUTOMOD_CAPS": "اسپم حروف بزرگ (بیش از 70% از حروف)",
+    "AUTOMOD_IGNORED_CHANNELS": "چنل های نادیده گرفته شده:",
+    "AUTOMOD_IGNORED_ROLES": "نقش های نادیده گرفته شده:",
+    "AUTOMOD_ONLY_IMAGES": "ارسال تصویر فقط در چنل های:",
+    "AUTOMOD_ONLY_YOUTUBE": "ارسال لینک یوتیوب فقط در چنل های:",
+    "SELECT_REASON": "یک دلیل از لیست انتخاب کنید",
+    "ID_BACKGROUNDS": "شناسه پس‌زمینه‌ها",
+    "OTHERS": "دیگر",
+    "LOGOUT": "خروج",
+    "LOGOUT_CONFIRM": "آیا مطمعنید که می‌خواهید خارج شوید؟",
+    "PANEL_LOGS": "لاگ های پنل تنظیمات",
     "TIME_ACTIONS": "Time Actions",
-    "WARNINGS": "Warnings",
-    "BLACKLIST_LINKS": "Blacklist links",
-    "MATCH_THE_WHOLE_SENTENCE": "Match the exact word",
-    "MESSAGES": "Messages",
-    "TODAY_JOINS_LEFTS": "Members joined/left last 24h",
-    "ONLINE_MEMBERS": "Online Members",
-    "TOTAL_MEMBERS": "Total Members",
-    "JOINS_LEAVES": "Joins / Leaves",
-    "MESSAGE_STATS": "Number of messages (excl. Bots)",
-    "BOT_GIVEN_A_ROLE": "Action when bot has given an administrative role",
-    "USE_COMMA": "Use comma to seperate them",
-    "GUILD_UPDATE_ACTION": "Action when server name/icon has been changed",
-    "CREDITS_STORE": "Credits Store",
-    "BADGES": "Profile Badges",
-    "PROFILE_BACKGROUNDS": "Profile Backgrounds",
-    "TOTAL_AND_ONLINE": "TOTAL MEMBERS / ONLINE",
-    "DAILY_MESSAGES_COUNT": "New messages last 24h",
-    "CHART_7_DAYS": "Charts over the last 7 days",
-    "PROTECTION_ACCESS": "Who can access to ProBot control panel?",
-    "PROTECTION_ACCESS_ANY_ADMINISTRATOR": "Any members with Administrator permission",
-    "PROTECTION_ACCESS_MEMBERS": "Owner + Specific members with Administrator permission",
-    "MEMBERS": "Members",
-    "PROTECTION_ONLY_OWNER": "Restrict protection properties to the owner of the server",
-    "UNSAVED_CONFIRM": "Careful — you have unsaved changes!",
-    "cancel": "Cancel",
-    "SAVE_CHANGES": "Save Changes",
-    "MOD_UNTIL_LEAVES": "Until member leaves the server",
-    "AUTO_ROLES": "Auto Roles",
-    "AUTO_ROLES_NOTE": "By community request, AutoRole only works if the role does not have administrative permissions.",
-    "RECOMMANDED": "Recommended",
-    "PERMISSIONS_LIMITS": "Permissions Limits",
-    "COMMANDS_LIMITS": "Commands limits",
-    "COMMAND_LIMIT": "Limit",
-    "CHANNELS_LIMIT_HINT": "This limit will apply on channel create/update/delete events.",
-    "ROLE_LIMIT_HINT": "This limit will apply on role create/update/delete events.",
-    "REQUIRES_SETUP": "This server requires setup.",
-    "CONTINUE_TO_DISCORD": "Continue to Discord",
+    "WARNINGS": "اخطار‌ها",
+    "BLACKLIST_LINKS": "لیست سیاه لینک ها",
+    "MATCH_THE_WHOLE_SENTENCE": "دقیقا مشابه حروف",
+    "MESSAGES": "پیام ها",
+    "TODAY_JOINS_LEFTS": "کاربرانی که در 24 ساعت اخیر عضو شده‌اند/ترک کرده‌اند",
+    "ONLINE_MEMBERS": "اعضاء آنلاین",
+    "TOTAL_MEMBERS": "تعداد کل اعضاء",
+    "JOINS_LEAVES": "عضو شده‌ها/ ترک کرده‌ها",
+    "MESSAGE_STATS": "تعداد پیام ها(بجز بات‌ها)",
+    "BOT_GIVEN_A_ROLE": "انجام هنگامی که بات نقش دسترسی مدیریتی داد",
+    "USE_COMMA": "از کاما برای جدا کردن آن ها استفاده کنید",
+    "GUILD_UPDATE_ACTION": "انجام هنگامی که آیکن/نام سرور تغییر پیدا کرد",
+    "CREDITS_STORE": "فروشگاه اعتبارات",
+    "BADGES": "نشان های پروفایل",
+    "PROFILE_BACKGROUNDS": "پس زمینه های پروفایل",
+    "TOTAL_AND_ONLINE": "تمام اعضاء / آنلاین",
+    "DAILY_MESSAGES_COUNT": "پیام های جدید در 24 ساعت اخیر",
+    "CHART_7_DAYS": "نمودار ها در دوره 7 روز اخیر",
+    "PROTECTION_ACCESS": "چه کسی می تواند به پنل تنظیمات ProBot دسترسی داشته باشد؟",
+    "PROTECTION_ACCESS_ANY_ADMINISTRATOR": "هر عضوی که دسترسی مدیریت دارد",
+    "PROTECTION_ACCESS_MEMBERS": "مالک + تعداد مشخصی از اعضاء که دسترسی مدیریتی دارند",
+    "MEMBERS": "اعضاء",
+    "PROTECTION_ONLY_OWNER": "ویژگی های محافظتی را به مالک سرور محدود کن",
+    "UNSAVED_CONFIRM": "حواستان باشد — شما یه سری تغییرات ذخیره نشده دارید!",
+    "cancel": "لغو",
+    "SAVE_CHANGES": "ذخیره تغییرات",
+    "MOD_UNTIL_LEAVES": "تا زمانی که کاربر سرور را ترک می کند",
+    "AUTO_ROLES": "نقش های خودکار",
+    "AUTO_ROLES_NOTE": "توسط درخواست های انجمن، نقش‌خودکار فقط زمانی کار می کند که آن نقش دسترسی مدیریتی نداشته باشد.",
+    "RECOMMANDED": "توصیه شده",
+    "PERMISSIONS_LIMITS": "محدودیت های دسترسی ها",
+    "COMMANDS_LIMITS": "محدودیت های دستورات",
+    "COMMAND_LIMIT": "محدودیت ",
+    "CHANNELS_LIMIT_HINT": "این محدودیت شامل رخداد های ساخته/بروزرسانی/حذف شدن چنل می باشد.",
+    "ROLE_LIMIT_HINT": "این محدودیت شامل رخداد های ساخته/بروزرسانی/حذف شدن نقش می باشد.",
+    "REQUIRES_SETUP": "این سرور نیازمند به راه‌اندازی است.",
+    "CONTINUE_TO_DISCORD": "ادامه با دیسکورد",
     "kick_member": "Member kicked",
     "color": "Color",
     "enable": "Enable",
@@ -503,12 +503,12 @@
     "leveling_actions": "Actions",
     "leveling_current_channel": "Current Channel",
     "leveling_disabled": "غیرفعال",
-    "leveling_no_xp_roles": "NO XP Roles",
-    "leveling_default_levelup": "[user], you've reached **level [level]!** 🥳",
-    "leveling_no_xp_channels": "NO XP Channels",
-    "leveling_note": "* To avoid spamming users get random amount of xp each minute while chatting",
-    "leveling_variables": "[level] - to print given level\n[oldLevel] - to print old level\n[user] - to ping the user\n[userName] - to print user name\n[userTag] - to bring user tag",
-    "leveling_add_role_reward": "Add Role Reward",
+    "leveling_no_xp_roles": "نقش های بدون XP",
+    "leveling_default_levelup": "[user]، شما به **سطح [level]** رسیدید! 🥳",
+    "leveling_no_xp_channels": "چنل های بدون XP",
+    "leveling_note": "* برای جلوگیری از اسپم کردن، کاربران یک مقدار شانسی از xp حین چت کردن به ازای هر دقیقه دریافت می کنند",
+    "leveling_variables": "[level] - برای نوشته شدن سطح\n[oldLevel] - برای نوشته شدن سطح قبلی\n[user] - برای اشاره به نام کاربر\n[userName] - برای نوشتن نام کاربر\n[userTag] - برای آوردن تگ آخر نام کاربر",
+    "leveling_add_role_reward": "افزودن رول جایزه",
     "Premium": "پریمیوم",
     "LEADERBOARD": "جدول امتیازات",
     "transactions_date": "تاریخ",
@@ -519,22 +519,22 @@
     "store_newest": "جدیدترین",
     "store_low_price": "قیمت - از کم به زیاد",
     "store_high_price": "قيمت - از زیاد به کم",
-    "store_select_abadge": "Please select a badge",
+    "store_select_abadge": "لطفا یک نشان انتخاب کنید",
     "store_all": "All",
     "store_games": "بازی ها",
     "store_flags": "پرچم ها",
-    "store_football": "Football",
-    "store_pokemon": "Pokemon",
-    "store_anime": "Anime",
-    "store_tv_cienma": "TV & Cienma",
-    "store_badge_been_deleted": "Badge has been deleted 👌",
-    "store_error_contact_support": "Error, please contact the support",
-    "store_background_changed": "Background has been changed 👌",
-    "store_badge_changed": "Badge has been changed 👌",
-    "store_credits_too_low": "Your credits is too low to make this action",
-    "store_bg_current": "Current",
-    "success": "Success 👌",
-    "premium_month": "Month",
+    "store_football": "فوتبال",
+    "store_pokemon": "پوکیمون",
+    "store_anime": "انیمه",
+    "store_tv_cienma": "تلوزیون و سینما",
+    "store_badge_been_deleted": "نشان با موفقیت حذف شد 👌",
+    "store_error_contact_support": "خطا، لطفا با پشتیبانی تماس حاصل فرمایید",
+    "store_background_changed": "پس‌زمینه با موفقیت تغییر یافت 👌",
+    "store_badge_changed": "نشان با موفقیت تغییر یافت 👌",
+    "store_credits_too_low": "میزان اعتبار شما کم تر از این است که بتوانید این کار را انجام دهید",
+    "store_bg_current": "فعلی",
+    "success": "موفقیت آمیز بود 👌",
+    "premium_month": "ماه",
     "premium_months": "ماه ها",
     "premium_year": "سال",
     "premium_bot_username": "نام کاربری بات",
@@ -548,13 +548,13 @@
     "premium_dont_have_balance": "اوخ! شما اینقدر موجودی ندارید که بتوانید آن را انجام دهید،",
     "premium_current_credits_is": "میزان اعتبار فعلی شما {0} می باشد",
     "protection_options": "تنظیمات محافظت:",
-    "protection_delete_limits": "Delete {0} limits",
+    "protection_delete_limits": "حذف {0} محدودیت",
     "music_dj_roles": "نقش های DJ",
-    "both_voice_and_text": "Both Voice & Text",
-    "whitelist_urls": "WHITELIST URLS",
-    "automod_mute_time": "Mute Time",
-    "automod_mute_violations": "Mute Violations Count",
-    "automod_mute_in": "In",
+    "both_voice_and_text": "هم صوتی و هم متنی",
+    "whitelist_urls": "لیست سفید آدرس های اینترنتی",
+    "automod_mute_time": "مدت زمان حالت سکوت",
+    "automod_mute_violations": "تعداد حالات به سکوت رفته در اثر تخطی کردن",
+    "automod_mute_in": "در",
     "automod_mute_time_mintues": "دقیقه",
     "automod_mute_time_hours": "ساعت ها",
     "automod_mute_time_days": "روز ها",
