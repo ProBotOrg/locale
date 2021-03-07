@@ -555,7 +555,7 @@
     "automod_mute_time": "Temps muet",
     "automod_mute_violations": "Nombre de violations de muet",
     "automod_mute_in": "Dans",
-    "automod_mute_time_mintues": "Minteaux",
+    "automod_mute_time_mintues": "Mintues",
     "automod_mute_time_hours": "Heures",
     "automod_mute_time_days": "Jours",
     "automod_mute_time_months": "Mois",
@@ -646,7 +646,12 @@
     "cant_use_multi_devices": "Vous ne pouvez pas utiliser plusieurs appareils",
     "claimed_last_daily": "Vous avez réclamé {0} crédits lors de votre dernier quotidien",
     "daily_get_upto": "Vous pouvez vous lever jusqu'à {0} chaque jour.",
-    "daily_disable_vpn": "Please turn off your Proxy or VPN and try again",
-    "daily_wrong_captcha": "Captcha not right try again",
-    "daily_already_claimed": "You have already claimed the reward"
+    "daily_disable_vpn": "Veuillez désactiver votre Proxy ou VPN et réessayer",
+    "daily_wrong_captcha": "Captcha non droit réessayez ",
+    "daily_already_claimed": "Vous avez déjà réclamé la récompense",
+    "responder_want_delete": "Voulez-vous vraiment supprimer ce répondeur",
+    "index_card6_title": "Rôles de réactions",
+    "index_card6_description": "Les rôles de réaction permettent aux utilisateurs de prendre des rôles pour eux-mêmes en appuyant sur une réaction.",
+    "error_upload_5": "Type de fichier non pris en charge",
+    "error_upload_500": "Erreur interne du serveur"
 }

@@ -612,7 +612,7 @@
     "store_nature": "Príroda",
     "done": "Hotovo",
     "transactions_no_reason": "Žiadny uvedený dôvod.",
-    "user_id": "USER ID",
+    "user_id": "ID UŽÍVATEĽA",
     "mod_bans": "Zákazy",
     "mod_mutes": "Stlmenia",
     "mod_warning": "Varovania",
@@ -625,8 +625,8 @@
     "mod_undo_action": "Vrátiť akciu",
     "delete": "Zmazať",
     "mod_want_delete_action": "Naozaj chcete zmazať túto akciu",
-    "mod_edit_action_id": "Edit Action with ID:",
-    "mod_action_reason": "Action reason:",
+    "mod_edit_action_id": "Upravte akciu s ID:",
+    "mod_action_reason": "Dôvod akcie:",
     "mod_punishment_end": "Potrestanie končí na:",
     "mod_this_will_deleted": "Tento kontakt sa odstráni.",
     "mod_delete_date_action": "Dátum v minulosti",
@@ -648,5 +648,10 @@
     "daily_get_upto": "môžete získať až {0} každý deň.",
     "daily_disable_vpn": "prosím vypnite si svoje Proxy alebo VPN a skúste ešte raz.",
     "daily_wrong_captcha": "Captcha nebola správna skúste to znova",
-    "daily_already_claimed": "Už ste prevzali svoju odmenu"
+    "daily_already_claimed": "Už ste prevzali svoju odmenu",
+    "responder_want_delete": "Naozaj chcete odstrániť túto odpoveď?",
+    "index_card6_title": "Reakčné role",
+    "index_card6_description": "Reakčné role povolia používateľom vziať si pre seba role kliknutím na reakciu.",
+    "error_upload_5": "Typ súboru nie je podporovaný",
+    "error_upload_500": "Interná chyba servera"
 }

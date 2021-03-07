@@ -648,5 +648,10 @@
     "daily_get_upto": "Aap har din {0} tak uth sakate hain.",
     "daily_disable_vpn": "Krpaya apana Proxy ya VPN band karen aur punah prayaas karen",
     "daily_wrong_captcha": "Captcha sahee nahin phir koshish karen",
-    "daily_already_claimed": "Aap pahale hee inaam ka daava kar chuke hain"
+    "daily_already_claimed": "Aap pahale hee inaam ka daava kar chuke hain",
+    "responder_want_delete": "Kya aap vaastav mein is uttaradaata ko hataana chaahate hain",
+    "index_card6_title": "riekshan rols",
+    "index_card6_description": "Pratikriyaen roles upayogakartaon ko ek pratikriya par taip karake apane lie bhoomikaen lene kee anumati detee hain.",
+    "error_upload_5": "File prakaar samarthit nahin hai",
+    "error_upload_500": "Aantarik server truti"
 }

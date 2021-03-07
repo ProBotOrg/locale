@@ -648,5 +648,10 @@
     "daily_get_upto": "Bạn có thể nhận đến {0} mỗi ngày.",
     "daily_disable_vpn": "Vui lòng tắt Proxy hay VPN của bạn và thử lại",
     "daily_wrong_captcha": "Captcha chưa đúng, vui lòng thử lại",
-    "daily_already_claimed": "Bạn đã nhận phần thưởng rồi"
+    "daily_already_claimed": "Bạn đã nhận phần thưởng rồi",
+    "responder_want_delete": "Bạn thực sự muốn xóa phản hồi này?",
+    "index_card6_title": "Reaction role",
+    "index_card6_description": "Reaction Role cho phép người dùng khác nhận các vai trò đã cho bằng cách nhấn vào một biểu cảm.",
+    "error_upload_5": "Định dạng tệp không được hỗ trợ",
+    "error_upload_500": "Lỗi Máy Chủ Nội Bộ"
 }

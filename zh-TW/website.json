@@ -648,5 +648,10 @@
     "daily_get_upto": "You can get up to {0} every day.",
     "daily_disable_vpn": "Please turn off your Proxy or VPN and try again",
     "daily_wrong_captcha": "Captcha not right try again",
-    "daily_already_claimed": "You have already claimed the reward"
+    "daily_already_claimed": "You have already claimed the reward",
+    "responder_want_delete": "Do you really want to delete this responder",
+    "index_card6_title": "Reaction Roles",
+    "index_card6_description": "Reactions Roles allow users to take roles for themself by tapping on a reaction.",
+    "error_upload_5": "File type not supported",
+    "error_upload_500": "Internal Server Error"
 }
