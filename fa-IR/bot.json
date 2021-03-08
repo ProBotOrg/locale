@@ -352,7 +352,7 @@
     "music_join_voice": ":no_entry_sign: برای استفاده از این شما باید وارد یک چنل صوتی بشوید!",
     "music_under_maintenance": "موسیقی فعلا در دست کار و تعمیر می باشد.",
     "music_searching": ":watch: درحال جستجو... (`{0}`) ",
-    "music_include_query": ":no_entry_sign: Please include a query.",
+    "music_include_query": ":no_entry_sign: لطفا یک لیست را شامل کنید.",
     "music_under_maintenance2": "موسیقی فعلا در دست کار و تعمیر می باشد، لطفا از طریق سرور پشتیبانی با ما تماس بگیرید.",
     "music_not_found": ":mag: **پیدا نشد.**",
     "music_new_songs": ":fire: **{0}** آهنگ از `{1}` به **ProQueue** اضافه شد!",
@@ -443,7 +443,7 @@
     "role_error_managed": ":rolling_eyes: - **{0}** توسط یک integration مدیریت می شود و نمی تواند داده شود.",
     "jump_to_message": "پرش به پیام",
     "credits_no_reason": "دلیلی ارائه نشده",
-    "removewarn_description": "Remove warnings for the server or user.",
+    "removewarn_description": "حذف اخطار ها برای این سرور یا کاربر",
     "usage_removewarn": "{0} (warnID)\n{0} (user)\n{0} all",
     "examples_removewarn": "{0} 56323094912\n{0} @Dramex\n{0} all"
 }
