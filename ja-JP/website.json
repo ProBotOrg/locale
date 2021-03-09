@@ -2,8 +2,8 @@
     "blacklisted_call_dramex": "ご利用のアカウントは不審なアクティビティが検出されたため、ブラックリストに追加されました。詳細は @Dramex までお問い合わせください。",
     "blacklisted_title": "ご利用のアカウントは不審なアクティビティが検出されたため、ブラックリストに追加されました。解除するにはCaptcha認証を行ってください。",
     "blacklisted_note": "この操作は1回限り有効です。誤操作は許されません。",
-    "examples_clear": "{0} 1000\n{0} ボット 10\n{0} @Dramex 10",
-    "examples_moveme": "{0} 基本\n{0} @ZEUS",
+    "examples_clear": "{0} 1000\n{0} bots 10\n{0} @Dramex 10",
+    "examples_moveme": "{0} general\n{0} @ZEUS",
     "examples_id": "{0} @Dramex",
     "examples_profile": "{0}\n{0} @Dramex\n{0} 157605500488384512",
     "examples_top": "{0} 日\n{0} 週間\n{0} 月\n{0} text day\n{0} voice week 2\n{0} 招待",
@@ -652,6 +652,6 @@
     "responder_want_delete": "本当にこのユーザーを削除しますか？",
     "index_card6_title": "リアクションロール",
     "index_card6_description": "リアクション ロールはリアクションをタップすることで、ユーザーが自分のロールを取ることができます。",
-    "error_upload_5": "File type not supported",
-    "error_upload_500": "Internal Server Error"
+    "error_upload_5": "ファイルタイプはサポートされていません",
+    "error_upload_500": "内部サーバーエラー"
 }
