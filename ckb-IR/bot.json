@@ -345,7 +345,7 @@
     "temp_create": "درووستکردنی ژووری کاتی",
     "music_no_played": "هیچ مۆسیقایێک پلەی نەکراوە",
     "music_now_playing": "{0} ئێستا پلەی کراوە",
-    "music_no_playing": "**:frowning2: No music playing.**",
+    "music_no_playing": "هیچ مۆسقیایێک پلەی نەکراوە.",
     "music_current_queue": "**:notes: Current Queue | {0} entries**",
     "music_added_ProQueue": ":notes: **{0}** Added to **ProQueue** (`{1}`)!",
     "music_must_listening": ":no_entry_sign: You must be listening in **{0}** to use that!",
