@@ -1,4 +1,3 @@
-// website should be _ instead of -
 const languages = {};
 languages.ar = require('./ar-SA/website.json');
 languages.bg = require('./bg-BG/website.json');
@@ -62,7 +61,7 @@ botLanguages.lt = require('./lt-LT/bot.json');
 botLanguages.nl = require('./nl-NL/bot.json');
 botLanguages.no = require('./no-NO/bot.json');
 botLanguages.pl = require('./pl-PL/bot.json');
-botLanguages["pt-BR"] = require('./pt-BR/bot.json');
+botLanguages["pt_BR"] = require('./pt-BR/bot.json');
 botLanguages.pt = require('./pt-PT/bot.json');
 botLanguages.ro = require('./ro-RO/bot.json');
 botLanguages.ru = require('./ru-RU/bot.json');
@@ -74,6 +73,6 @@ botLanguages.tr = require('./tr-TR/bot.json');
 botLanguages.uk = require('./uk-UA/bot.json');
 botLanguages.vi = require('./vi-VN/bot.json');
 botLanguages.zh = require('./zh-CN/bot.json');
-botLanguages["zh-TW"] = require('./zh-TW/bot.json');
+botLanguages["zh_TW"] = require('./zh-TW/bot.json');
 
 module.exports.botLangs = botLanguages;
