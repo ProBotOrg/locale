@@ -257,7 +257,7 @@
     "vip_error_description": "**:rolling_eyes: - خطای 503**",
     "vip_canceling_description": ":rolling_eyes: - **لغو کردن...**",
     "vip_wrong_bot_description": ":rolling_eyes: - شماره بات اشتباه.",
-    "vip_command_premium_description": "**:rolling_eyes: - این دستور فقط برای پرمیوم می باشد. اگر بات پرمیوم قابل دسترسی نمی باشد، شما می توانید دستور را با دنبال کردن ID بات یا عدد دستور را بنویسید.**",
+    "vip_command_premium_description": "**:rolling_eyes: - این دستور فقط برای پرمیوم می باشد. اگر بات پرمیوم قابل دسترسی نمی باشد، شما می توانید دستور را به دنبال ID بات یا عدد دستور را بنویسید.**",
     "vip_must_enter_description": "**:rolling_eyes: - شما باید دستورد را به دنبال منشن کردن یا ID شخص مورد نظر که می خواهید بات را با آن جابه‌جا کنید، وارد نمایید.**",
     "vip_error_id_description": "**:rolling_eyes: - خطا در منشن کردن یا ID شخص مورد نظر**",
     "vip_bans_bots_description": ":rolling_eyes: - **قوانین کالیفورنیا بات هایی که ادای انسان ها را در میاورند بن می کند** \n https:\/\/www.pcmag.com\/news\/364132\/california-law-bans-bots-from-pretending-to-be-human",
