@@ -334,7 +334,7 @@
     "server_channels": ":speech_balloon: کانال ها ({0})",
     "server_channels_value": "**{0}** متنی | **{1}** صوتی",
     "server_others": ":earth_africa: دیگر",
-    "server_others_value": "**موقعیت مکانی:** {0}\n**سطح تائیدیه:** {1}",
+    "server_others_value": "**موقعیت مکانی:** {0}\n**سطح تائید هویت:** {1}",
     "server_roles": ":closed_lock_with_key: نقش ها ({0})",
     "server_roles_value": "برای دیدن فهرستی از همه نقش ها، از **roles#** استفاده کنید",
     "temp_activated": ":white_check_mark: **این ویژگی با موفقیت فعالسازی شد**",
