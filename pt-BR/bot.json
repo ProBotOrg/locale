@@ -441,7 +441,7 @@
     "temp_already_enabled": ":x: **Esse objeto já está habilitado, para desabilitar ele use `{0} off`.**",
     "reset_confirm_member": "**Você tem certeza que quer redefinir os pontos de {0}?**",
     "role_error_managed": ":rolling_eyes: - **{0}** é gerenciado pela integração e não pode ser dado.",
-    "jump_to_message": "Jump to Message",
+    "jump_to_message": "Pular para mensagem",
     "credits_no_reason": "Nenhum motivo fornecido",
     "removewarn_description": "Remover avisos para o servidor ou usuário.",
     "usage_removewarn": "{0} (warnID)\n{0} (user)\n{0} all",

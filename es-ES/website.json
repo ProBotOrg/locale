@@ -480,7 +480,7 @@
     "logout_no": "¡No! Perdón.",
     "title": "ProBot - Bot para Discord",
     "description": "Descripción:",
-    "lock_description": "Prohibe a @everyone de enviar mensajes en un canal específico.",
+    "lock_description": "Prohibe a @everyone enviar mensajes en un canal específico.",
     "unlock_description": "Permite a @everyone hablar en un canal específico.",
     "name_of_user": "Muestra el nombre del usuario, sin mencionarlo.",
     "user_invites_counter": "Contador de invitaciones del usuario",
