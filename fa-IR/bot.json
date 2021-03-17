@@ -245,7 +245,7 @@
     "unmute_check_permissions_description": ":rolling_eyes: - لطفا از دسترسی ها و موقعیت نقش من مطمعن شوید.",
     "unmute_command_require_description": ":rolling_eyes: - **این دستور نیازمند به دسترسی `Administrator` می باشد!**",
     "unmute_unmuting_description": "**از حالت سکوت در آوردن {0} عضو.**",
-    "link_must_have_description": ":rolling_eyes: - **بات باید دسترسی `Create instant invite` را برای چنل دعوت پیشفرض داشته باشد **",
+    "link_must_have_description": ":rolling_eyes: - **بات باید دسترسی `Create instant invite` را برای چنل پیشفرض دعوت ها داشته باشد **",
     "link_error_description": ":rolling_eyes: - **خطا**",
     "link_cant_find_description": ":rolling_eyes: - **نمی توانم چنل پیشفرض لینک را پیدا کنم.**",
     "vip_ownership_successfully_description": "**مالکیت با موفقیت انتقال یافت**",
@@ -292,14 +292,14 @@
     "title_long": ":rolling_eyes: - **عنوان خیلی طولانی است.**",
     "avatar_cant_find": ":rolling_eyes: - {0}، من نمی توانم **{1}** را پیدا کنم!",
     "rep_must_have": ":no_mouth: شما باید در سطح 10+ باشید تا شهرت به بقیه بدهید.",
-    "rep_can_award": "**:stopwatch: | {0}، شما می توانید بیشتر در {1} هدیه بدهید.**",
+    "rep_can_award": "**:stopwatch: | {0}، شما می توانید بیشتر هدیه بدهید در {1}.**",
     "rep_not_bots": ":rolling_eyes: **| {0}**، بات ها رده‌بندی ندارند!",
     "rep_cannot_give": "**:rolling_eyes: **| {0}**، شما نمی توانید به خودتان شهرت بدهید!**",
     "rep_given": "**:up: | {0} به {1} یک امتیاز شهرت داد!**",
     "top_only_premium": "به دلایل پردازشی، این دستور فعلا فقط برای پریمیوم می باشد.",
     "top_error": ":rolling_eyes: - **خطای شماره صفحه** {0} از {1} ",
     "top_cant_find_list": "نمی توان فهرست برتر را پیدا کرد",
-    "top_leaderboards": "📋 جدول امتیازات سرور",
+    "top_leaderboards": "📋 جدول امتیازات برتر سرور",
     "top_5text": "**5 نفر برتر نوشتاری :speech_balloon:**",
     "top_text_score": ":speech_balloon: امتیاز متن",
     "top_5voice": "**5 نفر برتر صوتی :microphone2:**",
@@ -426,14 +426,14 @@
     "protection_backup_deleted": "**نسخه پشتیبان حذف شد**",
     "protection_add_admin_permissions": "**{0} ({1})\nدسترسی مدیریت را به نقش افزود:\n{2}\nProBot این دسترسی ها را حذف کرد، هیچ اقدامی نیاز نیست**",
     "protection_permissions_all_following": "تمام دسترسی های مدیریتی نقش های زیر حذف شد:",
-    "protection_insert_backup_id": ":rolling_eyes: - **لطفا ID نسخه پشتیبان را وارد نمایید**",
-    "protection_backup_id_invalid": ":rolling_eyes: - **ID نسخه پشتیبان شما نامعتبر می باشد. لطفا دوباره تلاش کنید.**",
+    "protection_insert_backup_id": ":rolling_eyes: - **لطفا شناسه نسخه پشتیبان را وارد نمایید**",
+    "protection_backup_id_invalid": ":rolling_eyes: - **شناسه نسخه پشتیبان شما نامعتبر می باشد. لطفا دوباره تلاش کنید.**",
     "protection_restored": ":white_check_mark: **{0}** : بازگردانی شد",
     "protection_permissions_removed": ":white_check_mark: **{0}** : دسترسی ها حذف شد",
     "protection_removed_from_member": ":white_check_mark: **{0}** : از کاربر حذف شد",
     "protection_action": "**اقدام:**",
     "protection_backup_saved": "☁ **پشتیبانی ابری از نقش‌ها ذخیره شد.**",
-    "protection_restore_backup_use": "برای بازیابی نسخه پشتیبان از ```#restore {0}`` استفاده کنید",
+    "protection_restore_backup_use": "برای بازیابی نسخه پشتیبان از ```restore {0}#`` استفاده کنید",
     "protection_from_bots": "**{0}** دارای بات هایی می‌باشد: {1} \n**دستورالعمل انجام شد :slight_smile:**",
     "protection_deleted_auto_role": "**{0} ({1}) نقش خودکار را حذف کرد**: {2}.\n**اقدامات در حال انجام می باشند...**",
     "protection_limit_exceeded": ":rolling_eyes: - محدودیت روزانه **#{0}** به حد خود رسیده.",
@@ -443,7 +443,7 @@
     "role_error_managed": ":rolling_eyes: - **{0}** توسط یک integration مدیریت می شود و نمی تواند داده شود.",
     "jump_to_message": "پرش به پیام",
     "credits_no_reason": "دلیلی ارائه نشده",
-    "removewarn_description": "حذف اخطار ها برای این سرور یا کاربر",
+    "removewarn_description": "حذف اخطار های این سرور یا کاربر",
     "usage_removewarn": "{0} (warnID)\n{0} (user)\n{0} all",
     "examples_removewarn": "{0} 56323094912\n{0} @Dramex\n{0} all"
 }
