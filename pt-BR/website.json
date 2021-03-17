@@ -653,5 +653,6 @@
     "index_card6_title": "Cargos por Reação",
     "index_card6_description": "Cargos por reação permite usuários a pegar cargos tocando na reação",
     "error_upload_5": "Estilo de arquivo não suportado",
-    "error_upload_500": "Erro do servidor interno"
+    "error_upload_500": "Erro do servidor interno",
+    "rr_roles_limit": "Roles Limit Per User"
 }
