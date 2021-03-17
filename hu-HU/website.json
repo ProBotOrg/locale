@@ -653,5 +653,6 @@
     "index_card6_title": "Reakció rangok",
     "index_card6_description": "A reakció rangok engedélyezik a felhasználóknak rangok szerzését egy reakció használatával.",
     "error_upload_5": "Fájltípus nem támogatott",
-    "error_upload_500": "Belső Szerverhiba"
+    "error_upload_500": "Belső Szerverhiba",
+    "rr_roles_limit": "Roles Limit Per User"
 }
