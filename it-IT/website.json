@@ -653,5 +653,6 @@
     "index_card6_title": "Reaction Roles",
     "index_card6_description": "I reaction Roles permetto agli utenti di assegnrsi alcuni ruoli autonomamente tramite una reazione.",
     "error_upload_5": "Questo tipo di file non è supportato",
-    "error_upload_500": "Abbiamo riscontrato un'errore interno al nostro server"
+    "error_upload_500": "Abbiamo riscontrato un'errore interno al nostro server",
+    "rr_roles_limit": "Roles Limit Per User"
 }
