@@ -653,5 +653,6 @@
     "index_card6_title": "Reaksjon Roles",
     "index_card6_description": "Reactions Roles allow users to take roles for themself by tapping on a reaction.",
     "error_upload_5": "File type not supported",
-    "error_upload_500": "Internal Server Error"
+    "error_upload_500": "Internal Server Error",
+    "rr_roles_limit": "Roles Limit Per User"
 }
