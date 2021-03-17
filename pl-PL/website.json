@@ -653,5 +653,6 @@
     "index_card6_title": "Role reakcją",
     "index_card6_description": "Role reakcji pozwalają użytkownikom przyjmować role dla siebie, naciskając na reakcję.",
     "error_upload_5": "Ten typ pliku nie jest obsługiwany",
-    "error_upload_500": "Wewnętrzny błąd serwera"
+    "error_upload_500": "Wewnętrzny błąd serwera",
+    "rr_roles_limit": "Roles Limit Per User"
 }
