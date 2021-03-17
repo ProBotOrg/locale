@@ -1,5 +1,5 @@
 {
-    "rank_description": "View yours or someone else's server rank card.",
+    "rank_description": "Se din eller noen andres serverrank kort.",
     "examples_rank": "{0} {1}",
     "usage_rank": "{0}\n{0} (user)",
     "clear_description": "Cleans messages from a channel.",
@@ -15,7 +15,7 @@
     "kick_description": "Kicks a member.",
     "vkick_description": "Kicks a member from a voice channel",
     "mute_description": "Mute a member from text channels so they cannot type.",
-    "unmute_description": "Unmutes a member.",
+    "unmute_description": "Unmute et medlem",
     "vmute_description": "Mute a member from voice channels so they cannot speak.",
     "unvmute_description": "Unmutes a member from voice channels.",
     "move_description": "Moves a member to a voice channel.",
