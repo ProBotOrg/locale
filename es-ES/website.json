@@ -653,5 +653,6 @@
     "index_card6_title": "Roles de reacción",
     "index_card6_description": "Los roles de reacción permiten a los usuarios tomar roles por sí mismos tocando en una reacción.",
     "error_upload_5": "Tipo de archivo no soportado",
-    "error_upload_500": "Error Interno del Sevidor"
+    "error_upload_500": "Error Interno del Sevidor",
+    "rr_roles_limit": "Roles Limit Per User"
 }
