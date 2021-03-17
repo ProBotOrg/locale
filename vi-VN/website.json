@@ -653,5 +653,6 @@
     "index_card6_title": "Reaction role",
     "index_card6_description": "Reaction Role cho phép người dùng khác nhận các vai trò đã cho bằng cách nhấn vào một biểu cảm.",
     "error_upload_5": "Định dạng tệp không được hỗ trợ",
-    "error_upload_500": "Lỗi Máy Chủ Nội Bộ"
+    "error_upload_500": "Lỗi Máy Chủ Nội Bộ",
+    "rr_roles_limit": "Roles Limit Per User"
 }
