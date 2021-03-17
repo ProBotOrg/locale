@@ -653,5 +653,6 @@
     "index_card6_title": "リアクションロール",
     "index_card6_description": "リアクション ロールはリアクションをタップすることで、ユーザーが自分のロールを取ることができます。",
     "error_upload_5": "ファイルタイプはサポートされていません",
-    "error_upload_500": "内部サーバーエラー"
+    "error_upload_500": "内部サーバーエラー",
+    "rr_roles_limit": "Roles Limit Per User"
 }
