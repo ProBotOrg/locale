@@ -244,7 +244,7 @@
     "unmute_cant_find_description": ":rolling_eyes: - **نمی توان نقش حالت سکوت را یافت.**",
     "unmute_check_permissions_description": ":rolling_eyes: - لطفا از دسترسی ها و موقعیت نقش من مطمعن شوید.",
     "unmute_command_require_description": ":rolling_eyes: - **این دستور نیازمند به دسترسی `Administrator` می باشد!**",
-    "unmute_unmuting_description": "**از حالت سکوت در آوردن {0} عضو.**",
+    "unmute_unmuting_description": "**از حالت سکوت در آوردن {0} اعضاء.**",
     "link_must_have_description": ":rolling_eyes: - **بات باید دسترسی `Create instant invite` را برای چنل پیشفرض دعوت ها داشته باشد **",
     "link_error_description": ":rolling_eyes: - **خطا**",
     "link_cant_find_description": ":rolling_eyes: - **نمی توانم چنل پیشفرض لینک را پیدا کنم.**",
@@ -298,12 +298,12 @@
     "rep_given": "**:up: | {0} به {1} یک امتیاز شهرت داد!**",
     "top_only_premium": "به دلایل پردازشی، این دستور فعلا فقط برای پریمیوم می باشد.",
     "top_error": ":rolling_eyes: - **خطای شماره صفحه** {0} از {1} ",
-    "top_cant_find_list": "نمی توان فهرست برتر را پیدا کرد",
+    "top_cant_find_list": "نمی توان فهرست برترین ها را پیدا کرد",
     "top_leaderboards": "📋 جدول امتیازات برتر سرور",
-    "top_5text": "**5 نفر برتر نوشتاری :speech_balloon:**",
-    "top_text_score": ":speech_balloon: امتیاز متن",
+    "top_5text": "**5 نفر برتر متنی :speech_balloon:**",
+    "top_text_score": ":speech_balloon: امتیاز متنی",
     "top_5voice": "**5 نفر برتر صوتی :microphone2:**",
-    "top_voice_score": ":microphone2: امتیاز صوت",
+    "top_voice_score": ":microphone2: امتیاز صوتی",
     "top_more": "بیشتر؟",
     "points_title": "امتیازات:",
     "points_requested": "درخواست شده توسط {0}",
@@ -365,7 +365,7 @@
     "music_example_seek": ":rolling_eyes: - مثال `#seek 2:12`",
     "music_song_not_long": ":rolling_eyes: - آهنگ اینقدر طولانی نیست.",
     "music_volume": ":no_entry_sign: میزان صدا باید یک عدد صحیح بین 0 تا 150 باشد!",
-    "music_wrong_skip": ":rolling_eyes: **عدد گذشتن اشتباه**",
+    "music_wrong_skip": ":rolling_eyes: **عدد اشتباه**",
     "music_skipped": ":notes: گذشتن به **{0}** - <@!{1}>",
     "music_volume_changed": "میزان صدا تغییر کرد از `{0}` به `{1}`",
     "music_current_volume": "میزان صدای فعلی `{0}` می‌باشد",
