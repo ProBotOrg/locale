@@ -88,7 +88,7 @@
     "usage_rank": "{0}\n{0} (utilisateur)",
     "click_to_recharge": "( Recharger )",
     "LANGUAGE": "Anglais",
-    "MODULE_SETTINGS": "PARAMÈTRES DES MODULES",
+    "MODULE_SETTINGS": "RÉGLAGES DES MODULES",
     "GENERAL": "GÉNÉRAL",
     "OVERVIEW": "Vue d'ensemble",
     "AUTO_RESPONDER": "Réponse automatique",
@@ -654,5 +654,5 @@
     "index_card6_description": "Les rôles de réaction permettent aux utilisateurs de prendre des rôles pour eux-mêmes en appuyant sur une réaction.",
     "error_upload_5": "Type de fichier non pris en charge",
     "error_upload_500": "Erreur interne du serveur",
-    "rr_roles_limit": "Roles Limit Per User"
+    "rr_roles_limit": "Nombre limité de rôles par utilisateur"
 }
