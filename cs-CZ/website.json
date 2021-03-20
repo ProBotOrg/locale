@@ -654,5 +654,5 @@
     "index_card6_description": "Reakční role umožňují uživatelům nastavit si role kliknutím na reakci.",
     "error_upload_5": "Typ souboru není podporován",
     "error_upload_500": "Interní chyba serveru",
-    "rr_roles_limit": "Roles Limit Per User"
+    "rr_roles_limit": "Limit rolí na uživatele"
 }
