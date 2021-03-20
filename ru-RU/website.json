@@ -653,5 +653,6 @@
     "index_card6_title": "Роли по реакции",
     "index_card6_description": "Роли по реакции позволяют участникам получать роли по нажатию на реакции.",
     "error_upload_5": "Тип файла не поддерживается",
-    "error_upload_500": "Ошибка сервера"
+    "error_upload_500": "Ошибка сервера",
+    "rr_roles_limit": "Roles Limit Per User"
 }

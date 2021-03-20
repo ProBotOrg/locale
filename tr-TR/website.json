@@ -653,5 +653,6 @@
     "index_card6_title": "Tepki Rolleri",
     "index_card6_description": "Tepki rolleri kullanıcılara mesajdaki tepkiye tıklayarak kendilerine rol verebilmelerini sağlar.",
     "error_upload_5": "Dosya türü desteklenmiyor",
-    "error_upload_500": "İç/Dahili Sunucu Hatası"
+    "error_upload_500": "İç/Dahili Sunucu Hatası",
+    "rr_roles_limit": "Roles Limit Per User"
 }

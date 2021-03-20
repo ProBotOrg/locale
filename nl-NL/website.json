@@ -653,5 +653,6 @@
     "index_card6_title": "Reactie Rollen",
     "index_card6_description": "Reacties Rollen stellen gebruikers in staat om zelf rollen te nemen door op een reactie te tikken.",
     "error_upload_5": "Bestandstype niet ondersteund",
-    "error_upload_500": "Interne serverfout"
+    "error_upload_500": "Interne serverfout",
+    "rr_roles_limit": "Roles Limit Per User"
 }
