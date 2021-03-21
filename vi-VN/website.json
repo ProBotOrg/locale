@@ -33,7 +33,7 @@
     "examples_credits": "{0}\n{0} @Unreal\n{0} @Unreal 16000",
     "examples_color": "{0} 4",
     "examples_title": "{0} Em đẹp lắm",
-    "examples_reset": "{0} text\n{0} voice\n{0} invites",
+    "examples_reset": "{0} text all\n{0} voice all\n{0} invites all\n{0} text {1}\n{0} voice {1}\n{0} invites {1}",
     "examples_rep": "{0}\n{0} @Unreal\n{0} 453088549739167745",
     "examples_vip": "{0}\n{0} move 4325\n{0} transfer 4325 @Unreal\n{0} restart\n{0} avatar Link_avatar\n{0} username Pro Vip Bot\n{0} status Cai quản máy chủ pro!",
     "examples_temp": "{0} on\n{0} off\n{0} time 3\n{0} max 2",
