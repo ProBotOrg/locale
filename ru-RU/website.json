@@ -33,7 +33,7 @@
     "examples_credits": "{0}\n{0} @ZEUS\n{0} @ZEUS 15000",
     "examples_color": "{0} 15",
     "examples_title": "{0} Это Заголовок",
-    "examples_reset": "{0} text\n{0} voice\n{0} invites",
+    "examples_reset": "{0} text all\n{0} voice all\n{0} invites all\n{0} text {1}\n{0} voice {1}\n{0} invites {1}",
     "examples_rep": "{0}\n{0} @Dramex\n{0} 157605500488384512",
     "examples_vip": "{0}\n{0} передать 1000\n{0} передано 1000 Dramex\n{0} перезагрузка\n{0} аватар Ссылка на Аватар\n{0} имя Системный Бот\n{0} статус Системный Бот",
     "examples_temp": "{0} вкл \n{0} выкл \n{0} 5 раз \n{0} макс 1",
