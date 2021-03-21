@@ -76,3 +76,5 @@ botLanguages.zh = require('./zh-CN/bot.json');
 botLanguages["zh_TW"] = require('./zh-TW/bot.json');
 
 module.exports.botLangs = botLanguages;
+
+module.exports.ex = require('./examples.json');
