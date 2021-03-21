@@ -411,7 +411,7 @@
     "pay_now": "Şimdi Öde",
     "you_have_zero_prime": "0 adet Probot Prime sunucusuna sahipsiniz",
     "add_bot": "Bot Ekle",
-    "ends": "Sonlandırır",
+    "ends": "Süresi biter",
     "renews": "Yeniler",
     "you_have_zero_premium": "0 adet Premium ProBota sahipsiniz",
     "choose_payment_method": "Ödeme Yöntemi Seçin",
@@ -653,5 +653,6 @@
     "index_card6_title": "Tepki Rolleri",
     "index_card6_description": "Tepki rolleri kullanıcılara mesajdaki tepkiye tıklayarak kendilerine rol verebilmelerini sağlar.",
     "error_upload_5": "Dosya türü desteklenmiyor",
-    "error_upload_500": "İç/Dahili Sunucu Hatası"
+    "error_upload_500": "İç/Dahili Sunucu Hatası",
+    "rr_roles_limit": "Roles Limit Per User"
 }

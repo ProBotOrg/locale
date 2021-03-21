@@ -653,5 +653,6 @@
     "index_card6_title": "Reakčné role",
     "index_card6_description": "Reakčné role povolia používateľom vziať si pre seba role kliknutím na reakciu.",
     "error_upload_5": "Typ súboru nie je podporovaný",
-    "error_upload_500": "Interná chyba servera"
+    "error_upload_500": "Interná chyba servera",
+    "rr_roles_limit": "Limit rol na používateľa"
 }

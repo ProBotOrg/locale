@@ -652,6 +652,7 @@
     "responder_want_delete": "Wollen Sie diesen Benutzer wirklich löschen?",
     "index_card6_title": "Reaktionsrollen",
     "index_card6_description": "Reaktionsrollen erlauben es Benutzern, Rollen für sich selbst zu beanspruchen, indem sie auf eine Reaktion tippen.",
-    "error_upload_5": "File type not supported",
-    "error_upload_500": "Internal Server Error"
+    "error_upload_5": "Dateityp wird nicht unterstützt",
+    "error_upload_500": "Interner Serverfehler",
+    "rr_roles_limit": "Rollenlimit pro Benutzer"
 }
