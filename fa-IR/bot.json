@@ -77,7 +77,7 @@
 	"lock_description": "فرستادن پیام را از طرف everyone@ در چنلی مشخص غیرفعال می کند.",
 	"unlock_description": "محدودیت فرستادن پیام را برای everyone@ در چنلی مشخص، برمی‌دارد.",
 	"requested_by_embed": "درخواست شده توسط {0}#{1}",
-	"cant_mute_user": ":rolling_eyes: - **شما نمی توانید @{0} را میوت کنید.**",
+	"cant_mute_user": "**شما نمی توانید @{0} را میوت کنید.** - :rolling_eyes:",
 	"cant_find_member": ":rolling_eyes: - **من نمی توانم این عضو را پیدا کنم**",
 	"mute_user_muted": ":white_check_mark: **حالت سکوت متن برای @{0} فعال شد! :zipper_mouth:**",
 	"daily_credits_refreshes_description": "**:rolling_eyes: | {0}، اعتبار روزانه شما در {1} دیگر تازه‌سازی می شود.**",
