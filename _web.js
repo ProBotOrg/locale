@@ -33,8 +33,10 @@ import uk from './uk-UA/website.json';
 import vi from './vi-VN/website.json';
 import zh from './zh-CN/website.json';
 import zh_TW from './zh-TW/website.json';
+import examples from './examples.json';
 
 export default {
+    examples: examples.website,
     fa,
     fi,
     hr,
