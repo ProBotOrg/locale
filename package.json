@@ -2,10 +2,9 @@
   "name": "probot-locale",
   "version": "1.0.0",
   "description": "",
-  "main": "./_web.js",
   "module": "./index.js",
   "exports": {
-    "import": "./_web.js",
+    "import": "./index.js",
     "require": "./index.js"
   },
   "scripts": {
