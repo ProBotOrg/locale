@@ -147,7 +147,7 @@
 	"link_error_description": ":rolling_eyes: - **Error**",
 	"link_cant_find_description": ":rolling_eyes: - **I can't find Link default channel.**",
 	"vip_ownership_successfully_description": "** Ownership transferred successfully **",
-	"vip_mistake_description": "** Ownership transferred successfully **",
+	"vip_mistake_description": ":rolling_eyes: - Spelling mistake, make sure you write `confirm`",
 	"vip_twitch_channel_description": "Specifiy a twitch channel url:",
 	"vip_wrong_url_description": ":rolling_eyes: - ** Wrong url, canceling... **",
 	"vip_changing_description": "**Changing ...** (This may take a while due to discord restrictions)",
