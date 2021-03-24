@@ -337,9 +337,9 @@
 	"protection_limit_exceeded": ":rolling_eyes: - Limita lui **#{0}** a fost depășită.",
 	"protection_limit_name": "{0} a depășit limita **{1}**.\n**O măsură este luată...**",
 	"temp_already_enabled": ":x: **Această caracteristică este deja activată, pentru a o dezactiva folosește `{0} off`.**",
-	"reset_confirm_member": "**Are you sure you want to reset {0}'s points ?**",
-	"role_error_managed": ":rolling_eyes: - **{0}** is managed by integration and can't be given.",
-	"jump_to_message": "Jump to Message",
-	"credits_no_reason": "No reason provided",
+	"reset_confirm_member": "**Ești sigur că dorești să resetezi punctele lui {0}?**",
+	"role_error_managed": ":rolling_eyes: - **{0}** este administrat de o integrare și nu poate fi acordat.",
+	"jump_to_message": "Sari la mesaj",
+	"credits_no_reason": "Niciun motiv furnizat",
 	"removewarn_description": "Eliminați toate avertismentele dintr-un server sau ale unui utilizator."
 }
