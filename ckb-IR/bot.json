@@ -155,7 +155,7 @@
 	"vip_error_description": "**:rolling_eyes: - هەڵەی 503 **",
 	"vip_canceling_description": ":rolling_eyes: - ** پووچەڵ کردنەوە ... **",
 	"vip_wrong_bot_description": ":rolling_eyes: - ژمارەی بۆتی هەڵە. ",
-	"vip_command_premium_description": "**:rolling_eyes: - This command is premium only. If the premium bot cannot be reached, you can write the command followed by the bot ID or number.**",
+	"vip_command_premium_description": ":rolling_eyes:",
 	"vip_must_enter_description": "**:rolling_eyes: - پێویستە لەگەڵ فرمانەکە ئەو کەسە تاگ بکەی یایخود ئایدیەکەی بنوسیت کە دەتەوێت بۆتەکەی پێ بدەیت.",
 	"vip_error_id_description": "**:rolling_eyes: - هەڵە لە تاگ کردن یان ئای دی ژمارەکە**",
 	"vip_bans_bots_description": ":rolling_eyes: - **California Law Bans Bots From Pretending to Be Human** \n https:\/\/www.pcmag.com\/news\/364132\/california-law-bans-bots-from-pretending-to-be-human",
