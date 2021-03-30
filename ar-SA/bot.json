@@ -1,11 +1,11 @@
 {
-	"rank_description": "عرض بطاقة الرتبة الخاصة بك أو شخص آخر في السيرفر.",
+	"rank_description": "إظهار بطاقة الترتيب (الرانك) الخاصة بك او بشخص اخر بالسيرفر",
 	"clear_description": "تنظيف رسائل الشات.",
 	"moveme_description": "ينقلك إلى روم صوتي.",
 	"profile_description": "عرض بطاقة التعريف الشخصية العامة المخصصة لك أو لشخص آخر.",
 	"top_description": "عرض الأعضاء الذين لديهم أكثر نقاط في السيرفر.",
 	"user_description": "يعرض معلومات، مثل تاريخ دخول السيرفر وتاريخ التسجيل في الديسكورد عنك او عن مستخدم آخر.",
-	"avatar_description": "الحصول على الصورة الرمزية للمستخدم.",
+	"avatar_description": "الحصول على الصورة الرمزية للمستخدمين.",
 	"server_description": "يظهر معلومات حول السيرفر.",
 	"roles_description": "احصل على قائمة برولات السيرفر وعدد الأعضاء.",
 	"ban_description": "حظر العضو.",
@@ -17,7 +17,7 @@
 	"vmute_description": "منع أحد الأعضاء من التحدث في الرومات الصوتية.",
 	"unvmute_description": "فك الكتم الصوتي من العضو",
 	"move_description": "نقل عضو إلى روم صوتي.",
-	"role_description": "إضافة \/ إزالة رولات من المستخدم.",
+	"role_description": "إضافة او إزالة مستخدم من رول.",
 	"warn_description": "تحذير العضو.",
 	"setcolor_description": "تغيير لون رول عن طريق الـHex Code.",
 	"warnings_description": "الحصول على انذارات العضو.",
@@ -33,7 +33,7 @@
 	"repeat_description": "تفعيل \/ إلغاء وضع التكرار.",
 	"seek_description": "يتخطى إلى وقت معين في المقطع.",
 	"restore_description": "إستعادة نسختك الإحتياطية!",
-	"credits_description": "Shows your or someone's balance or transfer credits for someone",
+	"credits_description": "تحويل رصيد لشخص ما او اظهار رصيدك أو رصيد شخص آخر.",
 	"support_description": "احصل على رابط دعوة سيرفر الدعم.",
 	"color_description": "لتغيير لونك بالسيرفر.",
 	"colors_description": "يسرد لك كل الألوان المتاحة.",
@@ -43,7 +43,7 @@
 	"daily_description": "الحصول على راتبك اليومي.",
 	"vip_description": "يعرض معلومات حول بوت البرميوم.",
 	"ping_description": "اختبار وقت استجابة البوت.",
-	"temp_description": "يصنع روم مؤقت.",
+	"temp_description": "الرومات المؤقتة.",
 	"deletebackup_description": "حذف النسخة الإحتياطية.",
 	"short_description": "اختصار رابط.",
 	"roll_description": "رمي حجر نرد.",
@@ -91,10 +91,10 @@
 	"role_couldnt_change_description": ":rolling_eyes: - ** لم استطع تغيير الرتب لهذا العضو، يرجى مراجعة صلاحياتي وترتيب رتبتي**",
 	"role_position_higher_description": "موضع الرتبة **{0}** اعلى من رتبتك. :rolling_eyes:",
 	"role_changed_description": " تم تغيير الرولات لـ {0}, **{1}** :white_check_mark:",
-	"role_must_have_permission_description": ":rolling_eyes: - **You must have Administrator permission to do this command.**",
+	"role_must_have_permission_description": " ** يجب أن تمتلك صلاحية Administrator حتى تقوم بهذا الإجراء**. :rolling_eyes:",
 	"role_specify_name_description": ":rolling_eyes: - ** الرجاء إدخال اسم الرتبة **",
 	"role_changing_for_description": " جاري تغيير رتبة {0} عضو, {1}**{2}** :white_check_mark: ",
-	"unvmute_required_voice_description": ":rolling_eyes: - **Discord requires members to be in voice channels before unvmute.**",
+	"unvmute_required_voice_description": ":rolling_eyes: - **حسب شروط الديسكورد لإستخدام هذا الأمر فإنه يجب ان يتواجد العضو بروم صوتي.**",
 	"unvmute_member_voice_description": ":white_check_mark: تم فك الاسكات عن {0}!",
 	"unvmute_not_muted_description": ":blush: **لم يتم إسكات {0}.**",
 	"ban_from_server_description": "✅ **تم حظر {0} من السيرفر! ✈️**",
@@ -124,12 +124,12 @@
 	"warn_specify_number_description": " ** يرجى تحديد رقم التحذير أو ذكر المستخدم أو (all) لحذف جميع التحذيرات. **  :rolling_eyes:",
 	"vkick_cant_permission_description": ":rolling_eyes: - لم أستطع طرد هذا المستخدم. يرجى التحقق من صلاحياتي.",
 	"vkick_you_cant_description": "**لا يمكنك طرد {0}.** :rolling_eyes:",
-	"vkick_not_voice_description": ":rolling_eyes: -  ** Member is not in voice channel! **",
+	"vkick_not_voice_description": "**العضو ليس في روم صوتي!** :rolling_eyes:",
 	"vkick_voice_kicked_description": ":white_check_mark: ** تم طرد {0} من الروم الصوتي! **",
 	"unban_couldnt_user_description": ":rolling_eyes: - لم أستطع إلغاء حظر هذا المستخدم. يرجى التحقق من صلاحياتي.",
 	"unban_all_members_description": ":rolling_eyes: - ** لإلغاء حظر جميع الأعضاء ، يجب أن يكون لديك صلاحية Administrator. **",
 	"unban_premium_only_description": "هذا الأمر للبرميوم فقط (الآن).",
-	"unban_members_being_description": ":white_check_mark: **{0}** members are being unbanned.",
+	"unban_members_being_description": ":white_check_mark: جاري فك حظر **{0}** عضو ...",
 	"unban_unbanned_description": ":white_check_mark: تم فك حظر **{0}**.",
 	"unban_cant_find_description": "** لا يمكنني العثور على {0} في قائمة الحظر ** :rolling_eyes: ",
 	"vmute_main_description": "{0}، بواسطة: {1}#{2} ، سبب: {3} ينتهي في: {4}",
@@ -147,7 +147,7 @@
 	"link_error_description": ":rolling_eyes: - **هنالك خطأ**",
 	"link_cant_find_description": ":rolling_eyes: - **لا أستطيع العثور على الروم الاساسي للرابط**",
 	"vip_ownership_successfully_description": " ** لقد تم تحويل الملكية بنجاح**  :white_check_mark:",
-	"vip_mistake_description": ":rolling_eyes: - Spelling mistake, make sure you write `confirm`",
+	"vip_mistake_description": ":rolling_eyes: - خطأ إملائي",
 	"vip_twitch_channel_description": "حدد رابط قناة تويتش:",
 	"vip_wrong_url_description": ":rolling_eyes: - **الرابط خطأ , جاري الإلغاء...**",
 	"vip_changing_description": "**جاري التغيير ... ** (قد يستغرق هذا بعض الوقت بسبب قوانين الديسكورد)",
@@ -165,7 +165,7 @@
 	"vip_previous_transfer_description": "**:rolling_eyes: - يوجد طلب نقل سابق، تم إرسال رابط جديد لك على الخاص**",
 	"vip_transfer_link_description": "**:white_check_mark: يمكنك نقل البوت من خلال الرابط المُرسل إليك على خاصك ، مع العلم أن الرابط ينتهي في 10 دقائق ويتطلب منك أن تطلب الرابط مرة أخرى. **",
 	"vip_link_expired_description": "إنتهت صلاحية الرابط",
-	"vip_must_ownership_description": "**:rolling_eyes: - You must be the owner of this bot.**",
+	"vip_must_ownership_description": "**:rolling_eyes: - يجب أن تكون مالك هذا البوت.**",
 	"vip_owner_only_description": "للمالك فقط~",
 	"vip_select_one_description": "** اختر واحدًا: **",
 	"vip_restarting_description": ":timer: **جارِ إعادة التشغيل ...**",
@@ -176,7 +176,7 @@
 	"vip_ended_description": "انتهى",
 	"credits_not_enough": "**ـ {0}, رصيدك غير كافي لهذا!**  :thinking: ",
 	"credits_trans_done": "**ـ {0}, قام بتحويل `${1}` لـ {2} ** |:moneybag:",
-	"credits_receipt": ":atm:  |  Transfer Receipt ```You have received ${0} from user {1} (ID: {2})\nReason: {3} \n```",
+	"credits_receipt": ":atm: | إيصال التحويل  ```{1} (ID: {2})لقد استلمت ${0} من المستخدم```",
 	"credits_blacklist": ":sweat: ** حسابك مدرج في القائمة السوداء. **",
 	"credits_balance": "**ـ {0}, رصيد حسابك هو `${1}`.** | :bank:",
 	"credits_balance_mentions": "** رصيد {0} هو `${1}`.**  :credit_card:",
@@ -211,11 +211,11 @@
 	"points_target_user": ":sparkles: نقاط **{0}** هي **{1}**",
 	"points_new": ":sparkles: نقاط **{0}** الجديدة هي **{1}**.",
 	"move_not_in_voice": "**أنت لست في روم صوتي!** 🙄",
-	"move_being_moved": ":white_check_mark: ** All members are being moved!**",
+	"move_being_moved": ":white_check_mark: ** جارِ نقل جميع الأعضاء! **",
 	"move_more_specific": ":rolling_eyes: - ** يرجى أن تكون أكثر تحديدا ** ```{0} ```",
 	"move_cant_find": "** لا يمكن العثور على** {0}  :rolling_eyes:",
 	"move_already_in": "**ـ {0} موجود بالفعل في الروم الصوتي! ** :white_check_mark: ",
-	"move_channel_full": "**ـ {0} موجود بالفعل في الروم الصوتي! ** :white_check_mark: ",
+	"move_channel_full": ":rolling_eyes: -  ** هذا الروم ممتلئ ! ({0}\/{1}) **",
 	"move_moved_to": "**ـ تم سحب {0} إلى {1}!**  ✅",
 	"move_ins_perm": ":rolling_eyes: -  ** صلاحيات غير كافية **",
 	"move_confirm": "**هل أنت متأكد؟ اكتب (y) للتأكيد**",
@@ -337,7 +337,7 @@
 	"protection_limit_exceeded": " - الحد اليومي من **#{0}** تم تجاوزه.  :rolling_eyes:",
 	"protection_limit_name": "{0} تخطى الحد المسموح من **{1}** \n** جاري تنفيذ الاجراء ...**",
 	"temp_already_enabled": ":x: **هذه الميزه مفعله بالفعل، لتعطيلها استخدم \n`{0} off`.**",
-	"reset_confirm_member": "**Are you sure you want to reset {0}'s points?**",
+	"reset_confirm_member": "**هل انت متأكد من انك تريد إعادة تعيين نقاط {0}؟**",
 	"role_error_managed": ":rolling_eyes: - **{0}** هذا الرول يدار بواسطة طرف ثالث ولايمكن اعطاءه.",
 	"jump_to_message": "انتقل إلى الرسالة",
 	"credits_no_reason": "لم يتم تقديم سبب",
