@@ -6,7 +6,7 @@
 	"top_description": "Display member's most server score or global XP.",
 	"user_description": "Shows information, such as ID and join date, about yourself or a user.",
 	"avatar_description": "Get a user's avatar.",
-	"server_description": "Shows information about a server",
+	"server_description": "Shows information about the server.",
 	"roles_description": "Get a list of server roles and member counts.",
 	"ban_description": "Bans a member.",
 	"unban_description": "Unbans a member.",
