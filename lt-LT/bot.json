@@ -1,7 +1,7 @@
 {
 	"rank_description": "Peržiūrėti savo ar kieno nors kito serverio reitingo kortą.",
-	"clear_description": "Išvalomos žinutes iš kanalo.",
-	"moveme_description": "Perkeliami jūs į balso kanalą.",
+	"clear_description": "Išvalomos žinutės iš kanalo.",
+	"moveme_description": "Perkelia jus į kitą balso kanalą",
 	"profile_description": "Peržiūrėti savo ar kieno nors kito redaguojama asmeninę globalią profilio kortą.",
 	"top_description": "Rodyti narius su daugiausia serverio taškų arba globaliu XP.",
 	"user_description": "Rodoma informacija, tokia kaip ID ir prisijungimo data, apie save ar asmenį.",
