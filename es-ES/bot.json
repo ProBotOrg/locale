@@ -159,7 +159,7 @@
 	"vip_must_enter_description": "**:rolling_eyes: - Debes introducir el comando seguido de la mención o id de la persona a quien quieres transferir el bot.**",
 	"vip_error_id_description": "**:rolling_eyes: - Error en la mención o el ID del miembro**",
 	"vip_bans_bots_description": ":rolling_eyes: - **La ley de California prohíbe que los bots pretendan ser humanos** \n https:\/\/www.pcmag.com\/news\/364132\/california-law-bans-bots-from-pretending-to-be-human",
-	"vip_joke_description": "**¿Te estoy bromeando?**",
+	"vip_joke_description": "**¿No soy nada para ti?**",
 	"vip_confirm_description": "** :innocent: Por favor escribe `confirm`. **",
 	"vip_send_dm_description": "**:rolling_eyes: - Por favor, permite que el bot envíe mensajes privados.**",
 	"vip_previous_transfer_description": "**:rolling_eyes: - Hay una solicitud de transferencia previa, se ha enviado un nuevo enlace a tu mensajería privada **",
