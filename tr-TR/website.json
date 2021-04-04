@@ -271,7 +271,7 @@
     "select_placeholder_select": "Seç ..",
     "number": "Numara",
     "reason": "Sebep",
-    "EDIT_COMMAND_SETTINGS": "AYARLARI {0} DÜZENLE",
+    "EDIT_COMMAND_SETTINGS": "{0} AYARLARINI  DÜZENLE",
     "commands": "Komutlar",
     "support": "Destek",
     "probot_commands": "ProBot Komutları",
