@@ -49,7 +49,7 @@
     "restore_description": "Восстановить резервную копию!",
     "credits_description": "Отображает ваш или чей-то баланс.",
     "support_description": "Получить ссылку приглашения на ваш сервер.",
-    "color_description": "Change your color in the server.",
+    "color_description": "Измените ваш цвет на сервере.",
     "colors_description": "Перечислить все доступные цвета.",
     "title_description": "Поменять заголовок в вашем #profile",
     "reset_description": "Сбросить очки опыта (текстовый/голосовой/приглашения), для всех участников.",
