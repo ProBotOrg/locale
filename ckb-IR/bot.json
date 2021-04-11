@@ -130,7 +130,7 @@
 	"unban_all_members_description": ":rolling_eyes: - **بۆ لادانی بانی هەموو ئەندامەکان تۆ‌دەبلت مۆڵەتی ادمینت هەبێت٭٭",
 	"unban_premium_only_description": "تەنها بۆ پریمیومە.",
 	"unban_members_being_description": "kudish ",
-	"unban_unbanned_description": "ئــەنمیووت بوو",
+	"unban_unbanned_description": ":white_check_mark: **بانی {0} لادرا!**",
 	"unban_cant_find_description": ":rolling_eyes: - **ناتوانم بیدۆزمه‌وه‌ له‌ ریزی بانده‌کان.٭٭",
 	"vmute_main_description": "{0}, لە لایەن{1}#{2}، بە هۆی: {3} کۆتایی دێت لە: {4}",
 	"vmute_muted_from_description": "لە‌ قسە‌كردن میوت كرا ! ",
