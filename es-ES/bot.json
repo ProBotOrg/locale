@@ -259,7 +259,7 @@
 	"music_must_be": ":no_entry_sign: ¡Debe haber música sonando para poder usar eso!",
 	"music_player_paused": ":bulb: ¡La música está en pausa! ¡Usa `#play` para reanudar!",
 	"music_paused": ":notes: Pausado **{0}**. ¡Escribe `#play` para reanudar!",
-	"music_player_stopped": ":notes: El usuario ha parado la cola y fue limpiada.",
+	"music_player_stopped": ":notes: El reproductor se ha parado y la lista de reproducción ha sido limpiada.",
 	"music_example_seek": ":rolling_eyes: - Ejemplo `#seek 2:12`",
 	"music_song_not_long": ":rolling_eyes: - La canción no es tan larga.",
 	"music_volume": ":no_entry_sign: El volumen debe ser un entero válido entre 0 y 150!",
