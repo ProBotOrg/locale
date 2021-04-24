@@ -32,7 +32,7 @@
 	"np_description": "Shows what is song that the bot is currently playing.",
 	"repeat_description": "Toggles the repeat mode.",
 	"seek_description": "Seeks to a certain point in the current track.",
-	"restore_description": "Restores your backup!",
+	"restore_description": "Vrati sigurnosnu kopiju!",
 	"credits_description": "Shows your or someone's balance or transfer credits for someone",
 	"support_description": "Get our support server invite link.",
 	"color_description": "Changes roles colors.",
