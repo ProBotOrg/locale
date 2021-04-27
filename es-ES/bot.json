@@ -317,7 +317,7 @@
 	"logs_voice_switched": "**{0} cambió de canal de voz `{1}` => `{2}`.**",
 	"logs_voicestate_updated": "**El estado de voz de {0} ha sido actualizado.**",
 	"logs_voicestate_server_mute": ":microphone2: ** Servidor silenciado **",
-	"logs_voicestate_server_deafen": ":speaker: ** Servidor sordo **",
+	"logs_voicestate_server_deafen": ":speaker: ** Servidor ensordecido **",
 	"logs_voice_moved": "**{0} movió `{1}` => `{2}`.**",
 	"logs_voice_disconnected": "**{0} se desconectó.**",
 	"protection_no_backup_to_delete": "**No hay copia de seguridad para eliminar**",
