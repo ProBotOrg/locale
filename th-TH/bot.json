@@ -1,7 +1,7 @@
 {
-	"rank_description": "View your rank card or someone else's in the server.",
-	"clear_description": "Cleans messages from a channel.",
-	"moveme_description": "Moves you to another voice channel.",
+	"rank_description": "ดูการ์ดอันดับของคุณหรือของคนอื่นๆ ในเซิร์ฟเวอร์",
+	"clear_description": "ล้างข้อความจากช่องนี้",
+	"moveme_description": "ย้ายคุณไปยังช่องเสียงอื่น",
 	"profile_description": "View your or someone else's customizable personal global profile card.",
 	"top_description": "Display member's most server score or global XP.",
 	"user_description": "Shows information, such as ID and join date, about yourself or a user.",
