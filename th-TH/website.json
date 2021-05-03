@@ -464,7 +464,7 @@
     "premium_add_prime": "เพิ่ม Prime Server",
     "premium_add_bot": "เพิ่ม Prime Server",
     "premium_payment_amount": "เลือกจำนวนเงินที่ต้องการที่ต้องการชำระ",
-    "premium_ended": "ended",
+    "premium_ended": "สิ้นสุดแล้ว",
     "premium_dont_have_balance": "อ๊ะๆ! คุณไม่มีความสิทธ์ที่จะทำแบบนั้นนะ",
     "premium_current_credits_is": "เครดิตปัจจุบันของคุณคือ {0}",
     "protection_options": "ตัวเลือกการป้องกัน:",
