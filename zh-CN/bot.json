@@ -340,6 +340,6 @@
 	"reset_confirm_member": "您确定要重置设置吗？",
 	"role_error_managed": ":rolling_eyes: - **{0}** 是由集成管理，不能给出。",
 	"jump_to_message": "跳转到消息",
-	"credits_no_reason": "No reason provided",
-	"removewarn_description": "Remove warnings for the server or user."
+	"credits_no_reason": "未提供原因",
+	"removewarn_description": "删除服务器或用户的警告。"
 }
