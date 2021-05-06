@@ -336,9 +336,9 @@
 	"protection_deleted_auto_role": "**{0} ({1}) 刪除了自動身份組**：{2}\n**動作已經執行 ...**",
 	"protection_limit_exceeded": ":rolling_eyes: - **#{0}**的今日限制已觸發",
 	"protection_limit_name": "{0} 觸發了 **{1}** 限制\n**動作已經執行 ...**",
-	"temp_already_enabled": ":x: **This feature already enabled, to disable it use `{0} off`.**",
-	"reset_confirm_member": "**Are you sure you want to reset {0}'s points?**",
-	"role_error_managed": ":rolling_eyes: - **{0}** is managed by integration and can't be given.",
+	"temp_already_enabled": "：x：**此功能已啟用，要禁用此功能，請使用“ {0} off”。**",
+	"reset_confirm_member": "確定要重置為預設值？",
+	"role_error_managed": "：rolling_eyes：-** {0} **由集成管理，無法給出。",
 	"jump_to_message": "Jump to Message",
 	"credits_no_reason": "No reason provided",
 	"removewarn_description": "從伺服器或使用者移除警告"
