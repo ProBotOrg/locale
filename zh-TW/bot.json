@@ -339,7 +339,7 @@
 	"temp_already_enabled": "：x：**此功能已啟用，要禁用此功能，請使用“ {0} off”。**",
 	"reset_confirm_member": "確定要重置為預設值？",
 	"role_error_managed": "：rolling_eyes：-** {0} **由集成管理，無法給出。",
-	"jump_to_message": "Jump to Message",
-	"credits_no_reason": "No reason provided",
+	"jump_to_message": "跳轉到信息",
+	"credits_no_reason": "未提供原因",
 	"removewarn_description": "從伺服器或使用者移除警告"
 }
