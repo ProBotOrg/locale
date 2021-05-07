@@ -48,7 +48,7 @@
     "seek_description": "再生地点を指定します。",
     "restore_description": "バックアップを適用します！",
     "credits_description": "残高を表示します",
-    "support_description": "サポートサーバーへ移動する。",
+    "support_description": "サポートサーバー（英語）へ移動する",
     "color_description": "サーバー内のあなたの色を変更する",
     "colors_description": "利用可能な色",
     "title_description": "#profile を入力してタイトルを変更します。",
