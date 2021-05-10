@@ -264,7 +264,7 @@
 	"music_song_not_long": ":rolling_eyes: - آهنگ اینقدر طولانی نیست.",
 	"music_volume": ":no_entry_sign: میزان صدا باید یک عدد صحیح بین 0 تا 150 باشد!",
 	"music_wrong_skip": ":rolling_eyes: **عدد اشتباه**",
-	"music_skipped": ":notes: <@!{1}> - **{0}** گذشتن به",
+	"music_skipped": ":notes: <@!{1}> - **{0}** گذشتن از",
 	"music_volume_changed": "میزان صدا تغییر کرد از `{0}` به `{1}`",
 	"music_current_volume": "میزان صدای فعلی `{0}` می‌باشد",
 	"music_repeat": ":notes: حالت تکرار:",
