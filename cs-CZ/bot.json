@@ -11,7 +11,7 @@
 	"ban_description": "Zabanuje člena.",
 	"unban_description": "Odbanuje člena.",
 	"kick_description": "Vyhodí člena.",
-	"vkick_description": "Vyhodí člena z hlasového kanálu",
+	"vkick_description": "Vyhodí člena z hlasového kanálu.",
 	"mute_description": "Ztlumí člena z textových kanálů, takže nebude moct psát.",
 	"unmute_description": "Zruší umlčení člena.",
 	"vmute_description": "Ztlumí člena z hlasových kanálů, takže nebude moct mluvit.",
