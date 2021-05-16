@@ -104,7 +104,7 @@
 	"clear_cant_description": ":rolling_eyes: - ฉันไม่สามารถล้างช่องนี้ได้ โปรดตรวจสอบสิทธิ์ของบอท",
 	"clear_message_has": "{0} ลบข้อความแล้ว",
 	"clear_messages_have": "{0} ลบข้อความแล้ว",
-	"kick_cant_description": ":rolling_eyes: - ** คุณไม่สามารถเตะ @{0} **",
+	"kick_cant_description": ":rolling_eyes: - **คุณไม่สามารถเตะ @{0} ได้**",
 	"kick_couldnt_description": ":rolling_eyes: - บอทไม่สามารถเตะผู้ใช้นั้นได้ โปรดตรวจสอบสิทธิ์และตำแหน่งหน้าที่ของบอท",
 	"kick_server_description": ":white_check_mark: **@{0} ถูกเตะจากเซิร์ฟเวอร์! **",
 	"reset_point_done_description": ":white_check_mark: ** รีเซ็ตสถิติเรียบร้อยแล้ว **",
