@@ -50,7 +50,7 @@
         "usage_deletebackup": "{0} (Backup Code)",
         "usage_short": "{0} (Link)",
         "usage_roll": "{0} (number)",
-        "usage_points": "`{0} (user) 1` - set the points of a user\n`{0} (user) +1` - increase the points of a user\n`{0} (user) -1` - decrease the points of a user \n`{0} (user) 0` - reset the points of a user \n`{0} reset` - resets all points\n`{0}points (role name)` - filters the points by a role",
+        "usage_points": "`{0} (user) 1` - set the points of a user\n`{0} (user) +1` - increase the points of a user\n`{0} (user) -1` - decrease the points of a user \n`{0} (user) 0` - reset the points of a user \n`{0} reset` - resets all points\n`{0} (role name)` - filters the points by a role",
         "usage_removewarn": "{0} (warnID)\n{0} (user)\n{0} all",
         "examples_rank": "{0} {1}",
         "examples_clear": "{0} 1000\n{0} bots 10\n{0} {1} 10",
