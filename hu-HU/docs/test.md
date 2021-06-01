@@ -1,3 +1,3 @@
-# Hello rooka
-### hi
+# Helló rooka
+### Szia
 aaaaaa
