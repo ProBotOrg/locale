@@ -77,7 +77,7 @@
 	"lock_description": "Letilt @mindenkit egy megadott csatornán való írásról.",
 	"unlock_description": "Eltávolítja az elutasított üzenetküldési jogot @mindenkitől egy megadott csatornán.",
 	"requested_by_embed": "{0}#{1} kérte",
-	"cant_mute_user": ":rolling_eyes: - ** @{0}-át nem tudod letitlani.**",
+	"cant_mute_user": ":rolling_eyes: - ** @{0} felhasználót nem tudod némítani.**",
 	"cant_find_member": ":rolling_eyes: - **Nem találom ezt a felhasználót**",
 	"mute_user_muted": ":white_check_mark: **@{0} letiltva az írásról! :zipper_mouth:**",
 	"daily_credits_refreshes_description": "**:rolling_eyes: | {0}, a napi érméid {1} múlva frissülnek. **",
