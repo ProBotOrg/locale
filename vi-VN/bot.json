@@ -96,7 +96,7 @@
 	"role_changing_for_description": ":white_check_mark: Thay đổi vai trò cho {0} thành viên, {1}**{2}**",
 	"unvmute_required_voice_description": ":rolling_eyes: - **Discord đòi hỏi thành viên phải ở trong kênh thoại trước khi dùng `unvmute`.**",
 	"unvmute_member_voice_description": ":white_check_mark: Đã gỡ tắt tiếng cho {0}!",
-	"unvmute_not_muted_description": ":blush: **{0} chưa bị tắt tiếng.**",
+	"unvmute_not_muted_description": ":blush: **{0} không bị tắt tiếng.**",
 	"ban_from_server_description": ":white_check_mark: **{0} đã bị cấm khỏi máy chủ! :airplane:**",
 	"ban_cant_description": ":rolling_eyes: - **Bạn không thể cấm @{0}.**",
 	"ban_missing_permission_description": ":rolling_eyes: - Tôi không thể cấm người dùng đó. Vui lòng xem lại quyền và vị trí vai trò của tôi.",
