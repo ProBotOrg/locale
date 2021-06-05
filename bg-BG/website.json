@@ -198,7 +198,7 @@
     "ACTION_WHEN_PROTECTED": "Action when protected role is updated/deleted",
     "UNDO_REMOVE_ALL": "Отменя Действието + Премахва всички роли с Административни Разрешения",
     "PROTECT_BOT_JOINED": "Действие, когато бот се присъедини в сървъра",
-    "REMOVE_ADMIN_BOT": "Remove all administrative permissions from the bot roles",
+    "REMOVE_ADMIN_BOT": "Remove all administrative roles from the bot",
     "KICK_THE_BOT": "Изритва Бота",
     "BOTS_HINT": "Това ще предпази сървъра ви от неизвестни ботове",
     "WHITELIST_BOTS": "Бял Списък с Ботове",
