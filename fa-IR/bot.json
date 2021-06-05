@@ -89,7 +89,7 @@
 	"role_cant_find_description": ":rolling_eyes: - .{0} نمی توانم همچین نقش(هایی) را پیدا کنم ",
 	"role_cant_find_2_description": ":rolling_eyes: - .را پیدا کنم **{0}** نمی توانم نقش",
 	"role_couldnt_change_description": ":rolling_eyes: - من نتوانستم نقش های کاربر را تغییر دهم. لطفا از دسترسی ها و موقعیت نقش من مطمعن بشوید.",
-	"role_position_higher_description": ":rolling_eyes: - موقعیت **{0}** بالاتر از شماست.",
+	"role_position_higher_description": ":rolling_eyes: - .بالاتر از شماست **{0}** موقعیت",
 	"role_changed_description": ":white_check_mark: **{1}** ،تغییر کرد {0} نقش برای",
 	"role_must_have_permission_description": ":rolling_eyes: - **شما باید دسترسی مدیریت را برای انجام دادن این دستور داشته باشید.**",
 	"role_specify_name_description": ":rolling_eyes: - **لطفا نام نقش را مشخص کنید**",
@@ -106,7 +106,7 @@
 	"clear_messages_have": "{0} پیام حذف شد.",
 	"kick_cant_description": ":rolling_eyes: - **.را بیرون بیاندازید @{0} شما نمی توانید**",
 	"kick_couldnt_description": ":rolling_eyes: - من نتوانستم کاربر را بیرون بیاندازم. لطفا از دسترسی ها و موقعیت نقش من مطمعن شوید.",
-	"kick_server_description": ":white_check_mark: **@{0} از سرور بیرون انداخته شد!**",
+	"kick_server_description": ":white_check_mark: **!از سرور بیرون انداخته شد @{0}**",
 	"reset_point_done_description": ":white_check_mark: **آمار با موفقیت بازنشانی شدند.**",
 	"yes_description": "بله",
 	"setcolor_role_name_description": ":rolling_eyes: - **لطفا نام نقش را وارد کنید**",
@@ -114,29 +114,29 @@
 	"setcolor_miss_permission_description": ":rolling_eyes: **شما دسترسی به آن نقش ندارید**",
 	"setcolor_cant_change_description": ":rolling_eyes: - من نتوانستم آن نقش را تغییر دهم. لطفا از دسترسی ها و موقعیت نقش من مطمعن شوید.",
 	"setcolor_hex_description": ":rolling_eyes: - کد رنگ Hex باید بین 3 تا 6 رقم باشد",
-	"setcolor_done_description": ":white_check_mark: **رنگ {0} با موفقیت تغییر یافت**",
+	"setcolor_done_description": ":white_check_mark: **با موفقیت تغییر یافت {0} رنگ**",
 	"setcolor_permission_need_description": ":rolling_eyes: **پروبات دسترسی به آن نقش را ندارد**",
-	"warn_cant_description": ":rolling_eyes: - **شما نمی توانید به @{0} اخطار دهید.**",
+	"warn_cant_description": ":rolling_eyes: - **.اخطار دهید @{0} شما نمی توانید به**",
 	"warn_select_description": "**یک دلیل انتخاب کنید:**",
 	"warn_specify_description": ":rolling_eyes: - **لطفا یک دلیل مشخص کنید.**",
-	"warn_been_removed_description": ":white_check_mark: **اخطار های {0} حذف شد.**",
+	"warn_been_removed_description": ":white_check_mark: **{0} از اخطار ها حذف شد.**",
 	"warn_cant_warning_description": "🔍 **من نمی توانم اخطاری را که شما دنبالش هستید را پیدا کنم.**",
 	"warn_specify_number_description": ":rolling_eyes: - **لطفا تعداد کاربر (یا همه شان) را مشخص یا آن ها را منشن کنید تا همه اخطار هایشان پاک شود.**",
 	"vkick_cant_permission_description": ":rolling_eyes: - من نتوانستم کاربر را بیرون بیاندازم. لطفا دسترسی های من را بررسی کنید.",
-	"vkick_you_cant_description": ":rolling_eyes: - **شما نمی توانید {0} را بیرون بیاندازید.**",
+	"vkick_you_cant_description": ":rolling_eyes: - **.را نمی توانید بیرون بیاندازید {0} شما نمی توانید**",
 	"vkick_not_voice_description": ":rolling_eyes: - **کاربر در چنل صوتی نیست!**",
 	"vkick_voice_kicked_description": ":white_check_mark: ‎** .از چنل صوتی بیرون انداخته شد @{0}**",
 	"unban_couldnt_user_description": ":rolling_eyes: - من نتوانستم کاربر را آن-بن کنم. لطفا دسترسی هایم را بررسی کنید.",
 	"unban_all_members_description": ":rolling_eyes: **برای آن-بن کردن همه اعضاء، شما باید دسترسی مدیریت را داشته باشید.**",
 	"unban_premium_only_description": "این دستور فقط برای پریمیوم می باشد (فعلاً).",
 	"unban_members_being_description": ":white_check_mark: **{0}** از اعضاء درحال آن-بن شدن هستند.",
-	"unban_unbanned_description": ":white_check_mark: **{0} آن-بن شد!**",
+	"unban_unbanned_description": ":white_check_mark: **‎ !آن-بن شد {0}**",
 	"unban_cant_find_description": ":rolling_eyes: - **من نمی توانم {0} را در لیست بن شده ها پیدا کنم**",
 	"vmute_main_description": "{0}، توسط: {1}#{2}، دلیل: {3} تمام می‌شود در: {4}",
 	"vmute_muted_from_description": ":white_check_mark: **حالت سکوت برای @{0} اعمال شد! :zipper_mouth:**",
 	"vmute_couldnt_mute_description": ":rolling_eyes: - من نتوانستم کاربر را به حالت سکوت ببرم. لطفا دسترسی های من را بررسی کنید.",
 	"vmute_cant_description": ":rolling_eyes: - **شما نمی توانید @{0} را به حالت سکوت صوتی ببرید.**",
-	"setnick_changed_description": ":white_check_mark: نام مستعار **{0}** به {1} تغییر یافت! ",
+	"setnick_changed_description": ":white_check_mark: !تغییر یافت {1} به **{0}** نام مستعار ",
 	"setnick_reset_description": ":white_check_mark: نام مستعار **{0}** بازیابی شد.",
 	"setnick_couldnt_update_description": ":rolling_eyes: - من نتوانستم اطلاعات این کاربر را بروزرسانی کنم. لطفا از دسترسی ها و موقعیت نقش من مطمعن شوید.",
 	"unmute_cant_find_description": ":rolling_eyes: - **نمی توان نقش حالت سکوت را یافت.**",
@@ -181,19 +181,19 @@
 	"credits_balance": ":bank: | **{0}، میزان اعتبار حساب شما `${1}` می باشد.**",
 	"credits_balance_mentions": "** :credit_card: میزان اعتبار {0}، `${1}` می باشد.**",
 	"credits_cant_find": "** :interrobang: | {0}، من نمی توانم {1} را پیدا کنم!**",
-	"credits_bots": ":thinking:  | **{0}**، بات ها موجودی ندارند!",
+	"credits_bots": ":thinking: | !بات ها موجودی ندارند، **{0}**",
 	"credits_need_transfer": "** :interrobang: | {0}، میزان اعتباری که شما می خواهید انتقال دهید را وارد کنید!**",
 	"credits_transfer_fees": "** {0} ، مالیات انتقال: `{1}`، مقدار : `${2}` \n ** این اعداد را برای تائید وارد کنید :",
 	"profile_robot": ":robot: !بات ها رده‌بندی ندارند **| {0}**",
 	"profile_cant_find": ":mag: **| {0}**، کاربر یافت نمی شود.",
 	"short_url": "لطفا یک آدرس اینترنتی وارد کنید",
 	"title_long": ":rolling_eyes: - **عنوان خیلی طولانی است.**",
-	"avatar_cant_find": ":rolling_eyes: - {0}، من نمی توانم **{1}** را پیدا کنم!",
+	"avatar_cant_find": ":rolling_eyes: - !را پیدا کنم **{1}** من نمی توانم ،{0}",
 	"rep_must_have": ":no_mouth: شما باید در سطح 10+ باشید تا شهرت به بقیه بدهید.",
 	"rep_can_award": "**:stopwatch: | .{1} شما می توانید بیشتر هدیه بدهید در، {0}**",
-	"rep_not_bots": ":rolling_eyes: **| {0}**، بات ها رده‌بندی ندارند!",
-	"rep_cannot_give": "**:rolling_eyes: **| {0}**، شما نمی توانید به خودتان شهرت بدهید!**",
-	"rep_given": "**:up: | {0} به {1} یک امتیاز شهرت داد!**",
+	"rep_not_bots": ":rolling_eyes: !بات ها رده‌بندی ندارند **| {0}**",
+	"rep_cannot_give": ":rolling_eyes: | !شما نمی توانید به خودتان شهرت بدهید، **{0}**",
+	"rep_given": ":up: ** |  !یک امتیاز شهرت داد {1} به {0}**",
 	"top_only_premium": "به دلایل پردازشی، این دستور فعلا فقط برای پریمیوم می باشد.",
 	"top_error": ":rolling_eyes: - **خطای شماره صفحه** {0} از {1} ",
 	"top_cant_find_list": "نمی توان فهرست برترین ها را پیدا کرد",
@@ -245,7 +245,7 @@
 	"music_now_playing": "**:notes: ....{0} هم اکنون در حال پخش در**",
 	"music_no_playing": "**:frowning2: هیچ موسیقی درحال پخش شدن نیست.**",
 	"music_current_queue": "**:notes: صف فعلی | {0} درخواست‌ها**",
-	"music_added_ProQueue": ":notes: **{0}** به **ProQueue** اضافه شد (`{1}`)!",
+	"music_added_ProQueue": ":notes: !اضافه شد (`{1}`) ProQueue به **{0}**",
 	"music_must_listening": ":no_entry_sign: شما باید درحال شنیدن در **{0}** باشید تا بتوانید از این استفاده کنید!",
 	"music_join_voice": ":no_entry_sign: برای استفاده از این شما باید وارد یک چنل صوتی بشوید!",
 	"music_under_maintenance": "موسیقی فعلا در دست کار و تعمیر می باشد.",
@@ -253,18 +253,18 @@
 	"music_include_query": ":no_entry_sign: لطفا یک لیست را شامل کنید.",
 	"music_under_maintenance2": "موسیقی فعلا در دست کار و تعمیر می باشد، لطفا از طریق سرور پشتیبانی با ما تماس بگیرید.",
 	"music_not_found": ":mag: **پیدا نشد.**",
-	"music_new_songs": ":fire: **{0}** آهنگ از `{1}` به **ProQueue** اضافه شد!",
-	"music_added_to": ":notes: **{0}** به **ProQueue** اضافه شد (`{1}`)!",
+	"music_new_songs": ":fire: !اضافه شد **ProQueue** به `{1}` آهنگ از‎ **{0}**",
+	"music_added_to": ":notes: !اضافه شد (`{1}`) ProQueue به **{0}**",
 	"music_Resumed": ":notes: .**{0}** ادامه دادن",
 	"music_must_be": ":no_entry_sign: برای استفاده از این باید موسیقی درحال پخش باشد!",
 	"music_player_paused": ":bulb: پخش کننده از قبل متوقف شده! برای ادامه دادن از `play#` استفاده کنید!",
-	"music_paused": ":notes: **{0}** متوقف شد. برای ادامه دادن `play#` را بنویسید!",
+	"music_paused": ":notes: !را بنویسید `#play` متوقف شد. برای ادامه دادن **{0}**",
 	"music_player_stopped": ":notes: پخش کننده متوقف شد و صف پخش پاکسازی شد.",
-	"music_example_seek": ":rolling_eyes: - مثال `#seek 2:12`",
+	"music_example_seek": ":rolling_eyes: - `#seek 2:21` :مثال",
 	"music_song_not_long": ":rolling_eyes: - آهنگ اینقدر طولانی نیست.",
 	"music_volume": ":no_entry_sign: میزان صدا باید یک عدد صحیح بین 0 تا 150 باشد!",
 	"music_wrong_skip": ":rolling_eyes: **عدد اشتباه**",
-	"music_skipped": ":notes: گذشتن به **{0}** - <@!{1}>",
+	"music_skipped": ":notes: <@!{1}> - **{0}** گذشتن از",
 	"music_volume_changed": "میزان صدا تغییر کرد از `{0}` به `{1}`",
 	"music_current_volume": "میزان صدای فعلی `{0}` می‌باشد",
 	"music_repeat": ":notes: حالت تکرار:",
@@ -278,27 +278,27 @@
 	"reset_confirm_invites": ":thinking: **آیا مطمعنید که می خواهید تمام xp های دعوت ها را بازنشانی کنید؟**",
 	"logs_responsible_moderator": "**ناظر مسئول:**",
 	"logs_reason": "**دلیل:**",
-	"logs_channel_created": ":house: **چنل ساخته شد: `{0}`**",
-	"logs_channel_deleted": ":house: **چنل حذف شد: `{0}`**",
-	"logs_channel_updated": ":house: **چنل بروزرسانی شد: `{0}`**",
-	"logs_channel_permissions_updated": ":house: **دسترسی های چنل بروزرسانی شد: `{0}`**",
-	"logs_banned_from_server": ":airplane: **{0} از سرور بن شد.**",
-	"logs_unbanned": ":airplane_arriving: **{0} آن-بن شد**",
+	"logs_channel_created": ":house: **`{0}` :چنل ساخته شد**",
+	"logs_channel_deleted": ":house: **`{0}` :چنل حذف شد**",
+	"logs_channel_updated": ":house: **`{0}` :چنل ساخته شد**",
+	"logs_channel_permissions_updated": ":house: **`{0}` :دسترسی های چنل بروزرسانی شد**",
+	"logs_banned_from_server": ":airplane: **.از سرور بن شد {0}**",
+	"logs_unbanned": ":airplane_arriving: **آن-بن شد. {0}**",
 	"logs_welcome_inviter": "**دعوت کننده**",
 	"logs_welcome_invite_code": "**کد دعوت**",
 	"logs_welcome_age": "⏲ **عمر حساب:**",
-	"logs_joined_server": "**{0} عضو شرور شد.**",
+	"logs_joined_server": "**{0} عضو سرور شد.**",
 	"logs_member_kicked": ":wave: **{0} بیرون انداخته شد.**",
-	"logs_member_left": "**{0} باقی مانده.**",
-	"logs_member_updated": ":writing_hand: **{0} بروزرسانی شد**",
+	"logs_member_left": "**{0} سرور را ترک کرد.**",
+	"logs_member_updated": ":writing_hand: **.بروزرسانی شد {0}**",
 	"logs_old_nickname": "**نام مستعار قبلی :**",
 	"logs_new_nickname": "**نام مستعار جدید :**",
 	"logs_member_updated_roles": "**نقش ها :**",
 	"logs_nickname_reset": "نام مستعار {0} بازنشانی شد.",
 	"logs_nickname_changed": "نام مستعار {0} تغییر کرد.",
-	"logs_role_created": ":family_mmb: **`{0}` نقش ساخته شد.**",
-	"logs_role_updated": ":family_mmb: **`{0}` نقش بروزرسانی شد.**",
-	"logs_role_deleted": ":family_mmb: **`{0}` نقش حذف شد.**",
+	"logs_role_created": ":family_mmb: **.ساخته شد `{0}` نقش**",
+	"logs_role_updated": ":family_mmb: **.بروزرسانی شد `{0}` نقش**",
+	"logs_role_deleted": ":family_mmb: **.حذف شد `{0}` نقش**",
 	"logs_role_old_name": "**نام قدیم**",
 	"logs_role_new_name": "**نام جدید**",
 	"logs_role_old_mentionable": "**قابل تگ کردن قدیمی**",
@@ -316,8 +316,8 @@
 	"logs_voice_left": "**{0} از چنل صوتی `{1}` خارج شد.**",
 	"logs_voice_switched": "**.`{1}` => `{2}` به چنل صوتی دیگری جابه‌جا شد {0}**",
 	"logs_voicestate_updated": "**وضعیت صوت {0} بروزرسانی شد.**",
-	"logs_voicestate_server_mute": ":microphone2: **حالت سکوت از طرف سرور**",
-	"logs_voicestate_server_deafen": ":speaker: **حالت نشنیدن از طرف سرور**",
+	"logs_voicestate_server_mute": ":microphone2: **حالت سکوت توسط سرور**",
+	"logs_voicestate_server_deafen": ":speaker: **حالت نشنیدن توسط سرور**",
 	"logs_voice_moved": "**{0} جابه‌جا شد `{1}` => `{2}`.**",
 	"logs_voice_disconnected": "**اتصال {0} قطع شد.**",
 	"protection_no_backup_to_delete": "**هیچ نسخه پشتیبانی برای حذف کردن وجود ندارد**",

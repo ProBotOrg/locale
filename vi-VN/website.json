@@ -49,7 +49,7 @@
     "restore_description": "Khôi phục bản sao lưu của bạn!",
     "credits_description": "Hiển thị số dư của bạn hoặc ai đó.",
     "support_description": "Nhận link máy chủ hỗ trợ của chúng tôi.",
-    "color_description": "Thay đổi màu của bạn trong máy chủ.",
+    "color_description": "Thay đổi màu tên của bạn trong máy chủ.",
     "colors_description": "Liệt kê tất cả màu sắc khả dụng.",
     "title_description": "Thay đổi tiêu đề của bạn trong lệnh #profile.",
     "reset_description": "Đặt lại điểm kinh nghiệm tin nhắn/âm thoại/số lượng mời cho tất cả thành viên.",
@@ -573,5 +573,5 @@
     "error_upload_5": "Định dạng tệp không được hỗ trợ",
     "error_upload_500": "Lỗi Máy Chủ Nội Bộ",
     "rr_roles_limit": "Giới hạn vai trò mỗi người dùng",
-    "Not_Found_Page": "Trang Không Tìm Thấy"
+    "Not_Found_Page": "Không thể tìm thấy trang này."
 }

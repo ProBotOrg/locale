@@ -179,7 +179,7 @@
 	"credits_receipt": ":atm: | Potwierdzenie przelewu ```Otrzymałeś ${0} od użytkownika {1} (ID: {2})`",
 	"credits_blacklist": ":sweat: **Twoje konto jest na czarnej liście.**",
 	"credits_balance": ":bank: | ** {0}, Twoje saldo na koncie wynosi `${1}`.**",
-	"credits_balance_mentions": "** {0} :credit_card: saldo wynosi `${1}`.**",
+	"credits_balance_mentions": "**:credit_card: Saldo użytkownika {0} wynosi `${1}`.**",
 	"credits_cant_find": "** :interrobang: | {0}, nie mogę znaleźć {1}!**",
 	"credits_bots": ":thinking: | **{0}**, boty nie posiadają salda!",
 	"credits_need_transfer": "** :interrobang: | {0}, wpisz kwotę, którą chcesz przelać!**",
