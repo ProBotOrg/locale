@@ -548,12 +548,12 @@
     "mod_punishment_end": "Hình phạt kết thúc lúc:",
     "mod_this_will_deleted": "Hành động này sẽ bị xoá",
     "mod_delete_date_action": "Ngày trong quá khứ",
-    "rr_toggle": "Chuyển đổi",
-    "rr_toggle_desc": "Kiểu này sẽ thêm/gỡ vai trò phụ thuộc vào liệu người dùng đã có chưa. ĐỀ XUẤT!",
-    "rr_give": "Đưa",
-    "rr_give_desc": "Kiểu này sẽ thêm vai trò khi nào một cảm xúc được thêm/gỡ. Ngon lành cho việc xác minh!",
-    "rr_take": "Lấy",
-    "rr_take_desc": "Kiểu này sẽ gỡ vai trò khi nào một cảm xúc được thêm/gỡ.",
+    "rr_toggle": "Cho - Lấy",
+    "rr_toggle_desc": "Lựa chọn này sẽ thêm/gỡ vai trò phụ thuộc vào liệu người dùng đã có vai trò đó chưa. ĐỀ XUẤT!",
+    "rr_give": "Chỉ cho",
+    "rr_give_desc": "Lựa chọn này sẽ thêm vai trò khi người dùng thêm/gỡ lựa chọn. Ngon lành cho việc xác minh!",
+    "rr_take": "Chỉ lấy",
+    "rr_take_desc": "Lựa chọn này sẽ gỡ vai trò khi người dùng thêm/gỡ lựa chọn.",
     "rr_requires_embed_1": "Tính năng này đang trong Thử nghiệm và nó yêu cầu một Embed,",
     "rr_requires_embed_2": "Tạo một Embed từ đây.",
     "rr_embeds": "Embeds",
@@ -574,5 +574,5 @@
     "error_upload_500": "Lỗi Máy Chủ Nội Bộ",
     "rr_roles_limit": "Giới hạn vai trò mỗi người dùng",
     "Not_Found_Page": "Không thể tìm thấy trang này.",
-    "delete_this_response": "delete this response"
+    "delete_this_response": "xóa phản hồi này"
 }
