@@ -573,5 +573,6 @@
     "error_upload_5": "Typ súboru nie je podporovaný",
     "error_upload_500": "Interná chyba servera",
     "rr_roles_limit": "Limit rol na používateľa",
-    "Not_Found_Page": "Stránka nenájdená"
+    "Not_Found_Page": "Stránka nenájdená",
+    "delete_this_response": "delete this response"
 }
