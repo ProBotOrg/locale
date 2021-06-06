@@ -573,5 +573,6 @@
     "error_upload_5": "Vrsta datoteke nije podržana",
     "error_upload_500": "Interna pogreška na poslužitelju",
     "rr_roles_limit": "Ograničenje uloga po korisniku",
-    "Not_Found_Page": "Stranica koju tražite ne može se pronaći."
+    "Not_Found_Page": "Stranica koju tražite ne može se pronaći.",
+    "delete_this_response": "delete this response"
 }
