@@ -573,5 +573,6 @@
     "error_upload_5": "ไม่รองรับไฟล์ประเภทนี้",
     "error_upload_500": "ข้อผิดพลาดภายในเซิร์ฟเวอร์",
     "rr_roles_limit": "จำกัดบทบาทต่อผู้ใช้",
-    "Not_Found_Page": "ไม่พบหน้าเพจที่คุณต้องการ"
+    "Not_Found_Page": "ไม่พบหน้าเพจที่คุณต้องการ",
+    "delete_this_response": "delete this response"
 }
