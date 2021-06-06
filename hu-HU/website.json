@@ -573,5 +573,6 @@
     "error_upload_5": "Fájltípus nem támogatott",
     "error_upload_500": "Belső Szerverhiba",
     "rr_roles_limit": "Rangkorlát felhasználónként",
-    "Not_Found_Page": "Az általad kért oldal nem található."
+    "Not_Found_Page": "Az általad kért oldal nem található.",
+    "delete_this_response": "delete this response"
 }
