@@ -573,5 +573,6 @@
     "error_upload_5": "Ten typ pliku nie jest obsługiwany",
     "error_upload_500": "Wewnętrzny błąd serwera",
     "rr_roles_limit": "Limit ról dla użytkownika",
-    "Not_Found_Page": "Szukana strona nie została znaleziona."
+    "Not_Found_Page": "Szukana strona nie została znaleziona.",
+    "delete_this_response": "Usuń tę odpowiedź"
 }

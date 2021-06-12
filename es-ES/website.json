@@ -573,5 +573,6 @@
     "error_upload_5": "Tipo de archivo no soportado",
     "error_upload_500": "Error Interno del Sevidor",
     "rr_roles_limit": "Roles Limit per User",
-    "Not_Found_Page": "The page you're looking for can't be found."
+    "Not_Found_Page": "The page you're looking for can't be found.",
+    "delete_this_response": "delete this response"
 }

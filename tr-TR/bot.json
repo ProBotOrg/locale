@@ -123,7 +123,7 @@
 	"warn_cant_warning_description": "🔍 **Aradığınız uyarıyı bulamıyorum.**",
 	"warn_specify_number_description": ":rolling_eyes: - **Lütfen uyarı numarası belirtin, bir kullanıcı etiketleyin ya da tüm uyarıları silmek için all ekleyin.**",
 	"vkick_cant_permission_description": ":rolling_eyes: - Bu kullanıcıyı sunucudan atamadım. Lütfen izinlerimi kontrol edin.",
-	"vkick_you_cant_description": ":rolling_eyes: - ** {0} 'ı sunucudan atamazsın. **",
+	"vkick_you_cant_description": ":rolling_eyes: - ** {0} 'ı ses kanalından atamazsın. **",
 	"vkick_not_voice_description": ":rolling_eyes: - ** Kullanıcı ses kanalında değil! **",
 	"vkick_voice_kicked_description": ":white_check_mark: **@{0} ses kanalından atıldı! **",
 	"unban_couldnt_user_description": ":rolling_eyes: - O kullanıcının yasağını kaldıramadım. Lütfen izinlerimi kontrol edin.",

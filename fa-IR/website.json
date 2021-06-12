@@ -573,5 +573,6 @@
     "error_upload_5": "نوع فایل پشتیبانی نشده",
     "error_upload_500": "خطای داخلی سرور",
     "rr_roles_limit": "محدودیت نقش به ازای هر کاربر",
-    "Not_Found_Page": "صفحه یافت نشد"
+    "Not_Found_Page": "صفحه یافت نشد",
+    "delete_this_response": "delete this response"
 }

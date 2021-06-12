@@ -198,7 +198,7 @@
     "ACTION_WHEN_PROTECTED": "Action when protected role is updated/deleted",
     "UNDO_REMOVE_ALL": "Undo the action + Remove all administrative permission from all roles",
     "PROTECT_BOT_JOINED": "Action when a bot joins the server",
-    "REMOVE_ADMIN_BOT": "Remove all administrative permissions from the bot roles",
+    "REMOVE_ADMIN_BOT": "Remove all administrative roles from the bot",
     "KICK_THE_BOT": "Kick the bot",
     "BOTS_HINT": "This will protect your server from unknown bots.",
     "WHITELIST_BOTS": "Whitelist bots",
@@ -573,5 +573,6 @@
     "error_upload_5": "Vrsta datoteke nije podržana",
     "error_upload_500": "Interna pogreška na poslužitelju",
     "rr_roles_limit": "Ograničenje uloga po korisniku",
-    "Not_Found_Page": "Stranica koju tražite ne može se pronaći."
+    "Not_Found_Page": "Stranica koju tražite ne može se pronaći.",
+    "delete_this_response": "delete this response"
 }

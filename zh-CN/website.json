@@ -573,5 +573,6 @@
     "error_upload_5": "不支持的文件类型",
     "error_upload_500": "内部服务器错误",
     "rr_roles_limit": "每个用户的角色限制",
-    "Not_Found_Page": "找不到您正在寻找的页面"
+    "Not_Found_Page": "找不到您正在寻找的页面",
+    "delete_this_response": "delete this response"
 }

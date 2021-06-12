@@ -573,5 +573,6 @@
     "error_upload_5": "Failo tipas nėra palaikomas",
     "error_upload_500": "Vidinė serverio klaida",
     "rr_roles_limit": "Vaidmenų limitas per vartotoją",
-    "Not_Found_Page": "Ieškomo puslapio negalima rasti."
+    "Not_Found_Page": "Ieškomo puslapio negalima rasti.",
+    "delete_this_response": "delete this response"
 }

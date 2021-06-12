@@ -573,5 +573,6 @@
     "error_upload_5": "Tip de fișier nu este acceptat",
     "error_upload_500": "Eroare internă de server",
     "rr_roles_limit": "Roluri Limita per utilizator",
-    "Not_Found_Page": "Pagina nu a fost găsită"
+    "Not_Found_Page": "Pagina nu a fost găsită",
+    "delete_this_response": "delete this response"
 }
