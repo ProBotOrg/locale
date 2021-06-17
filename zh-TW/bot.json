@@ -223,7 +223,7 @@
 	"color_error": ":rolling_eyes: - 背景錯誤，如果這繼續發生，請聯繫支援",
 	"time_reasons_limit": ":rolling_eyes: - **時間限制必須包含時、日、星期、月、年（h, d, w, m, y）至少一個**",
 	"user_warn_warned": ":white_check_mark: **@{0} 已被警告！**",
-	"user_warn_you_are_warned": ":warning: **你已被緊告！**",
+	"user_warn_you_are_warned": ":warning: **你已被警告！**",
 	"server_id": ":id: 伺服器 ID:",
 	"server_created": ":calendar: 建立時間",
 	"server_owned": ":crown: 擁有者",
