@@ -535,9 +535,9 @@
     "mod_mutes": "Заглушенные",
     "mod_warning": "Предупреждения",
     "mod_search_username": "поиск по имени пользователя",
-    "mod_punish_time": "Назначить время",
+    "mod_punish_time": "Длительность",
     "mod_time_left": "Осталось времени",
-    "mod_punished_at": "Наказан за",
+    "mod_punished_at": "Дата наказания",
     "mod_responsible": "Ответственный",
     "no_results_found": "Ничего не найдено",
     "mod_undo_action": "Отменить действие",
@@ -574,5 +574,5 @@
     "error_upload_500": "Ошибка сервера",
     "rr_roles_limit": "Лимит ролей на пользователя",
     "Not_Found_Page": "Страница не найдена",
-    "delete_this_response": "delete this response"
+    "delete_this_response": "удалить этот ответ"
 }
