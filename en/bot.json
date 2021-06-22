@@ -409,7 +409,7 @@
 	"role_give_role_description": "The role to give.",
 	"role_remove_role_description": "The role to remove.",
 	"role_give_user_description": "User to give role for.",
-	"role_remove_user_description": "User to give role for.",
+	"role_remove_user_description": "User to remove role for.",
 	"role_pick_type_description": "Pick a type",
 	"setcolor_role_description": "Role to set color for.",
 	"setcolor_hex_description": "Hex code of the color.",
