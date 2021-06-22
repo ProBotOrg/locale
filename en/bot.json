@@ -352,7 +352,7 @@
 	"credits_amount_description": "Amount to transfer.",
 	"credits_comment_description": "An additional comment to the credits transaction.",
 	"profile_user_description": "User to get profile of.",
-	"rank_user_description": "User to get profile of.",
+	"rank_user_description": "User to get rank of.",
 	"user_user_description": "User to get information about.",
 	"top_type_description": "The leaderboard type either text or voice.",
 	"top_duration_description": "The leaderboard specified duration.",
