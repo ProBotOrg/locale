@@ -357,7 +357,7 @@
 	"top_type_description": "The leaderboard type either text or voice.",
 	"top_duration_description": "The leaderboard specified duration.",
 	"top_page_description": "The leaderboard page number.",
-	"moveme_input_description": "Channel or user to move to."
+	"moveme_input_description": "Channel or user to move to.",
 	"color_number_description": "Number of the colors given in the /colors commands",
 	"points_increase_description": "Increase additional points.",
 	"points_user_description": "User to set point for.",
