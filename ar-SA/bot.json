@@ -429,5 +429,6 @@
 	"queue_page_description": "الصفحة التي تبحث عنها.",
 	"skip_NOT_description": "كم عدد المقاطع المراد تخطيها.",
 	"seek_position_description": "ينتقل إلى نقطة معينة.",
-	"vol_amount_description": "أدخل القيمة المراد تعيينها."
+	"vol_amount_description": "أدخل القيمة المراد تعيينها.",
+	"resume_description": "Resumes the currently pauses track."
 }
