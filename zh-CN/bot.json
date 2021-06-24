@@ -429,5 +429,6 @@
 	"queue_page_description": "您正在寻找的页面。",
 	"skip_NOT_description": "要跳过多少曲目。",
 	"seek_position_description": "寻求某一点。",
-	"vol_amount_description": "输入要设置的值。"
+	"vol_amount_description": "输入要设置的值。",
+	"resume_description": "Resumes the currently pauses track."
 }
