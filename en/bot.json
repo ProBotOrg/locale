@@ -37,8 +37,8 @@
 	"support_description": "Get our support server invite link.",
 	"color_description": "Changes roles colors.",
 	"colors_description": "Lists you all the available colors.",
-	"title_description": "Changes your title in the `#profile` command.",
-	"reset_description": "Reset text/voice/invites xp points for all or specific members.",
+	"title_description": "Changes your title in the `profile` command.",
+	"reset_description": "Reset text\/voice\/invites xp points for all or specific members.",
 	"rep_description": "Award someone a reputation point. Can only be used once every 24 hours.",
 	"daily_description": "Get your daily salary.",
 	"vip_description": "Displays info about your premium bot.",
@@ -412,6 +412,7 @@
 	"role_remove_user_description": "User to remove role for.",
 	"role_pick_type_description": "Pick a type",
 	"setcolor_role_description": "Role to set color for.",
+	"setcolor_hex_description": "Hex code of the color.",
 	"give_value": "Give",
 	"remove_value": "Remove",
 	"all_value": "All",
@@ -429,5 +430,6 @@
 	"queue_page_description": "The page you are looking for.",
 	"skip_NOT_description": "How many tracks to skip.",
 	"seek_position_description": "Seeks to a certain point.",
-	"vol_amount_description": "Enter value to set."
+	"vol_amount_description": "Enter value to set.",
+	"resume_description": "Resumes the currently pauses track."
 }
