@@ -113,7 +113,7 @@
 	"setcolor_cant_find_description": ":rolling_eyes: - ** Ne mogu pronaći ovu uloga **",
 	"setcolor_miss_permission_description": ":rolling_eyes: ** You don't have permission on that role **",
 	"setcolor_cant_change_description": ":rolling_eyes: -  I couldn't change that role. Please check my permissions and role position.",
-	"setcolor_hex_description": "Hex code of the color.",
+	"setcolor_hex_description": ":rolling_eyes: - Hex color length must equal 6 or 3",
 	"setcolor_done_description": ":white_check_mark: **  {0}'s color has been changed successfully.**",
 	"setcolor_permission_need_description": ":rolling_eyes: ** ProBot doesn't have permission on that role **",
 	"warn_cant_description": ":rolling_eyes: - ** You can't warn @{0}. **",
