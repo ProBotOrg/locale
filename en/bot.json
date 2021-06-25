@@ -430,5 +430,7 @@
 	"skip_NOT_description": "How many tracks to skip.",
 	"seek_position_description": "Seeks to a certain point.",
 	"vol_amount_description": "Enter value to set.",
-	"resume_description": "Resumes the currently paused track.\n"
+	"resume_description": "Resumes the currently pauses track.",
+	"setlang_description": "Sets your preferred language to the bot.",
+	"setlang_language_description": "Language to change to."
 }
