@@ -431,6 +431,6 @@
 	"seek_position_description": "ينتقل إلى نقطة معينة.",
 	"vol_amount_description": "أدخل القيمة المراد تعيينها.",
 	"resume_description": "إستئناف المقطع الذي تم إيقافه.",
-	"setlang_description": "Sets your preferred language to the bot.",
-	"setlang_language_description": "Language to change to."
+	"setlang_description": "تعيين لغتك المفضلة على البوت.",
+	"setlang_language_description": "تغيير اللغة إلى."
 }
