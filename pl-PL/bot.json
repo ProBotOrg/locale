@@ -432,5 +432,6 @@
 	"vol_amount_description": "Wprowadź wartość do ustawienia.",
 	"resume_description": "Wznawia aktualnie wstrzymany utwór.",
 	"setlang_description": "Ustawia preferowany język dla bota.",
-	"setlang_language_description": "Język do zmiany."
+	"setlang_language_description": "Język do zmiany.",
+	"muted_both": ":white_check_mark: **@{0} muted from both text and voice! :zipper_mouth:**"
 }
