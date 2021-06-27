@@ -94,7 +94,6 @@
 	"role_must_have_permission_description": ":rolling_eyes: - **devi avere il permesso di amministratore per usare questo comando**",
 	"role_specify_name_description": ":rolling_eyes: - **perfavore specifica il nome del ruolo**",
 	"role_changing_for_description": ":white_check_mark: Sto cambiando i/il ruolo/i {0} per i membri, {1}**{2}**",
-	"unvmute_required_voice_description": ":rolling_eyes: - **discord necessità che il membro sia nel canale vocale prima di effetuare il comando unvmute**",
 	"unvmute_member_voice_description": ":white_check_mark: {0} smutato!",
 	"unvmute_not_muted_description": ":blush: **{0} non è mutato**",
 	"ban_from_server_description": ":white_check_mark: **{0} è stato bannato dal server! :airplane:**",
