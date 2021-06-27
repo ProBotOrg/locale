@@ -94,7 +94,6 @@
 	"role_must_have_permission_description": ":rolling_eyes: - **Vous devez avoir les permissions Administrateur pour utiliser cette commande.",
 	"role_specify_name_description": ":rolling_eyes: - ** Merci de préciser un rôle **",
 	"role_changing_for_description": ":white_check_mark: Changement des rôles pour {0} membres, {1}**{2}**",
-	"unvmute_required_voice_description": ":rolling_eyes: - **Les membres que vous voulez rendre muets doivent auparavant être dans un salon vocal.**",
 	"unvmute_member_voice_description": ":white_check_mark: Le micro de {0} est rétabli !\n",
 	"unvmute_not_muted_description": ":blush: **Le micro de {0} n'a pas été coupé. **",
 	"ban_from_server_description": ":white_check_mark: **{0} a été banni du serveur ! :airplane:**",
