@@ -94,7 +94,6 @@
 	"role_must_have_permission_description": ":rolling_eyes: - **Jūs privalote turėti Administratoriaus leidimus, kad naudoti šią komandą**",
 	"role_specify_name_description": ":rolling_eyes: - **Prašome nurodyti vaidmens pavadinimą**",
 	"role_changing_for_description": ":white_check_mark: pakeitė vaidmenis {0}, **{1}**",
-	"unvmute_required_voice_description": ":rolling_eyes: - **Discord reikalauja narių būti balso kanale, kad būtų galima jį atitildinti. **",
 	"unvmute_member_voice_description": ":white_check_mark: {0} atitildytas!",
 	"unvmute_not_muted_description": ":blush: **{0} neužtildytas.**",
 	"ban_from_server_description": ":white_check_mark: **{0} užblokuotas iš serverio! :airplane:**",
