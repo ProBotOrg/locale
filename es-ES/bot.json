@@ -372,7 +372,7 @@
 	"move_user_description": "El usuario a moverse.",
 	"move_channel_description": "Canal para mover al usuario.",
 	"warnings_user_description": "El usuario del que se van a advertir.",
-	"warn_remove_input_description": "[Advertir id] o [usuario] o [todas] para eliminar todas las advertencias",
+	"warn_remove_input_description": "[Advertir id] o [user] o [all] para eliminar todas las advertencias",
 	"warn_user_description": "El usuario a advertir.",
 	"warn_reason_description": "Razón de la advertencia.",
 	"setnick_user_description": "Usuario para el que establecer un nick.",
