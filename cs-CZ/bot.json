@@ -94,7 +94,6 @@
 	"role_must_have_permission_description": ":rolling_eyes: - ** K vykonání tohoto příkazu musíš mít oprávnění Administrátor.",
 	"role_specify_name_description": ":rolling_eyes: - ** Upřesni název role **",
 	"role_changing_for_description": ":white_check_mark: Měním role {0} členům, {1}**{2}**",
-	"unvmute_required_voice_description": ":rolling_eyes: - **Discord vyžaduje mít členy v hlasovém kanále, než jim budeš moct zrušit umlčení.**",
 	"unvmute_member_voice_description": ":white_check_mark: Zrušeno umlčení uživateli {0}!",
 	"unvmute_not_muted_description": ":blush: **{0} není umlčen/a.**",
 	"ban_from_server_description": ":white_check_mark: **{0} byl/a zabanován/a ze serveru! :airplane:**",
