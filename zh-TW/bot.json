@@ -94,7 +94,6 @@
 	"role_must_have_permission_description": ":rolling_eyes: - **你必須要有管理員權限來用這個指令**",
 	"role_specify_name_description": ":rolling_eyes: - **請指定一個身份組名稱**",
 	"role_changing_for_description": ":white_check_mark: 成功更新{0}的身份組，{1}**{2}**",
-	"unvmute_required_voice_description": ":rolling_eyes: - **Discord要求成員在語音頻道裡才能被解除語音頻道靜音**",
 	"unvmute_member_voice_description": ":white_check_mark: {0} 已解除禁言",
 	"unvmute_not_muted_description": ":blush: **{0}沒有被禁言**",
 	"ban_from_server_description": ":white_check_mark: **{0}已成功被封鎖 :airplane:**",
