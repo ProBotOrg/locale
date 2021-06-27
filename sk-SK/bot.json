@@ -94,7 +94,6 @@
 	"role_must_have_permission_description": ":rolling_eyes: - ** Na vykonanie tohto príkazu musíte mať povolenie správcu.",
 	"role_specify_name_description": ":rolling_eyes: - ** Zadajte názov role **",
 	"role_changing_for_description": ":white_check_mark: Menia sa role pre {0} členov, {1} **{2}**",
-	"unvmute_required_voice_description": ":rolling_eyes: - **Nesúhlas vyžadoval, aby členovia boli v hlasových kanáloch pred zrušením zvuku.**",
 	"unvmute_member_voice_description": ":white_check_mark: {0} odtlmený!",
 	"unvmute_not_muted_description": ":začervenanie: **{0} nie je stlmený/á.**",
 	"ban_from_server_description": ":white_check_mark: **{0} zakázaný zo servera! :airplane:**",
@@ -432,5 +431,6 @@
 	"vol_amount_description": "Enter value to set.",
 	"resume_description": "Resumes the currently paused track.\n",
 	"setlang_description": "Sets your preferred language to the bot.",
-	"setlang_language_description": "Language to change to."
+	"setlang_language_description": "Language to change to.",
+	"muted_both": ":white_check_mark: **@{0} muted from both text and voice! :zipper_mouth:**"
 }

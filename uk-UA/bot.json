@@ -94,7 +94,6 @@
 	"role_must_have_permission_description": ":rolling_eyes: - **You must have Administrator permission to do this command.**",
 	"role_specify_name_description": ":rolling_eyes: - ** Please specify role name **",
 	"role_changing_for_description": ":white_check_mark: Changing roles for {0} members, {1}**{2}**",
-	"unvmute_required_voice_description": ":rolling_eyes: - **Discord requires members to be in voice channels before unvmute.**",
 	"unvmute_member_voice_description": ":white_check_mark: {0} unmuted!",
 	"unvmute_not_muted_description": ":blush: **{0} not muted.**",
 	"ban_from_server_description": ":white_check_mark: **{0} banned from the server! :airplane:**",
@@ -432,5 +431,6 @@
 	"vol_amount_description": "Enter value to set.",
 	"resume_description": "Resumes the currently paused track.\n",
 	"setlang_description": "Sets your preferred language to the bot.",
-	"setlang_language_description": "Language to change to."
+	"setlang_language_description": "Language to change to.",
+	"muted_both": ":white_check_mark: **@{0} muted from both text and voice! :zipper_mouth:**"
 }

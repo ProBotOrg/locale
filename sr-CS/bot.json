@@ -94,7 +94,6 @@
 	"role_must_have_permission_description": ":rolling_eyes: - ** Moraš biti Administrator da bi koristio ovu komandu.",
 	"role_specify_name_description": ":rolling_eyes: - ** Navedi ime rola **",
 	"role_changing_for_description": ":white_check_mark: Menjanje rolova za {0} članova, {1}**{2}**",
-	"unvmute_required_voice_description": ":rolling_eyes: - **Diskord zaheva da članovi budu u glasovnim kanalima kako bi bili odmutirani.**",
 	"unvmute_member_voice_description": ":white_check_mark: {0} odmutiran!",
 	"unvmute_not_muted_description": ":blush: **{0} nije mutiran.**",
 	"ban_from_server_description": ":white_check_mark: **{0} je banovan sa servera! :airplane:**",
@@ -432,5 +431,6 @@
 	"vol_amount_description": "Enter value to set.",
 	"resume_description": "Resumes the currently paused track.\n",
 	"setlang_description": "Sets your preferred language to the bot.",
-	"setlang_language_description": "Language to change to."
+	"setlang_language_description": "Language to change to.",
+	"muted_both": ":white_check_mark: **@{0} muted from both text and voice! :zipper_mouth:**"
 }
