@@ -94,7 +94,6 @@
 	"role_must_have_permission_description": ":rolling_eyes: - ** Bu komutu kullanmak için yönetici iznine ihtiyacın var. **",
 	"role_specify_name_description": ":rolling_eyes: - ** Lütfen bir rol ismi belirtin **",
 	"role_changing_for_description": ":white_check_mark: {0} üye için roller değiştiriliyor, {1}**{2}**",
-	"unvmute_required_voice_description": ":rolling_eyes: - **unvmute komutunu kullanamadan önce kullanıcılar ses kanalında olmalıdır.**",
 	"unvmute_member_voice_description": ":white_check_mark: {0} 'ın susturması kaldırıldı!",
 	"unvmute_not_muted_description": ":blush: **{0} susturulmamış.**",
 	"ban_from_server_description": ":white_check_mark: **{0} sunucudan yasaklandı! :airplane:**",
