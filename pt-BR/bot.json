@@ -94,7 +94,6 @@
 	"role_must_have_permission_description": ":rolling_eyes: - ** Você precisa de permissão do administrador para executar esse comando. **",
 	"role_specify_name_description": ":rolling_eyes: - ** Por favor, especifique o nome do cargo **",
 	"role_changing_for_description": ":white_check_mark: Alterando cargos para {0} membros, {1}**{2}**",
-	"unvmute_required_voice_description": ":rolling_eyes: - **Discord necessita que membros precisam estar em canais de voz antes de desmutar.**",
 	"unvmute_member_voice_description": ":white_check_mark: {0} desmutado!",
 	"unvmute_not_muted_description": ":blush: **{0} não silenciado.**",
 	"ban_from_server_description": ":white_check_mark: **{0} banido do servidor! :airplane:**",
