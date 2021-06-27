@@ -94,7 +94,6 @@
 	"role_must_have_permission_description": ":rolling_eyes: - **Adminisztrátori engedély kell hogy futtasd ezt a parancsot.",
 	"role_specify_name_description": ":rolling_eyes: - ** Kérlek add meg a rang nevét **",
 	"role_changing_for_description": ":white_check_mark: {0} tag rangjainak változtatása, {1}**{2}**",
-	"unvmute_required_voice_description": ":rolling_eyes: - **A Discord követeli a tagoktól hogy hangcsatornában legyenek hangfeloldás előtt.**",
 	"unvmute_member_voice_description": ":white_check_mark: {0} némítása feloldva!",
 	"unvmute_not_muted_description": ":blush: **{0} nincs némítva.**",
 	"ban_from_server_description": ":white_check_mark: **{0} kirúgva a szerverről! :airplane:**",
