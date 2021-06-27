@@ -94,7 +94,6 @@
 	"role_must_have_permission_description": ":rolling_eyes: - ** คุณต้องได้รับอนุญาตจากผู้ดูแลระบบจึงจะทำคำสั่งนี้ได้ **",
 	"role_specify_name_description": ":rolling_eyes: - ** โปรดระบุชื่อบทบาท **",
 	"role_changing_for_description": ":white_check_mark: การเปลี่ยนบทบาทของ  {0} สมาชิก, {1}**{2}**",
-	"unvmute_required_voice_description": ":rolling_eyes: - ** Discord กำหนดให้สมาชิกอยู่ในช่องเสียงก่อนเปิดเสียง **",
 	"unvmute_member_voice_description": ":white_check_mark: {0} ถูกปลดแบนแล้ว",
 	"unvmute_not_muted_description": ":blush: **{0} ไม่ได้ถูกปิดเสียง **",
 	"ban_from_server_description": ":white_check_mark: **{0} ถูกแบนจากเซิร์ฟเวอร์! :airplane:**",
