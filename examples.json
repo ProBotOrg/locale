@@ -52,6 +52,7 @@
         "usage_roll": "{0}\n{0} (number)",
         "usage_points": "`{0} [user] 1` - set the points of a user\n`{0} [user] +1` - increase the points of a user\n`{0} (user) -1` - decrease the points of a user \n`{0} [user] 0` - reset the points of a user \n`{0} reset` - resets all points\n`{0} [role name]` - filters the points by a role",
         "usage_removewarn": "{0} [warnID]\n{0} [user]\n{0} all",
+        "usage_setlang": "{0} [Language Code]",
         "examples_rank": "{0}\n{0} {1}",
         "examples_clear": "{0} 1000\n{0} bots 10\n{0} {1} 10",
         "examples_moveme": "{0} general\n{0} {1}",
@@ -103,7 +104,8 @@
         "examples_short": "{0} https:\/\/probot.io\/This-is-A-Very-Long-Link-lol",
         "examples_roll": "{0}\n{0} 100",
         "examples_points": "{0} {1} 1\n{0} {1} +1 \n{0} {1} -1\n{0} {1} 0\n{0} reset\n{0} Admin",
-        "examples_removewarn": "{0} 56323094912\n{0} @Dramex\n{0} all"
+        "examples_removewarn": "{0} 56323094912\n{0} @Dramex\n{0} all",
+        "examples_setlang": "{0} en"
     },
     "website":{
         "usage_removewarn": "{0} [warnID]\n{0} [user]\n{0} all",
@@ -147,6 +149,7 @@
         "usage_roll": "{0}\n{0} (number)",
         "usage_points": "`{0} [user] 1`  - set the points of a user\n`{0} [user] +1` - increase the points of a user\n`{0} [user] -1` - decrease the points of a user\n`{0} [user] 0` -  reset the points of a user\n`{0} reset` - resets all points\n{0} [role name] - filters the points by a role",
         "usage_rank": "{0}\n{0} [user]",
+        "usage_setlang": "{0} [Language Code]",
         "examples_clear": "{0} 1000\n{0} bots 10\n{0} @Dramex 10",
         "examples_moveme": "{0} general\n{0} @Dramex",
         "examples_id": "{0} @Dramex",
@@ -187,6 +190,7 @@
         "examples_short": "{0} https://probot.io/This-is-A-Very-Long-Link-lol",
         "examples_points": "{0} @Dramex 1\n{0} @Dramex +1 \n{0} @Dramex -1\n{0} @Dramex 0\n{0} reset\n{0} Admin",
         "examples_rank": "{0}\n{0} @Dramex\n{0} 728882410384785451",
-        "examples_removewarn": "{0} 1810\n{0} @Dramex\n{0} all"
+        "examples_removewarn": "{0} 1810\n{0} @Dramex\n{0} all",
+        "examples_setlang": "{0} en"
     }
 }
