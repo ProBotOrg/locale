@@ -94,7 +94,6 @@
 	"role_must_have_permission_description": " ** يجب أن تمتلك صلاحية Administrator حتى تقوم بهذا الإجراء**. :rolling_eyes:",
 	"role_specify_name_description": ":rolling_eyes: - ** الرجاء إدخال اسم الرتبة **",
 	"role_changing_for_description": " جاري تغيير رتبة {0} عضو, {1}**{2}** :white_check_mark: ",
-	"unvmute_required_voice_description": ":rolling_eyes: - **حسب شروط الديسكورد لإستخدام هذا الأمر فإنه يجب ان يتواجد العضو بروم صوتي.**",
 	"unvmute_member_voice_description": ":white_check_mark: تم فك الاسكات عن {0}!",
 	"unvmute_not_muted_description": ":blush: **لم يتم إسكات {0}.**",
 	"ban_from_server_description": "✅ **تم حظر {0} من السيرفر! ✈️**",
