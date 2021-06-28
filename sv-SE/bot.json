@@ -13,7 +13,6 @@
 	"kick_description": "Kickar en medlem.",
 	"vkick_description": "Sparkar en medlem från en röstkanal",
 	"mute_description": "Tysta en medlem från textkanaler så att de inte kan skriva.",
-	"unmute_description": "Avtystar en medlem.",
 	"vmute_description": "Tysta en medlem från röstkanaler så att de inte kan prata.",
 	"unvmute_description": "Avtysta en medlem från röstkanaler.",
 	"move_description": "Flyttar en medlem till en röstkanal.",
