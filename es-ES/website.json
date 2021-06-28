@@ -138,7 +138,7 @@
     "ban_member": "Miembro baneado",
     "unban_member": "Miembro desbaneado",
     "member_joined": "Miembro registrado",
-    "member_left": "Miembro de la izquierda",
+    "member_left": "Un miembro se ha ido",
     "edit_messages": "Mensaje editado",
     "delete_messages": "Mensaje borrado",
     "probot_mods": "Comando de moderación utilizado",
