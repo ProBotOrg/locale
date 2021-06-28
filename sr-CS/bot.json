@@ -13,7 +13,6 @@
 	"kick_description": "Izbacuje člana.",
 	"vkick_description": "Izbacuje člana iz glasovnog kanala",
 	"mute_description": "Mutira člana u tekstualnim kanalima kako ne bi mogao pisati.",
-	"unmute_description": "Odmutira člana.",
 	"vmute_description": "Mutira člana u glasovnim kanalima kako ne bi mogao pričati.",
 	"unvmute_description": "Odmutira člana u glasovnim kanalima.",
 	"move_description": "Prebacuje člana u glasovni kanal.",
