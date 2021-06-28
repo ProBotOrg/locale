@@ -13,7 +13,6 @@
 	"kick_description": "Vyhodí člena.",
 	"vkick_description": "Vyhodí člena z hlasového kanála\n",
 	"mute_description": "Stlmte člena z textových kanálov, aby nemohol písať.\n",
-	"unmute_description": "odtlmí člena",
 	"vmute_description": "Stlmte člena z hlasových kanálov, aby nemohli hovoriť.",
 	"unvmute_description": "udtlmí člena s hlasových kanálov",
 	"move_description": "Presunie člena do hlasového kanála.",
