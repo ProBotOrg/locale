@@ -37,7 +37,6 @@
         "usage_seek": "{0} [target point]",
         "usage_restore": "{0} [Backup code]",
         "usage_credits": "{0}\n{0} [user]\n{0} [user] [amount]\n{0} [user] [amount] (reason)",
-        "usage_support": "{0}",
         "usage_color": "{0} [color's number]",
         "usage_colors": "{0}",
         "usage_title": "{0}\n{0} [new title]",
