@@ -13,7 +13,6 @@
 	"kick_description": "Đuổi một thành viên.",
 	"vkick_description": "Đá thành viên nào đó khỏi kênh voice.",
 	"mute_description": "Khóa trò chuyện của một thành viên nào đó để họ không thể nhắn tin.",
-	"unmute_description": "Bỏ khóa trò chuyện cho thành viên.",
 	"vmute_description": "Tắt tiếng thành viên nào đó để họ không thể nói.",
 	"unvmute_description": "Bỏ tắt tiếng thành viên.",
 	"move_description": "Chuyển thành viên nào đó sang kênh voice khác.",
