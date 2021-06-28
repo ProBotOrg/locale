@@ -13,7 +13,6 @@
 	"kick_description": "Expulsa um membro.",
 	"vkick_description": "Expulsa um membro de um canal de voz.",
 	"mute_description": "Tira a permissão de um membro de digitar em canais de texto.",
-	"unmute_description": "Revoga o comando #mute.",
 	"vmute_description": "Tira a permissão de um membro de falar em canais de voz.",
 	"unvmute_description": "Revoga o comando #vmute.",
 	"move_description": "Move um membro para um canal de voz.",
