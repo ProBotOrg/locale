@@ -431,5 +431,6 @@
 	"resume_description": "إستئناف المقطع الذي تم إيقافه.",
 	"setlang_description": "تعيين لغتك المفضلة على البوت.",
 	"setlang_language_description": "تغيير اللغة إلى.",
+	"unmute_description": "الغاء منع كتابي من عضو.",
 	"muted_both": ":white_check_mark: **تم إسكات {0} من الرومات الصوتية!** :zipper_mouth:"
 }
