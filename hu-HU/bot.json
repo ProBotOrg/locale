@@ -13,7 +13,6 @@
 	"kick_description": "Kirúgja a megadott tagot.",
 	"vkick_description": "Kirúgja a megadott tagot a hangcsatornáról.",
 	"mute_description": "Lenémít egy tagot a szövegcsatornában, hogy ne tudjon írni.",
-	"unmute_description": "Feloldja a némítást a megadott tagról.",
 	"vmute_description": "Lenémít egy tagot a hangcsatornáról, úgyhogy nem fog tudni beszélni.",
 	"unvmute_description": "Feloldja a némítást a felhasználóról a hangcsatornán.",
 	"move_description": "Áthelyezi a felhasználót a hangcsatornára.",
