@@ -13,7 +13,6 @@
 	"kick_description": "Dă afară un membru. ",
 	"vkick_description": "Dă afară un membru dintr-un canal de voce. ",
 	"mute_description": "Interzice unui membru de a scrie pe chat. ",
-	"unmute_description": "Revocă interzicerea de a scrie unui membru.",
 	"vmute_description": "Interzice unui membru de a vorbi pe canalele de voce. ",
 	"unvmute_description": "Revocă interzicerea de a vorbi unui membru. ",
 	"move_description": "Mută un membru într-un canal de voce. ",
