@@ -431,5 +431,6 @@
 	"resume_description": "Şu anda durdurulmuş parçayı devam ettirir.",
 	"setlang_description": "Tercih ettiğiniz dili bot olarak ayarlar.",
 	"setlang_language_description": "Değiştirilecek dil.",
+	"unmute_description": "Bir üyenin susturmasını kaldırır.",
 	"muted_both": ":white_check_mark:**@{0} hem metinden hem de sesten sessiz! :zipper_mouth:**"
 }
