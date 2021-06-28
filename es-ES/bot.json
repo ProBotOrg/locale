@@ -13,7 +13,6 @@
 	"kick_description": "Expulsa a un miembro.",
 	"vkick_description": "Expulsa a un miembro de un canal de voz",
 	"mute_description": "Silenciar a un miembro de los canales de texto.",
-	"unmute_description": "Remover el silencio de un miembro.",
 	"vmute_description": "Silenciar a un miembro de los canales de voz.",
 	"unvmute_description": "Quita el silencio de un miembro de los canales de voz.",
 	"move_description": "Mueve a un miembro a un canal de voz.",

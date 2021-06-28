@@ -13,7 +13,6 @@
 	"kick_description": "Espelle un membro",
 	"vkick_description": "Espelle un membro da un canale vocale",
 	"mute_description": "Muta un membro dai canali testuali quindi non potrà scrivere",
-	"unmute_description": "Smuta una membro",
 	"vmute_description": "Muta un membro dai canali vocali così non potrà parlare",
 	"unvmute_description": "Smuta un membro dai canali vocali",
 	"move_description": "Sposta un membro da un canale vocale ad un altro",

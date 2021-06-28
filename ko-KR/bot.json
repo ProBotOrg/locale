@@ -13,7 +13,6 @@
 	"kick_description": "멤버를 서버에서 추방시킵니다.",
 	"vkick_description": "멤버를 음성 채널에서 내보내도록 합니다.",
 	"mute_description": "멤버를 채팅 채널에서 뮤트시킵니다.",
-	"unmute_description": "멤버의 뮤트 조치를 해제합니다.",
 	"vmute_description": "멤버를 음성 채널에서 뮤트시킵니다.",
 	"unvmute_description": "멤버를 음성 채널에서 뮤트 해제합니다.",
 	"move_description": "멤버를 음성 채널로 이동시킵니다.",

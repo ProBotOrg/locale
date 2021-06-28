@@ -13,7 +13,6 @@
 	"kick_description": "Wyrzuca członka.",
 	"vkick_description": "Wyrzuca członka z kanału głosowego.",
 	"mute_description": "Wycisz członka na kanałach tekstowych, uniemożliwiając mu pisanie.",
-	"unmute_description": "Dezaktywuje wyciszenie członka.",
 	"vmute_description": "Wycisza członka na kanałach głosowych, aby nie mógł mówić.",
 	"unvmute_description": "Usuwa wyciszenie członka na kanałach głosowych.",
 	"move_description": "Przenosi członka do kanału głosowego.",

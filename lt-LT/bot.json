@@ -13,7 +13,6 @@
 	"kick_description": "Išmetamas narys.",
 	"vkick_description": "Išmetamas narys iš balso kanalo",
 	"mute_description": "Nutildyti narį teksto kanaluose, kad jie negalėtų rašyti.",
-	"unmute_description": "Leidžiama nariui rašyti.",
 	"vmute_description": "Nutildyti narį balso kanaluose, kad jie negalėtų kalbėti.",
 	"unvmute_description": "Leidžiama nariui kalbėti balso kanaluose.",
 	"move_description": "Perkeliamas narys į balso kanalą.",

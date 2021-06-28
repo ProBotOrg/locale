@@ -13,7 +13,6 @@
 	"kick_description": "Sparker et medlem.",
 	"vkick_description": "Sparker et medlem fra en talekanal",
 	"mute_description": "Mute a member from text channels so they cannot type.",
-	"unmute_description": "Unmute et medlem",
 	"vmute_description": "Mute a member from voice channels so they cannot speak.",
 	"unvmute_description": "Unmutes a member from voice channels.",
 	"move_description": "Moves a member to another voice channel.",

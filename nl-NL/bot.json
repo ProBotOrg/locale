@@ -13,7 +13,6 @@
 	"kick_description": "kickt een lid",
 	"vkick_description": "Kickt een lid uit een spraak kanaal",
 	"mute_description": "Demp een lid van tekstkanalen zodat ze niet kunnen typen.",
-	"unmute_description": "Een lid wordt niet meer gedempt. En kan weet typen en kanalen",
 	"vmute_description": "Een lid van de spraakkanalen dempen zodat hij of zij niet kan spreken.",
 	"unvmute_description": "Het lid word niet meer gedempt en kan weer praten in spraak kanalen ",
 	"move_description": "Verplaatst een lid naar een stemkanaal.",

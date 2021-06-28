@@ -13,7 +13,6 @@
 	"kick_description": "Kickt einen Benutzer.",
 	"vkick_description": "Kickt ein Mitglied aus einem Sprachkanal.",
 	"mute_description": "Schalte einen Benutzer von allen Textkanälen stumm, damit er nicht mehr schreiben kann.",
-	"unmute_description": "Deaktiviert die Stummschaltung eines Benutzers.",
 	"vmute_description": "Stummschalten eines Benutzers von allen Spachkanälen damit dieser Benutzer nicht mehr reden kann.",
 	"unvmute_description": "Deaktiviert die Stummschaltung eines Benutzers in Sprachkanälen.",
 	"move_description": "Verschiebt einen Benutzer in einen Sprachkanal.",

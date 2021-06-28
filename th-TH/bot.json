@@ -13,7 +13,6 @@
 	"kick_description": "เตะสมาชิก",
 	"vkick_description": "เตะสมาชิกจากช่องเสียง",
 	"mute_description": "ปิดเสียงสมาชิกจากช่องข้อความเพื่อไม่ให้พิมพ์ได้",
-	"unmute_description": "เปิดเสียงสมาชิก",
 	"vmute_description": "ปิดเสียงสมาชิกจากช่องเสียงเพื่อไม่ให้พูดได้",
 	"unvmute_description": "เปิดเสียงสมาชิกจากช่องเสียง",
 	"move_description": "ย้ายสมาชิกไปยังช่องเสียงอื่น",

@@ -13,7 +13,6 @@
 	"kick_description": "踢出成員",
 	"vkick_description": "從語音頻道踢出成員",
 	"mute_description": "把一個成員從文字頻道靜音（移除發送訊息的權限）",
-	"unmute_description": "把成員從文字頻道解除靜音",
 	"vmute_description": "把一個成員從語音頻道裡靜音（移除說話權限）",
 	"unvmute_description": "把成員從語音頻道解除靜音",
 	"move_description": "把成員移至另一個語音頻道",

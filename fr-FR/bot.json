@@ -13,7 +13,6 @@
 	"kick_description": "Expulse un membre.",
 	"vkick_description": "Déconnecte un membre d'un salon audio.",
 	"mute_description": "Rendre un membre muet dans les salons textuels.",
-	"unmute_description": "Rétablit le micro d'un membre dont le micro a été coupé.",
 	"vmute_description": "Rendre un membre muet dans les salons vocaux.",
 	"unvmute_description": "Autoriser un membre à parler dans les salons vocaux.",
 	"move_description": "Déplace un membre vers un salon vocal.",

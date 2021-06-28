@@ -13,7 +13,6 @@
 	"kick_description": "指定したメンバーをキック",
 	"vkick_description": "ボイスチャンネルにいるメンバーの接続を強制的に切断する",
 	"mute_description": "指定したメンバーのメッセージ入力を禁止にして、閲覧のみに制限する",
-	"unmute_description": "メッセージ入力の禁止を解除",
 	"vmute_description": "指定したメンバーを音声チャンネルでミュートにする",
 	"unvmute_description": "音声チャンネルのミュートを解除する",
 	"move_description": "メンバーを音声チャンネルへ転送する",
