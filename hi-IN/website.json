@@ -22,10 +22,10 @@
     "OVERVIEW": "विवरण",
     "AUTO_RESPONDER": "Auto Responder",
     "WELCOMER": "स्वागतकर्ता",
-    "top_description": "Display the top members by text or voice.",
+    "top_description": "Sheersh sadasyon ko text ya voice dvaara pradarshit karen.",
     "server_description": "सर्वर की जानकारी देखें।",
     "kick_description": "ek sadasy ko maarata hai.\n",
-    "vkick_description": "ek aavaaj chainal se ek sadasy ko maarata hai",
+    "vkick_description": "ek aavaaj channell se ek sadasy ko maarata hai",
     "mute_description": "paath chainalon se ek sadasy ko myoot karen taaki ve taip na kar saken.",
     "unmute_description": "sadasy ko anamyoot karata hai.",
     "vmute_description": "aavaaj chainalon se ek sadasy ko myoot karen to ve bol nahin sakata.",
@@ -572,7 +572,7 @@
     "index_card6_description": "Pratikriyaen roles upayogakartaon ko ek pratikriya par taip karake apane lie bhoomikaen lene kee anumati detee hain.",
     "error_upload_5": "File prakaar samarthit nahin hai",
     "error_upload_500": "Aantarik server truti",
-    "rr_roles_limit": "Roles Limit per User",
-    "Not_Found_Page": "The page you're looking for can't be found.",
-    "delete_this_response": "delete this response"
+    "rr_roles_limit": "Prati upayogakarta roles ke seema",
+    "Not_Found_Page": "Vah prshth jise aap khoj rahe the, vah nahin mila.",
+    "delete_this_response": "Is pratikriya ko delete kare"
 }
