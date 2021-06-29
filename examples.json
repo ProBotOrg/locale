@@ -53,6 +53,7 @@
         "usage_points": "`{0} [user] 1` - set the points of a user\n`{0} [user] +1` - increase the points of a user\n`{0} (user) -1` - decrease the points of a user \n`{0} [user] 0` - reset the points of a user \n`{0} reset` - resets all points\n`{0} [role name]` - filters the points by a role",
         "usage_removewarn": "{0} [warnID]\n{0} [user]\n{0} all",
         "usage_setlang": "{0} [Language Code]",
+        "usage_invite": "{0}",
         "examples_rank": "{0}\n{0} {1}",
         "examples_clear": "{0} 1000\n{0} bots 10\n{0} {1} 10",
         "examples_moveme": "{0} general\n{0} {1}",
@@ -105,7 +106,8 @@
         "examples_roll": "{0}\n{0} 100",
         "examples_points": "{0} {1} 1\n{0} {1} +1 \n{0} {1} -1\n{0} {1} 0\n{0} reset\n{0} Admin",
         "examples_removewarn": "{0} 56323094912\n{0} @Dramex\n{0} all",
-        "examples_setlang": "{0} en"
+        "examples_setlang": "{0} en",
+        "examples_invite": "{0}"
     },
     "website":{
         "usage_removewarn": "{0} [warnID]\n{0} [user]\n{0} all",
