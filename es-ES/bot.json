@@ -431,5 +431,6 @@
 	"resume_description": "Reanuda la pista actualmente en pausa.",
 	"setlang_description": "Establece su idioma preferido para el bot.",
 	"setlang_language_description": "Idioma al que cambiar.",
+	"unmute_description": "Remover el silencio de un miembro.",
 	"muted_both": ":white_check_mark:**@{0} silenciado tanto por texto como por voz!:zipper_mouth:**"
 }
