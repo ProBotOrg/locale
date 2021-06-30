@@ -47,7 +47,7 @@
 	"roll_description": "주사위를 굴립니다.",
 	"points_description": "서버는 관리자에 의해 받을 수 있는 포인트를 쌓습니다.",
 	"usage": "Usage:",
-	"description": "설명:",
+	"c": "설명:",
 	"aliases": "별명:",
 	"Language has been changed successfully": ":white_check_mark: 언어가 성공적으로 교체되었습니다.",
 	"Joined Discord": "디스코드에 참여했습니다.",
