@@ -47,7 +47,7 @@
 	"roll_description": "ridenamas kauliukas.",
 	"points_description": "Serverio taškai, kuriuos gali suteikti moderatoriai.",
 	"usage": "Usage:",
-	"description": "Aprašymas:",
+	"c": "Aprašymas:",
 	"aliases": "Pseudonimai:",
 	"Language has been changed successfully": ":white_check_mark: Kalba buvo pakeista sėkmingai",
 	"Joined Discord": "Prisijungta prie Discord",
