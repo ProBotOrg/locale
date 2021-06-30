@@ -47,7 +47,7 @@
 	"roll_description": "Tira un dado",
 	"points_description": "Un servidor basado en puntos que pueden ser dados por los moderadores.",
 	"usage": "Uso:",
-	"description": "Descripción:",
+	"c": "Descripción:",
 	"aliases": "Alias:",
 	"Language has been changed successfully": "El idioma se ha cambiado correctamente :white_check_mark:",
 	"Joined Discord": "Se unió a Discord el",
