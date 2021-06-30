@@ -47,7 +47,7 @@
 	"roll_description": "Rola um dado.",
 	"points_description": "Um sistema de pontos por servidor que pode ser dado pelos moderadores.",
 	"usage": "Uso:",
-	"description": "Descrição:",
+	"c": "Descrição:",
 	"aliases": "Apelidos:",
 	"Language has been changed successfully": ":white_check_mark: Idioma alterado com sucesso",
 	"Joined Discord": "Entrou no Discord",
