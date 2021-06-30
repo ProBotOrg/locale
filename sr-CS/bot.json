@@ -47,7 +47,7 @@
 	"roll_description": "bacanje kockice.",
 	"points_description": "Poeni servera koji mogu biti dati od strane moderatora.",
 	"usage": "Usage:",
-	"description": "Opis:",
+	"c": "Opis:",
 	"aliases": "Pseudonimi:",
 	"Language has been changed successfully": ":white_check_mark: Jezik je uspešno promenjen.",
 	"Joined Discord": "Pristupio Diskordu",
