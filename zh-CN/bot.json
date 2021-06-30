@@ -33,7 +33,6 @@
 	"seek_description": "在当前播放曲目中寻找某个特定点。",
 	"restore_description": "恢复备份！",
 	"credits_description": "显示您或某人的余额或为某人转账点数",
-	"support_description": "获取我们帮助服务器的邀请链接。",
 	"color_description": "更改身份组颜色。",
 	"colors_description": "列出所有可用的颜色。",
 	"title_description": "在“#profile”命令中更改你的标题。",
