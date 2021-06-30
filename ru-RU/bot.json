@@ -47,7 +47,7 @@
 	"roll_description": "Бросить кости.",
 	"points_description": "Баллы, которые могут быть выданы модераторами.",
 	"usage": "Применение:",
-	"description": "Описание:",
+	"c": "Описание:",
 	"aliases": "Псевдонимы:",
 	"Language has been changed successfully": ":white_check_mark: язык успешно изменен.",
 	"Joined Discord": "Добавлен Discord",
