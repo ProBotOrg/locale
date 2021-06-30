@@ -47,7 +47,7 @@
 	"roll_description": "掷骰子。",
 	"points_description": "由他人给予点数的，并以点数为基础。",
 	"usage": "用法：",
-	"description": "描述：",
+	"c": "描述：",
 	"aliases": "别名：",
 	"Language has been changed successfully": ":white_check_mark: 语言已成功更改。",
 	"Joined Discord": "已加入Discord。",
