@@ -47,7 +47,7 @@
 	"roll_description": "ทอยลูกเต๋า",
 	"points_description": "คะแนนตามเซิร์ฟเวอร์ ผู้ดูแลสามารถมอบให้ได้",
 	"usage": "Usage:",
-	"description": "คำอธิบาย :",
+	"c": "คำอธิบาย :",
 	"aliases": "ชื่อเรียก:",
 	"Language has been changed successfully": ":white_check_mark: เปลี่ยนภาษาเรียบร้อยแล้ว",
 	"Joined Discord": "เข้าร่วม Discord",
