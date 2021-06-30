@@ -47,7 +47,7 @@
 	"roll_description": "Lance les dés.",
 	"points_description": "Des points de serveur qui peuvent être donnés par les modérateurs.",
 	"usage": "Utilisation:",
-	"description": "Description:",
+	"c": "Description:",
 	"aliases": "Alias:",
 	"Language has been changed successfully": "La langue a correctement été changée.",
 	"Joined Discord": "Discord rejoint",
