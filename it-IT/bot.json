@@ -47,7 +47,7 @@
 	"roll_description": "Lancia un dado",
 	"points_description": "Permette ai moderatori di un server di dare dei punti ad un utente",
 	"usage": "Utilizzo:",
-	"description": "Descrizione: ",
+	"c": "Descrizione: ",
 	"aliases": "Alias:",
 	"Language has been changed successfully": ":white_check_mark: Il linguaggio del bot è stato cambiato con successo",
 	"Joined Discord": "Unito a discord il",
