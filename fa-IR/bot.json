@@ -47,7 +47,7 @@
 	"roll_description": "انداختن تاس.",
 	"points_description": "امتیاز های تحت سرور که توسط مودراتور ها داده می شود.",
 	"usage": "استفاده:",
-	"description": "توضیحات:",
+	"c": "توضیحات:",
 	"aliases": "اختصارها:",
 	"Language has been changed successfully": ":white_check_mark: زبان با موفقیت تغییر یافت",
 	"Joined Discord": "عضو شده در دیسکورد",
