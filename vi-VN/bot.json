@@ -33,7 +33,6 @@
 	"seek_description": "Tua đến một đoạn bất kì của bài hát đang phát.",
 	"restore_description": "Khôi phục bản sao lưu của bạn!",
 	"credits_description": "Hiển thị số credit của bạn hoặc ai đó hoặc chuyển credit cho người khác.",
-	"support_description": "Lấy link máy chủ hỗ trợ.",
 	"color_description": "Đổi vai trò màu sắc.",
 	"colors_description": "Hiển thị các vai trò màu sắc có trong máy chủ.",
 	"title_description": "Thay đổi tiêu đề của bạn trong lệnh **`#profile`**.",
