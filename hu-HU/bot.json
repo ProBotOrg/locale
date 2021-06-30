@@ -47,7 +47,7 @@
 	"roll_description": "eldobja a kockát.",
 	"points_description": "Szerver alapú pontok amiket a moderátorok adnak.",
 	"usage": "Használat:",
-	"description": "Leírás:",
+	"c": "Leírás:",
 	"aliases": "Álnevek:",
 	"Language has been changed successfully": ":white_check_mark: A nyelv sikeresen meg lett változtatva.",
 	"Joined Discord": "Csatlakozott Discordra",
