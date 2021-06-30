@@ -47,7 +47,7 @@
 	"roll_description": "Rzut kośćmi.",
 	"points_description": "Punkty oparte na serwerze, które mogą być przyznawane przez moderatorów.",
 	"usage": "Użycie:",
-	"description": "Opis:",
+	"c": "Opis:",
 	"aliases": "Aliasy:",
 	"Language has been changed successfully": ":white_check_mark: Język został pomyślnie zmieniony",
 	"Joined Discord": "Utworzenie konta Discord",
