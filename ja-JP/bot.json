@@ -47,7 +47,7 @@
 	"roll_description": "サイコロころがし",
 	"points_description": "モデレーターが付与できるサーバー基準のポイント",
 	"usage": "例:",
-	"description": "説明:",
+	"c": "説明:",
 	"aliases": "別名:",
 	"Language has been changed successfully": ":white_check_mark: 言語が変更されました",
 	"Joined Discord": "Discordに参加した日： {}",
