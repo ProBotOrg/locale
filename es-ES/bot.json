@@ -1,4 +1,5 @@
 {
+	"choose_reason": "Choose a reason",
 	"rank_description": "Mira tu tarjeta de rango de servidor o la de otra persona.",
 	"clear_description": "Borra los mensajes de un canal.",
 	"moveme_description": "Te mueve a un canal de voz.",
