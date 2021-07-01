@@ -20,6 +20,7 @@ try {
       }
     }
   }
+  module.exports.ex = require("./examples.json");
   module.exports = languages;
 } catch (e) {
   console.log(e);
