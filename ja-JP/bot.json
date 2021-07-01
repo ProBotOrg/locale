@@ -1,4 +1,5 @@
 {
+	"choose_reason": "Choose a reason",
 	"rank_description": "自分または他のメンバーのランクカードを表示",
 	"clear_description": "チャンネルのメッセージを削除",
 	"moveme_description": "音声チャンネルへ移動",
