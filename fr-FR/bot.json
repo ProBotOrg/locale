@@ -1,4 +1,5 @@
 {
+	"choose_reason": "Choose a reason",
 	"rank_description": "Affichez la carte de classement de votre serveur ou celle de quelqu'un d'autre.",
 	"clear_description": "Supprime tous les messages d'un salon.",
 	"moveme_description": "Vous déplace vers un salon vocal.",
