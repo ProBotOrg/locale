@@ -1,4 +1,5 @@
 {
+	"choose_reason": "Choose a reason",
 	"rank_description": "View your rank card or someone else's in the server.",
 	"clear_description": "Cleans messages from a channel.",
 	"moveme_description": "Moves you to another voice channel.",
