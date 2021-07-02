@@ -1,7 +1,7 @@
 const languagesCollection = require("./languages.json");
+var languages = {};
 
 try {
-  var languages = {};
   for (let keyOfLanguageObject in languagesCollection) {
     let langObject = languagesCollection[keyOfLanguageObject];
     for (langInsideObject in langObject) {
@@ -20,8 +20,9 @@ try {
       }
     }
   }
-  module.exports.ex = require("./examples.json");
-  module.exports = languages;
 } catch (e) {
   console.log(e);
 }
+
+module.exports.ex = require("./examples.json");
+module.exports = languages;
