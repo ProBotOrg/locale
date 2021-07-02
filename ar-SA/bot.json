@@ -335,7 +335,7 @@
 	"protection_limit_name": "{0} تخطى الحد المسموح من **{1}** \n** جاري تنفيذ الاجراء ...**",
 	"temp_already_enabled": ":x: **هذه الميزه مفعله بالفعل، لتعطيلها استخدم \n`{0} off`.**",
 	"reset_confirm_member": "**هل انت متأكد من انك تريد إعادة تعيين نقاط {0}؟**",
-	"role_error_managed": ":rolling_eyes: - **{0}** هذا الرول يدار بواسطة طرف ثالث ولايمكن اعطاءه.",
+	"role_error_managed": ":rolling_eyes: - **{0}** هذا الرول غير قابل للاعطاء.",
 	"jump_to_message": "انتقل إلى الرسالة",
 	"credits_no_reason": "لم يتم تقديم سبب",
 	"removewarn_description": "إزالة انذارات السيرفر أو العضو.",
