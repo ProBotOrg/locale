@@ -1,5 +1,6 @@
 {
 	"choose_reason": "Choose a reason",
+	"reason_cancel": "Cancelar",
 	"rank_description": "Mostra o seu card de classificação no servidor ou o de outro usuário.",
 	"clear_description": "Apaga mensagens de um canal.",
 	"moveme_description": "Move você para outro canal de voz.",
