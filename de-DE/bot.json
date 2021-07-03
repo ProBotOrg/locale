@@ -1,4 +1,6 @@
 {
+	"choose_reason": "Choose a reason",
+	"reason_cancel": "Abbrechen",
 	"rank_description": "Zeige deine oder die Server-Rangkarte eines anderen an.",
 	"clear_description": "Löscht Nachrichten von einem Kanal.",
 	"moveme_description": "Bewegt dich zu einem Sound Kanal",
@@ -47,7 +49,7 @@
 	"roll_description": "Rollt einen Würfel.",
 	"points_description": "Serverbasierte Punkte, die von Moderatoren vergeben werden können.",
 	"usage": "Verwendung:",
-	"description": "Beschreibung: ",
+	"c": "Beschreibung: ",
 	"aliases": "Aliase:",
 	"Language has been changed successfully": ":white_check_mark: Sprache wurde erfolgreich geändert",
 	"Joined Discord": "Discord beigetreten",

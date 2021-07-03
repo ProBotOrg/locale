@@ -1,4 +1,6 @@
 {
+	"choose_reason": "Choose a reason",
+	"reason_cancel": "ยกเลิก",
 	"rank_description": "ดูการ์ดอันดับของคุณหรือของคนอื่นๆ ในเซิร์ฟเวอร์",
 	"clear_description": "ล้างข้อความจากช่องนี้",
 	"moveme_description": "ย้ายคุณไปยังช่องเสียงอื่น",
@@ -47,7 +49,7 @@
 	"roll_description": "ทอยลูกเต๋า",
 	"points_description": "คะแนนตามเซิร์ฟเวอร์ ผู้ดูแลสามารถมอบให้ได้",
 	"usage": "Usage:",
-	"description": "คำอธิบาย :",
+	"c": "คำอธิบาย :",
 	"aliases": "ชื่อเรียก:",
 	"Language has been changed successfully": ":white_check_mark: เปลี่ยนภาษาเรียบร้อยแล้ว",
 	"Joined Discord": "เข้าร่วม Discord",

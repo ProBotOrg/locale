@@ -1,4 +1,6 @@
 {
+	"choose_reason": "Choose a reason",
+	"reason_cancel": "Cancel",
 	"rank_description": "Se ditt eller någon annans serverrank kort.",
 	"clear_description": "Rensar meddelanden från en kanal.",
 	"moveme_description": "Flyttar dig till en röstkanal.",
@@ -47,7 +49,7 @@
 	"roll_description": "kasta tärningar.",
 	"points_description": "Server baserade poäng som kan ges av moderatorer.",
 	"usage": "Usage:",
-	"description": "beskrivning:",
+	"c": "beskrivning:",
 	"aliases": "alias",
 	"Language has been changed successfully": ":white_check_mark: Språket har ändrats framgångsrikt",
 	"Joined Discord": "gick med i Discord",

@@ -1,4 +1,6 @@
 {
+	"choose_reason": "Choose a reason",
+	"reason_cancel": "Annuler",
 	"rank_description": "Affichez la carte de classement de votre serveur ou celle de quelqu'un d'autre.",
 	"clear_description": "Supprime tous les messages d'un salon.",
 	"moveme_description": "Vous déplace vers un salon vocal.",
@@ -47,7 +49,7 @@
 	"roll_description": "Lance les dés.",
 	"points_description": "Des points de serveur qui peuvent être donnés par les modérateurs.",
 	"usage": "Utilisation:",
-	"description": "Description:",
+	"c": "Description:",
 	"aliases": "Alias:",
 	"Language has been changed successfully": "La langue a correctement été changée.",
 	"Joined Discord": "Discord rejoint",

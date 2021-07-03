@@ -1,4 +1,6 @@
 {
+	"choose_reason": "Choose a reason",
+	"reason_cancel": "Annulla",
 	"rank_description": "Visualizza la tua o la server rank card di qualcun altro",
 	"clear_description": "Elimina i messaggi da un canale",
 	"moveme_description": "Ti sposta in un altro canale vocale",
@@ -47,7 +49,7 @@
 	"roll_description": "Lancia un dado",
 	"points_description": "Permette ai moderatori di un server di dare dei punti ad un utente",
 	"usage": "Utilizzo:",
-	"description": "Descrizione: ",
+	"c": "Descrizione: ",
 	"aliases": "Alias:",
 	"Language has been changed successfully": ":white_check_mark: Il linguaggio del bot è stato cambiato con successo",
 	"Joined Discord": "Unito a discord il",

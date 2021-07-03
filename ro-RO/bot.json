@@ -1,4 +1,6 @@
 {
+	"choose_reason": "Choose a reason",
+	"reason_cancel": "Anulează",
 	"rank_description": "Vezi cardul tău de nivel sau al altcuiva.",
 	"clear_description": "Șterge mesajele dintr-un canal. ",
 	"moveme_description": "Te mută într-un canal de voce. ",
@@ -47,7 +49,7 @@
 	"roll_description": "zar. ",
 	"points_description": "Puncte bazate pe server care pot fi acordate de moderatori. ",
 	"usage": "Utilizare:",
-	"description": "Descriere:",
+	"c": "Descriere:",
 	"aliases": "Pseudonime:",
 	"Language has been changed successfully": ":white_check_mark: Limba a fost schimbată cu succes. ",
 	"Joined Discord": "Intrat pe Discord",

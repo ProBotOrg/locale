@@ -1,4 +1,6 @@
 {
+	"choose_reason": "Choose a reason",
+	"reason_cancel": "Cancelar",
 	"rank_description": "Mira tu tarjeta de rango de servidor o la de otra persona.",
 	"clear_description": "Borra los mensajes de un canal.",
 	"moveme_description": "Te mueve a un canal de voz.",
@@ -47,7 +49,7 @@
 	"roll_description": "Tira un dado",
 	"points_description": "Un servidor basado en puntos que pueden ser dados por los moderadores.",
 	"usage": "Uso:",
-	"description": "Descripción:",
+	"c": "Descripción:",
 	"aliases": "Alias:",
 	"Language has been changed successfully": "El idioma se ha cambiado correctamente :white_check_mark:",
 	"Joined Discord": "Se unió a Discord el",

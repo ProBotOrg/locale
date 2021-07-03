@@ -1,4 +1,6 @@
 {
+	"choose_reason": "Choose a reason",
+	"reason_cancel": "Annuleren",
 	"rank_description": "Bekijk de rang van uw of die van iemand anders op uw server.",
 	"clear_description": "Reinigt berichten van een kanaal.",
 	"moveme_description": "Verplaatst u naar een spraakkanaal.",
@@ -47,7 +49,7 @@
 	"roll_description": "Rollende dobbelsteen ",
 	"points_description": "server gebaseerde punten die kunnen worden gegeven door moderators.",
 	"usage": "Usage:",
-	"description": "Beschrijving:",
+	"c": "Beschrijving:",
 	"aliases": "Aliassen:",
 	"Language has been changed successfully": ":white_check_mark: Taal is met succes gewijzigd",
 	"Joined Discord": "Lid geworden van Discord",

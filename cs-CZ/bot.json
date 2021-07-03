@@ -1,4 +1,6 @@
 {
+	"choose_reason": "Choose a reason",
+	"reason_cancel": "Zrušit",
 	"rank_description": "Zobrazí tvou nebo něčí serverovou kartu hodnosti",
 	"clear_description": "Vymaže zprávy z kanálu.",
 	"moveme_description": "Přesune tě do hlasového kanálu.",
@@ -47,7 +49,7 @@
 	"roll_description": "házím kostkou.",
 	"points_description": "Serverově založené body, které mohou být uděleny moderátory.",
 	"usage": "Použití:",
-	"description": "Popis:",
+	"c": "Popis:",
 	"aliases": "Aliasy:",
 	"Language has been changed successfully": ":white_check_mark: Jazyk byl úspěšně změněn",
 	"Joined Discord": "Připojen na Discord",

@@ -1,4 +1,6 @@
 {
+	"choose_reason": "Choose a reason",
+	"reason_cancel": "لغو",
 	"rank_description": "مشاهده کارت رده‌بندی سرور برای خودتان یا دیگران.",
 	"clear_description": "پاک کردن پیام های چنل",
 	"moveme_description": "شما را به یک چنل صوتی منتقل می کند",
@@ -47,7 +49,7 @@
 	"roll_description": "انداختن تاس.",
 	"points_description": "امتیاز های تحت سرور که توسط مودراتور ها داده می شود.",
 	"usage": "استفاده:",
-	"description": "توضیحات:",
+	"c": "توضیحات:",
 	"aliases": "اختصارها:",
 	"Language has been changed successfully": ":white_check_mark: زبان با موفقیت تغییر یافت",
 	"Joined Discord": "عضو شده در دیسکورد",

@@ -1,4 +1,6 @@
 {
+	"choose_reason": "Choose a reason",
+	"reason_cancel": "Cancel",
 	"rank_description": "Pogledaj svoju ili tuđu rank karticu.",
 	"clear_description": "Čisti poruke iz kanala.",
 	"moveme_description": "Prebacuje te u glasovni kanal.",
@@ -47,7 +49,7 @@
 	"roll_description": "bacanje kockice.",
 	"points_description": "Poeni servera koji mogu biti dati od strane moderatora.",
 	"usage": "Usage:",
-	"description": "Opis:",
+	"c": "Opis:",
 	"aliases": "Pseudonimi:",
 	"Language has been changed successfully": ":white_check_mark: Jezik je uspešno promenjen.",
 	"Joined Discord": "Pristupio Diskordu",

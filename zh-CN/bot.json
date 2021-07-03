@@ -1,4 +1,6 @@
 {
+	"choose_reason": "Choose a reason",
+	"reason_cancel": "取消",
 	"rank_description": "查看您或其他人的服务器等级卡。",
 	"clear_description": "从频道中清除信息",
 	"moveme_description": "将您移至语音频道",
@@ -47,7 +49,7 @@
 	"roll_description": "掷骰子。",
 	"points_description": "由他人给予点数的，并以点数为基础。",
 	"usage": "用法：",
-	"description": "描述：",
+	"c": "描述：",
 	"aliases": "别名：",
 	"Language has been changed successfully": ":white_check_mark: 语言已成功更改。",
 	"Joined Discord": "已加入Discord。",

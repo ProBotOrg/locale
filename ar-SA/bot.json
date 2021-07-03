@@ -1,4 +1,6 @@
 {
+	"choose_reason": "إختر سبب",
+	"reason_cancel": "إلغاء",
 	"rank_description": "إظهار بطاقة الترتيب (الرانك) الخاصة بك او بشخص اخر بالسيرفر",
 	"clear_description": "تنظيف رسائل الشات.",
 	"moveme_description": "ينقلك إلى روم صوتي.",
@@ -47,7 +49,7 @@
 	"roll_description": "رمي حجر نرد.",
 	"points_description": "النقاط التي يمكن أن تُعطى من قبل المشرفين.",
 	"usage": "الاستخدام:",
-	"description": "وصف:",
+	"c": "وصف:",
 	"aliases": "الأختصارات:",
 	"Language has been changed successfully": ":white_check_mark: ** تم تغيير اللغة بنجاح **",
 	"Joined Discord": "تاريخ الدخول للديسكورد",

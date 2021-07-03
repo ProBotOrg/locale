@@ -1,4 +1,6 @@
 {
+	"choose_reason": "Choose a reason",
+	"reason_cancel": "रद्द करें",
 	"rank_description": "Apana ya kisee aur ka server rank kaard dekhen.",
 	"clear_description": "Ek channel ke sandeshon ko saaph karata hai.",
 	"moveme_description": "Aapako ek voice channel par le jaata hai.",
@@ -47,7 +49,7 @@
 	"roll_description": "ludhakata paasa.",
 	"points_description": "ek sarvar aadhaarit ank jo madhyasthon dvaara die ja sakate hain.",
 	"usage": "upayog:",
-	"description": "vivaran:",
+	"c": "vivaran:",
 	"aliases": "upanaam:",
 	"Language has been changed successfully": ":white_check_mark: bhaasha ko saphalataapoorvak badal diya gaya hai",
 	"Joined Discord": "sammilit ho gae",

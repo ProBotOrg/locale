@@ -1,4 +1,6 @@
 {
+	"choose_reason": "Choose a reason",
+	"reason_cancel": "Cancelar",
 	"rank_description": "Mostra o seu card de classificação no servidor ou o de outro usuário.",
 	"clear_description": "Apaga mensagens de um canal.",
 	"moveme_description": "Move você para outro canal de voz.",
@@ -47,7 +49,7 @@
 	"roll_description": "Rola um dado.",
 	"points_description": "Um sistema de pontos por servidor que pode ser dado pelos moderadores.",
 	"usage": "Uso:",
-	"description": "Descrição:",
+	"c": "Descrição:",
 	"aliases": "Apelidos:",
 	"Language has been changed successfully": ":white_check_mark: Idioma alterado com sucesso",
 	"Joined Discord": "Entrou no Discord",

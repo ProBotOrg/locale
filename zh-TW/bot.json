@@ -1,4 +1,6 @@
 {
+	"choose_reason": "Choose a reason",
+	"reason_cancel": "取消",
 	"rank_description": "檢視你的或其他人的等級卡",
 	"clear_description": "清除頻道裡的訊息",
 	"moveme_description": "把你移至另一個語音頻道",
@@ -47,7 +49,7 @@
 	"roll_description": "擲骰子",
 	"points_description": "一種可從管理原領取的伺服器分數",
 	"usage": "用途：",
-	"description": "描述:",
+	"c": "描述:",
 	"aliases": "縮寫指令：",
 	"Language has been changed successfully": ":white_check_mark: 語言已成功轉換",
 	"Joined Discord": "已加入Discord",
