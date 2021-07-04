@@ -141,7 +141,7 @@
 	"unmute_cant_find_description": ":rolling_eyes: - **Kan de gedempte rol niet vinden.**",
 	"unmute_check_permissions_description": ":rolling_eyes: - Controleer mijn rechten en rolpositie.",
 	"unmute_command_require_description": ":rolling_eyes: - ** Voor dit commando is `Adminstrator` toestemming nodig!  **",
-	"unmute_unmuting_description": "**Unmuting {0} members.**",
+	"unmute_unmuting_description": "**Deblokkeer {0} personen.**",
 	"link_must_have_description": ":rolling_eyes: - ** Bot must have `Create instant invite` permission on the invite's default channel **",
 	"link_error_description": ":rolling_eyes: - **Error**",
 	"link_cant_find_description": ":rolling_eyes: - **I can't find Link default channel.**",
