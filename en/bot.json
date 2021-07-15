@@ -196,7 +196,7 @@
 	"top_only_premium": "For performance reasons, this command is currently for premium only.",
 	"top_error": ":rolling_eyes: - **Error page number ** {0} from {1} ",
 	"top_cant_find_list": "Can't find top list",
-	"top_leaderboards": "📋 Guild Score Leaderboards",
+	"top_leaderboards": "📋 Guild Score Leaderboard",
 	"top_5text": "**TOP 5 TEXT :speech_balloon:**",
 	"top_text_score": ":speech_balloon: TEXT SCORE",
 	"top_5voice": "**TOP 5 VOICE :microphone2:**",
