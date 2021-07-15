@@ -175,7 +175,7 @@
 	"vip_ended_description": "законченный ",
 	"credits_not_enough": "** :thinking: | {0}, на вашем счете недостаточно средств для этого**",
 	"credits_trans_done": "**:moneybag: | {0}, будет переведено`${1}` пользователю {2} **",
-	"credits_receipt": ":atm: | Расходный ордер ```Вы перевели ${0} пользователю {1} (ID: {2})```",
+	"credits_receipt": ":atm: | Приходный ордер ```Вам поступило на счет ${0} от пользователя {1} (ID: {2})\nReason: {3} \n```",
 	"credits_blacklist": ":sweat: ** Ваш аккаунт в черном списке. **",
 	"credits_balance": ":bank: | ** {0}, баланс вашего счета составляет `${1}`.**\n",
 	"credits_balance_mentions": "** {0} :credit_card: остаток `${1}`.**",
@@ -433,5 +433,5 @@
 	"setlang_description": "Устанавливает предпочтительный язык для бота.",
 	"setlang_language_description": "Язык, на который следует перейти.",
 	"unmute_description": "Разрешить участнику писать. ",
-	"muted_both": ":white_check_mark: **@{0} отключение как от текстового, так и от голосового!:zipper_mouth:**"
+	"muted_both": ":white_check_mark: **@{0} заглушен в текстовых и голосовых каналах! :zipper_mouth:**"
 }
