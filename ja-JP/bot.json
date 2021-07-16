@@ -347,7 +347,7 @@
 	"invite_description": "ボットの招待リンクをお探しですか？",
 	"new_title_description": "新しいタイトルを設定",
 	"avatar_user_description": "アバター画像を取得するユーザー",
-	"credits_user_description": "User to show/transfer credits of/to.",
+	"credits_user_description": ".",
 	"credits_amount_description": "送金額",
 	"credits_comment_description": "クレジットトランザクションへの追加コメント",
 	"profile_user_description": "プロフィール画像を取得するユーザー",
