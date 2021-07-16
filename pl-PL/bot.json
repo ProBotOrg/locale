@@ -317,7 +317,7 @@
 	"logs_voicestate_updated": "**Statystyki kanału {0} zostały zaktualizowane.**",
 	"logs_voicestate_server_mute": ":microphone2: ** Wyciszenie serwera **",
 	"logs_voicestate_server_deafen": ":speaker: ** Wyłączenie dźwięku na serwerze **",
-	"logs_voice_moved": "**{0} przeniesiony `{1}` => `{2}`.**",
+	"logs_voice_moved": "**{0} został przeniesiony `{1}` => `{2}`.**",
 	"logs_voice_disconnected": "**{0} rozłączony.**",
 	"protection_no_backup_to_delete": "**Nie ma kopii zapasowej do usunięcia**",
 	"protection_backup_deleted": "**Kopia zapasowa została usunięta**",
