@@ -371,7 +371,7 @@
 	"points_list_filter_description": "Role to filter points for.",
 	"move_user_description": "Użytkownik, którego chcesz przenieść.",
 	"move_channel_description": "Kanał do którego chcesz przenieść użytkownika.",
-	"warnings_user_description": "The user to get warnings for.",
+	"warnings_user_description": "Użytkownik, którego ostrzeżenia chcesz uzyskać.",
 	"warn_remove_input_description": "[Warn id] or [user] or [all] to remove all warnings",
 	"warn_user_description": "Użytkownik, któremu chcesz dać ostrzeżenie.",
 	"warn_reason_description": "Powód ostrzeżenia.",
