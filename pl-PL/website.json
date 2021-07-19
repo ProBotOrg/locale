@@ -45,7 +45,7 @@
     "pause_description": "Wstrzymuje aktualnie odtwarzany utwór.",
     "np_description": "Pokazuje utwór, który jest aktualnie odtwarzany przez bota.",
     "repeat_description": "Zmienia tryb powtarzania.",
-    "seek_description": "Szuka określonego punktu w bieżącym utworze.",
+    "seek_description": "Poszukuje określonego punktu w aktualnie odtwarzanym utworze",
     "restore_description": "Przywraca kopię zapasową!",
     "credits_description": "Pokazuje Twoje saldo lub kogoś innego.",
     "support_description": "Uzyskaj link z zaproszeniem do naszego serwera pomocy technicznej.",
