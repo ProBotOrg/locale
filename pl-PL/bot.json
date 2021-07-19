@@ -347,7 +347,7 @@
 	"invite_description": "Szukasz linku z zaproszeniem bota?",
 	"new_title_description": "Nowy tytuł do ustawienia.",
 	"avatar_user_description": "Użytkownik, którego awatar chcesz uzyskać.",
-	"credits_user_description": "User to show/transfer credits of/to.",
+	"credits_user_description": "Użytkownik, którego kredyty chcesz wyświetlić/przenieść z/do.",
 	"credits_amount_description": "Kwota do przelewu.",
 	"credits_comment_description": "Dodatkowy komentarz do transakcji.",
 	"profile_user_description": "Użytkownik, którego profil chcesz uzyskać.",
