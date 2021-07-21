@@ -307,7 +307,7 @@
 	"logs_role_old_color": "**Stary kolor**",
 	"logs_role_new_color": "**Nowy kolor**",
 	"logs_role_new_permissions": "**Nowe uprawnienia**",
-	"logs_message_deleted": ":wastebasket:  **Wiadomość wysłana przez {0} usunięta w {1}.**\n{2}",
+	"logs_message_deleted": ":wastebasket:  **Wiadomość wysłana przez {0} została usunięta na kanale {1}.**\n{2}",
 	"logs_message_updated": ":pencil2: **Wiadomość wysłana przez {0} została edytowana na kanale {1}.**",
 	"logs_message_updated_content_old": "**Stare**",
 	"logs_message_updated_content_new": "**Nowe**",
