@@ -401,7 +401,7 @@
     "title": "ProBot - Бот для Дискорда",
     "description": "Описание:",
     "lock_description": "Отключение возможности упоминать @everyone в выбранном канале.",
-    "unlock_description": "Removes denied sending messages from @everyone in specific channel.",
+    "unlock_description": "Удаляет запрещенные для отправки сообщения от @everyone в выбранном канале.",
     "name_of_user": "Отображает имя пользователя, без оповещения.",
     "user_invites_counter": "Счетчик приглашений пользователей",
     "to_mention_author": "Упоминает пользователя, использовавшего ответ",

@@ -1,5 +1,5 @@
 {
-	"choose_reason": "Choose a reason",
+	"choose_reason": "Chọn một lí do",
 	"reason_cancel": "Hủy",
 	"rank_description": "Xem thẻ cấp độ của bạn hoặc ai đó khác.",
 	"clear_description": "Dọn dẹp tin nhắn từ một kênh chat.",
@@ -193,7 +193,7 @@
 	"rep_not_bots": ":rolling_eyes: **|  {0}**,  bot không có cấp độ!",
 	"rep_cannot_give": "**:rolling_eyes: | {0}, bạn không thể tự tặng đổ nổi tiếng cho bản thân! Đừng ích kỉ vậy chứ :rolling_eyes:**",
 	"rep_given": "**:up: | {0} đã tặng một điểm nổi tiếng cho {1}!**",
-	"top_only_premium": "Vì lý do về hiệu năng của bot, lệnh này chỉ có thể được dùng bởi thành viên cao cấp.",
+	"top_only_premium": "Vì lí do hiệu năng, tính năng này chỉ khả dụng cho Premium.",
 	"top_error": ":rolling_eyes: - **Gặp vấn đề về số trang** {0} từ {1}",
 	"top_cant_find_list": "Không thể tìm thấy danh sách xếp hạng",
 	"top_leaderboards": "📋 Bảng Xếp Hạng Máy Chủ",
