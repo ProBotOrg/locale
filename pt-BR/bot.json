@@ -362,7 +362,7 @@
 	"points_user_description": "User to set points for.",
 	"points_points_one": "Points to increase.",
 	"points_points_two": "Points to decrease.",
-	"points_points_three": "Points to set.",
+	"points_points_three": "Pontos a serem definidos.",
 	"points_decrease_description": "Decrease points from a user.",
 	"points_set_description": "Set points to a specific amount.",
 	"points_reset_description": "Resets the points from all the server or from a specific user.",
