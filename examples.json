@@ -43,7 +43,7 @@
         "usage_reset": "{0} [text \/ voice \/ invites]",
         "usage_rep": "{0} [user]",
         "usage_daily": "{0}",
-        "usage_vip": "{0}\n{0} move (bot's number) \n{0} transfer [bot's number] [user]\n{0} restart \n{0} avatar [avatar link]\n{0} username [new name]\n{0} status [new status]",
+        "usage_vip": "{0}\n{0} move (bot's number) \n{0} transfer (bot's number) [user]\n{0} restart \n{0} avatar [avatar link]\n{0} username [new name]\n{0} status [new status]",
         "usage_ping": "{0}",
         "usage_temp": "{0} [on\/off]\n{0} [time] [duration]\n{0} [max] [limit]",
         "usage_deletebackup": "{0} [Backup Code]",
