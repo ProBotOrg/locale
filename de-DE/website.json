@@ -22,7 +22,7 @@
     "OVERVIEW": "Übersicht",
     "AUTO_RESPONDER": "Automatische Antwort",
     "WELCOMER": "Begrüßung",
-    "top_description": "Display the top members by text or voice.",
+    "top_description": "Die Top-Mitglieder per Text oder Stimme anzeigen.",
     "server_description": "Zeigt Informationen über den Server",
     "kick_description": "Kickt einen Benutzer.",
     "vkick_description": "Kickt ein Mitglied aus einem Sprachkanal.",
@@ -31,9 +31,9 @@
     "vmute_description": "Stummschalten eines Benutzers von allen Spachkanälen damit dieser Benutzer nicht mehr reden kann.",
     "unvmute_description": "Deaktiviert die Stummschaltung eines Benutzers in Sprachkanälen.",
     "move_description": "Verschiebt einen Benutzer in einen Sprachkanal.",
-    "role_description": "Add/remove role(s) for a member.",
+    "role_description": "Roll(en) für ein Mitglied hinzufügen/entfernen.",
     "warn_description": "Warnt einen Benutzer.",
-    "setcolor_description": "Changes role's color by hex codes.",
+    "setcolor_description": "Ändert die Farbe der Rolle durch den Farbcode.",
     "warnings_description": "Zeigt die Warnungen des Servers oder eines Benutzers an.",
     "setnick_description": "Ändert den Spitznamen eines Benutzers.",
     "play_description": "Fügt einen Song zur Warteschlange hinzu und spielt ihn ab.",
@@ -49,7 +49,7 @@
     "restore_description": "Stellt dein Backup wieder her!",
     "credits_description": "Zeigt Ihren Geldstand oder von jemand anderem an.",
     "support_description": "Hol dir den Einladungslink unseres Supportservers.",
-    "color_description": "Change your color in the server.",
+    "color_description": "Ändern Sie Ihre Farbe auf dem Server.",
     "colors_description": "Zeigt dir alle verfügbaren Farben an.",
     "title_description": "Ändert deinen Titel beim Befehl #profile.",
     "reset_description": "Setzt Text/Sprech/Einladungs xp Punkte für alle Mitglieder zurück.",
@@ -573,6 +573,6 @@
     "error_upload_5": "Dateityp wird nicht unterstützt",
     "error_upload_500": "Interner Serverfehler",
     "rr_roles_limit": "Rollenlimit pro Benutzer",
-    "Not_Found_Page": "The page you're looking for can't be found.",
-    "delete_this_response": "delete this response"
+    "Not_Found_Page": "Die von Ihnen gesuchte Seite kann nicht gefunden werden",
+    "delete_this_response": "diese Antwort löschen"
 }
