@@ -162,7 +162,7 @@
 	"vip_confirm_description": "** :innocent: Wpisz `confirm`. **",
 	"vip_send_dm_description": "**:rolling_eyes: - Pozwól botowi wysyłać bezpośrednie wiadomości.**",
 	"vip_previous_transfer_description": "**:rolling_eyes: - Jest to poprzednie żądanie transferu, nowy link został wysłany do Ciebie w wiadomości prywatnej**",
-	"vip_transfer_link_description": "**:white_check_mark: Możesz przenieść bota za pośrednictwem linku wysłanego do ciebie za pomocą wiadomości prywatnej, wiedząc, że link wygasa w przeciągu 10 minut, po tym czasie będzie trzeba znów wygenerować link.",
+	"vip_transfer_link_description": "**:white_check_mark: Możesz przenieść bota za pośrednictwem linku wysłanego do Ciebie za pomocą wiadomości prywatnej, wiedząc, że link wygasa w przeciągu 10 minut, po tym czasie będzie trzeba znów wygenerować link.**",
 	"vip_link_expired_description": "Link wygasł",
 	"vip_must_ownership_description": "**:rolling_eyes: - Musisz być właścicielem tego bota.**",
 	"vip_owner_only_description": "Tylko właściciel~",
