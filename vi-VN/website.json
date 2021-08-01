@@ -89,7 +89,7 @@
     "MONTHS": "Tháng",
     "Reasons": "Lý do",
     "AUTO_INVOCATION": "Tự động xóa tin nhắn lệnh",
-    "AUTO_DELETE_REPLY": "Tự động xóa câu trả lời của bot sau 5 giây",
+    "AUTO_DELETE_REPLY": "Tự động xóa phản hồi của bot sau 5 giây",
     "SAVE_SETTINGS": "Lưu thay đổi",
     "DAY": "Ngày",
     "NONE": "Không",
