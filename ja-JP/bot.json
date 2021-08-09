@@ -352,7 +352,7 @@
 	"credits_comment_description": "クレジットトランザクションへの追加コメント",
 	"profile_user_description": "プロフィール画像を取得するユーザー",
 	"rank_user_description": "ランクを取得するユーザー",
-	"user_user_description": "User to get information about.",
+	"user_user_description": "情報を取得するユーザー",
 	"top_type_description": "The leaderboard type either text or voice.",
 	"top_duration_description": "The leaderboard specified duration.",
 	"top_page_description": "The leaderboard page number.",
