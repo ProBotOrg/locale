@@ -202,7 +202,7 @@
     "KICK_THE_BOT": "Đá bot",
     "BOTS_HINT": "Điều này sẽ bảo vệ bạn khỏi bot không rõ nguồn gốc.",
     "WHITELIST_BOTS": "Bot trong danh sách trắng",
-    "DELETE_WITH_MESSAGE_DELETION": "Tự động xóa với hệ thống xóa tin nhắn",
+    "DELETE_WITH_MESSAGE_DELETION": "Tự xóa phản hồi sau khi xóa lệnh",
     "AUTOMOD_SPAM": "SPAM (5 tin nhắn/5 giây)",
     "AUTOMOD_BADWORDS": "TỪ NGỮ THÔ TỤC",
     "AUTOMOD_DUPS": "VĂN BẢN LẶP",
