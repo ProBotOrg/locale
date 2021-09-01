@@ -575,5 +575,7 @@
     "rr_roles_limit": "Limit rolí na uživatele",
     "Not_Found_Page": "Stránku, kterou hledáš, nemůžeme najít.",
     "delete_this_response": "Odstranit tuto odpověď",
-    "NOTIFICATIONS": "Notifications"
+    "noticications": "Notifications",
+    "notifications_twitch": "Twitch",
+    "notifications_youtube": "YouTube"
 }
