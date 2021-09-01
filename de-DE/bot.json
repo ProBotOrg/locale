@@ -196,7 +196,7 @@
 	"top_only_premium": "Aus Performance-Gründen ist dieser Befehl derzeit nur für Premium bestimmt.",
 	"top_error": ":rolling_eyes: - **Fehlerseite Nummer ** {0} von {1} ",
 	"top_cant_find_list": "Top-Liste nicht gefunden",
-	"top_leaderboards": ":clipboard: Gildenwertung Ranglisten",
+	"top_leaderboards": "📋 Gildenwertung Ranglisten",
 	"top_5text": "**TOP 5 TEXT :speech_balloon:**",
 	"top_text_score": ":speech_balloon: TEXT SCORE",
 	"top_5voice": "**TOP 5 VOICE :microphone2:**",
