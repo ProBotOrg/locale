@@ -576,6 +576,8 @@
     "Not_Found_Page": "صفحه یافت نشد",
     "delete_this_response": "حذف این پاسخ",
     "noticications": "Notifications",
-    "notifications_twitch": "Twitch",
-    "notifications_youtube": "YouTube"
+    "twitch": "Twitch",
+    "youtube": "YouTube",
+    "trovo": "Trovo",
+    "reddit": "Reddit"
 }
