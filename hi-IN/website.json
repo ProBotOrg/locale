@@ -576,6 +576,8 @@
     "Not_Found_Page": "Vah prshth jise aap khoj rahe the, vah nahin mila.",
     "delete_this_response": "Is pratikriya ko delete kare",
     "noticications": "Notifications",
-    "notifications_twitch": "Twitch",
-    "notifications_youtube": "YouTube"
+    "twitch": "Twitch",
+    "youtube": "YouTube",
+    "trovo": "Trovo",
+    "reddit": "Reddit"
 }
