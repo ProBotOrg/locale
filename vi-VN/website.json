@@ -576,6 +576,8 @@
     "Not_Found_Page": "Không thể tìm thấy trang này.",
     "delete_this_response": "xóa phản hồi này",
     "noticications": "Notifications",
-    "notifications_twitch": "Twitch",
-    "notifications_youtube": "YouTube"
+    "twitch": "Twitch",
+    "youtube": "YouTube",
+    "trovo": "Trovo",
+    "reddit": "Reddit"
 }
