@@ -574,5 +574,6 @@
     "error_upload_500": "Vidinė serverio klaida",
     "rr_roles_limit": "Vaidmenų limitas per vartotoją",
     "Not_Found_Page": "Ieškomo puslapio negalima rasti.",
-    "delete_this_response": "delete this response"
+    "delete_this_response": "delete this response",
+    "NOTIFICATIONS": "Notifications"
 }
