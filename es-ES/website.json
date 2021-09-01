@@ -576,6 +576,8 @@
     "Not_Found_Page": "No se puede encontrar la página que estás buscando.",
     "delete_this_response": "eliminar esta respuesta",
     "noticications": "Notifications",
-    "notifications_twitch": "Twitch",
-    "notifications_youtube": "YouTube"
+    "twitch": "Twitch",
+    "youtube": "YouTube",
+    "trovo": "Trovo",
+    "reddit": "Reddit"
 }
