@@ -575,5 +575,7 @@
     "rr_roles_limit": "จำกัดบทบาทต่อผู้ใช้",
     "Not_Found_Page": "ไม่พบหน้าเพจที่คุณต้องการ",
     "delete_this_response": "ลบคำตอบกลับแล้ว",
-    "NOTIFICATIONS": "Notifications"
+    "noticications": "Notifications",
+    "notifications_twitch": "Twitch",
+    "notifications_youtube": "YouTube"
 }
