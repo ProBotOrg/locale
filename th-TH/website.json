@@ -576,6 +576,8 @@
     "Not_Found_Page": "ไม่พบหน้าเพจที่คุณต้องการ",
     "delete_this_response": "ลบคำตอบกลับแล้ว",
     "noticications": "Notifications",
-    "notifications_twitch": "Twitch",
-    "notifications_youtube": "YouTube"
+    "twitch": "Twitch",
+    "youtube": "YouTube",
+    "trovo": "Trovo",
+    "reddit": "Reddit"
 }
