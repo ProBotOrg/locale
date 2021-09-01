@@ -574,5 +574,6 @@
     "error_upload_500": "Wewnętrzny błąd serwera",
     "rr_roles_limit": "Limit ról dla użytkownika",
     "Not_Found_Page": "Szukana strona nie została znaleziona.",
-    "delete_this_response": "Usuń tę odpowiedź"
+    "delete_this_response": "Usuń tę odpowiedź",
+    "NOTIFICATIONS": "Notifications"
 }
