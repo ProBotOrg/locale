@@ -575,5 +575,7 @@
     "rr_roles_limit": "每个用户的角色限制",
     "Not_Found_Page": "找不到您正在寻找的页面",
     "delete_this_response": "刪除這個回應",
-    "NOTIFICATIONS": "Notifications"
+    "noticications": "Notifications",
+    "notifications_twitch": "Twitch",
+    "notifications_youtube": "YouTube"
 }
