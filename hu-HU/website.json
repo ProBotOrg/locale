@@ -574,5 +574,6 @@
     "error_upload_500": "Belső Szerverhiba",
     "rr_roles_limit": "Rangkorlát felhasználónként",
     "Not_Found_Page": "Az általad kért oldal nem található.",
-    "delete_this_response": "E válasz törlése"
+    "delete_this_response": "E válasz törlése",
+    "NOTIFICATIONS": "Notifications"
 }
