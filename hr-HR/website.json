@@ -576,6 +576,8 @@
     "Not_Found_Page": "Stranica koju tražite ne može se pronaći.",
     "delete_this_response": "delete this response",
     "noticications": "Notifications",
-    "notifications_twitch": "Twitch",
-    "notifications_youtube": "YouTube"
+    "twitch": "Twitch",
+    "youtube": "YouTube",
+    "trovo": "Trovo",
+    "reddit": "Reddit"
 }
