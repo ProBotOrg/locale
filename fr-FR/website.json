@@ -576,6 +576,8 @@
     "Not_Found_Page": "Page introuvable",
     "delete_this_response": "supprimer cette réponse",
     "noticications": "Notifications",
-    "notifications_twitch": "Twitch",
-    "notifications_youtube": "YouTube"
+    "twitch": "Twitch",
+    "youtube": "YouTube",
+    "trovo": "Trovo",
+    "reddit": "Reddit"
 }
