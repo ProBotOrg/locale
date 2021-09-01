@@ -574,5 +574,6 @@
     "error_upload_500": "Lỗi Máy Chủ Nội Bộ",
     "rr_roles_limit": "Giới hạn vai trò mỗi người dùng",
     "Not_Found_Page": "Không thể tìm thấy trang này.",
-    "delete_this_response": "xóa phản hồi này"
+    "delete_this_response": "xóa phản hồi này",
+    "NOTIFICATIONS": "Notifications"
 }
