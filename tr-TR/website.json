@@ -576,6 +576,8 @@
     "Not_Found_Page": "Sayfa Bulunamadı ",
     "delete_this_response": "bu yanıtı sil",
     "noticications": "Notifications",
-    "notifications_twitch": "Twitch",
-    "notifications_youtube": "YouTube"
+    "twitch": "Twitch",
+    "youtube": "YouTube",
+    "trovo": "Trovo",
+    "reddit": "Reddit"
 }
