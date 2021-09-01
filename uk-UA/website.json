@@ -575,5 +575,7 @@
     "rr_roles_limit": "Ліміт ролей на користувача",
     "Not_Found_Page": "Сторінка не знайдена",
     "delete_this_response": "видалити цю відповідь",
-    "NOTIFICATIONS": "Notifications"
+    "noticications": "Notifications",
+    "notifications_twitch": "Twitch",
+    "notifications_youtube": "YouTube"
 }
