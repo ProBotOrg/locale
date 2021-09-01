@@ -574,5 +574,6 @@
     "error_upload_500": "Interní chyba serveru",
     "rr_roles_limit": "Limit rolí na uživatele",
     "Not_Found_Page": "Stránku, kterou hledáš, nemůžeme najít.",
-    "delete_this_response": "Odstranit tuto odpověď"
+    "delete_this_response": "Odstranit tuto odpověď",
+    "NOTIFICATIONS": "Notifications"
 }
