@@ -575,5 +575,7 @@
     "rr_roles_limit": "Límite de roles por usuario",
     "Not_Found_Page": "No se puede encontrar la página que estás buscando.",
     "delete_this_response": "eliminar esta respuesta",
-    "NOTIFICATIONS": "Notifications"
+    "noticications": "Notifications",
+    "notifications_twitch": "Twitch",
+    "notifications_youtube": "YouTube"
 }
