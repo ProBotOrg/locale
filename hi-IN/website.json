@@ -575,5 +575,7 @@
     "rr_roles_limit": "Prati upayogakarta roles ke seema",
     "Not_Found_Page": "Vah prshth jise aap khoj rahe the, vah nahin mila.",
     "delete_this_response": "Is pratikriya ko delete kare",
-    "NOTIFICATIONS": "Notifications"
+    "noticications": "Notifications",
+    "notifications_twitch": "Twitch",
+    "notifications_youtube": "YouTube"
 }
