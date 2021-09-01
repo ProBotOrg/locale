@@ -575,5 +575,7 @@
     "rr_roles_limit": "Limit rol na používateľa",
     "Not_Found_Page": "Stránka nenájdená",
     "delete_this_response": "odstrániť túto odpoveď",
-    "NOTIFICATIONS": "Notifications"
+    "noticications": "Notifications",
+    "notifications_twitch": "Twitch",
+    "notifications_youtube": "YouTube"
 }
