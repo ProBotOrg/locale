@@ -574,5 +574,6 @@
     "error_upload_500": "Interne serverfout",
     "rr_roles_limit": "Rollenlimiet per gebruiker",
     "Not_Found_Page": "De pagina die u zoekt is niet gevonden.",
-    "delete_this_response": "verwijder deze antwoord "
+    "delete_this_response": "verwijder deze antwoord ",
+    "NOTIFICATIONS": "Notifications"
 }
