@@ -575,5 +575,7 @@
     "rr_roles_limit": "Limite de cargos por usuário",
     "Not_Found_Page": "Página não encontrada",
     "delete_this_response": "delete this response",
-    "NOTIFICATIONS": "Notifications"
+    "noticications": "Notifications",
+    "notifications_twitch": "Twitch",
+    "notifications_youtube": "YouTube"
 }
