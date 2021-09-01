@@ -423,7 +423,7 @@
 	"day_value": "Nap",
 	"week_value": "Week",
 	"month_value": "Hónap",
-	"play_song_description": "Song to search for or the link of the song youtube/ soundcloud/ spotify.",
+	"play_song_description": "Song to search for or the link of the song.",
 	"search_song_description": "Song to search for.",
 	"queue_page_description": "The page you are looking for.",
 	"skip_NOT_description": "How many tracks to skip.",
