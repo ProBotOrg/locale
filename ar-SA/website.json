@@ -575,5 +575,7 @@
     "rr_roles_limit": "حد الرولات لكل عضو",
     "Not_Found_Page": "لا يمكن العثور على هذه الصفحة",
     "delete_this_response": "حذف هذا الرد",
-    "NOTIFICATIONS": "Notifications"
+    "noticications": "Notifications",
+    "notifications_twitch": "Twitch",
+    "notifications_youtube": "YouTube"
 }
