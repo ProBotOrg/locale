@@ -575,5 +575,7 @@
     "rr_roles_limit": "Kullanıcı Başına Rol Sınırı",
     "Not_Found_Page": "Sayfa Bulunamadı ",
     "delete_this_response": "bu yanıtı sil",
-    "NOTIFICATIONS": "Notifications"
+    "noticications": "Notifications",
+    "notifications_twitch": "Twitch",
+    "notifications_youtube": "YouTube"
 }
