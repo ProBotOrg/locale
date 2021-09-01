@@ -575,5 +575,7 @@
     "rr_roles_limit": "Vaidmenų limitas per vartotoją",
     "Not_Found_Page": "Ieškomo puslapio negalima rasti.",
     "delete_this_response": "delete this response",
-    "NOTIFICATIONS": "Notifications"
+    "noticications": "Notifications",
+    "notifications_twitch": "Twitch",
+    "notifications_youtube": "YouTube"
 }
