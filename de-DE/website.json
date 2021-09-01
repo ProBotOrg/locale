@@ -574,5 +574,6 @@
     "error_upload_500": "Interner Serverfehler",
     "rr_roles_limit": "Rollenlimit pro Benutzer",
     "Not_Found_Page": "Die von Ihnen gesuchte Seite kann nicht gefunden werden",
-    "delete_this_response": "diese Antwort löschen"
+    "delete_this_response": "diese Antwort löschen",
+    "NOTIFICATIONS": "Notifications"
 }
