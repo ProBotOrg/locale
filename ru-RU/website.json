@@ -576,6 +576,8 @@
     "Not_Found_Page": "Страница не найдена",
     "delete_this_response": "удалить этот ответ",
     "noticications": "Notifications",
-    "notifications_twitch": "Twitch",
-    "notifications_youtube": "YouTube"
+    "twitch": "Twitch",
+    "youtube": "YouTube",
+    "trovo": "Trovo",
+    "reddit": "Reddit"
 }
