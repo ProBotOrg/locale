@@ -574,5 +574,10 @@
     "error_upload_500": "خطأ في الخادم الداخلي",
     "rr_roles_limit": "حد الرولات لكل عضو",
     "Not_Found_Page": "لا يمكن العثور على هذه الصفحة",
-    "delete_this_response": "حذف هذا الرد"
+    "delete_this_response": "حذف هذا الرد",
+    "notifications": "الإشعارات",
+    "twitch": "تويتش",
+    "youtube": "يوتيوب",
+    "trovo": "تروفو",
+    "reddit": "ريديت"
 }

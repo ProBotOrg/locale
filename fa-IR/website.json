@@ -574,5 +574,10 @@
     "error_upload_500": "خطای داخلی سرور",
     "rr_roles_limit": "محدودیت نقش به ازای هر کاربر",
     "Not_Found_Page": "صفحه یافت نشد",
-    "delete_this_response": "حذف این پاسخ"
+    "delete_this_response": "حذف این پاسخ",
+    "notifications": "Notifications",
+    "twitch": "Twitch",
+    "youtube": "YouTube",
+    "trovo": "Trovo",
+    "reddit": "Reddit"
 }

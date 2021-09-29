@@ -38,7 +38,7 @@
     "setnick_description": "Changes the nickname of a member.",
     "play_description": "Add a song to queue and plays it.",
     "skip_description": "Skip the current song.\t",
-    "search_description": "Searches on YouTube for results to play.",
+    "search_description": "Searches for results to play.",
     "queue_description": "Display the queue of the current tracks in the playlist.",
     "stop_description": "Stop the current song and clears the entire music queue.",
     "vol_description": "Changes/Shows the current volume.",
@@ -299,7 +299,7 @@
     "index_feature_6_title": "99.99% Uptime",
     "index_feature_6_description": "You don't have to worry about downtimes, ProBot is online!",
     "index_premium_1_title": "HIGH QUALITY MUSIC",
-    "index_premium_1_description": "Youtube, SoundCloud, http urls, viemo, Mixed and many supported websites",
+    "index_premium_1_description": "SoundCloud, http urls, viemo, Mixed and many supported websites",
     "index_premium_2_title": "SPECIFIED CHANNELS",
     "index_premium_2_description": "Specify channels for pictures or YouTube links only",
     "index_premium_3_title": "POWERFUL MODERATION",
@@ -574,5 +574,10 @@
     "error_upload_500": "Internal Server Error",
     "rr_roles_limit": "Roles Limit per User",
     "Not_Found_Page": "The page you're looking for can't be found.",
-    "delete_this_response": "delete this response"
+    "delete_this_response": "delete this response",
+    "notifications": "Notifications",
+    "twitch": "Twitch",
+    "youtube": "YouTube",
+    "trovo": "Trovo",
+    "reddit": "Reddit"
 }

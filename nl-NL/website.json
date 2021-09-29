@@ -280,7 +280,7 @@
     "General": "Algemeen",
     "soical": "Sociaal",
     "info": "Informatie",
-    "usage": "Usage:",
+    "usage": "Verbruik:",
     "index_this_is": "Dit is {0}",
     "probot": "ProBot",
     "index_header_big_string": "Maak een Professionele Discord Server!",
@@ -574,5 +574,10 @@
     "error_upload_500": "Interne serverfout",
     "rr_roles_limit": "Rollenlimiet per gebruiker",
     "Not_Found_Page": "De pagina die u zoekt is niet gevonden.",
-    "delete_this_response": "verwijder deze antwoord "
+    "delete_this_response": "verwijder deze antwoord ",
+    "notifications": "Meldingen",
+    "twitch": "Twitch",
+    "youtube": "YouTube",
+    "trovo": "Trovo",
+    "reddit": "Reddit"
 }

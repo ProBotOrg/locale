@@ -574,5 +574,10 @@
     "error_upload_500": "Помилка сервера",
     "rr_roles_limit": "Ліміт ролей на користувача",
     "Not_Found_Page": "Сторінка не знайдена",
-    "delete_this_response": "видалити цю відповідь"
+    "delete_this_response": "видалити цю відповідь",
+    "notifications": "Notifications",
+    "twitch": "Twitch",
+    "youtube": "YouTube",
+    "trovo": "Trovo",
+    "reddit": "Reddit"
 }

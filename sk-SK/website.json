@@ -574,5 +574,10 @@
     "error_upload_500": "Interná chyba servera",
     "rr_roles_limit": "Limit rol na používateľa",
     "Not_Found_Page": "Stránka nenájdená",
-    "delete_this_response": "odstrániť túto odpoveď"
+    "delete_this_response": "odstrániť túto odpoveď",
+    "notifications": "Notifikácie",
+    "twitch": "Twitch",
+    "youtube": "YouTube",
+    "trovo": "Trovo",
+    "reddit": "Reddit"
 }

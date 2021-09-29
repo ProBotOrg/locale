@@ -574,5 +574,10 @@
     "error_upload_500": "内部サーバーエラー",
     "rr_roles_limit": "ユーザーごとの役割の制限",
     "Not_Found_Page": "ごめん…頑張ってめっちゃ探したけど見つからなかった…",
-    "delete_this_response": "削除"
+    "delete_this_response": "削除",
+    "notifications": "お知らせ",
+    "twitch": "Twitch",
+    "youtube": "YouTube",
+    "trovo": "Trovo",
+    "reddit": "Reddit"
 }

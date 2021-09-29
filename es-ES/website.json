@@ -574,5 +574,10 @@
     "error_upload_500": "Error Interno del Sevidor",
     "rr_roles_limit": "Límite de roles por usuario",
     "Not_Found_Page": "No se puede encontrar la página que estás buscando.",
-    "delete_this_response": "eliminar esta respuesta"
+    "delete_this_response": "eliminar esta respuesta",
+    "notifications": "Notificaciones",
+    "twitch": "Twitch",
+    "youtube": "Youtube",
+    "trovo": "Trovo",
+    "reddit": "Reddit"
 }

@@ -574,5 +574,10 @@
     "error_upload_500": "Abbiamo riscontrato un'errore interno al nostro server",
     "rr_roles_limit": "Limite dei Ruoli per Utente",
     "Not_Found_Page": "Impossibile trovare la pagina che stai cercando.",
-    "delete_this_response": "elimina questa risposta"
+    "delete_this_response": "elimina questa risposta",
+    "notifications": "Notifications",
+    "twitch": "Twitch",
+    "youtube": "YouTube",
+    "trovo": "Trovo",
+    "reddit": "Reddit"
 }
