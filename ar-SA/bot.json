@@ -1,5 +1,5 @@
 {
-	"choose_reason": "إختر سبباً",
+	"choose_reason": "إختر سبب",
 	"reason_cancel": "إلغاء",
 	"rank_description": "إظهار بطاقة الترتيب (الرانك) الخاصة بك او بشخص اخر بالسيرفر",
 	"clear_description": "تنظيف رسائل الشات.",
@@ -231,7 +231,7 @@
 	"server_channels": ":speech_balloon: الرومات ({0})",
 	"server_channels_value": "**{0}** كتابي | **{1}** صوتي\n",
 	"server_others": ":earth_africa: أخرى",
-	"server_others_value": "**المنطقة:** {0}\n**مستوى التحقق:** {1}",
+	"server_others_value": "**مستوى التحقق:** {0}",
 	"server_roles": ":closed_lock_with_key: عدد الرولات ({0})",
 	"server_roles_value": "** #roles** لرؤية جميع الرتب إستخدم",
 	"temp_activated": ":white_check_mark: **تم تفعيل الخاصية بنجاح**",
