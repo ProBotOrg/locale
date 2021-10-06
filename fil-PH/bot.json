@@ -20,7 +20,7 @@
 	"move_description": "Moves a member to another voice channel.",
 	"role_description": "Add/remove a role(s) for a user.",
 	"warn_description": "Warns a member.",
-	"setcolor_description": "Changes role's colors by hex codes.",
+	"setcolor_description": "Mababago ang kulay ng role gamit ang hex code.",
 	"warnings_description": "Get the list of warnings for the server or a user.",
 	"setnick_description": "Changes the nickname of a member.",
 	"play_description": "Add a song to queue and plays it.",
