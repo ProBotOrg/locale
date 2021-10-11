@@ -231,7 +231,7 @@
 	"server_channels": ":speech_balloon: canali ({0})",
 	"server_channels_value": "**{0}** testo | **{1}** vocale",
 	"server_others": ":earth_africa: Altri",
-	"server_others_value": "**regione:** {0}\n** livello di verifica:** {1}",
+	"server_others_value": "**Regione:** {0}\n**Livello di Verifica:** {1}",
 	"server_roles": ":closed_lock_with_key:  Ruoli ({0})",
 	"server_roles_value": "Per vedere la lista di tutti i ruoli usa il comando **#roles**",
 	"temp_activated": ":white_check_mark: **questa funzione è stata attivata con successo**",

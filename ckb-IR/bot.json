@@ -231,7 +231,7 @@
 	"server_channels": ":speech_balloon: ژوورەکان ({0})",
 	"server_channels_value": "**{0}** نوسینەکی | **{1}** دەنگی",
 	"server_others": ":earth_africa: ئەوانیتر",
-	"server_others_value": "**ناوچە:** {0}\n**ئاستی دڵنیایی**: {1}",
+	"server_others_value": "ناوچە:\nئاستی دڵنیایی:",
 	"server_roles": ":closed_lock_with_key:  ڕۆڵەکان ({0})",
 	"server_roles_value": "بۆ بینینی هەموو ڕۆڵەکان **roles#** بەکاربێنە",
 	"temp_activated": ":white_check_mark: ** خزمەتگوزارییەکە بە سەرکەوتوویی چاڵاککرا**",

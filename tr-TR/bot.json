@@ -231,7 +231,7 @@
 	"server_channels": ":speech_balloon: Kanallar ({0})",
 	"server_channels_value": "**{0}** Yazı | **{1}** Ses",
 	"server_others": ":earth_africa: Diğerleri",
-	"server_others_value": "**Bölge:** {0}\n**Doğrulama seviyesi:** {1}",
+	"server_others_value": "**Doğrulama seviyesi:** {0}",
 	"server_roles": ":closed_lock_with_key:  Roller ({0})",
 	"server_roles_value": "Tüm rollerin listesini görmek için **#roles** kullanın",
 	"temp_activated": ":white_check_mark: **Özellik başarıyla aktifleştirildi**",
