@@ -231,7 +231,7 @@
 	"server_channels": ":speech_balloon: Kênh ({0})",
 	"server_channels_value": "**{0}** Tin nhắn | **{1}** Âm thoại",
 	"server_others": ":earth_africa: Khác",
-	"server_others_value": "\n**Cấp độ xác minh:** {0}",
+	"server_others_value": "**Cấp độ xác minh:** {0}",
 	"server_roles": ":closed_lock_with_key: Vai trò ({0})",
 	"server_roles_value": "Để xem toàn bộ các vai trò, dùng **#roles**",
 	"temp_activated": ":white_check_mark: **Đã kích hoạt tính năng.**",
