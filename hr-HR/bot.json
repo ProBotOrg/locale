@@ -63,7 +63,7 @@
 	"Color has been removed successfully!": "Boja je uspješno uklonjena!",
 	"Requested by": "Zatraženo od",
 	"colors_already": ":rolling_eyes: - Već imaš ovu boja.",
-	"colors_permission": ":rolling_eyes: - **Color should not has administrative permissions **",
+	"colors_permission": ":rolling_eyes: - **Color role should not have administrative permissions **",
 	"colors_done": "Boja je uspješno promijenjena.",
 	"I don't have permission to give you this color": "I don't have permission to give you this color",
 	"Wrong color number": "Pogrešan broj boje",
