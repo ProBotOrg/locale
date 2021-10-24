@@ -63,7 +63,7 @@
 	"Color has been removed successfully!": "Il colore è stato rimosso con successo!",
 	"Requested by": "Richiesto da",
 	"colors_already": ":rolling_eyes: Hai già questo colore",
-	"colors_permission": ":rolling_eyes: - **Il colore non dovrebbe avere permessi amministrativi**",
+	"colors_permission": ":rolling_eyes: - **Il colore non dovrebbe avere autorizzazioni amministrative**",
 	"colors_done": "Il colore è stato cambiato con successo.",
 	"I don't have permission to give you this color": "Non ho i permessi necessari per darti questo colore",
 	"Wrong color number": "Numero del colore sbagliato",
