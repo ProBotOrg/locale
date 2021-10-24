@@ -419,7 +419,7 @@
 	"text_value": "Metin",
 	"voice_value": "Ses",
 	"invite_value": "Davet",
-	"both_value": "Hepsi",
+	"both_value": "Her ikisi de",
 	"day_value": "Gün",
 	"week_value": "Hafta",
 	"month_value": "Ay",
@@ -430,7 +430,7 @@
 	"seek_position_description": "Belli bir noktaya kadar arar.",
 	"vol_amount_description": "Ayarlanacak değeri girin.",
 	"resume_description": "Şu anda durdurulmuş parçayı devam ettirir.",
-	"setlang_description": "Bot, tercih ettiğiniz dili kullanmaya başlar.",
+	"setlang_description": "Tercih ettiğiniz dili bota ayarlar.",
 	"setlang_language_description": "Kendisine değiştirilecek dil.",
 	"unmute_description": "Bir üyenin susturmasını kaldırır.",
 	"muted_both": ":white_check_mark:**@{0} hem yazı hem ses kanallarından susturuldu! :zipper_mouth:**"

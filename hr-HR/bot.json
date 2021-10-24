@@ -231,7 +231,7 @@
 	"server_channels": ":speech_balloon: Channels ({0})",
 	"server_channels_value": "**{0}** Text | **{1}** Voice\n",
 	"server_others": ":earth_africa: Drugi",
-	"server_others_value": "**Verification Level:** {0}",
+	"server_others_value": "**Region:** {0}\n**Verification Level:** {1}",
 	"server_roles": ":closed_lock_with_key:  Roles ({0})",
 	"server_roles_value": "To see a list with all roles use **#roles**",
 	"temp_activated": ":white_check_mark: **The feature has been successfully activated**",
