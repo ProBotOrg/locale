@@ -156,7 +156,7 @@
     "delete_channel": "Kanaal verwijderd",
     "update_channel_premissions": "Kanaalmachtigingen bijgewerkt",
     "voice_joined": "Lid aangesloten stemkanaal",
-    "voice_left": "Lid Linkerstemkanaal",
+    "voice_left": "Lid verlaat spraakkanaal ",
     "voice_switched": "Lid geschakeld tussen spraakkanalen",
     "voice_move": "Lid verplaatst naar een ander spraakkanaal",
     "voice_disconnect": "Lid is losgekoppeld van spraakkanaal",
