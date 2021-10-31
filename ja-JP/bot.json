@@ -222,7 +222,7 @@
 	"color_error": ":rolling_eyes: - システム上でエラーが発生した場合は、サポートにお問い合わせください。",
 	"time_reasons_limit": ":rolling_eyes: - **時間制限は(時間, 日, 週間, ヶ月, 年)の1つに等しい必要があります**",
 	"user_warn_warned": ":white_check_mark: **@{0} を警告しました！**",
-	"user_warn_you_are_warned": ":warning: **あなたは警告されました！**",
+	"user_warn_you_are_warned": ":warning: **警告（warn）されました！**",
 	"server_id": ":id: サーバー ID:",
 	"server_created": ":calendar: 作成日",
 	"server_owned": ":crown: 所有者：",
