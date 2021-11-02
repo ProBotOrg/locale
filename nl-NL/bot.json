@@ -129,7 +129,7 @@
 	"unban_all_members_description": ":rolling_eyes: - **Om de verbanning van alle leden ongedaan te maken, moet je Administratorrechten hebben.**",
 	"unban_premium_only_description": "(vanaf nu) wordt deze opdrachten alleen voor premium.",
 	"unban_members_being_description": ":white_check_mark: **{0}** de verbanning van deze leden worden ongedaan gemaakt.",
-	"unban_unbanned_description": ":white_check_mark: **Verbanning van {0} is opgeheven.",
+	"unban_unbanned_description": ":white_check_mark: **Verbanning van {0} is opgeheven",
 	"unban_cant_find_description": ":rolling_eyes: - **Ik kan deze persoon {0} niet vinden in de banlijst**",
 	"vmute_main_description": "{0}, Door: {1}#{2}, REDEN: {3} EINDIGT OP: {4}",
 	"vmute_muted_from_description": ":white_check_mark: **@{0} kan niet spreken in stem! :zipper_mouth:**",
