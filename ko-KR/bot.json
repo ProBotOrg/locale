@@ -1,6 +1,6 @@
 {
 	"choose_reason": "Choose a reason",
-	"reason_cancel": "Cancel",
+	"reason_cancel": "취소",
 	"rank_description": "당신이나 다른 사람들의 서버 랭크 카드를 보여줍니다.",
 	"clear_description": "채널의 메세지를 정리합니다.",
 	"moveme_description": "당신을 음성 채널로 이동시킵니다.",
@@ -422,7 +422,7 @@
 	"both_value": "Both",
 	"day_value": "Day",
 	"week_value": "Week",
-	"month_value": "Month",
+	"month_value": "개월",
 	"play_song_description": "Song to search for or the link of the song.",
 	"search_song_description": "Song to search for.",
 	"queue_page_description": "The page you are looking for.",
