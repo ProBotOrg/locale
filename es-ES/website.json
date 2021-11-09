@@ -214,7 +214,7 @@
     "AUTOMOD_CAPS": "SPAM DE MAYÚSCULAS (70% > DE MAYÚSCULAS)",
     "AUTOMOD_IGNORED_CHANNELS": "Canales ignorados:",
     "AUTOMOD_IGNORED_ROLES": "Roles ignorados:",
-    "AUTOMOD_ONLY_IMAGES": "Solo se permiten imágenes en estos canales:",
+    "AUTOMOD_ONLY_IMAGES": "Canales en los que solo se permiten imágenes:",
     "AUTOMOD_ONLY_YOUTUBE": "Solo se permiten links de YouTube en estos canales:",
     "SELECT_REASON": "Seleccione una razón de la lista",
     "ID_BACKGROUNDS": "Fondos de identificación",
