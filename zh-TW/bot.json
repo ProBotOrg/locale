@@ -131,7 +131,7 @@
 	"unban_members_being_description": ":white_check_mark: **{0}** 成員正在進行撤銷封鎖",
 	"unban_unbanned_description": ":white_check_mark: **{0} 已撤銷封鎖**",
 	"unban_cant_find_description": ":rolling_eyes: - **我在封鎖清單裡找不到{0}**",
-	"vmute_main_description": "{0}，管理員：{1} 原因：{3} 結束：{4}",
+	"vmute_main_description": "{0}，由：{1} 原因：{3} 結束：{4}",
 	"vmute_muted_from_description": ":white_check_mark: **@{0} 已被禁言！:zipper_mouth: **",
 	"vmute_couldnt_mute_description": ":rolling_eyes: - 我無法禁言那位使用者，請檢查我的權限",
 	"vmute_cant_description": ":rolling_eyes: - **你不能把 @{0} 從語音頻道靜音**",
