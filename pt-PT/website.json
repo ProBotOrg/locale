@@ -9,7 +9,7 @@
     "roles_description": "Get a list of server roles and member counts.",
     "ban_description": "Bans a member.",
     "unban_description": "Unbans a member.",
-    "blacklisted_call_dramex": "Your account blacklisted for suspicious activity, please contact @Dramex for more details",
+    "blacklisted_call_dramex": "A sua conta foi bloqueada devido a atividades suspeitas, por favor contacte @Dramex para mais detalhes",
     "blacklisted_title": "Your account has been blacklisted for suspicious activity. Please solve the captcha to continue",
     "blacklisted_note": "This is a one time ticket, don't waste it.",
     "aliases": "Aliases:",
