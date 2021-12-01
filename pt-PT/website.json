@@ -167,7 +167,7 @@
     "message_on_link_field": "Mensagem para enviar ao servidor quando o link não pode ser enviado",
     "text_with_link": "Texto com a mensagem de link",
     "link_age": "Idade do link em minutos",
-    "link_uses": "Uso de links",
+    "link_uses": "Usos do link",
     "link_default_channel": "Link convidar canal padrão",
     "link_limit": "Quantos links devem poder ser solicitados antes do tempo de espera",
     "link_wait_time": "Tempo de espera em horas",
