@@ -49,7 +49,7 @@
 	"roll_description": "rolling dice.",
 	"points_description": "A server based points that can be given by moderators.",
 	"usage": "Usage:",
-	"c": "Description:",
+	"c": "Descrição: ",
 	"aliases": "Aliases:",
 	"Language has been changed successfully": ":white_check_mark: Language has been changed successfully",
 	"Joined Discord": "Joined Discord",
@@ -432,6 +432,6 @@
 	"resume_description": "Resumes the currently paused track.\n",
 	"setlang_description": "Sets your preferred language to the bot.",
 	"setlang_language_description": "Language to change to.",
-	"unmute_description": "Dessilencia um membro.",
+	"unmute_description": "Desmuta um membro.",
 	"muted_both": ":white_check_mark: **@{0} muted from both text and voice! :zipper_mouth:**"
 }
