@@ -97,7 +97,7 @@
 	"unvmute_member_voice_description": ":white_check_mark: Zrušeno umlčení uživateli {0}!",
 	"unvmute_not_muted_description": ":blush: **{0} není umlčen/a.**",
 	"ban_from_server_description": ":white_check_mark: **{0} byl/a zabanován/a ze serveru! :airplane:**",
-	"ban_cant_description": ":rolling_eyes: - ** Nemůžeš zaabnovat uživatele @{0}. **",
+	"ban_cant_description": ":rolling_eyes: - **Nemůžeš zaabnovat uživatele @{0}.**",
 	"ban_missing_permission_description": ":rolling_eyes: - Nemohu zabanovat tohoto uživatele. Zkontroluj má oprávnění a pozici role.",
 	"clear_cooldown_description": "**{0}**, Zpomalení (zbývá **{1}**)",
 	"clear_cant_description": ":rolling_eyes: - Nemohu vyčistit tento kanál. Zkontroluj má oprávnění.",
