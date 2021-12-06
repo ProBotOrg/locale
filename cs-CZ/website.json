@@ -43,7 +43,7 @@
     "stop_description": "Zastaví aktuální skladbu a vyčistí celou hudební frontu.",
     "vol_description": "Změní / zobrazí aktuální hlasitost.",
     "pause_description": "Pozastaví aktuálni skladbu.",
-    "np_description": "Zobrazí, jakou skladbu momentálně bot přehrává.",
+    "np_description": "Shows the song that the bot is currently playing",
     "repeat_description": "Přepne režim opakování.",
     "seek_description": "Vyhledá určitý bod v aktuální skladbě.",
     "restore_description": "Obnoví tvou zálohu!",
