@@ -43,7 +43,7 @@
     "stop_description": "停止当前歌曲并清除播放列表。",
     "vol_description": "更改/显示目前音量。",
     "pause_description": "暂停当前播放曲目。",
-    "np_description": "显示目前机器人正在播放的歌曲。",
+    "np_description": "Shows the song that the bot is currently playing",
     "repeat_description": "切换重复模式。\n",
     "seek_description": "在当前播放曲目中寻找某个特定点。",
     "restore_description": "恢复备份！",
@@ -578,6 +578,6 @@
     "notifications": "Notifications",
     "twitch": "Twitch",
     "youtube": "YouTube",
-    "trovo": "Trovo",
+    "trovo": "Trovo\n",
     "reddit": "Reddit"
 }
