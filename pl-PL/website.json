@@ -43,7 +43,7 @@
     "stop_description": "Zatrzymuje bieżący utwór i usuwa całą kolejkę utworów.",
     "vol_description": "Zmienia/pokazuje aktualny poziom głośności.",
     "pause_description": "Wstrzymuje aktualnie odtwarzany utwór.",
-    "np_description": "Pokazuje utwór, który jest aktualnie odtwarzany przez bota.",
+    "np_description": "Shows the song that the bot is currently playing",
     "repeat_description": "Zmienia tryb powtarzania.",
     "seek_description": "Poszukuje określonego punktu w aktualnie odtwarzanym utworze",
     "restore_description": "Przywraca kopię zapasową!",
