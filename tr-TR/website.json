@@ -43,7 +43,7 @@
     "stop_description": "Geçerli şarkıyı durdurur ve tüm müzik sırasını temizler.",
     "vol_description": "Geçerli ses seviyesini değiştirir / gösterir.",
     "pause_description": "Çalmakta olan parçayı duraklatır.",
-    "np_description": "Botun o anda hangi şarkıyı çaldığını gösterir.",
+    "np_description": "Shows the song that the bot is currently playing",
     "repeat_description": "Tekrarlama modunu açar/kapar.",
     "seek_description": "Geçerli parçada belirli bir noktayı arar.",
     "restore_description": "Yedeklemenizi geri yükler!",
