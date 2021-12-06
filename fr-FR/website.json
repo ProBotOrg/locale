@@ -43,7 +43,7 @@
     "stop_description": "Arrête le morceau en cours et vide entièrement la file d'attente.",
     "vol_description": "Modifie / montre le volume actuel.",
     "pause_description": "Mettre en pause le morceau en cours d'écoute.",
-    "np_description": "Montre quel morceau le bot joue actuellement.",
+    "np_description": "Shows the song that the bot is currently playing",
     "repeat_description": "Commutateurs le mode de répétition.",
     "seek_description": "Chercher à un certain endroit du morceau en cours.",
     "restore_description": "Restaure votre sauvegarde !",
