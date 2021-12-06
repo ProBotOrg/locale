@@ -43,7 +43,7 @@
     "stop_description": "Pausa a música atual e limpa totalmente a lista de reprodução.",
     "vol_description": "Altera/Mostra o volume atual.",
     "pause_description": "Pausa a música atual.",
-    "np_description": "Mostra a atual música sendo reproduzida.",
+    "np_description": "Shows the song that the bot is currently playing",
     "repeat_description": "Ativa/desativa o modo de repetição.",
     "seek_description": "Coloca em um determinado ponto da música atual.",
     "restore_description": "Restaura seu backup!",
@@ -578,6 +578,6 @@
     "notifications": "Notifications",
     "twitch": "Twitch",
     "youtube": "YouTube",
-    "trovo": "Trovo",
+    "trovo": "Trovo\n",
     "reddit": "Reddit"
 }
