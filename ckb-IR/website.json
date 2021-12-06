@@ -43,7 +43,7 @@
     "stop_description": "گۆرانیەکەی ئێستا بوەستێنە و ریزی لێدانی گۆرانیەکە بسرەوە",
     "vol_description": "گۆڕان/نیشان دانی سەوتی ئێستا",
     "pause_description": "ئەم گۆرانییەی ئێستا بووەستێنە",
-    "np_description": "نیشانی دانی بۆتەکە خەریکە چ گۆرانیەک لێ ئەدا",
+    "np_description": "Shows the song that the bot is currently playing",
     "repeat_description": "پێکردن/کوژاندنەوەی دۆخی دوبارەکردنەوە",
     "seek_description": "بگەڕە بە دوای شوێنێکی تایبەت لە گۆرانیەکەدا",
     "restore_description": "گەراندنەوەی پاڵپشتەکەت",
@@ -472,7 +472,7 @@
     "music_dj_roles": "DJ ROLES",
     "both_voice_and_text": "Both Voice & Text",
     "whitelist_urls": "WHITELIST URLS",
-    "automod_mute_time": "Mute Time",
+    "automod_mute_time": "Mute Duration",
     "automod_mute_violations": "Mute Violations Count",
     "automod_mute_in": "In",
     "automod_mute_time_mintues": "خولەک",
@@ -578,6 +578,6 @@
     "notifications": "Notifications",
     "twitch": "Twitch",
     "youtube": "YouTube",
-    "trovo": "Trovo",
+    "trovo": "Trovo\n",
     "reddit": "Reddit"
 }
