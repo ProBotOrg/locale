@@ -43,7 +43,7 @@
     "stop_description": "Stop het huidige nummer en wist de hele muziekwachtrij.",
     "vol_description": "Wijzigt/toont het huidige volume.",
     "pause_description": "Pauzeert het huidige nummer dat wordt afgespeeld.",
-    "np_description": "Geeft aan welk nummer de bot momenteel speelt.",
+    "np_description": "Shows the song that the bot is currently playing",
     "repeat_description": "Schakelt de herhaalmodus aan.\n",
     "seek_description": "Ziet naar een bepaald punt in het huidige nummer.",
     "restore_description": "Herstelt je back-up!",
