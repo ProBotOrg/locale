@@ -231,7 +231,7 @@
 	"server_channels": ":speech_balloon: チャンネル ({0})",
 	"server_channels_value": "**{0}** 文字| **{1}** ボイス",
 	"server_others": ":earth_africa: その他",
-	"server_others_value": "**地域:** {0}\n**検証レベル:** {1}",
+	"server_others_value": "**検証レベル:** {0}",
 	"server_roles": ":closed_lock_with_key:  ロール({0})",
 	"server_roles_value": "すべてのロールを持つユーザーリストを表示するには**#roles** を使用します。",
 	"temp_activated": ":white_check_mark: **機能の有効化に成功しました**",
