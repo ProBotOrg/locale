@@ -43,7 +43,7 @@
     "stop_description": "Σταματήστε το τρέχον τραγούδι και καθαρίστε ολόκληρη την ουρά μουσικής.",
     "vol_description": "Αλλάζει/Εμφανίζει την τρέχουσα ένταση.",
     "pause_description": "Πάυει το τρέχων τραγούδι.",
-    "np_description": "Δείχνει ποιο τραγούδι το bot παίζει.",
+    "np_description": "Shows the song that the bot is currently playing",
     "repeat_description": "Εναλλάζει την λειτουργία επανάληψης.",
     "seek_description": "Πηγαίνει σε ένα συγκεκριμένο σημείο του τρέχον κομματιού.",
     "restore_description": "Επαναφέρει το αντίγραφο ασφαλείας σας!",
@@ -472,7 +472,7 @@
     "music_dj_roles": "DJ ROLES",
     "both_voice_and_text": "Both Voice & Text",
     "whitelist_urls": "WHITELIST URLS",
-    "automod_mute_time": "Mute Time",
+    "automod_mute_time": "Mute Duration",
     "automod_mute_violations": "Mute Violations Count",
     "automod_mute_in": "In",
     "automod_mute_time_mintues": "Λεπτά",
@@ -578,6 +578,6 @@
     "notifications": "Notifications",
     "twitch": "Twitch",
     "youtube": "YouTube",
-    "trovo": "Trovo",
+    "trovo": "Trovo\n",
     "reddit": "Reddit"
 }
