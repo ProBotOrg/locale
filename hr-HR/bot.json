@@ -14,7 +14,7 @@
 	"unban_description": "Unbans a member.",
 	"kick_description": "Izbacuje člana.",
 	"vkick_description": "Kicks a member from a voice channel",
-	"mute_description": "Mute a member from text/voice channels so they cannot type/speak.",
+	"mute_description": "Mute a member from text/voice channels so they cannot type.",
 	"vmute_description": "Mute a member from voice channels so they cannot speak.",
 	"unvmute_description": "Unmutes a member from voice channels.",
 	"move_description": "Moves a member to another voice channel.",
