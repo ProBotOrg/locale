@@ -43,7 +43,7 @@
     "stop_description": "Megállítja az aktuális zenét és törli a lejátszási sorból.",
     "vol_description": "Átállítja/megjeleníti a jelenlegi hangerőt.",
     "pause_description": "Szünetelteti az aktuális zeneszámot.",
-    "np_description": "Megjeleníti a bot által aktuálisan lejátszott zeneszámot.",
+    "np_description": "Shows the song that the bot is currently playing",
     "repeat_description": "Átállítja az ismétlés módját.",
     "seek_description": "Egy megadott pontra ugrik az aktuális zeneszámon.",
     "restore_description": "Betölti a biztonsági mentést!",

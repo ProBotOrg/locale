@@ -43,7 +43,7 @@
     "stop_description": "Stoppt den aktuellen Song und löscht die gesamte Musik-Wiedergabeliste.",
     "vol_description": "Ändert/Zeigt die aktuelle Lautstärke an.",
     "pause_description": "Pausiert den aktuell wiedergegebenen Track.",
-    "np_description": "Zeigt an, welchen Song der Bot gerade spielt.",
+    "np_description": "Shows the song that the bot is currently playing",
     "repeat_description": "Schaltet den Wiederholmodus ein/aus.\n",
     "seek_description": "Sucht einen bestimmten Punkt in der aktuellen Spur.",
     "restore_description": "Stellt dein Backup wieder her!",
@@ -578,6 +578,6 @@
     "notifications": "Notifications",
     "twitch": "Twitch",
     "youtube": "YouTube",
-    "trovo": "Trovo",
+    "trovo": "Trovo\n",
     "reddit": "Reddit"
 }

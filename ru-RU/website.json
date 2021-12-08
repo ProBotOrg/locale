@@ -43,7 +43,7 @@
     "stop_description": "Остановить текущую песню и очистить всю очередь воспроизведения музыки.",
     "vol_description": "Изменить/показать текущий уровень громкости.",
     "pause_description": "Поставить на паузу воспроизведение.",
-    "np_description": "Показать название песни, которую играет бот.",
+    "np_description": "Shows the song that the bot is currently playing",
     "repeat_description": "Переключение между режимами повтора.",
     "seek_description": "Поиск определенной точки в текущей песни.",
     "restore_description": "Восстановить резервную копию!",
@@ -472,7 +472,7 @@
     "music_dj_roles": "DJ РОЛИ",
     "both_voice_and_text": "Голос и текст",
     "whitelist_urls": "Разрешенные URL-адреса",
-    "automod_mute_time": "Время выключения звука",
+    "automod_mute_time": "Время заглушения",
     "automod_mute_violations": "Количество нарушений до отключения",
     "automod_mute_in": "В",
     "automod_mute_time_mintues": "Минут",
@@ -578,6 +578,6 @@
     "notifications": "Mike love you\n",
     "twitch": "Twitch",
     "youtube": "YouTube",
-    "trovo": "Trovo",
+    "trovo": "Trovo\n",
     "reddit": "Reddit"
 }

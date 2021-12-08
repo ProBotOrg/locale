@@ -43,7 +43,7 @@
     "stop_description": "หยุดเพลงปัจจุบันและล้างคิวเพลงทั้งหมด",
     "vol_description": "เปลี่ยน/แสดง ระดับเสียงปัจจุบัน",
     "pause_description": "หยุดแทร็กที่กำลังเล่นอยู่ชั่วคราว",
-    "np_description": "แสดงเพลงที่บอทกำลังเล่นอยู่",
+    "np_description": "Shows the song that the bot is currently playing",
     "repeat_description": "สลับเป็นโหมดเล่นซ้ำ",
     "seek_description": "ค้นหาจุดที่เฉพาะเจาะจงในแทร็กที่กำลังเล่นอยู่",
     "restore_description": "กู้คืนข้อมูลสำรองของคุณ!",

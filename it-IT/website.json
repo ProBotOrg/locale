@@ -43,7 +43,7 @@
     "stop_description": "Ferma il brano corrente e cancella l'intera coda musicale.",
     "vol_description": "Cambia/mostra il volume attuale del bot",
     "pause_description": "Mette in pausa la canzone in riproduzione",
-    "np_description": "Mostra quale canzone il bot sta riproducendo",
+    "np_description": "Shows the song that the bot is currently playing",
     "repeat_description": "Abilità/disattiva la modalità ripetizione",
     "seek_description": "Riproduce un certo punto del brano musicale",
     "restore_description": "Ripristina il tuo backup!",
@@ -472,7 +472,7 @@
     "music_dj_roles": "RUOLO DJ",
     "both_voice_and_text": "Entrambi i livelli vocali e di testo",
     "whitelist_urls": "WHITELIST URLS",
-    "automod_mute_time": "Tempo di mute",
+    "automod_mute_time": "Tempo di Silenziamento",
     "automod_mute_violations": "Violazioni necessarie prima del mute",
     "automod_mute_in": "in ",
     "automod_mute_time_mintues": "Minuti",
@@ -578,6 +578,6 @@
     "notifications": "Notifications",
     "twitch": "Twitch",
     "youtube": "YouTube",
-    "trovo": "Trovo",
+    "trovo": "Trovo\n",
     "reddit": "Reddit"
 }

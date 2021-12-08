@@ -14,7 +14,7 @@
 	"unban_description": "Hindi talikuran ang isang miyembro.",
 	"kick_description": "Sipa ng isang miyembro.",
 	"vkick_description": "Kicks a member from a voice channel",
-	"mute_description": "Mute a member from text channels so they cannot type.",
+	"mute_description": "Mute a member from text/voice channels so they cannot type/speak.",
 	"vmute_description": "Mute a member from voice channels so they cannot speak.",
 	"unvmute_description": "Unmutes a member from voice channels.",
 	"move_description": "Moves a member to another voice channel.",

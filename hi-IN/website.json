@@ -43,7 +43,7 @@
     "stop_description": "vartamaan geet ko roken aur sampoorn sangeet kataar ko saaf karen.",
     "vol_description": "vartamaan volyoom mein parivartan/dikhaata hai.",
     "pause_description": "vartamaan mein chal rahe traik ko rok deta hai.",
-    "np_description": "dikhaata hai ki vartamaan mein bot kis geet ko baja raha hai.",
+    "np_description": "Shows the song that the bot is currently playing",
     "repeat_description": "दुहराव मोड लागू या बंद करें।",
     "seek_description": "vartamaan traik mein ek nishchit bindu kee talaash karata hai.",
     "restore_description": "apane baikap punarsthaapit karata hai!",

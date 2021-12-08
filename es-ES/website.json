@@ -43,7 +43,7 @@
     "stop_description": "Detiene la canción actual y borra toda la cola de música.",
     "vol_description": "Cambia/Muestra el volumen actual.",
     "pause_description": "Pausa la canción actualmente en reproducción",
-    "np_description": "Muestra la canción que el bot está reproduciendo en ese momento.",
+    "np_description": "Shows the song that the bot is currently playing",
     "repeat_description": "Activa el modo repetición.\n",
     "seek_description": "Busca un cierto punto en la pista actual.",
     "restore_description": "¡Restaura tu copia de seguridad!",

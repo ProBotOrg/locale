@@ -43,7 +43,7 @@
     "stop_description": "Dừng bài hát đang phát và xóa toàn bộ hàng đợi.",
     "vol_description": "Thay đổi/Hiển thị âm lượng.",
     "pause_description": "Tạm ngừng bài hát đang phát.",
-    "np_description": "Hiển thị bài hát mà bot đang phát.",
+    "np_description": "Shows the song that the bot is currently playing",
     "repeat_description": "Bật/tắt chế độ lặp.",
     "seek_description": "Tua đến một đoạn bất kì của bài hát đang phát.",
     "restore_description": "Khôi phục bản sao lưu của bạn!",
