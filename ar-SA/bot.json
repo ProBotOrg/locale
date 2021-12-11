@@ -14,7 +14,7 @@
 	"unban_description": "إزالة الحظر عن عضو.",
 	"kick_description": "طرد العضو.",
 	"vkick_description": "طرد العضو من الروم الصوتي.",
-	"mute_description": "منع أحد الأعضاء من الكتابة في الرومات الكتابية او صوتية.",
+	"mute_description": "كتم أحد الأعضاء من الرومات الكتابية/الصوتية.",
 	"vmute_description": "منع أحد الأعضاء من التحدث في الرومات الصوتية.",
 	"unvmute_description": "فك الكتم الصوتي من العضو",
 	"move_description": "نقل عضو إلى روم صوتي.",
