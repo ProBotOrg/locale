@@ -401,7 +401,7 @@
     "title": "ProBot - Discord를 위한 봇",
     "description": "설명:",
     "lock_description": "특정 채널에서 @everyone 을 언급할 수 없도록 설정합니다.",
-    "unlock_description": "Removes denied sending messages from @everyone in specific channel.",
+    "unlock_description": "@everyone이 특정 채널에서 메시지를 보낼 수 있도록 해요.",
     "name_of_user": "유저를 멘션하지 않고, 유저의 이름을 표시해요.",
     "user_invites_counter": "유저의 초대 카운터를 표시해요",
     "to_mention_author": "응답을 요청한 유저를 멘션해요",
