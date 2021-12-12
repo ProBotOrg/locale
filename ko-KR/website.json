@@ -538,7 +538,7 @@
     "mod_punish_time": "처벌 시간",
     "mod_time_left": "남은 시간",
     "mod_punished_at": "처벌 시각",
-    "mod_responsible": "책임자",
+    "mod_responsible": "관리자",
     "no_results_found": "검색 결과가 없어요!",
     "mod_undo_action": "실행 취소하기",
     "delete": "삭제하기",
