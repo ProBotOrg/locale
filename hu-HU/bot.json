@@ -37,7 +37,7 @@
 	"credits_description": "Megmutatja a te vagy mások egyenlegét és pénzt utal át a másiknak.",
 	"color_description": "Megváltoztatja a rang színét.",
 	"colors_description": "Listázza az összes elérhető színt.",
-	"title_description": "Megváltoztatja a címedet a #profile parancsban.",
+	"title_description": "Megváltoztatja a címedet a `/profile` parancsban.",
 	"reset_description": "Visszaállítja a szöveg/hang/meghívó pontokat az összes felhasználónak.",
 	"rep_description": "Megajándékoz valakit jóhír ponttal. 24 óránként egyszer használatos.",
 	"daily_description": "Odaadja a napi fizetést.",

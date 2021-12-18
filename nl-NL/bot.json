@@ -94,7 +94,7 @@
 	"role_must_have_permission_description": ":rolling_eyes: - ** Je hebt administrator rechten nodig om deze opdracht uit te voeren.",
 	"role_specify_name_description": ":rolling_eyes: - ** Geef rolnaam op **",
 	"role_changing_for_description": ":white_check_mark: bezig met veranderen van de rollen voor {0} leden, {1}**{2}**",
-	"unvmute_member_voice_description": ":white_check_mark: {0} je microfoon staat aan!",
+	"unvmute_member_voice_description": ":white_check_mark: {0} is niet meer gedempt!",
 	"unvmute_not_muted_description": ":blush: **{0} niet gedempt.**",
 	"ban_from_server_description": ":white_check_mark: **{0} verbannen van de server! :airplane:**",
 	"ban_cant_description": ":rolling_eyes: - ** U kunt @{0}niet verbannen. **",
