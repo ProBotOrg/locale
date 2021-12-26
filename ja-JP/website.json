@@ -43,7 +43,7 @@
     "stop_description": "再生中の曲を停止して、プレイリスト内のすべての曲をリセット",
     "vol_description": "現在の音量を表示/変更する",
     "pause_description": "再生中の曲を一時停止",
-    "np_description": "Shows the song that the bot is currently playing",
+    "np_description": "ボットが現在再生している曲を表示します",
     "repeat_description": "リピートモードの切り替え",
     "seek_description": "再生地点を指定",
     "restore_description": "今すぐバックアップを復元する！",
