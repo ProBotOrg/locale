@@ -37,7 +37,7 @@
 	"credits_description": "Shows your or someone's balance or transfer credits for someone",
 	"color_description": "Changes roles colors.",
 	"colors_description": "Lists you all the available colors.",
-	"title_description": "Changes your title in `#profile` command.",
+	"title_description": "Changes your title in `/profile` command.",
 	"reset_description": "Reset text/voice/invites xp points for all or specific members.",
 	"rep_description": "Award someone a reputation point. Can only be used once every 24 hours.",
 	"daily_description": "Get your daily salary.",
