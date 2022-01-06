@@ -233,7 +233,7 @@
     "JOINS_LEAVES": "Joins / Leaves",
     "MESSAGE_STATS": "Number of messages (excl. Bots)",
     "BOT_GIVEN_A_ROLE": "Action when the bot has given an administrative role",
-    "USE_COMMA": "Use comma to seperate them",
+    "USE_COMMA": "Use a comma to separate them",
     "GUILD_UPDATE_ACTION": "Action when server name/icon has been changed",
     "CREDITS_STORE": "Credits Store",
     "BADGES": "Profile Badges",
