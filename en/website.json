@@ -257,7 +257,7 @@
     "COMMANDS_LIMITS": "Commands limits",
     "COMMAND_LIMIT": "Limit",
     "CHANNELS_LIMIT_HINT": "This limit will apply to channel create/update/delete events.",
-    "ROLE_LIMIT_HINT": "This limit will apply on role create/update/delete events.",
+    "ROLE_LIMIT_HINT": "This limit will apply to role create/update/delete events.",
     "REQUIRES_SETUP": "This server requires setup.",
     "CONTINUE_TO_DISCORD": "Continue to Discord",
     "kick_member": "Member kicked",
