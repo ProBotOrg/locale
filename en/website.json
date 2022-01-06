@@ -49,7 +49,7 @@
     "restore_description": "Restores your backup!",
     "credits_description": "Shows your or someone's balance.",
     "support_description": "Get our support server invite link.",
-    "color_description": "Change your color in the server.",
+    "color_description": "Change your color on the server.",
     "colors_description": "Lists you all the available colors.",
     "title_description": "Changes your title in the `#profile` command.",
     "reset_description": "Reset text/voice/invites xp points for all or specific members.",
