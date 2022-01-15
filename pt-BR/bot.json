@@ -397,7 +397,7 @@
 	"clear_FBR_description": "Filtrar por mensagens de usuários.",
 	"temp_on_description": "ativar canais temporários.",
 	"temp_off_description": "Olá",
-	"temp_time_description": "Time to delete the temp channel in seconds.",
+	"temp_time_description": "ProBot",
 	"temp_seconds_description": "Time the voice channel.",
 	"temp_max_description": "Temp channels can user create in same time.",
 	"temp_max_number_description": "Max channels users can create, 0 is unlimited.",
