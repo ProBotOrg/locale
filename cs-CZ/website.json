@@ -9,7 +9,7 @@
     "roles_description": "Zobrazí seznam serverových rolí a počet členů.",
     "ban_description": "Zabanuje člena.",
     "unban_description": "Odbanuje člena.",
-    "blacklisted_call_dramex": "Tvůj účet je z důvodu podezřelé aktivity zablokován, kontaktuj @Dramex pro více podrobností",
+    "blacklisted_call_dramex": "Tvůj účet je z důvodu podezřelé aktivity zablokován, pro více podrobností, kontaktuj @Dramex",
     "blacklisted_title": "Tvůj účet je z důvodu podezřelé aktivity zablokován, vyřeš prosím captchu pro pokračování",
     "blacklisted_note": "Toto je jednorázový ticket, nepromarni ho",
     "aliases": "Aliasy:",
