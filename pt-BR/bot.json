@@ -408,7 +408,7 @@
 	"role_give_role_description": "O cargo para dar.",
 	"role_remove_role_description": "Um cargo para remover.",
 	"role_give_user_description": "Usuário para dar cargo.",
-	"role_remove_user_description": "Usuário ao qual remover um cargo.",
+	"role_remove_user_description": "Usuário para remover cargo.",
 	"role_pick_type_description": "Escolha um tipo",
 	"setcolor_role_description": "Cargo para definir a cor.",
 	"give_value": "Dar",
