@@ -61,6 +61,7 @@
     "deletebackup_description": "Видалити резервну копію.",
     "short_description": "Скоротити URL адресу.",
     "roll_description": "Кинути кістки.",
+    "default_roll": "Default roll dice",
     "points_description": "Бали, які можуть бути видані модераторами.",
     "Utility": "Корисність",
     "Moderation": "Модерація",
