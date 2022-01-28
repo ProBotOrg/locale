@@ -61,6 +61,7 @@
     "deletebackup_description": "Verwijdert de back-up.",
     "short_description": "Verkort een URL.",
     "roll_description": "Rollende dobbelsteen ",
+    "default_roll": "Default roll dice",
     "points_description": "server gebaseerde punten die kunnen worden gegeven door moderators.",
     "Utility": "Hulpprogramma",
     "Moderation": "Moderatie",
