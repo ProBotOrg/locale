@@ -61,6 +61,7 @@
     "deletebackup_description": "Sletter sikkerhedskopien.",
     "short_description": "Forkorter en URL.",
     "roll_description": "rullende terninger.",
+    "default_roll": "Default roll dice",
     "points_description": "En server baseret punkter, der kan gives af moderatorer.",
     "Utility": "Utility",
     "Moderation": "Moderation",
