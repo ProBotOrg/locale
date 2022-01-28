@@ -61,6 +61,7 @@
     "deletebackup_description": "baikap hataata hai.",
     "short_description": "url ko chhota karata hai.",
     "roll_description": "ludhakata paasa.",
+    "default_roll": "Default roll dice",
     "points_description": "ek sarvar aadhaarit ank jo madhyasthon dvaara die ja sakate hain.",
     "Utility": "उपयोगिता",
     "Moderation": "संचालन",
