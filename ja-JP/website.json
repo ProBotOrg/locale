@@ -61,6 +61,7 @@
     "deletebackup_description": "バックアップを削除",
     "short_description": "URL短縮化",
     "roll_description": "サイコロころがし",
+    "default_roll": "Default roll dice",
     "points_description": "モデレーターが付与できるサーバー基準のポイント",
     "Utility": "便利機能",
     "Moderation": "管理",
