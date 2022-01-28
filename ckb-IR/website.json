@@ -61,6 +61,7 @@
     "deletebackup_description": "سڕینەوەی پاڵپشت",
     "short_description": "کورت کردنەوەی لینک",
     "roll_description": "بەردەزار.",
+    "default_roll": "Default roll dice",
     "points_description": "خاڵەکانی سێرڤێر لەلایەن مۆدرێتەکانەوە دەکرێ ببەخشرێ.",
     "Utility": "فەرمانی گشتی",
     "Moderation": "چاودێری",
