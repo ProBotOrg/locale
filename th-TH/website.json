@@ -61,6 +61,7 @@
     "deletebackup_description": "ลบข้อมูลสำรอง",
     "short_description": "ย่อ URL",
     "roll_description": "ทอยลูกเต๋า",
+    "default_roll": "Default roll dice",
     "points_description": "คะแนนตามเซิร์ฟเวอร์ ผู้ดูแลสามารถมอบให้ได้",
     "Utility": "เครื่องมือ",
     "Moderation": "การคัดกรอง",
