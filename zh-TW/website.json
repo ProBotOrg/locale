@@ -61,6 +61,7 @@
     "deletebackup_description": "刪除備份",
     "short_description": "缩短 URL",
     "roll_description": "擲骰子",
+    "default_roll": "Default roll dice",
     "points_description": "一種可從管理原領取的伺服器分數",
     "Utility": "工具",
     "Moderation": "管理",
