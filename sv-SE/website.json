@@ -61,6 +61,7 @@
     "deletebackup_description": "Tar bort säkerhetskopian.",
     "short_description": "Förkorta en webbadress.",
     "roll_description": "kasta tärningar.",
+    "default_roll": "Default roll dice",
     "points_description": "Server baserade poäng som kan ges av moderatorer.",
     "Utility": "Verktyg",
     "Moderation": "Måtta",
