@@ -61,6 +61,7 @@
     "deletebackup_description": "删除备份。",
     "short_description": "缩短URL链接。",
     "roll_description": "掷骰子。",
+    "default_roll": "Default roll dice",
     "points_description": "由他人给予点数的，并以点数为基础。",
     "Utility": "工具",
     "Moderation": "审核",
