@@ -61,6 +61,7 @@
     "deletebackup_description": "Удалить резервную копию.",
     "short_description": "Сократить URL адрес.",
     "roll_description": "Бросить кости.",
+    "default_roll": "Default roll dice",
     "points_description": "Просмотр баллов на сервере, которые могут быть начислены модераторами.",
     "Utility": "Утилиты",
     "Moderation": "Модерация",
