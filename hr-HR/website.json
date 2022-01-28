@@ -61,6 +61,7 @@
     "deletebackup_description": "Briše sigurnosnu kopiju.",
     "short_description": "Shortens a URL.",
     "roll_description": "bacanje kockica.",
+    "default_roll": "Default roll dice",
     "points_description": "A server based points that can be given by moderators.",
     "Utility": "Korisnost",
     "Moderation": "Moderiranje",
