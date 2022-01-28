@@ -61,6 +61,7 @@
     "deletebackup_description": "Ištrinama atsarginė kopija.",
     "short_description": "Sutrumpinamas URL.",
     "roll_description": "ridenamas kauliukas.",
+    "default_roll": "Default roll dice",
     "points_description": "Serverio taškai, kuriuos gali suteikti moderatoriai.",
     "Utility": "Įrankiai",
     "Moderation": "Moderavimas",
