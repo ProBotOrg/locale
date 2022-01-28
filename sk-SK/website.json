@@ -61,6 +61,7 @@
     "deletebackup_description": "Odstráni zálohu.\n",
     "short_description": "Skráti webovú adresu.\n",
     "roll_description": "Hodí kockami.\n",
+    "default_roll": "Default roll dice",
     "points_description": "Body založené na serveri, ktoré môžu poskytnúť moderátori.\n",
     "Utility": "Nástroje",
     "Moderation": "Moderátor",
