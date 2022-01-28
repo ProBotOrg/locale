@@ -61,6 +61,7 @@
     "deletebackup_description": "Usuwa kopię zapasową.",
     "short_description": "Skraca adres internetowy (URL).",
     "roll_description": "Rzut kośćmi.",
+    "default_roll": "Default roll dice",
     "points_description": "Punkty oparte na serwerze, które mogą być przyznawane przez moderatorów.",
     "Utility": "Użyteczne",
     "Moderation": "Moderacyjne",
