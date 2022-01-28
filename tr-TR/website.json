@@ -61,6 +61,7 @@
     "deletebackup_description": "Yedeklemeyi siler.",
     "short_description": "Bir URL'yi kısaltır.",
     "roll_description": "zar atın.",
+    "default_roll": "Default roll dice",
     "points_description": "Moderatörler tarafından verilebilecek sunucu bazlı puanlar.",
     "Utility": "İşlevsellik",
     "Moderation": "Moderasyon",
