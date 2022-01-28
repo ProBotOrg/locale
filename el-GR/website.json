@@ -61,6 +61,7 @@
     "deletebackup_description": "Διαγράφει το αντίγραφο ασφαλείας.",
     "short_description": "Συντομεύει μια διεύθυνση URL.",
     "roll_description": "rolling dice.",
+    "default_roll": "Default roll dice",
     "points_description": "Πόντοι βασισμένοι σε διακομιστή που μπορούν να δοθούν από συντονιστές.",
     "Utility": "Χρησιμότητα",
     "Moderation": "Συντονισμός",
