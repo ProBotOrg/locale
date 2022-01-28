@@ -416,11 +416,11 @@
 	"all_value": "All",
 	"bots_value": "בוטים",
 	"humans_value": "בני אנוש",
-	"text_value": "Text",
+	"text_value": "טקסט",
 	"voice_value": "קול",
 	"invite_value": "Invite",
 	"both_value": "שניהם",
-	"day_value": "Day",
+	"day_value": "יום",
 	"week_value": "שבוע",
 	"month_value": "Month",
 	"play_song_description": "שיר לחיפש או הקישור של השיר.",
@@ -432,6 +432,6 @@
 	"resume_description": "ממשיך את הרצועה המושהית כרגע.",
 	"setlang_description": "מגדיר את השפה המועדפת עליך לבוט.",
 	"setlang_language_description": "שפה לשנות אליה.",
-	"unmute_description": "Unmutes a member.",
+	"unmute_description": "מבטל השתקה מחבר.",
 	"muted_both": ":white_check_mark: **@{0} muted from both text and voice! :zipper_mouth:**"
 }

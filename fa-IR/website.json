@@ -61,6 +61,7 @@
     "deletebackup_description": "نسخه پشتیبانی را حذف می کند.",
     "short_description": "یک آدرس اینترنتی را کوتاه می کند.",
     "roll_description": "انداختن تاس.",
+    "default_roll": "Default roll dice",
     "points_description": "امتیاز های تحت سرور که توسط مودراتور ها داده می شود.",
     "Utility": "کاربردی",
     "Moderation": "مدیریت",
@@ -489,6 +490,7 @@
     "leveling_voice_only": "فقط صوتی",
     "leveling_text_only": "فقط متنی",
     "leveling_role_poisiton": "موقعیت رول",
+    "rewards": "Rewards",
     "welcomer_variable_user": "عضو جدید را منشن می کند",
     "welcomer_variable_username": "نام عضو جدید بدون منشن شدن",
     "welcomer_variable_inviter": "دعوت کننده را منشن می کند",
@@ -575,9 +577,9 @@
     "rr_roles_limit": "محدودیت نقش به ازای هر کاربر",
     "Not_Found_Page": "صفحه یافت نشد",
     "delete_this_response": "حذف این پاسخ",
-    "notifications": "Notifications",
-    "twitch": "Twitch",
-    "youtube": "YouTube",
-    "trovo": "Trovo\n",
-    "reddit": "Reddit"
+    "notifications": "اعلانات",
+    "twitch": "توئیچ",
+    "youtube": "یوتیوب",
+    "trovo": "تروُو",
+    "reddit": "رددیت"
 }
