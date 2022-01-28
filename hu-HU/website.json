@@ -61,6 +61,7 @@
     "deletebackup_description": "Törli a biztonsági mentést.",
     "short_description": "Rövidít egy URL-t.",
     "roll_description": "eldobja a kockát.",
+    "default_roll": "Default roll dice",
     "points_description": "Szerver alapú pontok amiket a moderátorok adnak.",
     "Utility": "Eszközök",
     "Moderation": "Moderáció",
