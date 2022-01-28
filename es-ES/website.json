@@ -61,6 +61,7 @@
     "deletebackup_description": "Elimina la copia de seguridad.",
     "short_description": "Acorta una URL.",
     "roll_description": "Tira un dado",
+    "default_roll": "Default roll dice",
     "points_description": "Un servidor basado en puntos que pueden ser dados por los moderadores.",
     "Utility": "Utilidades",
     "Moderation": "Moderación",
