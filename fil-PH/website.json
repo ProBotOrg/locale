@@ -61,6 +61,7 @@
     "deletebackup_description": "Deletes the backup.",
     "short_description": "Mapapaikli ang URL",
     "roll_description": "rolling dice.",
+    "default_roll": "Default roll dice",
     "points_description": "A server based points that can be given by moderators.",
     "Utility": "Utility",
     "Moderation": "Moderasyon",
