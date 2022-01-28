@@ -61,6 +61,7 @@
     "deletebackup_description": "نسخه پشتیبانی را حذف می کند.",
     "short_description": "یک آدرس اینترنتی را کوتاه می کند.",
     "roll_description": "انداختن تاس.",
+    "default_roll": "Default roll dice",
     "points_description": "امتیاز های تحت سرور که توسط مودراتور ها داده می شود.",
     "Utility": "کاربردی",
     "Moderation": "مدیریت",
