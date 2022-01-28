@@ -61,6 +61,7 @@
     "deletebackup_description": "Löscht das Backup.",
     "short_description": "Verkürzt eine URL.",
     "roll_description": "Rollt einen Würfel.",
+    "default_roll": "Default roll dice",
     "points_description": "Serverbasierte Punkte, die von Moderatoren vergeben werden können.",
     "Utility": "Hilfsmittel",
     "Moderation": "Moderation",
