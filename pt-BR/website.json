@@ -61,6 +61,7 @@
     "deletebackup_description": "Deleta o backup",
     "short_description": "Encurtar link",
     "roll_description": "Rola um dado.",
+    "default_roll": "Default roll dice",
     "points_description": "Um sistema de pontos por servidor que pode ser dado pelos moderadores.",
     "Utility": "Utilitários",
     "Moderation": "Moderação",
