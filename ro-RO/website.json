@@ -61,6 +61,7 @@
     "deletebackup_description": "Șterge copia de rezervă. ",
     "short_description": "Scurtează un link. ",
     "roll_description": "zar. ",
+    "default_roll": "Default roll dice",
     "points_description": "Puncte bazate pe server care pot fi acordate de moderatori. ",
     "Utility": "Utilități",
     "Moderation": "Moderație",
