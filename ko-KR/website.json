@@ -61,6 +61,7 @@
     "deletebackup_description": "백업을 삭제해요.",
     "short_description": "링크를 축약해요.",
     "roll_description": "주사위를 굴려요.",
+    "default_roll": "Default roll dice",
     "points_description": "관리자에게 받을 수 있는 서버 기반 포인트에요.",
     "Utility": "유틸리티",
     "Moderation": "관리",
