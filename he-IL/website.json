@@ -61,6 +61,7 @@
     "deletebackup_description": "מוחק את הבקאפ",
     "short_description": "מקצר קישור",
     "roll_description": "מטיל קוביות",
+    "default_roll": "Default roll dice",
     "points_description": "שרת שמבוסס על נקודות שיכולות להתקבל על ידי מנחים.",
     "Utility": "תועלת",
     "Moderation": "מתינות",
