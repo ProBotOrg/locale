@@ -61,6 +61,7 @@
     "deletebackup_description": "Elimina i backup",
     "short_description": "Riduci un URL",
     "roll_description": "Lancia un dado",
+    "default_roll": "Default roll dice",
     "points_description": "Permette ai moderatori di un server di dare dei punti ad un utente",
     "Utility": "Utilità",
     "Moderation": "Moderazione",
