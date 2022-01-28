@@ -61,6 +61,7 @@
     "deletebackup_description": "Supprime la sauvegarde.",
     "short_description": "Raccourcit un lien URL.",
     "roll_description": "Lance les dés.",
+    "default_roll": "Default roll dice",
     "points_description": "Des points de serveur qui peuvent être donnés par les modérateurs.",
     "Utility": "Utilitaire",
     "Moderation": "Modération",
