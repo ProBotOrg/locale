@@ -432,6 +432,6 @@
 	"resume_description": "一時停止中のトラックを再開する",
 	"setlang_description": "ボットに希望する言語を設定する",
 	"setlang_language_description": "言語が変更されました",
-	"unmute_description": "メッセージ入力の禁止を解除",
+	"unmute_description": "メッセージ入力の禁止を解除する。",
 	"muted_both": ":white_check_mark: **@{0} さんがテキストチャンネルとボイスチャンネルの両方でミュートされました！ :zipper_mouth:**"
 }
