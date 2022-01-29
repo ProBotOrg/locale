@@ -585,5 +585,6 @@
     "twitch": "Twitch",
     "youtube": "YouTube",
     "trovo": "Trovo\n",
-    "reddit": "Reddit"
+    "reddit": "Reddit",
+    "command_saved_success": "{0} has been saved successfully👌"
 }
