@@ -584,5 +584,6 @@
     "twitch": "توئیچ",
     "youtube": "یوتیوب",
     "trovo": "تروُو",
-    "reddit": "رددیت"
+    "reddit": "رددیت",
+    "command_saved_success": "{0} has been saved successfully👌"
 }
