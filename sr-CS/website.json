@@ -369,7 +369,7 @@
     "embed_url": "URL",
     "embed_image": "Image",
     "embed_thumbnail": "Thumbnail",
-    "embed_color": "Color",
+    "embed_color": "color",
     "embed_footer": "Footer",
     "embed_field": "Field",
     "embed_message_content": "Message Content",
