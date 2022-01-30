@@ -508,7 +508,7 @@
     "action_take": "Ação a Tomar",
     "account_age": "Idade da Conta",
     "how_it_works": "Como funciona",
-    "anti_raid_work": "Iniciar anti-invasão após {0} utilizadores entram em {1} {2} quando a idade da conta é menor que: {3}",
+    "anti_raid_work": "Iniciar anti-invasão após {0} Utilizadores entrarem em {1} {2} quando a idade da conta é menor que {3}",
     "no_action": "Sem ação",
     "action_ban": "Bane cada membro",
     "action_mute": "Muta cada membro",
@@ -588,6 +588,5 @@
     "command_saved_success": "{0} has been saved successfully👌",
     "wildcard": "Wildcard",
     "wildcard_description": "Search in the message about a specific letter/word.",
-    "updated": "UPDATED",
     "never_mind": "Never mind"
 }
