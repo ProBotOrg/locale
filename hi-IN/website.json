@@ -585,5 +585,8 @@
     "youtube": "यूट्यूब ",
     "trovo": "ट्रॉवों ",
     "reddit": "रेडडिट ",
-    "command_saved_success": "{0} has been saved successfully👌"
+    "command_saved_success": "{0} has been saved successfully👌",
+    "wildcard": "Wildcard",
+    "wildcard_description": "Search in the message about a specific letter/word.",
+    "never_mind": "Never mind"
 }
