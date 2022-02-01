@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Dramex/probot-locale.git"
+    "url": "git+https://github.com/ProBotOrg/locale"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Dramex/probot-locale/issues"
+    "url": "https://github.com/ProBotOrg/locale/issues"
   },
-  "homepage": "https://github.com/Dramex/probot-locale#readme",
+  "homepage": "https://github.com/ProBotOrg/locale#readme",
   "dependencies": {
     "glob": "^7.1.6"
   }
