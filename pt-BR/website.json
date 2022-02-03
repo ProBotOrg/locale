@@ -589,5 +589,6 @@
     "wildcard": "Curinga",
     "wildcard_description": "Pesquise na mensagem sobre uma letra/palavra específica.",
     "never_mind": "Deixa pra lá",
-    "do_you_really": "Você realmente deseja excluir {0}."
+    "do_you_really": "Você realmente deseja excluir {0}.",
+    "add_field": "Add Field"
 }

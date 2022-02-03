@@ -589,5 +589,6 @@
     "wildcard": "البحث في جملة كاملة",
     "wildcard_description": "ابحث في الرسالة عن حرف او كلمة معينة.",
     "never_mind": "إلغاء",
-    "do_you_really": "هل تريد حقاً حذف {0}."
+    "do_you_really": "هل تريد حقاً حذف {0}.",
+    "add_field": "Add Field"
 }
