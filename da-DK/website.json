@@ -588,5 +588,6 @@
     "command_saved_success": "{0} has been saved successfully👌",
     "wildcard": "Wildcard",
     "wildcard_description": "Search in the message about a specific letter/word.",
-    "never_mind": "Never mind"
+    "never_mind": "Never mind",
+    "do_you_really": "Do you really want to delete {0}."
 }
