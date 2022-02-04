@@ -122,7 +122,7 @@
     "BEFORE_TEXT": "Trước tin nhắn văn bản",
     "EDIT": "Cài đặt",
     "ADD_RESPONSE": "Thêm phản hồi",
-    "Trigger": "Kích hoạt",
+    "Trigger": "Từ khóa",
     "Response": "Phản hồi",
     "Action": "Hành động",
     "Variables": "Các giá trị",
@@ -590,5 +590,5 @@
     "wildcard_description": "Phản hồi khi tin nhắn có chứa từ khóa.",
     "never_mind": "Thôi khỏi",
     "do_you_really": "Bạn có thực sự muốn xóa {0}?",
-    "add_field": "Add Field"
+    "add_field": "Thêm nội dung"
 }
