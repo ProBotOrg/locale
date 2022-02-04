@@ -585,10 +585,10 @@
     "youtube": "Youtube",
     "trovo": "Trovo",
     "reddit": "Reddit",
-    "command_saved_success": "{0} has been saved successfully👌",
+    "command_saved_success": "Đã lưu {0} thành công 👌",
     "wildcard": "Wildcard",
-    "wildcard_description": "Search in the message about a specific letter/word.",
-    "never_mind": "Never mind",
-    "do_you_really": "Do you really want to delete {0}.",
+    "wildcard_description": "Phản hồi khi tin nhắn có chứa từ khóa.",
+    "never_mind": "Thôi khỏi",
+    "do_you_really": "Bạn có thực sự muốn xóa {0}?",
     "add_field": "Add Field"
 }
