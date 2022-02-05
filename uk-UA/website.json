@@ -457,6 +457,8 @@
     "store_badge_changed": "Значок було змінено 👌",
     "store_credits_too_low": "Ваших кредитів не вистачає, щоб виконати цю дію",
     "store_bg_current": "Поточний",
+    "store_buy_use": "Buy & Use",
+    "store_with_colors": "With colors",
     "success": "Успішно 👌",
     "premium_month": "Місяць",
     "premium_months": "Місяці",
@@ -590,5 +592,6 @@
     "wildcard_description": "Search in the message about a specific letter/word.",
     "never_mind": "Never mind",
     "do_you_really": "Do you really want to delete {0}.",
-    "add_field": "Add Field"
+    "add_field": "Add Field",
+    "select_reason_action": "{0} for specific time"
 }
