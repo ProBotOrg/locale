@@ -457,6 +457,8 @@
     "store_badge_changed": "نشان با موفقیت تغییر یافت 👌",
     "store_credits_too_low": "میزان اعتبار شما کم تر از این است که بتوانید این کار را انجام دهید",
     "store_bg_current": "فعلی",
+    "store_buy_use": "Buy & Use",
+    "store_with_colors": "With colors",
     "success": "موفقیت آمیز بود 👌",
     "premium_month": "ماه",
     "premium_months": "ماه",
@@ -590,5 +592,6 @@
     "wildcard_description": "Search in the message about a specific letter/word.",
     "never_mind": "Never mind",
     "do_you_really": "Do you really want to delete {0}.",
-    "add_field": "Add Field"
+    "add_field": "Add Field",
+    "select_reason_action": "{0} for specific time"
 }
