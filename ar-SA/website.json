@@ -72,6 +72,7 @@
     "Link": "الرابط",
     "Voice_Online": "الفويس أونلاين",
     "protection": "الحماية الخاصة",
+    "vip_owner_only": "الحماية فقط لمالك السيرفر.",
     "Aliases": "الأختصارات",
     "ENABLED_ROLES": "الرولات المفعلة",
     "DISABLED_ROLES": "الرولات المعطلة",
@@ -112,6 +113,7 @@
     "CENTER": "وسط",
     "LEFT": "يسار",
     "RIGHT": "يمين",
+    "transparent": "شفافة",
     "SEND_AS_DM": "ارسال كرسالة خاصة",
     "SEND_TO_CHANNEL": "إرسال للروم",
     "Background": "الخلفية",
@@ -457,8 +459,8 @@
     "store_badge_changed": "تم تغيير الشارة 👌",
     "store_credits_too_low": "رصيدك غير كافي للقيام بهذا الإجراء",
     "store_bg_current": "الحالي",
-    "store_buy_use": "Buy & Use",
-    "store_with_colors": "With colors",
+    "store_buy_use": "شراء & استخدام",
+    "store_with_colors": "مع الألوان",
     "success": "تم بنجاح 👌",
     "premium_month": "شهر",
     "premium_months": "أشهر",
@@ -593,5 +595,5 @@
     "never_mind": "إلغاء",
     "do_you_really": "هل تريد حقاً حذف {0}.",
     "add_field": "إضف حقل",
-    "select_reason_action": "{0} for specific time"
+    "select_reason_action": "{0} لوقت محدد"
 }
