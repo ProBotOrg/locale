@@ -457,6 +457,8 @@
     "store_badge_changed": "A jelvény meg lett változtatva 👌",
     "store_credits_too_low": "Nincs elég kredited ehhez a művelethez",
     "store_bg_current": "Jelenlegi",
+    "store_buy_use": "Buy & Use",
+    "store_with_colors": "With colors",
     "success": "Siker 👌",
     "premium_month": "Hónap",
     "premium_months": "hónap",
@@ -590,5 +592,6 @@
     "wildcard_description": "Search in the message about a specific letter/word.",
     "never_mind": "Never mind",
     "do_you_really": "Do you really want to delete {0}.",
-    "add_field": "Add Field"
+    "add_field": "Add Field",
+    "select_reason_action": "{0} for specific time"
 }
