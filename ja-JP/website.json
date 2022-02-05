@@ -457,6 +457,8 @@
     "store_badge_changed": "バッジを変更しました 👌",
     "store_credits_too_low": "クレジットが低すぎるため、この操作を行うことができません",
     "store_bg_current": "現在",
+    "store_buy_use": "Buy & Use",
+    "store_with_colors": "With colors",
     "success": "いい感じ！👌",
     "premium_month": "月",
     "premium_months": "ヶ月",
@@ -590,5 +592,6 @@
     "wildcard_description": "特定の文字・単語について、メッセージ内を検索します。",
     "never_mind": "お気になさらないでください",
     "do_you_really": "本当に {0} を削除してもよろしいですか？",
-    "add_field": "フィールドを追加"
+    "add_field": "フィールドを追加",
+    "select_reason_action": "{0} for specific time"
 }
