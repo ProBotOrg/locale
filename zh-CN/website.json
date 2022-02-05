@@ -457,6 +457,8 @@
     "store_badge_changed": "背景已更改 👌",
     "store_credits_too_low": "您的信用太低，无法执行此操作",
     "store_bg_current": "当前的",
+    "store_buy_use": "Buy & Use",
+    "store_with_colors": "With colors",
     "success": "成功 :OK_hand：",
     "premium_month": "月",
     "premium_months": "月",
@@ -590,5 +592,6 @@
     "wildcard_description": "Search in the message about a specific letter/word.",
     "never_mind": "Never mind",
     "do_you_really": "Do you really want to delete {0}.",
-    "add_field": "Add Field"
+    "add_field": "Add Field",
+    "select_reason_action": "{0} for specific time"
 }
