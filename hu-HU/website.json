@@ -244,8 +244,8 @@
     "TOTAL_AND_ONLINE": "ÖSSZES TAG / ONLINE",
     "DAILY_MESSAGES_COUNT": "Új üzenetek az utolsó 24 órában",
     "new_messages": "Új üzenetek",
-    "join_leaves": "Joins/Leaves",
-    "overview_time": "in the last 24h",
+    "join_leaves": "Belépések/Kilépések",
+    "overview_time": "az utóbbi 24 órában",
     "CHART_7_DAYS": "Diagramok az elmúlt 7 napból",
     "PROTECTION_ACCESS": "Ki férhet hozzá a ProBot irányítópulthoz?",
     "PROTECTION_ACCESS_ANY_ADMINISTRATOR": "Bárki Adminisztrátor jogokkal",
@@ -594,6 +594,6 @@
     "wildcard_description": "Search in the message about a specific letter/word.",
     "never_mind": "Never mind",
     "do_you_really": "Do you really want to delete {0}.",
-    "add_field": "Add Field",
+    "add_field": "Mező hozzáadása",
     "select_reason_action": "{0} for specific time"
 }
