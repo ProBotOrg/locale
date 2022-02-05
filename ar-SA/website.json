@@ -457,6 +457,8 @@
     "store_badge_changed": "تم تغيير الشارة 👌",
     "store_credits_too_low": "رصيدك غير كافي للقيام بهذا الإجراء",
     "store_bg_current": "الحالي",
+    "store_buy_use": "Buy & Use",
+    "store_with_colors": "With colors",
     "success": "تم بنجاح 👌",
     "premium_month": "شهر",
     "premium_months": "أشهر",
@@ -590,5 +592,6 @@
     "wildcard_description": "ابحث في الرسالة عن حرف او كلمة معينة.",
     "never_mind": "إلغاء",
     "do_you_really": "هل تريد حقاً حذف {0}.",
-    "add_field": "إضف حقل"
+    "add_field": "إضف حقل",
+    "select_reason_action": "{0} for specific time"
 }
