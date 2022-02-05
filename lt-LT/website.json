@@ -457,6 +457,8 @@
     "store_badge_changed": "Ženkliukas buvo pakeistas 👌",
     "store_credits_too_low": "Jūs turite per mažai kreditų, kad padaryti šį veiksmą",
     "store_bg_current": "Dabartinis",
+    "store_buy_use": "Buy & Use",
+    "store_with_colors": "With colors",
     "success": "Sėkmingai 👌",
     "premium_month": "Mėnesis",
     "premium_months": "Mėnesiai",
@@ -590,5 +592,6 @@
     "wildcard_description": "Search in the message about a specific letter/word.",
     "never_mind": "Never mind",
     "do_you_really": "Do you really want to delete {0}.",
-    "add_field": "Add Field"
+    "add_field": "Add Field",
+    "select_reason_action": "{0} for specific time"
 }
