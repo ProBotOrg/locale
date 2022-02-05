@@ -457,6 +457,8 @@
     "store_badge_changed": "baij badal diya gaya hai 👌",
     "store_credits_too_low": "is kriya ko karane ke lie aapake kredit bahut kam hain",
     "store_bg_current": "vartamaan",
+    "store_buy_use": "Buy & Use",
+    "store_with_colors": "With colors",
     "success": "saphalata 👌",
     "premium_month": "महीना",
     "premium_months": "महीने",
@@ -590,5 +592,6 @@
     "wildcard_description": "Search in the message about a specific letter/word.",
     "never_mind": "Never mind",
     "do_you_really": "Do you really want to delete {0}.",
-    "add_field": "Add Field"
+    "add_field": "Add Field",
+    "select_reason_action": "{0} for specific time"
 }
