@@ -457,6 +457,8 @@
     "store_badge_changed": "배지가 변경됐어요 👌",
     "store_credits_too_low": "크레딧이 부족해서 이 작업을 할 수 없어요",
     "store_bg_current": "현재",
+    "store_buy_use": "Buy & Use",
+    "store_with_colors": "With colors",
     "success": "완료했어요 👌",
     "premium_month": "개월",
     "premium_months": "개월",
@@ -590,5 +592,6 @@
     "wildcard_description": "Search in the message about a specific letter/word.",
     "never_mind": "Never mind",
     "do_you_really": "Do you really want to delete {0}.",
-    "add_field": "Add Field"
+    "add_field": "Add Field",
+    "select_reason_action": "{0} for specific time"
 }
