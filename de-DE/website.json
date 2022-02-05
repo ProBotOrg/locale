@@ -457,6 +457,8 @@
     "store_badge_changed": "Abzeichen wurde geändert 👌",
     "store_credits_too_low": "Dein Guthaben ist zu niedrig, um diese Aktion durchzuführen",
     "store_bg_current": "Aktuell",
+    "store_buy_use": "Buy & Use",
+    "store_with_colors": "With colors",
     "success": "Erfolg 👌",
     "premium_month": "Monat",
     "premium_months": "Monate",
@@ -590,5 +592,6 @@
     "wildcard_description": "Search in the message about a specific letter/word.",
     "never_mind": "Never mind",
     "do_you_really": "Do you really want to delete {0}.",
-    "add_field": "Add Field"
+    "add_field": "Add Field",
+    "select_reason_action": "{0} for specific time"
 }
