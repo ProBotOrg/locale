@@ -457,6 +457,8 @@
     "store_badge_changed": "Odznak bol zmenený 👌",
     "store_credits_too_low": "Nemáš dostatok kreditov na vykonanie akcie",
     "store_bg_current": "Aktuálny",
+    "store_buy_use": "Buy & Use",
+    "store_with_colors": "With colors",
     "success": "Úspech 👌",
     "premium_month": "Mesiac",
     "premium_months": "mesiace",
@@ -590,5 +592,6 @@
     "wildcard_description": "Search in the message about a specific letter/word.",
     "never_mind": "Never mind",
     "do_you_really": "Do you really want to delete {0}.",
-    "add_field": "Add Field"
+    "add_field": "Add Field",
+    "select_reason_action": "{0} for specific time"
 }
