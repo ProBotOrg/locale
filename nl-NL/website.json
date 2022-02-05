@@ -457,6 +457,8 @@
     "store_badge_changed": "Badge is vernieuwd 👌",
     "store_credits_too_low": "Je credits zijn te laag om deze actie te voltooien",
     "store_bg_current": "Huidig",
+    "store_buy_use": "Buy & Use",
+    "store_with_colors": "With colors",
     "success": "Succes 👌",
     "premium_month": "Maand",
     "premium_months": "Maanden",
@@ -590,5 +592,6 @@
     "wildcard_description": "Zoek in het bericht over een specifieke letter/woord.",
     "never_mind": "Maakt niet uit",
     "do_you_really": "Weet je zeker dat je {0} wilt verwijderen?",
-    "add_field": "Veld toevoegen"
+    "add_field": "Veld toevoegen",
+    "select_reason_action": "{0} for specific time"
 }
