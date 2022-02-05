@@ -457,6 +457,8 @@
     "store_badge_changed": "Значок был изменен 👌",
     "store_credits_too_low": "На Вашем счету слишком мало кредитов, чтобы выполнить это действие",
     "store_bg_current": "Текущий",
+    "store_buy_use": "Buy & Use",
+    "store_with_colors": "With colors",
     "success": "Успешно 👌",
     "premium_month": "Месяц",
     "premium_months": "Месяцы",
@@ -590,5 +592,6 @@
     "wildcard_description": "Search in the message about a specific letter/word.",
     "never_mind": "Never mind",
     "do_you_really": "Do you really want to delete {0}.",
-    "add_field": "Add Field"
+    "add_field": "Add Field",
+    "select_reason_action": "{0} for specific time"
 }
