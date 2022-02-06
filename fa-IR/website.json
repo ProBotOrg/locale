@@ -20,6 +20,10 @@
     "MODULE_SETTINGS": "تنظیمات ماژول‌ها",
     "GENERAL": "اصلی",
     "OVERVIEW": "نمای کلی",
+    "credits": "Credits",
+    "level": "Level",
+    "rank": "Rank",
+    "reputation": "Reputation",
     "AUTO_RESPONDER": "پاسخ دهنده خودکار",
     "WELCOMER": "خوش آمدگو",
     "top_description": "نمایش افراد برتر متنی یا صوتی.",
@@ -72,6 +76,7 @@
     "Link": "لینک موقت",
     "Voice_Online": "آنلاین در صوت",
     "protection": "محافظت ویژه",
+    "vip_owner_only": "Protection is only for the owner.",
     "Aliases": "اختصارها",
     "ENABLED_ROLES": "نقش های فعال شده",
     "DISABLED_ROLES": "نقش های غیرفعال شده",
@@ -112,6 +117,7 @@
     "CENTER": "مرکز",
     "LEFT": "چپ",
     "RIGHT": "راست",
+    "transparent": "شفاف",
     "SEND_AS_DM": "ارسال به DM",
     "SEND_TO_CHANNEL": "ارسال به یک چنل",
     "Background": "پس زمینه",
@@ -457,6 +463,9 @@
     "store_badge_changed": "نشان با موفقیت تغییر یافت 👌",
     "store_credits_too_low": "میزان اعتبار شما کم تر از این است که بتوانید این کار را انجام دهید",
     "store_bg_current": "فعلی",
+    "store_buy_use": "Buy & Use",
+    "store_with_colors": "With colors",
+    "store_use": "Use",
     "success": "موفقیت آمیز بود 👌",
     "premium_month": "ماه",
     "premium_months": "ماه",
@@ -531,6 +540,7 @@
     "add_message": "افزودن پیام",
     "reaction_roles": "نقش های بازخوردی",
     "rr_emoji": "ایموجی بازخورد",
+    "rr_add_reaction": "Add Reaction",
     "mod_actions": "اقدامات مدیریتی",
     "store_nature": "طبیعت",
     "done": "انجام شد",
@@ -590,5 +600,6 @@
     "wildcard_description": "Search in the message about a specific letter/word.",
     "never_mind": "Never mind",
     "do_you_really": "Do you really want to delete {0}.",
-    "add_field": "Add Field"
+    "add_field": "Add Field",
+    "select_reason_action": "{0} for specific time"
 }
