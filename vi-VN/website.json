@@ -464,8 +464,8 @@
     "store_credits_too_low": "Số credit của bạn không đủ để thực hiện điều này",
     "store_bg_current": "Hiện tại",
     "store_buy_use": "Buy & Use",
-    "store_with_colors": "With colors",
     "store_use": "Use",
+    "store_with_colors": "With colors",
     "success": "Thành công 👌",
     "premium_month": "Tháng",
     "premium_months": "Tháng",
@@ -601,5 +601,6 @@
     "never_mind": "Thôi khỏi",
     "do_you_really": "Bạn có thực sự muốn xóa {0}?",
     "add_field": "Thêm nội dung",
-    "select_reason_action": "{0} for specific time"
+    "select_reason_action": "{0} for specific time",
+    "contact_owner_allow": "Contact the owner to allow you :-("
 }
