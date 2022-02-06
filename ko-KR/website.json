@@ -464,8 +464,8 @@
     "store_credits_too_low": "크레딧이 부족해서 이 작업을 할 수 없어요",
     "store_bg_current": "현재",
     "store_buy_use": "Buy & Use",
-    "store_with_colors": "With colors",
     "store_use": "Use",
+    "store_with_colors": "With colors",
     "success": "완료했어요 👌",
     "premium_month": "개월",
     "premium_months": "개월",
@@ -601,5 +601,6 @@
     "never_mind": "Never mind",
     "do_you_really": "Do you really want to delete {0}.",
     "add_field": "Add Field",
-    "select_reason_action": "{0} for specific time"
+    "select_reason_action": "{0} for specific time",
+    "contact_owner_allow": "Contact the owner to allow you :-("
 }
