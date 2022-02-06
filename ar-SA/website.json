@@ -20,6 +20,10 @@
     "MODULE_SETTINGS": "قائمة الخصائص",
     "GENERAL": "عام",
     "OVERVIEW": "نظرة عامة",
+    "credits": "Credits",
+    "level": "Level",
+    "rank": "Rank",
+    "reputation": "Reputation",
     "AUTO_RESPONDER": "الرد التلقائي",
     "WELCOMER": "الترحيب",
     "top_description": "عرض الأعضاء الذين لديهم أكثر نقاط في السيرفر.",
@@ -461,6 +465,7 @@
     "store_bg_current": "الحالي",
     "store_buy_use": "شراء & استخدام",
     "store_with_colors": "مع الألوان",
+    "store_use": "Use",
     "success": "تم بنجاح 👌",
     "premium_month": "شهر",
     "premium_months": "أشهر",
@@ -535,6 +540,7 @@
     "add_message": "أضف رسالة",
     "reaction_roles": "رولات الرياكشن",
     "rr_emoji": "رد الرموز التعبيرية",
+    "rr_add_reaction": "Add Reaction",
     "mod_actions": "اجراءات المراقب",
     "store_nature": "طبيعة",
     "done": "اكتمل",
