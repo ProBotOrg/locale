@@ -464,8 +464,8 @@
     "store_credits_too_low": "Os seus créditos são muito baixos para efetuar esta ação",
     "store_bg_current": "Atual",
     "store_buy_use": "Buy & Use",
-    "store_with_colors": "With colors",
     "store_use": "Use",
+    "store_with_colors": "With colors",
     "success": "Sucesso 👌",
     "premium_month": "Mês",
     "premium_months": "Meses",
@@ -601,5 +601,6 @@
     "never_mind": "Deixa pra lá",
     "do_you_really": "Você realmente deseja excluir {0}.",
     "add_field": "Add Field",
-    "select_reason_action": "{0} for specific time"
+    "select_reason_action": "{0} for specific time",
+    "contact_owner_allow": "Contact the owner to allow you :-("
 }
