@@ -464,8 +464,8 @@
     "store_credits_too_low": "I tuoi crediti sono troppo pochi per effettuare quest'azione",
     "store_bg_current": "Attuale",
     "store_buy_use": "Buy & Use",
-    "store_with_colors": "With colors",
     "store_use": "Use",
+    "store_with_colors": "With colors",
     "success": "Successo 👌",
     "premium_month": "Mese",
     "premium_months": "Mesi",
@@ -601,5 +601,6 @@
     "never_mind": "Never mind",
     "do_you_really": "Do you really want to delete {0}.",
     "add_field": "Add Field",
-    "select_reason_action": "{0} for specific time"
+    "select_reason_action": "{0} for specific time",
+    "contact_owner_allow": "Contact the owner to allow you :-("
 }
