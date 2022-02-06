@@ -464,8 +464,8 @@
     "store_credits_too_low": "Je credits zijn te laag om deze actie te voltooien",
     "store_bg_current": "Huidig",
     "store_buy_use": "Buy & Use",
-    "store_with_colors": "With colors",
     "store_use": "Use",
+    "store_with_colors": "With colors",
     "success": "Succes 👌",
     "premium_month": "Maand",
     "premium_months": "Maanden",
@@ -601,5 +601,6 @@
     "never_mind": "Maakt niet uit",
     "do_you_really": "Weet je zeker dat je {0} wilt verwijderen?",
     "add_field": "Veld toevoegen",
-    "select_reason_action": "{0} for specific time"
+    "select_reason_action": "{0} for specific time",
+    "contact_owner_allow": "Contact the owner to allow you :-("
 }
