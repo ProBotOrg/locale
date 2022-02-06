@@ -21,8 +21,8 @@
     "GENERAL": "ÁLTALÁNOS",
     "OVERVIEW": "Áttekintés",
     "credits": "Credits",
-    "level": "Level",
-    "rank": "Rank",
+    "level": "Szint",
+    "rank": "Rang",
     "reputation": "Reputation",
     "AUTO_RESPONDER": "Automatikus válaszoló",
     "WELCOMER": "Üdvözlő",
@@ -464,8 +464,8 @@
     "store_credits_too_low": "Nincs elég kredited ehhez a művelethez",
     "store_bg_current": "Jelenlegi",
     "store_buy_use": "Buy & Use",
-    "store_with_colors": "With colors",
     "store_use": "Use",
+    "store_with_colors": "With colors",
     "success": "Siker 👌",
     "premium_month": "Hónap",
     "premium_months": "hónap",
@@ -540,7 +540,7 @@
     "add_message": "Üzenet hozzáadása",
     "reaction_roles": "Reakció rangok",
     "rr_emoji": "Emoji reagálás",
-    "rr_add_reaction": "Add Reaction",
+    "rr_add_reaction": "Reakció hozzáadása",
     "mod_actions": "Moderátori műveletek",
     "store_nature": "Természet",
     "done": "kész",
@@ -601,5 +601,6 @@
     "never_mind": "Never mind",
     "do_you_really": "Do you really want to delete {0}.",
     "add_field": "Mező hozzáadása",
-    "select_reason_action": "{0} for specific time"
+    "select_reason_action": "{0} for specific time",
+    "contact_owner_allow": "Contact the owner to allow you :-("
 }
