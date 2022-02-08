@@ -464,8 +464,8 @@
     "store_credits_too_low": "クレジットが低すぎるため、この操作を行うことができません",
     "store_bg_current": "現在",
     "store_buy_use": "購入して使用",
-    "store_use": "Use",
-    "store_with_colors": "With colors",
+    "store_use": "つかう",
+    "store_with_colors": "色付き",
     "success": "いい感じ！👌",
     "premium_month": "月",
     "premium_months": "ヶ月",
@@ -540,7 +540,7 @@
     "add_message": "メッセージを追加",
     "reaction_roles": "リアクションロール",
     "rr_emoji": "絵文字のリアクション",
-    "rr_add_reaction": "Add Reaction",
+    "rr_add_reaction": "リアクションの追加",
     "mod_actions": "管理者操作履歴",
     "store_nature": "自然",
     "done": "完了",
@@ -601,6 +601,6 @@
     "never_mind": "お気になさらないでください",
     "do_you_really": "本当に {0} を削除してもよろしいですか？",
     "add_field": "フィールドを追加",
-    "select_reason_action": "{0} for specific time",
-    "contact_owner_allow": "Contact the owner to allow you :-("
+    "select_reason_action": "特定の時間の {0}",
+    "contact_owner_allow": "オーナーに連絡し、許可を得てください (-_-)"
 }
