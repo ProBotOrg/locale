@@ -627,5 +627,9 @@
     "enterprise_features_1": "جميع مزايا البريميوم",
     "enterprise_features_2": "طلب مميزات قابلة للتخصيص 😉",
     "enterprise_features_3": "الدعم عن طريق الهاتف 24/7",
-    "subscribe": "إشترِك"
+    "subscribe": "إشترِك",
+    "reasons_add": "Add:",
+    "notifications_add_channel": "Add Channel",
+    "notifications_add_live_alert": "Add Live Alert",
+    "notifications_add_alert": "Add Alert"
 }
