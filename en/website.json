@@ -629,7 +629,7 @@
     "enterprise_features_3": "Support by phone 24/7",
     "subscribe": "Subscribe",
     "add": "Add:",
-    "add_channel": "Add Channel",
-    "add_live_alert": "Add Live Alert",
-    "add_alert": "Add Alert"
+    "notifications_add_channel": "Add Channel",
+    "notifications_add_live_alert": "Add Live Alert",
+    "notifications_add_alert": "Add Alert"
 }
