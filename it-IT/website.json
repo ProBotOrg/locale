@@ -627,5 +627,9 @@
     "enterprise_features_1": "All premium features",
     "enterprise_features_2": "Ask for customizable features 😉",
     "enterprise_features_3": "Support by phone 24/7",
-    "subscribe": "Subscribe"
+    "subscribe": "Subscribe",
+    "reasons_add": "Add:",
+    "notifications_add_channel": "Add Channel",
+    "notifications_add_live_alert": "Add Live Alert",
+    "notifications_add_alert": "Add Alert"
 }
