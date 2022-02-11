@@ -628,8 +628,8 @@
     "enterprise_features_2": "カスタマイズ可能な機能 😉",
     "enterprise_features_3": "24時間365日、電話によるサポート",
     "subscribe": "申し込む",
-    "reasons_add": "Add:",
-    "notifications_add_channel": "Add Channel",
-    "notifications_add_live_alert": "Add Live Alert",
-    "notifications_add_alert": "Add Alert"
+    "reasons_add": "追加:",
+    "notifications_add_channel": "チャンネルを追加する",
+    "notifications_add_live_alert": "ライブ通知を追加する",
+    "notifications_add_alert": "通知を追加する"
 }
