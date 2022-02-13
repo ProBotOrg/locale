@@ -466,6 +466,7 @@
     "store_buy_use": "Buy & Use",
     "store_use": "Use",
     "store_with_colors": "With colors",
+    "store_price": "Price {0}",
     "success": "완료했어요 👌",
     "premium_month": "개월",
     "premium_months": "개월",
@@ -601,7 +602,6 @@
     "never_mind": "Never mind",
     "do_you_really": "Do you really want to delete {0}.",
     "add_field": "Add Field",
-    "select_reason_action": "{0} for specific time",
     "contact_owner_allow": "Contact the owner to allow you :-(",
     "premium_index_1": "Take ProBot to a New Adventure 😉",
     "premium_index_2": "Imagine your current Discord server, Just 10 times clear and easier for members to interact, Socialize and play.",
@@ -627,5 +627,11 @@
     "enterprise_features_1": "All premium features",
     "enterprise_features_2": "Ask for customizable features 😉",
     "enterprise_features_3": "Support by phone 24/7",
-    "subscribe": "Subscribe"
+    "subscribe": "Subscribe",
+    "reasons_add": "Add:",
+    "notifications_add_channel": "Add Channel",
+    "notifications_add_live_alert": "Add Live Alert",
+    "notifications_add_alert": "Add Alert",
+    "ban_specific_time": "ban for specific time",
+    "mute_specific_time": "mute for specific time"
 }
