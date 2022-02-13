@@ -632,6 +632,6 @@
     "notifications_add_channel": "إضافة قناة",
     "notifications_add_live_alert": "إضافة تنبيه للبث",
     "notifications_add_alert": "إضافة تنبيه",
-    "ban_specific_time": "ban for specific time",
-    "mute_specific_time": "mute for specific time"
+    "ban_specific_time": "حظر لوقت محدد",
+    "mute_specific_time": "اسكات لوقت محدد"
 }
