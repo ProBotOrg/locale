@@ -602,7 +602,6 @@
     "never_mind": "Nevadí",
     "do_you_really": "Naozaj chcete odstrániť {0}.",
     "add_field": "Pridať pole",
-    "select_reason_action": "{0} pre špecifický čas",
     "contact_owner_allow": "Kontaktujte majiteľa, aby vám to umožnil :-(",
     "premium_index_1": "Vezmite ProBot do nového dobrodružstva 😉",
     "premium_index_2": "Predstavte si svoj aktuálny Discord server, ktorý je len 10-krát jasný a pre členov je jednoduchšia interakcia, socializácia a hranie.",
@@ -632,5 +631,7 @@
     "reasons_add": "Pridať:",
     "notifications_add_channel": "Pridať kanál",
     "notifications_add_live_alert": "Pridať živé upozornenie",
-    "notifications_add_alert": "Pridať Upozornenie"
+    "notifications_add_alert": "Pridať Upozornenie",
+    "ban_specific_time": "ban for specific time",
+    "mute_specific_time": "mute for specific time"
 }
