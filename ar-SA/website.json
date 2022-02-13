@@ -466,7 +466,7 @@
     "store_buy_use": "شراء & استخدام",
     "store_use": "استخدام",
     "store_with_colors": "مع الألوان",
-    "store_price": "Price {0}",
+    "store_price": "السعر {0}",
     "success": "تم بنجاح 👌",
     "premium_month": "شهر",
     "premium_months": "أشهر",
@@ -602,7 +602,6 @@
     "never_mind": "إلغاء",
     "do_you_really": "هل تريد حقاً حذف {0}.",
     "add_field": "إضف حقل",
-    "select_reason_action": "{0} لوقت محدد",
     "contact_owner_allow": "تواصل مع المالك للسماح لك :-(",
     "premium_index_1": "خذ بروبوت الى مغامرة جديدة 😉",
     "premium_index_2": "تخيل سيرفرك، ابسط واسهل بعشر مرات لتفاعل الأعضاء، للتعارف واللعب!",
@@ -632,5 +631,7 @@
     "reasons_add": "أضف:",
     "notifications_add_channel": "إضافة قناة",
     "notifications_add_live_alert": "إضافة تنبيه للبث",
-    "notifications_add_alert": "إضافة تنبيه"
+    "notifications_add_alert": "إضافة تنبيه",
+    "ban_specific_time": "ban for specific time",
+    "mute_specific_time": "mute for specific time"
 }
