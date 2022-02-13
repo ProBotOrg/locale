@@ -602,7 +602,6 @@
     "never_mind": "お気になさらないでください",
     "do_you_really": "本当に {0} を削除してもよろしいですか？",
     "add_field": "フィールドを追加",
-    "select_reason_action": "特定の時間の {0}",
     "contact_owner_allow": "オーナーに連絡し、許可を得てください (-_-)",
     "premium_index_1": "ProBotとともに新たな冒険へ… 😉",
     "premium_index_2": "今のあなたのDiscordサーバーを想像してください。今より10倍わかりやすく、メンバーが交流し、プレイしやすくなります。",
@@ -632,5 +631,7 @@
     "reasons_add": "追加:",
     "notifications_add_channel": "チャンネルを追加する",
     "notifications_add_live_alert": "ライブ通知を追加する",
-    "notifications_add_alert": "通知を追加する"
+    "notifications_add_alert": "通知を追加する",
+    "ban_specific_time": "ban for specific time",
+    "mute_specific_time": "mute for specific time"
 }
