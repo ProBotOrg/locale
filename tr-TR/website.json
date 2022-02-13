@@ -602,7 +602,6 @@
     "never_mind": "Boşver ",
     "do_you_really": "\"{0}\" gerçekten silmek istiyor musunuz?",
     "add_field": "Alan Ekle",
-    "select_reason_action": "{0} belirli bir zaman için",
     "contact_owner_allow": "Contact the owner to allow you :-(",
     "premium_index_1": "ProBot'u Yeni Bir Maceraya Götür 😉",
     "premium_index_2": "Imagine your current Discord server, Just 10 times clear and easier for members to interact, Socialize and play.",
@@ -632,5 +631,7 @@
     "reasons_add": "Add:",
     "notifications_add_channel": "Add Channel",
     "notifications_add_live_alert": "Add Live Alert",
-    "notifications_add_alert": "Add Alert"
+    "notifications_add_alert": "Add Alert",
+    "ban_specific_time": "ban for specific time",
+    "mute_specific_time": "mute for specific time"
 }
