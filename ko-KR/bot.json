@@ -76,7 +76,7 @@
 	"channel_has_been_unlocked": "**:unlock: {0} 채널이 잠금 해제됐어요.**",
 	"lock_description": "@everyone이 특정 채널에서 메시지를 보낼 수 없도록 해요.",
 	"unlock_description": "@everyone이 특정 채널에서 메시지를 보낼 수 있도록 해요.",
-	"requested_by_embed": "#{1}님이 요청함",
+	"requested_by_embed": "{0}#{1}님이 요청함",
 	"cant_mute_user": ":rolling_eyes: - **@{0}님을 음소거할 수 없어요.**",
 	"cant_find_member": ":rolling_eyes: - **이 멤버를 찾지 못했어요**",
 	"mute_user_muted": ":white_check_mark: **@{0}님이 음소거됐어요! :zipper_mouth:**",
