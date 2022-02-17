@@ -466,7 +466,7 @@
     "store_buy_use": "購入して使用",
     "store_use": "つかう",
     "store_with_colors": "色付き",
-    "store_price": "Price {0}",
+    "store_price": "価格 {0}",
     "success": "いい感じ！👌",
     "premium_month": "月",
     "premium_months": "ヶ月",
@@ -632,6 +632,6 @@
     "notifications_add_channel": "チャンネルを追加する",
     "notifications_add_live_alert": "ライブ通知を追加する",
     "notifications_add_alert": "通知を追加する",
-    "ban_specific_time": "ban for specific time",
-    "mute_specific_time": "mute for specific time"
+    "ban_specific_time": "指定時間のBAN",
+    "mute_specific_time": "指定時間でミュート"
 }
