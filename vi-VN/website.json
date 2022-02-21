@@ -487,7 +487,7 @@
     "both_voice_and_text": "Cả Text và Voice",
     "whitelist_urls": "URL được cho phép",
     "automod_mute_time": "Thời gian tắt tiếng",
-    "automod_mute_violations": "Số lần vi phạm để tắt tiếng",
+    "automod_mute_violations": "Số lần cảnh cáo để tắt tiếng",
     "automod_mute_in": "Trong",
     "automod_mute_time_mintues": "Phút",
     "automod_mute_time_hours": "Giờ",
@@ -644,6 +644,6 @@
     "tier": "cấp độ",
     "payment_history": "Lịch sử thanh toán",
     "payment_methods": "Phương thức thanh toán",
-    "cc_ends_with": "{0} ends with {1}",
+    "cc_ends_with": "{0} kết thúc với {1}",
     "billing": "Hóa đơn"
 }
