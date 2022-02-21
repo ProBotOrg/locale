@@ -638,12 +638,12 @@
     "notifications_add_alert": "إضافة تنبيه",
     "ban_specific_time": "حظر لوقت محدد",
     "mute_specific_time": "اسكات لوقت محدد",
-    "manage_premium": "Manage Premium",
-    "manage": "Manage",
-    "subscriptions": "Subscriptions",
-    "tier": "tier",
-    "payment_history": "Payment History",
-    "payment_methods": "Payment Methods",
-    "cc_ends_with": "{0} ends with {1}",
-    "billing": "Billing"
+    "manage_premium": "إدارة بوتات البريميوم",
+    "manage": "إدارة",
+    "subscriptions": "الإشتراكات",
+    "tier": "مستويات",
+    "payment_history": "سجل الدفع",
+    "payment_methods": "طرق الدفع",
+    "cc_ends_with": "{0} ينتهي ب {1}",
+    "billing": "الفاتورة"
 }
