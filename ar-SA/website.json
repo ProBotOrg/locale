@@ -644,6 +644,6 @@
     "tier": "مستويات",
     "payment_history": "سجل الدفع",
     "payment_methods": "طرق الدفع",
-    "cc_ends_with": "{0} ينتهي ب {1}",
+    "cc_ends_with": "{0} ينتهي في {1}",
     "billing": "الفاتورة"
 }
