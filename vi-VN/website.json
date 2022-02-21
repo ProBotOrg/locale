@@ -638,5 +638,6 @@
     "notifications_add_alert": "Thêm thông báo",
     "ban_specific_time": "Cấm trong thời gian nhất định",
     "mute_specific_time": "Tắt tiếng trong khoảng thời gian nhất định",
-    "manage_premium": "Manage Premium"
+    "manage_premium": "Manage Premium",
+    "manage": "Manage"
 }
