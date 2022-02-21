@@ -637,5 +637,6 @@
     "notifications_add_live_alert": "Adicionar Alerta ao vivo",
     "notifications_add_alert": "Adicionar Alerta",
     "ban_specific_time": "banir por tempo específico",
-    "mute_specific_time": "silenciar para um tempo específico"
+    "mute_specific_time": "silenciar para um tempo específico",
+    "manage_premium": "Manage Premium"
 }
