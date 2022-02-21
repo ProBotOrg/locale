@@ -637,5 +637,6 @@
     "notifications_add_live_alert": "إضافة تنبيه للبث",
     "notifications_add_alert": "إضافة تنبيه",
     "ban_specific_time": "حظر لوقت محدد",
-    "mute_specific_time": "اسكات لوقت محدد"
+    "mute_specific_time": "اسكات لوقت محدد",
+    "manage_premium": "Manage Premium"
 }
