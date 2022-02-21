@@ -638,5 +638,6 @@
     "notifications_add_alert": "Add Alert",
     "ban_specific_time": "ban for specific time",
     "mute_specific_time": "mute for specific time",
-    "manage_premium": "Manage Premium"
+    "manage_premium": "Manage Premium",
+    "manage": "Manage"
 }

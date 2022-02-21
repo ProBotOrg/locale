@@ -638,5 +638,6 @@
     "notifications_add_alert": "إضافة تنبيه",
     "ban_specific_time": "حظر لوقت محدد",
     "mute_specific_time": "اسكات لوقت محدد",
-    "manage_premium": "Manage Premium"
+    "manage_premium": "Manage Premium",
+    "manage": "Manage"
 }
