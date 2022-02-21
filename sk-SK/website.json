@@ -638,5 +638,6 @@
     "notifications_add_alert": "Pridať Upozornenie",
     "ban_specific_time": "zakázaný pre špecifický čas",
     "mute_specific_time": "stlmený pre špecifický čas",
-    "manage_premium": "Manage Premium"
+    "manage_premium": "Manage Premium",
+    "manage": "Manage"
 }
