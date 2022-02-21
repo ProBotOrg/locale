@@ -639,5 +639,11 @@
     "ban_specific_time": "zakázaný pre špecifický čas",
     "mute_specific_time": "stlmený pre špecifický čas",
     "manage_premium": "Manage Premium",
-    "manage": "Manage"
+    "manage": "Manage",
+    "subscriptions": "Subscriptions",
+    "tier": "tier",
+    "payment_history": "Payment History",
+    "payment_methods": "Payment Methods",
+    "cc_ends_with": "{0} ends with {1}",
+    "billing": "Billing"
 }
