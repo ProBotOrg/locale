@@ -637,5 +637,6 @@
     "notifications_add_live_alert": "Add Live Alert",
     "notifications_add_alert": "Add Alert",
     "ban_specific_time": "지정된 시간동안 차단하기",
-    "mute_specific_time": "지정된 시간동안 음소거하기"
+    "mute_specific_time": "지정된 시간동안 음소거하기",
+    "manage_premium": "Manage Premium"
 }

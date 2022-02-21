@@ -637,5 +637,6 @@
     "notifications_add_live_alert": "ライブ通知を追加する",
     "notifications_add_alert": "通知を追加する",
     "ban_specific_time": "指定時間でBAN",
-    "mute_specific_time": "指定時間でミュート"
+    "mute_specific_time": "指定時間でミュート",
+    "manage_premium": "Manage Premium"
 }
