@@ -643,7 +643,7 @@
     "subscriptions": "Assinaturas",
     "tier": "nível",
     "payment_history": "Histórico de Pagamento",
-    "payment_methods": "Payment Methods",
-    "cc_ends_with": "{0} ends with {1}",
-    "billing": "Billing"
+    "payment_methods": "Métodos de Pagamento",
+    "cc_ends_with": "{0} termina com {1}",
+    "billing": "Cobrança"
 }
