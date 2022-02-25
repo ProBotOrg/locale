@@ -662,5 +662,6 @@
     "unknown": "Unknown",
     "upgrade": "Upgrade",
     "role_search": "SEARCH BY ROLE ID OR NAME",
-    "type_here": "Type here .."
+    "type_here": "Type here ..",
+    "new_subscription": "New Subscription"
 }
