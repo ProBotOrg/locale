@@ -660,5 +660,8 @@
     "billing_period": "فترة الفاتورة",
     "uninvited_subscription": "اشتراك غير مدعو",
     "unknown": "غير معروف",
-    "upgrade": "ترقية"
+    "upgrade": "ترقية",
+    "role_search": "SEARCH BY ROLE ID OR NAME",
+    "type_here": "Type here ..",
+    "new_subscription": "New Subscription"
 }
