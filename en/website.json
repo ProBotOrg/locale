@@ -661,6 +661,6 @@
     "uninvited_subscription": "Uninvited Subscription",
     "unknown": "Unknown",
     "upgrade": "Upgrade",
-    "protection_role_search": "SEARCH BY ROLE ID OR NAME",
-    "protection_type_here": "Type here .."
+    "role_search": "SEARCH BY ROLE ID OR NAME",
+    "type_here": "Type here .."
 }
