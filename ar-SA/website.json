@@ -645,5 +645,19 @@
     "payment_history": "سجل الدفع",
     "payment_methods": "طرق الدفع",
     "cc_ends_with": "{0} ينتهي في {1}",
-    "billing": "الفاتورة"
+    "billing": "الفاتورة",
+    "billing_note": "ملاحظة: نحن نظهر ما يصل إلى سنة واحدة فقط من تاريخ الفواتير",
+    "all_subscriptions": "جميع الاشتراكات",
+    "premium_someone_else": "هذا السيرفر تم ترقيتة بواسطة شخص اخر، اتصل بهم لإدارة فواتير البرميوم.",
+    "premium_activate": "تفعيل الاشتراك",
+    "premium_cancel": "إلغاء الاشتراك",
+    "pay_annually_and_save": "ادفع سنويا ووفر {0}!",
+    "per_month_billed_yearly": "{0} في الشهر فاتورة سنوية",
+    "per_month_billed_monthly": "{0} في الشهر فاتورة شهرية",
+    "monthly_billing": "الدفع الشهري",
+    "annual_billing": "الدفع السنوي",
+    "current_plan": "الخطة الحالية",
+    "billing_period": "فترة الفاتورة",
+    "uninvited_subscription": "اشتراك غير مدعو",
+    "unknown": "غير معروف"
 }
