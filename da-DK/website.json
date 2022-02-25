@@ -659,5 +659,6 @@
     "current_plan": "Current Plan",
     "billing_period": "Billing Period",
     "uninvited_subscription": "Uninvited Subscription",
-    "unknown": "Unknown"
+    "unknown": "Unknown",
+    "upgrade": "Upgrade"
 }
