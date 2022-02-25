@@ -648,7 +648,7 @@
     "billing": "Billing",
     "billing_note": "NOTE: We only show up to 1 year of billing history",
     "all_subscriptions": "All Subscriptions",
-    "premium_someone_else": "This server promoted by someone else. contact them to manage premium bills.",
+    "premium_someone_else": "This server was promoted by someone else. contact them to manage premium bills.",
     "premium_activate": "Activate Subscription",
     "premium_cancel": "Cancel Subscription",
     "pay_annually_and_save": "Pay Annually and save {0}",
