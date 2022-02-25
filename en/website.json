@@ -660,5 +660,7 @@
     "billing_period": "Billing Period",
     "uninvited_subscription": "Uninvited Subscription",
     "unknown": "Unknown",
-    "upgrade": "Upgrade"
+    "upgrade": "Upgrade",
+    "protection_role_search": "SEARCH BY ROLE ID OR NAME",
+    "protection_type_here": "Type here .."
 }
