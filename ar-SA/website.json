@@ -648,7 +648,7 @@
     "billing": "الفاتورة",
     "billing_note": "ملاحظة: نحن نظهر ما يصل إلى سنة واحدة فقط من تاريخ الفواتير",
     "all_subscriptions": "جميع الاشتراكات",
-    "premium_someone_else": "هذا السيرفر تم ترقيتة بواسطة شخص اخر، اتصل بهم لإدارة فواتير البرميوم.",
+    "premium_someone_else": "هذا السيرفر تم ترقيته بواسطة شخص آخر، اتصل بهم لإدارة فواتير البريميوم.",
     "premium_activate": "تفعيل الاشتراك",
     "premium_cancel": "إلغاء الاشتراك",
     "pay_annually_and_save": "ادفع سنويا ووفر {0}!",
@@ -660,5 +660,8 @@
     "billing_period": "فترة الفاتورة",
     "uninvited_subscription": "اشتراك غير مدعو",
     "unknown": "غير معروف",
-    "upgrade": "Upgrade"
+    "upgrade": "ترقية",
+    "role_search": "SEARCH BY ROLE ID OR NAME",
+    "type_here": "Type here ..",
+    "new_subscription": "New Subscription"
 }
