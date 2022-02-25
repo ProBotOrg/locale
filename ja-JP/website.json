@@ -648,7 +648,7 @@
     "billing": "ご請求",
     "billing_note": "NOTE: We only show up to 1 year of billing history",
     "all_subscriptions": "All Subscriptions",
-    "premium_someone_else": "This server promoted by someone else. contact them to manage premium bills.",
+    "premium_someone_else": "This server was promoted by someone else. contact them to manage premium bills.",
     "premium_activate": "Activate Subscription",
     "premium_cancel": "Cancel Subscription",
     "pay_annually_and_save": "Pay Annually and save {0}",
@@ -660,5 +660,8 @@
     "billing_period": "Billing Period",
     "uninvited_subscription": "Uninvited Subscription",
     "unknown": "Unknown",
-    "upgrade": "Upgrade"
+    "upgrade": "Upgrade",
+    "role_search": "SEARCH BY ROLE ID OR NAME",
+    "type_here": "Type here ..",
+    "new_subscription": "New Subscription"
 }
