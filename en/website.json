@@ -662,5 +662,7 @@
     "invoices_title": "Invoices Due {0}",
     "invoices_description": "You have {0} Invoices(s) currently unpaid\nwith a total balance of ${1} USD",
     "add_funds": "Add Funds",
-    "pay_all": "Pay All"
+    "pay_all": "Pay All",
+    "premium_available_credit": "Available Credit $",
+    "premium_account_balance": "Account Balance (${0})"
 }
