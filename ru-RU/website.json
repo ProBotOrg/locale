@@ -658,5 +658,11 @@
     "upgrade": "Обновить",
     "role_search": "ПОИСК ПО ID РОЛИ ИЛИ ПО ИМЕНИ",
     "type_here": "Вводите здесь ..",
-    "new_subscription": "Новая подписка"
+    "new_subscription": "Новая подписка",
+    "invoices_due_title": "{0} Invoices Due",
+    "invoices_due_description": "You have {0} Invoices(s) currently unpaid\nwith a total balance of ${1} USD",
+    "add_funds": "Add Funds",
+    "pay_all": "Pay All",
+    "billing_available_credit": "Available Credit",
+    "billing_account_balance": "Account Balance (${0})"
 }
