@@ -658,5 +658,11 @@
     "upgrade": "Nâng cấp",
     "role_search": "Tìm kiếm theo ID hoặc tên vai trò",
     "type_here": "Nhập ở đây...",
-    "new_subscription": "Gói đăng ký mới"
+    "new_subscription": "Gói đăng ký mới",
+    "invoices_due_title": "{0} Invoices Due",
+    "invoices_due_description": "You have {0} Invoices(s) currently unpaid\nwith a total balance of ${1} USD",
+    "add_funds": "Add Funds",
+    "pay_all": "Pay All",
+    "billing_available_credit": "Available Credit",
+    "billing_account_balance": "Account Balance (${0})"
 }
