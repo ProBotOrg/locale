@@ -659,10 +659,10 @@
     "role_search": "PESQUISAR POR ID DO CARGO OU NOME",
     "type_here": "Digite aqui ..",
     "new_subscription": "Nova Assinatura",
-    "invoices_due_title": "{0} Invoices Due",
-    "invoices_due_description": "You have {0} Invoices(s) currently unpaid\nwith a total balance of ${1} USD",
-    "add_funds": "Add Funds",
-    "pay_all": "Pay All",
-    "billing_available_credit": "Available Credit",
-    "billing_account_balance": "Account Balance (${0})"
+    "invoices_due_title": "{0} Faturas Vencidas",
+    "invoices_due_description": "Você tem {0} fatura(s) atualmente não paga(s)\ncom um saldo total de ${1} USD",
+    "add_funds": "Adicionar Fundos",
+    "pay_all": "Pagar Tudo",
+    "billing_available_credit": "Crédito Disponível",
+    "billing_account_balance": "Saldo da Conta (${0})"
 }
