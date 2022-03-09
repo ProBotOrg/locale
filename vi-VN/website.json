@@ -658,5 +658,11 @@
     "upgrade": "Nâng cấp",
     "role_search": "Tìm kiếm theo ID hoặc tên vai trò",
     "type_here": "Nhập ở đây...",
-    "new_subscription": "Gói đăng ký mới"
+    "new_subscription": "Gói đăng ký mới",
+    "invoices_due_title": "{0} đơn đến hạn",
+    "invoices_due_description": "Bạn có {0} hóa đơn chưa trả\nvới tổng giá trị là ${1} USD",
+    "add_funds": "Thêm tiền",
+    "pay_all": "Trả tất cả",
+    "billing_available_credit": "Số dư khả dụng",
+    "billing_account_balance": "Số dư tài khoản (${0})"
 }

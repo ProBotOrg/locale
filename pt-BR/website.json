@@ -658,5 +658,11 @@
     "upgrade": "Melhorar",
     "role_search": "PESQUISAR POR ID DO CARGO OU NOME",
     "type_here": "Digite aqui ..",
-    "new_subscription": "Nova Assinatura"
+    "new_subscription": "Nova Assinatura",
+    "invoices_due_title": "{0} Faturas Vencidas",
+    "invoices_due_description": "Você tem {0} fatura(s) atualmente não paga(s)\ncom um saldo total de ${1} USD",
+    "add_funds": "Adicionar Fundos",
+    "pay_all": "Pagar Tudo",
+    "billing_available_credit": "Crédito Disponível",
+    "billing_account_balance": "Saldo da Conta (${0})"
 }

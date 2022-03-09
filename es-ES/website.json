@@ -463,7 +463,7 @@
     "store_buy_use": "Buy & Use",
     "store_use": "Use",
     "store_with_colors": "With colors",
-    "store_price": "Price {0}",
+    "store_price": "Price ${0}",
     "success": "Éxito 👌",
     "premium_month": "Mes",
     "premium_months": "Meses",
@@ -658,5 +658,11 @@
     "upgrade": "Upgrade",
     "role_search": "SEARCH BY ROLE ID OR NAME",
     "type_here": "Type here ..",
-    "new_subscription": "New Subscription"
+    "new_subscription": "New Subscription",
+    "invoices_due_title": "{0} Invoices Due",
+    "invoices_due_description": "You have {0} Invoices(s) currently unpaid\nwith a total balance of ${1} USD",
+    "add_funds": "Add Funds",
+    "pay_all": "Pay All",
+    "billing_available_credit": "Available Credit",
+    "billing_account_balance": "Account Balance (${0})"
 }
