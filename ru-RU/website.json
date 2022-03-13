@@ -664,5 +664,6 @@
     "add_funds": "Добавить средства",
     "pay_all": "Оплатить всё",
     "billing_available_credit": "Доступный кредит",
-    "billing_account_balance": "Баланс аккаунта (${0})"
+    "billing_account_balance": "Баланс аккаунта (${0})",
+    "billing_pay_credits": "ProBot Credits"
 }
