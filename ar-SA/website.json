@@ -664,5 +664,6 @@
     "add_funds": "إضافة رصيد",
     "pay_all": "ادفع للكل",
     "billing_available_credit": "الرصيد المتوفر",
-    "billing_account_balance": "رصيد الحساب (${0})"
+    "billing_account_balance": "رصيد الحساب (${0})",
+    "billing_pay_credits": "ProBot Credits"
 }
