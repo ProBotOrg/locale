@@ -664,5 +664,6 @@
     "add_funds": "Adicionar Fundos",
     "pay_all": "Pagar Tudo",
     "billing_available_credit": "Crédito Disponível",
-    "billing_account_balance": "Saldo da Conta (${0})"
+    "billing_account_balance": "Saldo da Conta (${0})",
+    "billing_pay_credits": "ProBot Credits"
 }
