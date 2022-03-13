@@ -641,7 +641,7 @@
     "payment_methods": "Payment Methods",
     "cc_ends_with": "{0} ends with {1}",
     "billing": "Billing",
-    "billing_note": "NOTE: We only show up to 1 year of billing history",
+    "billing_note": "참고: 최대 1년까지의 청구 기록만 표시돼요.",
     "all_subscriptions": "All Subscriptions",
     "premium_someone_else": "This server was promoted by someone else. contact them to manage premium bills.",
     "premium_activate": "Activate Subscription",
@@ -664,6 +664,6 @@
     "add_funds": "Add Funds",
     "pay_all": "Pay All",
     "billing_available_credit": "Available Credit",
-    "billing_account_balance": "Account Balance (${0})",
+    "billing_account_balance": "계정 잔액 (${0})",
     "billing_pay_credits": "ProBot Credits"
 }
