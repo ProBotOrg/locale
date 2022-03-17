@@ -258,6 +258,7 @@
     "PROTECTION_ONLY_OWNER": "Restrict protection properties to the owner of the server",
     "UNSAVED_CONFIRM": "Upozorenje! Niste spremili promjene",
     "cancel": "Otkaži",
+    "save": "Save",
     "SAVE_CHANGES": "Spremi Promjene",
     "MOD_UNTIL_LEAVES": "Until member leaves the server",
     "AUTO_ROLES": "Automatski Uloge",
