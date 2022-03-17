@@ -665,5 +665,6 @@
     "pay_all": "Pagar tudo",
     "billing_available_credit": "Crédito disponível",
     "billing_account_balance": "Saldo da Conta (${0})",
-    "billing_pay_credits": "ProBot Credits"
+    "billing_pay_credits": "ProBot Credits",
+    "billing_no_balance": "Not enough balance"
 }
