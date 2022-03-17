@@ -258,6 +258,7 @@
     "PROTECTION_ONLY_OWNER": "Beperk de beveiligingseigenschappen tot de eigenaar van de server",
     "UNSAVED_CONFIRM": "Voorzichtig - je hebt niet opgeslagen veranderingen!",
     "cancel": "Annuleren",
+    "save": "Save",
     "SAVE_CHANGES": "Wijzigingen opslaan",
     "MOD_UNTIL_LEAVES": "Totdat het lid de server verlaat",
     "AUTO_ROLES": "Automatische rollen",
