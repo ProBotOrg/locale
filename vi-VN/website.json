@@ -258,6 +258,7 @@
     "PROTECTION_ONLY_OWNER": "Giới hạn tính chất bảo vệ với chủ sỡ hữu server",
     "UNSAVED_CONFIRM": "Cẩn thận — bạn có thay đổi chưa được lưu!",
     "cancel": "Hủy",
+    "save": "Save",
     "SAVE_CHANGES": "Lưu thay đổi",
     "MOD_UNTIL_LEAVES": "Đến khi thành viên rời server",
     "AUTO_ROLES": "Vai trò tự động",
