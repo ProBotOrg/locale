@@ -258,6 +258,7 @@
     "PROTECTION_ONLY_OWNER": "Restricționează proprietățile protecției la deținătorul serverului",
     "UNSAVED_CONFIRM": "Atenție - ai modificări nesalvate!",
     "cancel": "Anulează",
+    "save": "Save",
     "SAVE_CHANGES": "Salvează modificările",
     "MOD_UNTIL_LEAVES": "Până când membrul iese de pe server",
     "AUTO_ROLES": "Roluri automate",
