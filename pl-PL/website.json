@@ -258,6 +258,7 @@
     "PROTECTION_ONLY_OWNER": "Ogranicz właściwości ochronne do właściciela serwera.",
     "UNSAVED_CONFIRM": "Ostrożnie - masz niezapisane zmiany!",
     "cancel": "Anuluj",
+    "save": "Save",
     "SAVE_CHANGES": "Zapisz zmiany",
     "MOD_UNTIL_LEAVES": "Dopóki członek nie opuści serwera",
     "AUTO_ROLES": "Auto rola (rola nadana przy wejściu)",
