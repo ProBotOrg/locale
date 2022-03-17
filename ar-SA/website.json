@@ -258,6 +258,7 @@
     "PROTECTION_ONLY_OWNER": "حصر تعديل خصائص الحماية على صاحب السيرفر",
     "UNSAVED_CONFIRM": "احذر — لديك تغييرات لم يتم حفظها!",
     "cancel": "إلغاء",
+    "save": "Save",
     "SAVE_CHANGES": "حفظ التغييرات",
     "MOD_UNTIL_LEAVES": "حتى خروج العضو من السيرفر",
     "AUTO_ROLES": "الرولات التلقائية",
