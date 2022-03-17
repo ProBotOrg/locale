@@ -258,6 +258,7 @@
     "PROTECTION_ONLY_OWNER": "Limita le proprietà di protezione al proprietario del server",
     "UNSAVED_CONFIRM": "Attenzione - ci sono modifiche non salvate!",
     "cancel": "Annulla",
+    "save": "Save",
     "SAVE_CHANGES": "Salva modifiche",
     "MOD_UNTIL_LEAVES": "Finché il membro abbandona il server",
     "AUTO_ROLES": "Ruoli automatici",
