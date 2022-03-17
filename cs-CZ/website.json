@@ -258,6 +258,7 @@
     "PROTECTION_ONLY_OWNER": "Omezit ochranné vlastnosti na vlastníka serveru",
     "UNSAVED_CONFIRM": "Opatrně — máš tu neuložené změny!",
     "cancel": "Zrušit",
+    "save": "Save",
     "SAVE_CHANGES": "Uložit změny",
     "MOD_UNTIL_LEAVES": "Dokud člen neopustí server",
     "AUTO_ROLES": "Automatické role",
