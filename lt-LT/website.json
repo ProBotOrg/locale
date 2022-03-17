@@ -258,6 +258,7 @@
     "PROTECTION_ONLY_OWNER": "Apsaugos savybes apribokite tik serverio savininkui. ",
     "UNSAVED_CONFIRM": "Atsargiai - jūs neišsaugojote pakeitimų!",
     "cancel": "Atšaukti",
+    "save": "Save",
     "SAVE_CHANGES": "Išsaugoti pakeitimus",
     "MOD_UNTIL_LEAVES": "Kol narys išeis iš serverio",
     "AUTO_ROLES": "Automatiniai vaidmenys",
