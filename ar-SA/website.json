@@ -665,5 +665,6 @@
     "pay_all": "ادفع للكل",
     "billing_available_credit": "الرصيد المتوفر",
     "billing_account_balance": "رصيد الحساب (${0})",
-    "billing_pay_credits": "رصيد بروبوت"
+    "billing_pay_credits": "رصيد بروبوت",
+    "billing_no_balance": "Not enough balance"
 }
