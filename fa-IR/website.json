@@ -665,5 +665,6 @@
     "pay_all": "پرداخت همه",
     "billing_available_credit": "اعتبار موجود",
     "billing_account_balance": "موجودی حساب (${0})",
-    "billing_pay_credits": "ProBot Credits"
+    "billing_pay_credits": "ProBot Credits",
+    "billing_no_balance": "Not enough balance"
 }
