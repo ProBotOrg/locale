@@ -258,6 +258,7 @@
     "PROTECTION_ONLY_OWNER": "Restringir propriedades de proteção ao proprietário do servidor",
     "UNSAVED_CONFIRM": "Cuidado — você tem alterações não salvas!",
     "cancel": "Cancelar",
+    "save": "Save",
     "SAVE_CHANGES": "Salvar alterações",
     "MOD_UNTIL_LEAVES": "Até que o membro saia do servidor",
     "AUTO_ROLES": "Cargos automáticos",
