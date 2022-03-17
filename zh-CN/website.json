@@ -258,6 +258,7 @@
     "PROTECTION_ONLY_OWNER": "将保护属性限制为服务器的所有者",
     "UNSAVED_CONFIRM": "当心 — 您有未被保存的更改！",
     "cancel": "取消",
+    "save": "Save",
     "SAVE_CHANGES": "保存变更",
     "MOD_UNTIL_LEAVES": "直到成员离开服务器",
     "AUTO_ROLES": "自动角色",
