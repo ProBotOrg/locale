@@ -258,7 +258,7 @@
     "PROTECTION_ONLY_OWNER": "Giới hạn tính chất bảo vệ với chủ sỡ hữu server",
     "UNSAVED_CONFIRM": "Cẩn thận — bạn có thay đổi chưa được lưu!",
     "cancel": "Hủy",
-    "save": "Save",
+    "save": "Lưu",
     "SAVE_CHANGES": "Lưu thay đổi",
     "MOD_UNTIL_LEAVES": "Đến khi thành viên rời server",
     "AUTO_ROLES": "Vai trò tự động",
@@ -667,5 +667,5 @@
     "billing_available_credit": "Số dư khả dụng",
     "billing_account_balance": "Số dư tài khoản (${0})",
     "billing_pay_credits": "Credit Probot",
-    "billing_no_balance": "Not enough balance"
+    "billing_no_balance": "Không đủ số dư"
 }
