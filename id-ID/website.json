@@ -258,6 +258,7 @@
     "PROTECTION_ONLY_OWNER": "Restrict protection properties to the owner of the server",
     "UNSAVED_CONFIRM": "Careful — you have unsaved changes!",
     "cancel": "Batal",
+    "save": "Save",
     "SAVE_CHANGES": "Simpan Perubahan",
     "MOD_UNTIL_LEAVES": "Until member leaves the server",
     "AUTO_ROLES": "Auto Roles",
