@@ -258,6 +258,7 @@
     "PROTECTION_ONLY_OWNER": "보호 속성을 서버 소유자만 변경할 수 있게 제한",
     "UNSAVED_CONFIRM": "조심하세요! 저장하지 않은 변경 사항이 있어요!",
     "cancel": "취소",
+    "save": "Save",
     "SAVE_CHANGES": "변경사항 저장하기",
     "MOD_UNTIL_LEAVES": "멤버가 이 서버를 나가기 전까지",
     "AUTO_ROLES": "자동 역할",
