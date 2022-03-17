@@ -258,6 +258,7 @@
     "PROTECTION_ONLY_OWNER": "Koruma özelliklerini sunucunu sahibiyle sınırlayın",
     "UNSAVED_CONFIRM": "Dikkat - değişiklikleri kaydetmediniz!",
     "cancel": "İptal",
+    "save": "Save",
     "SAVE_CHANGES": "Değişiklikleri Kaydet",
     "MOD_UNTIL_LEAVES": "Üye sunucudan ayrılana kadar",
     "AUTO_ROLES": "Otomatik Roller",
