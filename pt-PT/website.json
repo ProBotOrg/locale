@@ -258,6 +258,7 @@
     "PROTECTION_ONLY_OWNER": "Restringir propriedades de proteção ao dono do servidor",
     "UNSAVED_CONFIRM": "Cuidado - tem mudanças não guardadas!",
     "cancel": "Cancelar",
+    "save": "Save",
     "SAVE_CHANGES": "Guardar alterações",
     "MOD_UNTIL_LEAVES": "Até o membro deixar o servidor",
     "AUTO_ROLES": "Auto Cargos",
@@ -664,5 +665,7 @@
     "add_funds": "Adicionar Fundos",
     "pay_all": "Pagar tudo",
     "billing_available_credit": "Crédito disponível",
-    "billing_account_balance": "Saldo da Conta (${0})"
+    "billing_account_balance": "Saldo da Conta (${0})",
+    "billing_pay_credits": "ProBot Credits",
+    "billing_no_balance": "Not enough balance"
 }

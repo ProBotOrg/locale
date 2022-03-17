@@ -258,6 +258,7 @@
     "PROTECTION_ONLY_OWNER": "حصر تعديل خصائص الحماية على صاحب السيرفر",
     "UNSAVED_CONFIRM": "احذر — لديك تغييرات لم يتم حفظها!",
     "cancel": "إلغاء",
+    "save": "Save",
     "SAVE_CHANGES": "حفظ التغييرات",
     "MOD_UNTIL_LEAVES": "حتى خروج العضو من السيرفر",
     "AUTO_ROLES": "الرولات التلقائية",
@@ -664,5 +665,7 @@
     "add_funds": "إضافة رصيد",
     "pay_all": "ادفع للكل",
     "billing_available_credit": "الرصيد المتوفر",
-    "billing_account_balance": "رصيد الحساب (${0})"
+    "billing_account_balance": "رصيد الحساب (${0})",
+    "billing_pay_credits": "رصيد بروبوت",
+    "billing_no_balance": "Not enough balance"
 }

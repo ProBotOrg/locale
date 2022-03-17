@@ -258,6 +258,7 @@
     "PROTECTION_ONLY_OWNER": "Restrict protection properties to the owner of the server",
     "UNSAVED_CONFIRM": "Careful — you have unsaved changes!",
     "cancel": "Batal",
+    "save": "Save",
     "SAVE_CHANGES": "Simpan Perubahan",
     "MOD_UNTIL_LEAVES": "Until member leaves the server",
     "AUTO_ROLES": "Auto Roles",
@@ -664,5 +665,7 @@
     "add_funds": "Add Funds",
     "pay_all": "Pay All",
     "billing_available_credit": "Available Credit",
-    "billing_account_balance": "Account Balance (${0})"
+    "billing_account_balance": "Account Balance (${0})",
+    "billing_pay_credits": "ProBot Credits",
+    "billing_no_balance": "Not enough balance"
 }
