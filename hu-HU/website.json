@@ -258,7 +258,7 @@
     "PROTECTION_ONLY_OWNER": "A védelmi tulajdonságok korlátozása a szerver tulajdonosára",
     "UNSAVED_CONFIRM": "Óvatosan - Nem mentett változások vannak!",
     "cancel": "Mégse",
-    "save": "Save",
+    "save": "Mentés",
     "SAVE_CHANGES": "Módosítások mentése",
     "MOD_UNTIL_LEAVES": "Addig amíg a tag elhagyja a szervert",
     "AUTO_ROLES": "Automatikus rangok",
