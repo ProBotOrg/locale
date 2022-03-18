@@ -477,6 +477,7 @@
     "premium_ended": "beëindigd",
     "premium_dont_have_balance": "Oeps! Je hebt geen saldo om dat te doen.",
     "premium_current_credits_is": "Je huidige aantal credits is {0}",
+    "premium_name_limit": "Name should be more than 2 characters and less than 32 characters",
     "protection_options": "Bescherming opties:",
     "protection_delete_limits": "Verwijder {0} limieten ",
     "music_dj_roles": "DJ rollen",
