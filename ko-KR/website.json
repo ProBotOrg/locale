@@ -477,6 +477,7 @@
     "premium_ended": "종료됨",
     "premium_dont_have_balance": "저런! 그것을 살 돈이 없어요,",
     "premium_current_credits_is": "현재 크레딧은 {0}이에요",
+    "premium_name_limit": "Name should be more than 2 characters and less than 32 characters",
     "protection_options": "보호 옵션:",
     "protection_delete_limits": "{0} 한도 삭제",
     "music_dj_roles": "DJ 역할",
