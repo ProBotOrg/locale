@@ -477,6 +477,7 @@
     "premium_ended": "已結束",
     "premium_dont_have_balance": "您沒有足夠餘額",
     "premium_current_credits_is": "您現在的代幣數是 {0}",
+    "premium_name_limit": "Name should be more than 2 characters and less than 32 characters",
     "protection_options": "保護選項：",
     "protection_delete_limits": "刪除 {0} 限制",
     "music_dj_roles": "DJ 身份組",
