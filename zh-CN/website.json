@@ -477,6 +477,7 @@
     "premium_ended": "已完结",
     "premium_dont_have_balance": "哎呀！您没有余额来做这件事。",
     "premium_current_credits_is": "您当前的积分是 {0}",
+    "premium_name_limit": "Name should be more than 2 characters and less than 32 characters",
     "protection_options": "保护选项：",
     "protection_delete_limits": "删除 {0} 个限制",
     "music_dj_roles": "DJ角色",
