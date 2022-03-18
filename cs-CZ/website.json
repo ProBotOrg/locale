@@ -477,6 +477,7 @@
     "premium_ended": "vypršelo",
     "premium_dont_have_balance": "Jejda! K vykonání této činnosti nemáš dostatečný zůstatek",
     "premium_current_credits_is": "Počet tvých kreditů je {0}",
+    "premium_name_limit": "Name should be more than 2 characters and less than 32 characters",
     "protection_options": "Možnosti ochrany:",
     "protection_delete_limits": "Odstranit {0} limitů",
     "music_dj_roles": "DJ ROLE",
