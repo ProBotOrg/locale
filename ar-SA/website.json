@@ -477,7 +477,7 @@
     "premium_ended": "انتهى",
     "premium_dont_have_balance": "ليس لديك الرصيد الكافي لهذا",
     "premium_current_credits_is": "رصيدك الحالي هو {0}",
-    "premium_name_limit": "Name should be more than 2 characters and less than 32 characters",
+    "premium_name_limit": "يجب أن يكون الاسم أكثر من حرفين وأقل من 32 حرفاً",
     "protection_options": "اعدادات الحماية:",
     "protection_delete_limits": "حذف {0} حدود",
     "music_dj_roles": "رولات DJ",
