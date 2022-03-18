@@ -477,6 +477,7 @@
     "premium_ended": "اتمام شده",
     "premium_dont_have_balance": "اوخ! شما اینقدر موجودی ندارید که بتوانید آن را انجام دهید،",
     "premium_current_credits_is": "میزان اعتبار فعلی شما {0} می باشد",
+    "premium_name_limit": "Name should be more than 2 characters and less than 32 characters",
     "protection_options": "تنظیمات محافظت:",
     "protection_delete_limits": "حذف {0} محدودیت",
     "music_dj_roles": "نقش های DJ",
