@@ -477,6 +477,7 @@
     "premium_ended": "ended",
     "premium_dont_have_balance": "Ups! kamu tidak memiliki saldo untuk melakukan itu,",
     "premium_current_credits_is": "Saldo anda sekarang adalah {0}",
+    "premium_name_limit": "Name should be more than 2 characters and less than 32 characters",
     "protection_options": "Protection options:",
     "protection_delete_limits": "Delete {0} limits",
     "music_dj_roles": "DJ ROLES",
