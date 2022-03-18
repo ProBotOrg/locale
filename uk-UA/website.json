@@ -477,6 +477,7 @@
     "premium_ended": "ended",
     "premium_dont_have_balance": "Упс! У вас недостатньо коштів, ",
     "premium_current_credits_is": "Ваш поточний рахунок кредитів {0}",
+    "premium_name_limit": "Name should be more than 2 characters and less than 32 characters",
     "protection_options": "Опції захисту:",
     "protection_delete_limits": "Видалити {0} обмежень ",
     "music_dj_roles": "DJ РОЛІ",
