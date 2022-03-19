@@ -477,7 +477,7 @@
     "premium_ended": "đã kết thúc",
     "premium_dont_have_balance": "Ối! Bạn không đủ số dư cho việc đó,",
     "premium_current_credits_is": "Số dư hiện tại của bạn là {0}",
-    "premium_name_limit": "Name should be more than 2 characters and less than 32 characters",
+    "premium_name_limit": "Tên phải nhiều hơn 2 kí tự và ít hơn 32 kí tự",
     "protection_options": "Lựa chọn bảo vệ:",
     "protection_delete_limits": "Xóa giới hạn {0}",
     "music_dj_roles": "VAI TRÒ DJ",
