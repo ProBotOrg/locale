@@ -201,7 +201,7 @@
     "PERMISSIONS_USER": "إزالة جميع الصلاحيات الادارية من رولات العضو",
     "REMOVE_ROLES": "إزالة العضو من الرولات الإدارية",
     "PROTECTED_ROLES": "الرولات المحمية",
-    "PROTECTED_HINT": "يُنصح بأضافة الأوتو رول و %EVERYONE%",
+    "PROTECTED_HINT": "يُنصح بأضافة الأوتو رول و {0}",
     "ACTION_WHEN_PROTECTED": "الأجراء اذا تم تعديل/حذف أحد الرولات المحمية",
     "UNDO_REMOVE_ALL": "التراجع عن الإجراء + إزالة كافة الصلاحيات الإدارية من جميع الرولات",
     "PROTECT_BOT_JOINED": "الأجراء عند انضمام بوت للسيرفر",
@@ -668,5 +668,6 @@
     "billing_available_credit": "الرصيد المتوفر",
     "billing_account_balance": "رصيد الحساب (${0})",
     "billing_pay_credits": "رصيد بروبوت",
-    "billing_no_balance": "لا يوجد رصيد كافي"
+    "billing_no_balance": "لا يوجد رصيد كافي",
+    "default": "الافتراضي"
 }
