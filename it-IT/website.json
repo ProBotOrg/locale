@@ -201,7 +201,7 @@
     "PERMISSIONS_USER": "Rimuovi le autorizzazioni amministrative dai ruoli dell' utente",
     "REMOVE_ROLES": "Rimuovi il membro dai ruoli amministrativi",
     "PROTECTED_ROLES": "Ruoli protetti",
-    "PROTECTED_HINT": "si raccomanda di aggiungere %EVERYONE% + l'autorole",
+    "PROTECTED_HINT": "si consiglia di aggiungere %EVERYONE% è il ruolo automatico",
     "ACTION_WHEN_PROTECTED": "Azione quando un ruolo protetto viene aggiornato/eliminato",
     "UNDO_REMOVE_ALL": "Annulla l'azione + Rimuovi tutti i permessi amministrativi da tutti i ruoli",
     "PROTECT_BOT_JOINED": "Azione quando un bot si unisce al server",
