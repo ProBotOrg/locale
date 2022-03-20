@@ -669,5 +669,5 @@
     "billing_account_balance": "Saldo da Conta (${0})",
     "billing_pay_credits": "Créditos do ProBot",
     "billing_no_balance": "Saldo insuficiente",
-    "default": "Default"
+    "default": "Padrão"
 }
