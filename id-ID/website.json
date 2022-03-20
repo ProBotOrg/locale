@@ -201,7 +201,7 @@
     "PERMISSIONS_USER": "Remove administrative permissions from user roles",
     "REMOVE_ROLES": "Remove the member from the administrative roles",
     "PROTECTED_ROLES": "Peran yang dilindungi",
-    "PROTECTED_HINT": "its recommended to add {0} + the auto role",
+    "PROTECTED_HINT": "it's recommended to add {0} + the auto role",
     "ACTION_WHEN_PROTECTED": "Action when protected role is updated/deleted",
     "UNDO_REMOVE_ALL": "Undo the action + Remove all administrative permission from all roles",
     "PROTECT_BOT_JOINED": "Action when a bot joins the server",
