@@ -477,6 +477,7 @@
     "premium_ended": "baigėsi",
     "premium_dont_have_balance": "Oops! jūs neturite pakankamai balanse, kad tai padaryti. ",
     "premium_current_credits_is": "Jūsų turimų kreditų skaičius yra: {0}",
+    "premium_name_limit": "Name should be more than 2 characters and less than 32 characters",
     "protection_options": "Apsaugos nustatymai: ",
     "protection_delete_limits": "Panaikinti {0} apribojimus",
     "music_dj_roles": "DJ vaidmenys",

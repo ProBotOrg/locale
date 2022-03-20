@@ -477,6 +477,7 @@
     "premium_ended": "zakończony",
     "premium_dont_have_balance": "Ups! Balans Twojego konta jest niewystarczający.",
     "premium_current_credits_is": "Twoje saldo wynosi {0}",
+    "premium_name_limit": "Name should be more than 2 characters and less than 32 characters",
     "protection_options": "Opcje ochrony:",
     "protection_delete_limits": "Usuń {0} limitów",
     "music_dj_roles": "ROLE DJ'A",

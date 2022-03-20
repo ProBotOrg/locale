@@ -477,6 +477,7 @@
     "premium_ended": "законченный ",
     "premium_dont_have_balance": "Упс! У вас недостаточно средств, ",
     "premium_current_credits_is": "Ваш текущий счет равен  {0}",
+    "premium_name_limit": "Name should be more than 2 characters and less than 32 characters",
     "protection_options": "Опции защиты:",
     "protection_delete_limits": "Удалить {0} ограничений",
     "music_dj_roles": "DJ РОЛИ",

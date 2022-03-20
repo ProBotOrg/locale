@@ -477,6 +477,7 @@
     "premium_ended": "samaapt",
     "premium_dont_have_balance": "oops! aapake paas aisa karane ke lie santulan nahin hai,",
     "premium_current_credits_is": "आपकी शेष राशि {0} है।",
+    "premium_name_limit": "Name should be more than 2 characters and less than 32 characters",
     "protection_options": "suraksha vikalp:",
     "protection_delete_limits": "{0} seema hataen",
     "music_dj_roles": "sangeet kee bhoomikaen",

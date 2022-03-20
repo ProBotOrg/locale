@@ -477,6 +477,7 @@
     "premium_ended": "สิ้นสุดแล้ว",
     "premium_dont_have_balance": "อ๊ะๆ! คุณไม่มีความสิทธ์ที่จะทำแบบนั้นนะ",
     "premium_current_credits_is": "เครดิตปัจจุบันของคุณคือ {0}",
+    "premium_name_limit": "Name should be more than 2 characters and less than 32 characters",
     "protection_options": "ตัวเลือกการป้องกัน:",
     "protection_delete_limits": "ลบ {0} การจำกัด",
     "music_dj_roles": "บาทบาทดีเจ",

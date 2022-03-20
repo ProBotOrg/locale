@@ -477,6 +477,7 @@
     "premium_ended": "beendet",
     "premium_dont_have_balance": "Hoppla! Du hast nicht genug Guthaben um das zu tun",
     "premium_current_credits_is": "Ihr aktuelles Guthaben ist {0}",
+    "premium_name_limit": "Name should be more than 2 characters and less than 32 characters",
     "protection_options": "Schutzoptionen:",
     "protection_delete_limits": "Lösche {0} Limits",
     "music_dj_roles": "DJ-ROLLEN",

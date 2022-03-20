@@ -477,6 +477,7 @@
     "premium_ended": "terminé",
     "premium_dont_have_balance": "Oups ! Vous n'avez pas de solde pour faire cela,",
     "premium_current_credits_is": "Vos crédits actuels sont {0}",
+    "premium_name_limit": "Name should be more than 2 characters and less than 32 characters",
     "protection_options": "Options de protection :",
     "protection_delete_limits": "Supprimer {0} limites",
     "music_dj_roles": "RÔLES DE DJ",

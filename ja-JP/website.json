@@ -477,6 +477,7 @@
     "premium_ended": "終了しました",
     "premium_dont_have_balance": "おっと！！残高がないです…",
     "premium_current_credits_is": "有効クレジット： {0}",
+    "premium_name_limit": "Name should be more than 2 characters and less than 32 characters",
     "protection_options": "保護オプション:",
     "protection_delete_limits": "{0} 個の制限を削除する",
     "music_dj_roles": "DJロール",

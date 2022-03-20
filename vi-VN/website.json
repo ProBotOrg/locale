@@ -258,7 +258,7 @@
     "PROTECTION_ONLY_OWNER": "Giới hạn tính chất bảo vệ với chủ sỡ hữu server",
     "UNSAVED_CONFIRM": "Cẩn thận — bạn có thay đổi chưa được lưu!",
     "cancel": "Hủy",
-    "save": "Save",
+    "save": "Lưu",
     "SAVE_CHANGES": "Lưu thay đổi",
     "MOD_UNTIL_LEAVES": "Đến khi thành viên rời server",
     "AUTO_ROLES": "Vai trò tự động",
@@ -477,6 +477,7 @@
     "premium_ended": "đã kết thúc",
     "premium_dont_have_balance": "Ối! Bạn không đủ số dư cho việc đó,",
     "premium_current_credits_is": "Số dư hiện tại của bạn là {0}",
+    "premium_name_limit": "Tên phải nhiều hơn 2 kí tự và ít hơn 32 kí tự",
     "protection_options": "Lựa chọn bảo vệ:",
     "protection_delete_limits": "Xóa giới hạn {0}",
     "music_dj_roles": "VAI TRÒ DJ",
@@ -667,5 +668,5 @@
     "billing_available_credit": "Số dư khả dụng",
     "billing_account_balance": "Số dư tài khoản (${0})",
     "billing_pay_credits": "Credit Probot",
-    "billing_no_balance": "Not enough balance"
+    "billing_no_balance": "Không đủ số dư"
 }

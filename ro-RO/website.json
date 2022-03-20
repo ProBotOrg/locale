@@ -477,6 +477,7 @@
     "premium_ended": "terminat",
     "premium_dont_have_balance": "Ups! Nu ai suficienți bani pentru a face acel lucru,",
     "premium_current_credits_is": "Creditele dvs. actuale sunt {0}",
+    "premium_name_limit": "Name should be more than 2 characters and less than 32 characters",
     "protection_options": "Opțiuni de protecție:",
     "protection_delete_limits": "Șterge {0} limite",
     "music_dj_roles": "ROLURI DJ",

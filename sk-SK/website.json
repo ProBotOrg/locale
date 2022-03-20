@@ -477,6 +477,7 @@
     "premium_ended": "ukončený",
     "premium_dont_have_balance": "Ojoj! nemáš na to balanc aby si to spravil,",
     "premium_current_credits_is": "Aktuálny počet kreditov {0}",
+    "premium_name_limit": "Name should be more than 2 characters and less than 32 characters",
     "protection_options": "Možnosti ochrany",
     "protection_delete_limits": "Zmaž {0} limitov",
     "music_dj_roles": "DJ ROLE",
