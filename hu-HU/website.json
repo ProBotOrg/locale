@@ -669,5 +669,5 @@
     "billing_account_balance": "Számlaegyenleg (${0})",
     "billing_pay_credits": "ProBot kreditek",
     "billing_no_balance": "Not enough balance",
-    "default": "Default"
+    "default": "Alapértelmezett"
 }
