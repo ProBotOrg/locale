@@ -201,7 +201,7 @@
     "PERMISSIONS_USER": "Gỡ bỏ quyền quản lý khỏi vai trò của người dùng",
     "REMOVE_ROLES": "Xóa thành viên khỏi vai trò quản lý",
     "PROTECTED_ROLES": "Vai trò được bảo vệ",
-    "PROTECTED_HINT": "Khuyên nên thêm %EVERYONE% + vai trò tự động",
+    "PROTECTED_HINT": "Dề xuất nên thêm {0} + vai trò tự động",
     "ACTION_WHEN_PROTECTED": "Hành động khi vai trò được bảo vệ được cập nhật/bị xóa",
     "UNDO_REMOVE_ALL": "Hoàn tác hành động + Gỡ bỏ toàn bộ quyền quản lý khỏi tất cả các vai trò",
     "PROTECT_BOT_JOINED": "Hành động khi có bot tham gia server",
