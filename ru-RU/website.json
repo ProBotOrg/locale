@@ -668,5 +668,6 @@
     "billing_available_credit": "Доступный кредит",
     "billing_account_balance": "Баланс аккаунта (${0})",
     "billing_pay_credits": "ProBot Credits",
-    "billing_no_balance": "Not enough balance"
+    "billing_no_balance": "Not enough balance",
+    "default": "Default"
 }
