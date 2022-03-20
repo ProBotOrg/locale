@@ -668,5 +668,6 @@
     "billing_available_credit": "사용 가능한 크레딧",
     "billing_account_balance": "계정 잔액 (${0})",
     "billing_pay_credits": "ProBot 크레딧",
-    "billing_no_balance": "Not enough balance"
+    "billing_no_balance": "Not enough balance",
+    "default": "Default"
 }
