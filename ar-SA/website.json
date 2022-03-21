@@ -669,7 +669,7 @@
     "billing_account_balance": "رصيد الحساب (${0})",
     "billing_pay_credits": "رصيد بروبوت",
     "billing_no_balance": "لا يوجد رصيد كافي",
-    "default": "الافتراضي",
+    "default": "افتراضي",
     "billing_no_history": "لا يوجد سجل دفع",
     "billing_add_payment": "إضافة طريقة الدفع",
     "update": "تحديث",
@@ -680,5 +680,6 @@
     "billing_update_payment": "تحديث طريقة الدفع",
     "billing_method_updated": "تم تحديث طريقة الدفع!",
     "billing_recharged_success": "تم إعادة شحن حسابك بنجاح!",
-    "billing_payment_declined": "عملية مرفوضة!"
+    "billing_payment_declined": "عملية مرفوضة!",
+    "billing_no_cvv": "يرجى إدخال رمز CVV"
 }
