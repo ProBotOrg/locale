@@ -58,7 +58,21 @@ module.exports.webLangs = {
   ro: { name: "Română", flag: "ro" },
   sk: { name: "Slovák", flag: "sk" },
   ja: { name: "日本語", flag: "jp" },
-  hu: { name: "Magyar", flag: "hu" }
+  hu: { name: "Magyar", flag: "hu" },
+  ko: { name: "한국어", flag: "ko" },
+  lt: { name: "Italian", flag: "lt" },
+  no: { name: "Norsk", flag: "no" },
+  pl: { name: "Polish", flag: "pl" },
+  pt_BR: { name: "português", flag: "pt_BR" },
+  sr: { name: "Српска", flag: "sr" },
+  sv: { name: "svenska", flag: "sv" },
+  th: { name: "Thai", flag: "th" },
+  vi: { name: "tiếng Việt", flag: "vi" },
+  ckb: { name: "kurdî", flag: "ckb" },
+  da: { name: "tænˀsk", flag: "da" },
+  fa: { name: "Persian", flag: "fa" },
+  fi: { name: "suo̯mi", flag: "fi" },
+  hr: { name: "xř̩ʋatski", flag: "hr" }
 };
 
 
