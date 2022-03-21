@@ -63,7 +63,7 @@ module.exports.webLangs = {
   lt: { name: "Italian", flag: "lt" },
   no: { name: "Norsk", flag: "no" },
   pl: { name: "Polish", flag: "pl" },
-  pt_BR: { name: "português", flag: "pt_BR" },
+  pt_BR: { name: "portuguesa, brasileira", flag: "pt_BR" },
   sr: { name: "Српска", flag: "sr" },
   sv: { name: "svenska", flag: "sv" },
   th: { name: "Thai", flag: "th" },
