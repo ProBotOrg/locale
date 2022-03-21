@@ -63,14 +63,14 @@ module.exports.webLangs = {
   lt: { name: "Italian", flag: "lt" },
   no: { name: "Norsk", flag: "no" },
   pl: { name: "Polish", flag: "pl" },
-  pt_BR: { name: "portuguesa, brasileira", flag: "pt_BR" },
+  pt_BR: { name: "portuguesa, brasileira", flag: "br" },
   sr: { name: "Српска", flag: "sr" },
   sv: { name: "svenska", flag: "sv" },
   th: { name: "Thai", flag: "th" },
   vi: { name: "tiếng Việt", flag: "vi" },
-  ckb: { name: "kurdî", flag: "ckb" },
-  da: { name: "tænˀsk", flag: "da" },
-  fa: { name: "Persian", flag: "fa" },
+  ckb: { name: "kurdî", flag: "kur" },
+  da: { name: "dansk", flag: "dk" },
+  fa: { name: "Persian", flag: "ir" },
   fi: { name: "suo̯mi", flag: "fi" },
   hr: { name: "xř̩ʋatski", flag: "hr" }
 };
