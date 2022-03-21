@@ -673,13 +673,13 @@
     "billing_no_history": "お支払い履歴がありません",
     "billing_add_payment": "お支払い方法を追加",
     "update": "アップデート",
-    "billing_card_name": "Name on card",
-    "billing_card_number": "Card number",
-    "billing_card_expiry_date": "Expiry date",
-    "billing_card_security_code": "Securiy code",
-    "billing_update_payment": "Update Payment Method",
-    "billing_method_updated": "Payment method updated!",
-    "billing_recharged_success": "Your account has been recharged successfully!",
-    "billing_payment_declined": "Payment Declined!",
-    "billing_no_cvv": "Please Enter CVV"
+    "billing_card_name": "カードに記載されている氏名",
+    "billing_card_number": "カード番号",
+    "billing_card_expiry_date": "有効期限",
+    "billing_card_security_code": "セキュリティコード",
+    "billing_update_payment": "お支払方法を更新する",
+    "billing_method_updated": "お支払い方法が正常に更新されました！",
+    "billing_recharged_success": "アカウントが正常に再チャージされました！",
+    "billing_payment_declined": "支払いが却下されました！",
+    "billing_no_cvv": "CVVを入力してください"
 }
