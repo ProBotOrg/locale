@@ -201,7 +201,7 @@
     "PERMISSIONS_USER": "إزالة جميع الصلاحيات الادارية من رولات العضو",
     "REMOVE_ROLES": "إزالة العضو من الرولات الإدارية",
     "PROTECTED_ROLES": "الرولات المحمية",
-    "PROTECTED_HINT": "يُنصح بأضافة الأوتو رول و %EVERYONE%",
+    "PROTECTED_HINT": "يُنصح بأضافة الأوتو رول و {0}",
     "ACTION_WHEN_PROTECTED": "الأجراء اذا تم تعديل/حذف أحد الرولات المحمية",
     "UNDO_REMOVE_ALL": "التراجع عن الإجراء + إزالة كافة الصلاحيات الإدارية من جميع الرولات",
     "PROTECT_BOT_JOINED": "الأجراء عند انضمام بوت للسيرفر",
@@ -668,5 +668,17 @@
     "billing_available_credit": "الرصيد المتوفر",
     "billing_account_balance": "رصيد الحساب (${0})",
     "billing_pay_credits": "رصيد بروبوت",
-    "billing_no_balance": "لا يوجد رصيد كافي"
+    "billing_no_balance": "لا يوجد رصيد كافي",
+    "default": "الافتراضي",
+    "billing_no_history": "لا يوجد سجل دفع",
+    "billing_add_payment": "إضافة طريقة الدفع",
+    "update": "تحديث",
+    "billing_card_name": "الاسم على البطاقة",
+    "billing_card_number": "رقم البطاقة",
+    "billing_card_expiry_date": "تاريخ الانتهاء",
+    "billing_card_security_code": "رمز الأمان",
+    "billing_update_payment": "تحديث طريقة الدفع",
+    "billing_method_updated": "تم تحديث طريقة الدفع!",
+    "billing_recharged_success": "تم إعادة شحن حسابك بنجاح!",
+    "billing_payment_declined": "عملية مرفوضة!"
 }
