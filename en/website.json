@@ -680,5 +680,6 @@
     "billing_update_payment": "Update Payment Method",
     "billing_method_updated": "Payment method updated!",
     "billing_recharged_success": "Your account has been recharged successfully!",
-    "billing_payment_declined": "Payment Declined!"
+    "billing_payment_declined": "Payment Declined!",
+    "billing_no_cvv": "please enter cvv"
 }
