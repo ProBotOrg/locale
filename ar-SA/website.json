@@ -669,5 +669,7 @@
     "billing_account_balance": "رصيد الحساب (${0})",
     "billing_pay_credits": "رصيد بروبوت",
     "billing_no_balance": "لا يوجد رصيد كافي",
-    "default": "الافتراضي"
+    "default": "الافتراضي",
+    "billing_no_history": "No payment history",
+    "billing_add_payment": "Add Payment Method"
 }
