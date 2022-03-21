@@ -673,12 +673,12 @@
     "billing_no_history": "لا يوجد سجل دفع",
     "billing_add_payment": "إضافة طريقة الدفع",
     "update": "تحديث",
-    "billing_card_name": "Name on card",
-    "billing_card_number": "Card number",
-    "billing_card_expiry_date": "Expiry date",
-    "billing_card_security_code": "Securiy code",
-    "billing_update_payment": "Update Payment Method",
-    "billing_method_updated": "Payment method updated!",
-    "billing_recharged_success": "Your account has been recharged successfully!",
-    "billing_payment_declined": "Payment Declined!"
+    "billing_card_name": "الاسم على البطاقة",
+    "billing_card_number": "رقم البطاقة",
+    "billing_card_expiry_date": "تاريخ الانتهاء",
+    "billing_card_security_code": "رمز الأمان",
+    "billing_update_payment": "تحديث طريقة الدفع",
+    "billing_method_updated": "تم تحديث طريقة الدفع!",
+    "billing_recharged_success": "تم إعادة شحن حسابك بنجاح!",
+    "billing_payment_declined": "عملية مرفوضة!"
 }
