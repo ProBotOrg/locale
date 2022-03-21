@@ -670,5 +670,6 @@
     "billing_pay_credits": "ProBot Credits",
     "billing_no_balance": "Not enough balance",
     "default": "Default",
-    "billing_no_history": "No payment history"
+    "billing_no_history": "No payment history",
+    "billing_add_payment": "Add Payment Method"
 }
