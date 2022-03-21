@@ -50,7 +50,7 @@ module.exports.webLangs = {
   de: { name: "Deutsche", flag: "de" },
   el: { name: "Ελληνικά", flag: "gr" },
   hi: { name: "हिन्दी", flag: "in" },
-  pl: { name: "Polskie", flag: "pl" },
+  pl: { name: "Polski", flag: "pl" },
   pt: { name: "Português", flag: "pt" },
   nl: { name: "Nederlands", flag: "nl" },
   it: { name: "Italiana", flag: "it" },
