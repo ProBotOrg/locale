@@ -36,6 +36,31 @@ languages.zh = require('./zh-CN/website.json');
 languages["zh_TW"] = require('./zh-TW/website.json');
 
 module.exports = languages;
+module.exports.webLangs = {
+  ar: { name: "العربية", flag: "sa" },
+  bg: { name: "български", flag: "bg" },
+  cs: { name: "čeština", flag: "cz" },
+  en: { name: "English", flag: "us" },
+  tr: { name: "Türkçe", flag: "tr" },
+  zh: { name: "中国人", flag: "cn" },
+  zh_TW: { name: "中國人", flag: "tw" },
+  ru: { name: "русский", flag: "ru" },
+  uk: { name: "Український", flag: "ua" },
+  fr: { name: "français", flag: "fr" },
+  de: { name: "Deutsche", flag: "de" },
+  el: { name: "Ελληνικά", flag: "gr" },
+  hi: { name: "हिन्दी", flag: "in" },
+  pl: { name: "Polskie", flag: "pl" },
+  pt: { name: "Português", flag: "pt" },
+  nl: { name: "Nederlands", flag: "nl" },
+  it: { name: "Italiana", flag: "it" },
+  es: { name: "Española", flag: "es" },
+  ro: { name: "Română", flag: "ro" },
+  sk: { name: "Slovák", flag: "sk" },
+  ja: { name: "日本語", flag: "jp" },
+  hu: { name: "Magyar", flag: "hu" }
+};
+
 
 
 const botLanguages = {};
