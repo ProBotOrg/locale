@@ -671,5 +671,14 @@
     "billing_no_balance": "Saldo insuficiente",
     "default": "Padrão",
     "billing_no_history": "No payment history",
-    "billing_add_payment": "Add Payment Method"
+    "billing_add_payment": "Add Payment Method",
+    "update": "Update",
+    "billing_card_name": "Name on card",
+    "billing_card_number": "Card number",
+    "billing_card_expiry_date": "Expiry date",
+    "billing_card_security_code": "Securiy code",
+    "billing_update_payment": "Update Payment Method",
+    "billing_method_updated": "Payment method updated!",
+    "billing_recharged_success": "Your account has been recharged successfully!",
+    "billing_payment_declined": "Payment Declined!"
 }
