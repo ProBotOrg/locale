@@ -530,7 +530,6 @@
     "users_names": "Імена користувачів без згадування їх",
     "users_mentions": "Згадування користувачів",
     "users_amount": "Кількість користувачів",
-    "reset_guild_settings": "Скидання '{0}' налаштувань",
     "reset_settings_confirm": "Ви впевнені, що хочете скинути налаштування?",
     "reset_settings_warn": "ЦЕ ДІЯ НЕ МОЖЕ БУТИ СКАСОВАНО!",
     "reset_settings": "Скидання налаштувань",
@@ -681,5 +680,7 @@
     "billing_method_updated": "Payment method updated!",
     "billing_recharged_success": "Your account has been recharged successfully!",
     "billing_payment_declined": "Payment Declined!",
-    "billing_no_cvv": "Please Enter CVV"
+    "billing_no_cvv": "Please Enter CVV",
+    "servername_to_continue": "Type the server name to continue",
+    "reset_settings_embed_no_effect": "Embed messages will not be affected"
 }
