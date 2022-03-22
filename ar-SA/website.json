@@ -681,5 +681,5 @@
     "billing_method_updated": "تم تحديث طريقة الدفع!",
     "billing_recharged_success": "تم إعادة شحن حسابك بنجاح!",
     "billing_payment_declined": "عملية مرفوضة!",
-    "billing_no_cvv": "يرجى إدخال رمز CVV"
+    "billing_no_cvv": "يرجى إدخال رمز الأمان"
 }
