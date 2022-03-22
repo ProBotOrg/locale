@@ -59,7 +59,7 @@ module.exports.webLangs = {
   sk: { name: "Slovák", flag: "sk" },
   ja: { name: "日本語", flag: "jp" },
   hu: { name: "Magyar", flag: "hu" },
-  ko: { name: "한국어", flag: "ko" },
+  ko: { name: "한국어", flag: "kr" },
   lt: { name: "Italian", flag: "lt" },
   no: { name: "Norsk", flag: "no" },
   pl: { name: "Polish", flag: "pl" },
