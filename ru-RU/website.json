@@ -530,7 +530,6 @@
     "users_names": "Имена пользователей не упоминая их",
     "users_mentions": "Упоминания пользователей",
     "users_amount": "Количество пользователей",
-    "reset_guild_settings": "Сброс '{0}' настроек",
     "reset_settings_confirm": "Вы уверены, что хотите сбросить настройки?",
     "reset_settings_warn": "ЭТО ДЕЙСТВИЕ НЕ МОЖЕТ БЫТЬ ОТМЕНЕНО!",
     "reset_settings": "Сброс настроек",
@@ -681,5 +680,7 @@
     "billing_method_updated": "Payment method updated!",
     "billing_recharged_success": "Your account has been recharged successfully!",
     "billing_payment_declined": "Payment Declined!",
-    "billing_no_cvv": "Please Enter CVV"
+    "billing_no_cvv": "Please Enter CVV",
+    "servername_to_continue": "Type the server name to continue",
+    "reset_settings_embed_no_effect": "Embed messages will not be affected"
 }
