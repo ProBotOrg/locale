@@ -389,7 +389,7 @@
     "embed_edit": "تعديل رسالة مُرسلة",
     "embed_delete": "حذف الإيمبد",
     "embed_choosechannel": "اختر روم",
-    "embed_choosemsg": "اخر رسالة",
+    "embed_choosemsg": "اختر رسالة",
     "embed_selectone": "حدد الإيمبد أو قم بإنشاء واحد :)",
     "embed_compose": "إنشاء",
     "embed_embedname": "اسم الإيمبد",
@@ -530,7 +530,6 @@
     "users_names": "أسماء المستخدمين دون منشنتهم",
     "users_mentions": "منشن المستخدمين",
     "users_amount": "عدد المستخدمين ",
-    "reset_guild_settings": "إعادة تعيين إعدادات '{0}'",
     "reset_settings_confirm": "هل أنت متأكد من رغبتك في اعادة تعيين الإعدادات؟",
     "reset_settings_warn": "لا يمكنك التراجع عن هذا الإجراء!",
     "reset_settings": "إعادة تعيين الإعدادات",
@@ -681,5 +680,7 @@
     "billing_method_updated": "تم تحديث طريقة الدفع!",
     "billing_recharged_success": "تم إعادة شحن حسابك بنجاح!",
     "billing_payment_declined": "عملية مرفوضة!",
-    "billing_no_cvv": "يرجى إدخال رمز CVV"
+    "billing_no_cvv": "يرجى إدخال رمز الأمان",
+    "servername_to_continue": "اكتب اسم سيرفر للمتابعة",
+    "reset_settings_embed_no_effect": "رسائل الايمبد لن تتأثر من هذا الاجراء"
 }

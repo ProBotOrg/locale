@@ -530,7 +530,6 @@
     "users_names": "用户名未提及它",
     "users_mentions": "提及用户",
     "users_amount": "用户数量",
-    "reset_guild_settings": "重置 '{0}' 的设置",
     "reset_settings_confirm": "您确定要重置设置吗？",
     "reset_settings_warn": "此操作无法撤消",
     "reset_settings": "重置设置",
@@ -681,5 +680,7 @@
     "billing_method_updated": "Payment method updated!",
     "billing_recharged_success": "Your account has been recharged successfully!",
     "billing_payment_declined": "Payment Declined!",
-    "billing_no_cvv": "Please Enter CVV"
+    "billing_no_cvv": "Please Enter CVV",
+    "servername_to_continue": "Type the server name to continue",
+    "reset_settings_embed_no_effect": "Embed messages will not be affected"
 }

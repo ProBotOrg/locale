@@ -530,7 +530,6 @@
     "users_names": "멘션하지 않고 멤버 이름을 표시해요",
     "users_mentions": "멤버를 멘션해요",
     "users_amount": "멤버 수를 표시해요",
-    "reset_guild_settings": "'{0}' 서버 설정 초기화",
     "reset_settings_confirm": "설정을 초기화할까요?",
     "reset_settings_warn": "해당 작업을 되돌릴 수 없어요!",
     "reset_settings": "설정 초기화",
@@ -681,5 +680,7 @@
     "billing_method_updated": "Payment method updated!",
     "billing_recharged_success": "Your account has been recharged successfully!",
     "billing_payment_declined": "Payment Declined!",
-    "billing_no_cvv": "Please Enter CVV"
+    "billing_no_cvv": "Please Enter CVV",
+    "servername_to_continue": "Type the server name to continue",
+    "reset_settings_embed_no_effect": "Embed messages will not be affected"
 }

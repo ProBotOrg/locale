@@ -530,7 +530,6 @@
     "users_names": "Vartotojo vardai be jų pažymėjimo",
     "users_mentions": "Pažymėti vartotoją",
     "users_amount": "Žmonių skaičius",
-    "reset_guild_settings": "Atstatyti '{0}' nustatymus",
     "reset_settings_confirm": "Ar jūs tikrai norite atstatyti nustatymus? ",
     "reset_settings_warn": "Šio veiksmo sugrąžinti nebus įmanoma. ",
     "reset_settings": "Atstatyti nustatymus",
@@ -681,5 +680,7 @@
     "billing_method_updated": "Payment method updated!",
     "billing_recharged_success": "Your account has been recharged successfully!",
     "billing_payment_declined": "Payment Declined!",
-    "billing_no_cvv": "Please Enter CVV"
+    "billing_no_cvv": "Please Enter CVV",
+    "servername_to_continue": "Type the server name to continue",
+    "reset_settings_embed_no_effect": "Embed messages will not be affected"
 }

@@ -38,7 +38,7 @@
 	"color_description": "Đổi vai trò màu sắc.",
 	"colors_description": "Hiển thị các vai trò màu sắc có trong máy chủ.",
 	"title_description": "Thay đổi tiêu đề của bạn trong lệnh `/profile`.",
-	"reset_description": "Đặt lại điểm kinh nghiệm text/voice/invite của tất cả thành viên hoặc của thành viên bất kì.",
+	"reset_description": "Đặt lại điểm kinh nghiệm text/voice, hoặc invite/giới hạn của tất cả hoặc của thành viên bất kì.",
 	"rep_description": "Trao thưởng điểm uy tín cho ai đó. Chỉ có thể được sử dụng mỗi 24 giờ.",
 	"daily_description": "Nhận credit hằng ngày của bạn.",
 	"vip_description": "Hiển thị thông tin về gói Premium của bạn.",
