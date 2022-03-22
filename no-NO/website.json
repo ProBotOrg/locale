@@ -530,7 +530,6 @@
     "users_names": "Users names without mentioning them",
     "users_mentions": "Mentions the users",
     "users_amount": "The amount of users",
-    "reset_guild_settings": "Reset '{0}' settings",
     "reset_settings_confirm": "Are you sure you want to reset settings?",
     "reset_settings_warn": "THIS ACTION CANNOT BE UNDONE!",
     "reset_settings": "Tilbakestill innstillinger",
@@ -681,5 +680,7 @@
     "billing_method_updated": "Payment method updated!",
     "billing_recharged_success": "Your account has been recharged successfully!",
     "billing_payment_declined": "Payment Declined!",
-    "billing_no_cvv": "Please Enter CVV"
+    "billing_no_cvv": "Please Enter CVV",
+    "servername_to_continue": "Type the server name to continue",
+    "reset_settings_embed_no_effect": "Embed messages will not be affected"
 }
