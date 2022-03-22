@@ -530,7 +530,6 @@
     "users_names": "Tên người dùng mà không nhắc tên họ",
     "users_mentions": "Nhắc tên người dùng",
     "users_amount": "Số lượng người dùng",
-    "reset_guild_settings": "Đặt lại '{0}' cài đặt",
     "reset_settings_confirm": "Bạn chắc là muốn đặt lại cài đặt?",
     "reset_settings_warn": "HÀNH ĐỘNG NÀY KHÔNG THỂ HOÀN TÁC!",
     "reset_settings": "Đặt lại cài đặt",
@@ -681,5 +680,7 @@
     "billing_method_updated": "Đã cập nhật phương thức thanh toán!",
     "billing_recharged_success": "Thành công nạp lại cho tài khoản của bạn!",
     "billing_payment_declined": "Thanh toán bị từ chối!",
-    "billing_no_cvv": "Please Enter CVV"
+    "billing_no_cvv": "Vui lòng nhập mã CVV",
+    "servername_to_continue": "Type the server name to continue",
+    "reset_settings_embed_no_effect": "Embed messages will not be affected"
 }
