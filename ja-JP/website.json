@@ -682,5 +682,10 @@
     "billing_payment_declined": "支払いが却下されました！",
     "billing_no_cvv": "CVVを入力してください",
     "servername_to_continue": "Type the server name to continue",
-    "reset_settings_embed_no_effect": "Embed messages will not be affected"
+    "reset_settings_embed_no_effect": "Embed messages will not be affected",
+    "billing_next_payment": "Next payment is {0} on {1}",
+    "billing_next_payment_without_price": "Next Payment on {0}",
+    "upgrade_to": "Upgrade to {0}",
+    "billing_switch_monthly": "Switch to Monthly",
+    "billing_switch_yearly": "Switch to Yearly"
 }
