@@ -683,9 +683,9 @@
     "billing_no_cvv": "يرجى إدخال رمز الأمان",
     "servername_to_continue": "اكتب اسم سيرفر للمتابعة",
     "reset_settings_embed_no_effect": "رسائل الايمبد لن تتأثر من هذا الاجراء",
-    "billing_next_payment": "Next payment is {0} on {1}",
-    "billing_next_payment_without_price": "Next Payment on {0}",
-    "upgrade_to": "Upgrade to {0}",
-    "billing_switch_monthly": "Switch to Monthly",
-    "billing_switch_yearly": "Switch to Yearly"
+    "billing_next_payment": "الدفع القادم هي {0} في {1}",
+    "billing_next_payment_without_price": "الدفع القادم في {0}",
+    "upgrade_to": "ترقية الى {0}",
+    "billing_switch_monthly": "التبديل إلى شهري",
+    "billing_switch_yearly": "التبديل إلى السنوي"
 }
