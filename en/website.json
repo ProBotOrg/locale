@@ -691,5 +691,5 @@
     "billing_renew": "Renews on {0} for {1}",
     "billing_coupon_code": "Coupon code",
     "billing_invalid_coupon": "Invalid coupon code",
-    "billing_coupon_apply": "Apply"
+    "apply": "Apply"
 }
