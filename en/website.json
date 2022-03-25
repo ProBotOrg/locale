@@ -687,5 +687,6 @@
     "billing_next_payment_without_price" : "Next Payment on {0}",
     "upgrade_to" : "Upgrade to {0}",
     "billing_switch_monthly" : "Switch to Monthly",
-    "billing_switch_yearly" : "Switch to Yearly"
+    "billing_switch_yearly" : "Switch to Yearly",
+    "billing_no_coupon": "You must add Coupon Code"
 }
