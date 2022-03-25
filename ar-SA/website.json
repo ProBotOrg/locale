@@ -683,9 +683,13 @@
     "billing_no_cvv": "يرجى إدخال رمز الأمان",
     "servername_to_continue": "اكتب اسم سيرفر للمتابعة",
     "reset_settings_embed_no_effect": "رسائل الايمبد لن تتأثر من هذا الاجراء",
-    "billing_next_payment": "الدفعة القادم هي {0} في {1}",
     "billing_next_payment_without_price": "الدفعة القادم في {0}",
     "upgrade_to": "ترقية الى {0}",
     "billing_switch_monthly": "التبديل إلى شهري",
-    "billing_switch_yearly": "التبديل إلى السنوي"
+    "billing_switch_yearly": "التبديل إلى السنوي",
+    "billing_no_coupon": "You must add Coupon Code",
+    "billing_renew": "Renews on {0} for {1}",
+    "billing_coupon_code": "Coupon code",
+    "billing_invalid_coupon": "Invalid coupon code",
+    "apply": "Apply"
 }
