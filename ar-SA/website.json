@@ -687,9 +687,9 @@
     "upgrade_to": "ترقية الى {0}",
     "billing_switch_monthly": "التبديل إلى شهري",
     "billing_switch_yearly": "التبديل إلى السنوي",
-    "billing_no_coupon": "You must add Coupon Code",
-    "billing_renew": "Renews on {0} for {1}",
-    "billing_coupon_code": "Coupon code",
-    "billing_invalid_coupon": "Invalid coupon code",
-    "apply": "Apply"
+    "billing_no_coupon": "يجب عليك إضافة رمز القسيمة",
+    "billing_renew": "تجديد في {0} لـ {1}",
+    "billing_coupon_code": "رمز كوبون الخصم",
+    "billing_invalid_coupon": "رمز كوبون خاطئ",
+    "apply": "تطبيق"
 }
