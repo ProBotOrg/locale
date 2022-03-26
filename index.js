@@ -67,7 +67,7 @@ module.exports.webLangs = {
   sr: { name: "Српска", flag: "sr" },
   sv: { name: "svenska", flag: "sv" },
   th: { name: "Thai", flag: "th" },
-  vi: { name: "tiếng Việt", flag: "vi" },
+  vi: { name: "tiếng Việt", flag: "vn" },
   ckb: { name: "kurdî", flag: "kur" },
   da: { name: "dansk", flag: "dk" },
   fa: { name: "Persian", flag: "ir" },
