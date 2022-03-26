@@ -641,7 +641,7 @@
     "payment_history": "سجل الدفع",
     "payment_methods": "طرق الدفع",
     "cc_ends_with": "{0} ينتهي في {1}",
-    "billing": "الفاتورة",
+    "billing": "الفواتير",
     "billing_note": "ملاحظة: نحن نظهر ما يصل إلى سنة واحدة فقط من تاريخ الفواتير",
     "all_subscriptions": "جميع الاشتراكات",
     "premium_someone_else": "هذا السيرفر تم ترقيته بواسطة شخص آخر، اتصل به لإدارة فواتير البريميوم.",
@@ -682,5 +682,14 @@
     "billing_payment_declined": "عملية مرفوضة!",
     "billing_no_cvv": "يرجى إدخال رمز الأمان",
     "servername_to_continue": "اكتب اسم سيرفر للمتابعة",
-    "reset_settings_embed_no_effect": "رسائل الايمبد لن تتأثر من هذا الاجراء"
+    "reset_settings_embed_no_effect": "رسائل الايمبد لن تتأثر من هذا الاجراء",
+    "billing_next_payment_without_price": "الدفعة القادم في {0}",
+    "upgrade_to": "ترقية الى {0}",
+    "billing_switch_monthly": "التبديل إلى شهري",
+    "billing_switch_yearly": "التبديل إلى السنوي",
+    "billing_no_coupon": "يجب عليك إضافة رمز القسيمة",
+    "billing_renew": "تجديد في {0} لـ {1}",
+    "billing_coupon_code": "رمز كوبون الخصم",
+    "billing_invalid_coupon": "رمز كوبون خاطئ",
+    "apply": "تطبيق"
 }

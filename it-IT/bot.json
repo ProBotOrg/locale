@@ -340,7 +340,7 @@
 	"role_error_managed": ":rolling_eyes: - **{0}** è gestito da integrazione e non può essere assegnato.",
 	"jump_to_message": "Vai al messaggio",
 	"credits_no_reason": "Non è stata fornita una ragione.",
-	"removewarn_description": "Rimuovi gli avvertimenti per il server o per l'utente.",
+	"removewarn_description": "Rimuovi gli avvisi per il server o l'utente.",
 	"help_description": "Ti senti perso?",
 	"help_command_description": "Mostra i dettagli su come usare un comando.",
 	"roll_dice": "I dadi",
