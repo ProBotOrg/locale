@@ -687,9 +687,9 @@
     "upgrade_to": "Nâng cấp lên {0}",
     "billing_switch_monthly": "Chuyển sang gói tháng",
     "billing_switch_yearly": "Chuyển sang gói năm",
-    "billing_no_coupon": "You must add Coupon Code",
-    "billing_renew": "Renews on {0} for {1}",
-    "billing_coupon_code": "Coupon code",
-    "billing_invalid_coupon": "Invalid coupon code",
-    "apply": "Apply"
+    "billing_no_coupon": "Bạn phải thêm mã giảm giá",
+    "billing_renew": "Gia hạn vào {0} cho {1}",
+    "billing_coupon_code": "Mã giảm giá",
+    "billing_invalid_coupon": "Mã giảm giá không hợp lệ",
+    "apply": "Áp dụng"
 }
