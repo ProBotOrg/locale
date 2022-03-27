@@ -692,5 +692,6 @@
     "billing_coupon_code": "Coupon code",
     "billing_invalid_coupon": "Invalid coupon code",
     "apply": "Apply",
-    "premium_only": "Premium Only"
+    "premium_only": "Premium Only",
+    "generating_pdf": "Generating pdf"
 }
