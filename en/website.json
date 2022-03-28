@@ -693,5 +693,6 @@
     "billing_invalid_coupon": "Invalid coupon code",
     "apply": "Apply",
     "premium_only": "Premium Only",
-    "generating_pdf": "Generating pdf ..."
+    "generating_pdf": "Generating pdf ...",
+    "premium_change_avatar": "Change Avatar"
 }
