@@ -688,7 +688,7 @@
     "billing_switch_monthly": "التبديل إلى شهري",
     "billing_switch_yearly": "التبديل إلى السنوي",
     "billing_no_coupon": "يجب عليك إضافة رمز القسيمة",
-    "billing_renew": "تجديد في {0} لـ {1}",
+    "billing_renew": "تجديد في {0} بمقابل {1}",
     "billing_coupon_code": "رمز كوبون الخصم",
     "billing_invalid_coupon": "رمز كوبون خاطئ",
     "apply": "تطبيق"
