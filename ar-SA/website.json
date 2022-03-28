@@ -341,7 +341,7 @@
     "add_bot": "إضافة بوت",
     "ends": "ينتهي",
     "renews": "يتجدد",
-    "renew": "Renew",
+    "renew": "تجديد",
     "you_have_zero_premium": "أنت تمتلك 0 اشتراك بوت بريميوم.",
     "choose_payment_method": "اختر وسيلة الدفع",
     "are_you_sure": "هل أنت متأكد؟",
@@ -692,6 +692,6 @@
     "billing_coupon_code": "رمز كوبون الخصم",
     "billing_invalid_coupon": "رمز كوبون خاطئ",
     "apply": "تطبيق",
-    "premium_only": "Premium Only",
-    "premium_change_avatar": "Change Avatar"
+    "premium_only": "بريميوم فقط",
+    "premium_change_avatar": "تغير صورة"
 }
