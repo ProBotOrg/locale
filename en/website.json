@@ -675,7 +675,7 @@
     "billing_card_name": "Name on card",
     "billing_card_number": "Card number",
     "billing_card_expiry_date": "Expiry date",
-    "billing_card_security_code": "security code",
+    "billing_card_security_code": "Security code",
     "billing_update_payment": "Update Payment Method",
     "billing_method_updated": "Payment method updated!",
     "billing_recharged_success": "Your account has been recharged successfully!",
