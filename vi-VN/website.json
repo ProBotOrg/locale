@@ -341,7 +341,7 @@
     "add_bot": "Thêm bot",
     "ends": "kết thúc",
     "renews": "làm mới",
-    "renew": "Renew",
+    "renew": "Làm mới",
     "you_have_zero_premium": "Bạn đang có 0 gói đăng ký ProBot Premium.",
     "choose_payment_method": "Chọn phương thức thanh toán",
     "are_you_sure": "Bạn chắc chứ?",
@@ -692,6 +692,6 @@
     "billing_coupon_code": "Mã giảm giá",
     "billing_invalid_coupon": "Mã giảm giá không hợp lệ",
     "apply": "Áp dụng",
-    "premium_only": "Premium Only",
-    "premium_change_avatar": "Change Avatar"
+    "premium_only": "Dành cho Premium",
+    "premium_change_avatar": "Thay ảnh đại diện"
 }
