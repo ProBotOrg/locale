@@ -341,6 +341,7 @@
     "add_bot": "添加机器人",
     "ends": "结束",
     "renews": "续订",
+    "renew": "Renew",
     "you_have_zero_premium": "您有0个高级机器人",
     "choose_payment_method": "选择支付方式",
     "are_you_sure": "您确定吗？",
@@ -674,7 +675,7 @@
     "billing_card_name": "Name on card",
     "billing_card_number": "Card number",
     "billing_card_expiry_date": "Expiry date",
-    "billing_card_security_code": "Securiy code",
+    "billing_card_security_code": "Security code",
     "billing_update_payment": "Update Payment Method",
     "billing_method_updated": "Payment method updated!",
     "billing_recharged_success": "Your account has been recharged successfully!",
@@ -690,5 +691,7 @@
     "billing_renew": "Renews on {0} for {1}",
     "billing_coupon_code": "Coupon code",
     "billing_invalid_coupon": "Invalid coupon code",
-    "apply": "Apply"
+    "apply": "Apply",
+    "premium_only": "Premium Only",
+    "premium_change_avatar": "Change Avatar"
 }
