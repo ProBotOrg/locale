@@ -62,7 +62,7 @@ module.exports.webLangs = {
   ko: { name: "한국어", flag: "kr" },
   lt: { name: "Italian", flag: "lt" },
   no: { name: "Norsk", flag: "no" },
-  pl: { name: "Polish", flag: "pl" },
+  pl: { name: "Polski", flag: "pl" },
   pt_BR: { name: "portuguesa, brasileira", flag: "br" },
   sr: { name: "Српска", flag: "sr" },
   sv: { name: "svenska", flag: "sv" },
@@ -70,7 +70,7 @@ module.exports.webLangs = {
   vi: { name: "tiếng Việt", flag: "vn" },
   ckb: { name: "kurdî", flag: "kur" },
   da: { name: "dansk", flag: "dk" },
-  fa: { name: "Persian", flag: "ir" },
+  fa: { name: "فارسی", flag: "ir" },
   fi: { name: "suo̯mi", flag: "fi" },
   hr: { name: "xř̩ʋatski", flag: "hr" }
 };
