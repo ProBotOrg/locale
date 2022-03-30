@@ -696,5 +696,5 @@
     "premium_change_avatar": "Change Avatar",
     "trigger_required": "Trigger field is required",
     "trigger_exists": "Trigger already exists",
-    "role_under_position": "ProBot role position should be above this role"
+    "role_under_position": "ProBot should be in a role with higher position"
 }
