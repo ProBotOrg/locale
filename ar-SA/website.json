@@ -693,5 +693,9 @@
     "billing_invalid_coupon": "رمز كوبون خاطئ",
     "apply": "تطبيق",
     "premium_only": "بريميوم فقط",
-    "premium_change_avatar": "تغير صورة"
+    "premium_change_avatar": "تغير صورة",
+    "trigger_required": "Trigger field is required",
+    "trigger_exists": "Trigger already exists",
+    "role_under_position": "ProBot should be in a role with higher position",
+    "home": "Home"
 }
