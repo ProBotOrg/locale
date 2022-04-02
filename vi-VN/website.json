@@ -11,7 +11,7 @@
     "unban_description": "Bỏ cấm một thành viên.",
     "blacklisted_call_dramex": "Tài khoản của bạn đã bị chặn vì có hành vi đáng ngờ, vui lòng liên hệ @Dramex để biết thêm",
     "blacklisted_title": "Tài khoản của bạn đã bị chặn vì có hành vi đáng ngờ, vui lòng giải captcha để tiếp tục.",
-    "blacklisted_note": "Đây là vé dùng 1 lần, dừng phí phạm.",
+    "blacklisted_note": "Đây là vé dùng một lần, đừng phí phạm.",
     "aliases": "Lệnh phụ:",
     "examples": "Ví dụ:",
     "24/7_description": "Bật/tắt chế độ 24/7. Việc này sẽ khiến bot ngồi dính trong kênh voice cho đến khi bạn dừng nó.",
