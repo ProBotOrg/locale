@@ -38,7 +38,7 @@
 	"color_description": "Zmienia kolor ról.",
 	"colors_description": "Wyświetla wszystkie dostępne kolory.",
 	"title_description": "Zmienia Twój tytuł w komendzie `/profile`.",
-	"reset_description": "Resetuje statystyki tekstowe/głosowe, ilość zaproszeń, punkty xp wszystkich członków.",
+	"reset_description": "Reset text/voice/invites xp points for all members or specific members",
 	"rep_description": "Przyznaj komuś punkt reputacji. Funkcji można użyć raz na 24 godziny.",
 	"daily_description": "Odbierz swoją dzienną pensję.",
 	"vip_description": "Wyświetla informacje o Twoim bocie premium.",
