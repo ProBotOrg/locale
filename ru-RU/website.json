@@ -693,5 +693,9 @@
     "billing_invalid_coupon": "Недействительный код купона",
     "apply": "Применить",
     "premium_only": "Только Premium",
-    "premium_change_avatar": "Изменить аватар"
+    "premium_change_avatar": "Изменить аватар",
+    "trigger_required": "Trigger field is required",
+    "trigger_exists": "Trigger already exists",
+    "role_under_position": "ProBot should be in a role with higher position",
+    "home": "Home"
 }
