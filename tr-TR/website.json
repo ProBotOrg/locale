@@ -693,5 +693,9 @@
     "billing_invalid_coupon": "Geçersiz Kupon Kodu",
     "apply": "Uygula",
     "premium_only": "Premium Only",
-    "premium_change_avatar": "Avatar'ı Değiştir"
+    "premium_change_avatar": "Avatar'ı Değiştir",
+    "trigger_required": "Trigger field is required",
+    "trigger_exists": "Trigger already exists",
+    "role_under_position": "ProBot should be in a role with higher position",
+    "home": "Home"
 }
