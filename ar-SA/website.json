@@ -694,8 +694,8 @@
     "apply": "تطبيق",
     "premium_only": "بريميوم فقط",
     "premium_change_avatar": "تغير صورة",
-    "trigger_required": "Trigger field is required",
-    "trigger_exists": "Trigger already exists",
-    "role_under_position": "ProBot should be in a role with higher position",
-    "home": "Home"
+    "trigger_required": "حقل الرسالة مطلوب",
+    "trigger_exists": "هذا الحقل موجود مسبقا",
+    "role_under_position": "بروبوت يجب ان يكون في رتبة ترتيبها اعلى",
+    "home": "الصفحة الرئيسية"
 }
