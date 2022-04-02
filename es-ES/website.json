@@ -693,5 +693,9 @@
     "billing_invalid_coupon": "Invalid coupon code",
     "apply": "Apply",
     "premium_only": "Premium Only",
-    "premium_change_avatar": "Change Avatar"
+    "premium_change_avatar": "Change Avatar",
+    "trigger_required": "Trigger field is required",
+    "trigger_exists": "Trigger already exists",
+    "role_under_position": "ProBot should be in a role with higher position",
+    "home": "Home"
 }
