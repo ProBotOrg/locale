@@ -696,6 +696,6 @@
     "premium_change_avatar": "Thay ảnh đại diện",
     "trigger_required": "Yêu cầu nhập từ khóa",
     "trigger_exists": "Từ khóa này đã tồn tại",
-    "role_under_position": "ProBot should be in a role with higher position",
-    "home": "Home"
+    "role_under_position": "Probot cần có vai trò với vị trí cao hơn ",
+    "home": "Trang chủ"
 }
