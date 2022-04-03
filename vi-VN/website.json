@@ -694,8 +694,8 @@
     "apply": "Áp dụng",
     "premium_only": "Dành cho Premium",
     "premium_change_avatar": "Thay ảnh đại diện",
-    "trigger_required": "Trigger field is required",
-    "trigger_exists": "Trigger already exists",
+    "trigger_required": "Yêu cầu nhập từ khóa",
+    "trigger_exists": "Từ khóa này đã tồn tại",
     "role_under_position": "ProBot should be in a role with higher position",
     "home": "Home"
 }
