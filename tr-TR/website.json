@@ -696,6 +696,6 @@
     "premium_change_avatar": "Avatar'ı Değiştir",
     "trigger_required": "Trigger field is required",
     "trigger_exists": "Trigger already exists",
-    "role_under_position": "ProBot should be in a role with higher position",
-    "home": "Home"
+    "role_under_position": "ProBot daha yüksek pozisyondaki bir rolde olmalıdır",
+    "home": "Ana Sayfa"
 }
