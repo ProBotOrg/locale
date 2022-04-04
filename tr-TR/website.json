@@ -683,7 +683,6 @@
     "billing_no_cvv": "Lütfen CVV Girin",
     "servername_to_continue": "Devam Etmek için Sunucu Adını Yazın",
     "reset_settings_embed_no_effect": "Gömülü Mesajlar Etkilenmeyecek",
-    "billing_next_payment_without_price": "{0} Tarihinde Bir Sonraki Ödeme",
     "upgrade_to": "{0}'a Yükselt",
     "billing_switch_monthly": "Aylık Aboneliğe Geç",
     "billing_switch_yearly": "Yıllık Aboneliğe Geç",
