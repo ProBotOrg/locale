@@ -683,7 +683,6 @@
     "billing_no_cvv": "Please Enter CVV",
     "servername_to_continue": "Type the server name to continue",
     "reset_settings_embed_no_effect": "Embed messages will not be affected",
-    "billing_next_payment_without_price": "Next Payment on {0}",
     "upgrade_to": "Upgrade to {0}",
     "billing_switch_monthly": "Switch to Monthly",
     "billing_switch_yearly": "Switch to Yearly",
