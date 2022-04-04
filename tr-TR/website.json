@@ -697,5 +697,6 @@
     "trigger_required": "Tetikleyici alanı gerekli",
     "trigger_exists": "Tetikleyici zaten var",
     "role_under_position": "ProBot daha yüksek pozisyondaki bir rolde olmalıdır",
-    "home": "Ana Sayfa"
+    "home": "Ana Sayfa",
+    "auto_responder_response_required": "Response field is required"
 }
