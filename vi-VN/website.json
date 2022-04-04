@@ -683,7 +683,6 @@
     "billing_no_cvv": "Vui lòng nhập mã CVV",
     "servername_to_continue": "Nhập tên của server để tiếp tục",
     "reset_settings_embed_no_effect": "Các tin nhắn embed sẽ không bị ảnh hưởng",
-    "billing_next_payment_without_price": "Khoản thanh toán tiếp theo vào {0}",
     "upgrade_to": "Nâng cấp lên {0}",
     "billing_switch_monthly": "Chuyển sang gói tháng",
     "billing_switch_yearly": "Chuyển sang gói năm",
