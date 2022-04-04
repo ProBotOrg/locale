@@ -697,5 +697,6 @@
     "trigger_required": "Trigger field is required",
     "trigger_exists": "Trigger already exists",
     "role_under_position": "ProBot should be in a role with higher position",
-    "home": "Home"
+    "home": "Home",
+    "auto_responder_response_required": "Response field is required"
 }
