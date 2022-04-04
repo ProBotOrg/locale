@@ -697,5 +697,6 @@
     "trigger_required": "Yêu cầu nhập từ khóa",
     "trigger_exists": "Từ khóa này đã tồn tại",
     "role_under_position": "Probot cần có vai trò với vị trí cao hơn ",
-    "home": "Trang chủ"
+    "home": "Trang chủ",
+    "auto_responder_response_required": "Response field is required"
 }
