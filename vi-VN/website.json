@@ -436,7 +436,7 @@
     "leveling_default_levelup": "[user], bạn đã đạt **cấp [level]**! 🥳",
     "leveling_no_xp_channels": "Kênh không nhận XP",
     "leveling_note": "*Để tránh trường hợp spam, người dùng sẽ nhận một lượng xp ngẫu nhiên mỗi phút khi nhắn tin",
-    "leveling_variables": "[level] - cấp độ vừa đạt\n[oldLevel] - cấp độ trước đó\n[user] - nhắc tên người dùng\n[userName] - chỉ thay thế bằng tên người dùng\n[userTag] - nhãn người dùng",
+    "leveling_variables": "[level] - cấp độ mới đạt được\n[user] - nhắc tên người vừa lên cấp\n[user.name] - chỉ ghi tên người vừa lên cấp\n[user.tag] - để tag người vừa lên cấp",
     "leveling_add_role_reward": "Thêm vai trò thưởng",
     "Premium": "Premium",
     "LEADERBOARD": "bảng xếp hạng",
@@ -698,5 +698,5 @@
     "trigger_exists": "Từ khóa này đã tồn tại",
     "role_under_position": "Probot cần có vai trò với vị trí cao hơn ",
     "home": "Trang chủ",
-    "auto_responder_response_required": "Response field is required"
+    "auto_responder_response_required": "Yêu cầu nhập phản hồi"
 }
