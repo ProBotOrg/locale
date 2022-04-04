@@ -698,7 +698,7 @@
     "role_under_position": "ProBot should be in a role with higher position",
     "home": "Home",
     "auto_responder_response_required": "Response field is required",
-    "AUTOMOD_SPAM_INFO": "Detects when a user sends 5 messages during a 5 second timespan.",
+    "AUTOMOD_SPAM_INFO": "Detects when a user sends 5 messages during a 5 seconds timespan.",
     "AUTOMOD_BADWORDS_INFO": "Detects any message that contains a bad word.",
     "AUTOMOD_DUPS_INFO": "Detects a message that contains repeated text, as well as repeated newlines.",
     "AUTOMOD_REPEATED_INFO": "Detects any message that has been repeated before.",
