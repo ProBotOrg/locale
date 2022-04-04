@@ -683,7 +683,6 @@
     "billing_no_cvv": "Пожалуйста, введите CVV",
     "servername_to_continue": "Введите имя сервера, чтобы продолжить",
     "reset_settings_embed_no_effect": "Вложенные сообщения не будут затронуты",
-    "billing_next_payment_without_price": "Следующий платёж {0}",
     "upgrade_to": "Обновить до {0}",
     "billing_switch_monthly": "Переход на ежемесячный режим",
     "billing_switch_yearly": "Переход на ежегодный режим",
