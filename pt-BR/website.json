@@ -693,9 +693,9 @@
     "apply": "Aplicar",
     "premium_only": "Somente Premium",
     "premium_change_avatar": "Alterar Avatar",
-    "trigger_required": "Trigger field is required",
-    "trigger_exists": "Trigger already exists",
-    "role_under_position": "ProBot should be in a role with higher position",
-    "home": "Home",
-    "auto_responder_response_required": "Response field is required"
+    "trigger_required": "O campo Gatilho é obrigatório",
+    "trigger_exists": "O gatilho já existe",
+    "role_under_position": "O ProBot deve estar em um cargo com maior posição",
+    "home": "Casa",
+    "auto_responder_response_required": "O campo de resposta é obrigatório"
 }
