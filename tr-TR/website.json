@@ -185,7 +185,7 @@
     "channel": "Kanal",
     "hidden_channels": "Gizli Kanallar",
     "no_bots": "Botlar Yok",
-    "mod_roles": "Moderasyon Rolleri",
+    "mod_roles": "Moderatör Rolleri",
     "voice_mute_time": "ses kanalından manuel olarak susturma süresi",
     "ADD_ROLE": "Belirli rol ekle",
     "ROLE_LIMITS": "%ROLE_NAME% Sınırlar :",
