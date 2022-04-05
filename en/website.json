@@ -701,7 +701,7 @@
     "AUTOMOD_SPAM_INFO": "Detects when a user sends 5 messages during a 5 seconds timespan.",
     "AUTOMOD_BADWORDS_INFO": "Detects messages that contains a bad word.",
     "AUTOMOD_DUPS_INFO": "Detects a message that contains repeated text, as well as repeated newlines.",
-    "AUTOMOD_REPEATED_INFO": "Detects messages that has been repeated before.",
+    "AUTOMOD_REPEATED_INFO": "Detects messages that have been repeated before.",
     "AUTOMOD_DISCORD_INVITES_INFO": "Detects messages that contains discord links.",
     "AUTOMOD_LINKS_INFO": "Detects messages that contains a link.",
     "AUTOMOD_CAPS_INFO": "Detects messages that contains caps word (example of caps text: HELLO THIS IS PROBOT).",
