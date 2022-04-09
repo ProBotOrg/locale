@@ -699,7 +699,7 @@
     "home": "Home",
     "auto_responder_response_required": "Response field is required",
     "AUTOMOD_SPAM_INFO": "Detect when a user sends over 5 messages in 5 seconds.",
-    "AUTOMOD_BADWORDS_INFO": "Detect if the message contains a bad word or not.",
+    "AUTOMOD_BADWORDS_INFO": "Detect if the message contains a bad word.",
     "AUTOMOD_DUPS_INFO": "Detect if the message has repeated text & lines like SPAM SPAM SPAM SPAM.",
     "AUTOMOD_REPEATED_INFO": "Detect whether the message is sent more than once from the same user.",
     "AUTOMOD_DISCORD_INVITES_INFO": "Detect if the message contains a discord invitation link.",
