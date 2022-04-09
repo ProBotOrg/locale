@@ -170,7 +170,7 @@
     "send": "إرسال",
     "command": "الأمر",
     "message_on_link_request": "نص عند طلب الرابط",
-    "message_on_link_field": "ارسل رساله في السيرفر عند تعذر ارسال الرساله بالخاص",
+    "message_on_link_field": "إرسال رسالة في السيرفر عند تعذر إرسال الرسالة بالخاص",
     "text_with_link": "نص أعلى الرابط",
     "link_age": "عمر الرابط بالدقائق",
     "link_uses": "عدد استخدامات الرابط",
@@ -696,5 +696,14 @@
     "trigger_exists": "هذا الحقل موجود مسبقا",
     "role_under_position": "بروبوت يجب ان يكون في رتبة ترتيبها أعلى",
     "home": "الصفحة الرئيسية",
-    "auto_responder_response_required": "حقل الرد مطلوب"
+    "auto_responder_response_required": "حقل الرد مطلوب",
+    "AUTOMOD_SPAM_INFO": "Detect when a user sends over 5 messages in 5 seconds.",
+    "AUTOMOD_BADWORDS_INFO": "Detect if the message contains a bad word.",
+    "AUTOMOD_DUPS_INFO": "Detect if the message has repeated text & lines like SPAM SPAM SPAM SPAM.",
+    "AUTOMOD_REPEATED_INFO": "Detect whether the message is sent more than once from the same user.",
+    "AUTOMOD_DISCORD_INVITES_INFO": "Detect if the message contains a discord invitation link.",
+    "AUTOMOD_LINKS_INFO": "Detect if the message contains a link.",
+    "AUTOMOD_CAPS_INFO": "Detect if the message was sent with caps like: HELLO THIS IS PROBOT.",
+    "AUTOMOD_EMOJI_SPAM_INFO": "Detect if the message contains 8 emojis or more.",
+    "AUTOMOD_MASS_MENTION_INFO": "Detect if the message contains a mass amount of mentions (different users per mention)."
 }
