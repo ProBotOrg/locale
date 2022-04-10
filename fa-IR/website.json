@@ -705,5 +705,8 @@
     "AUTOMOD_LINKS_INFO": "بررسی می کند که آیا پیام حاوی یک لینک است یا خیر.",
     "AUTOMOD_CAPS_INFO": "بررسی می کند که آیا پیام با حروف بزرگ نوشته شده است یا خیر. مثل: HELLO THIS IS PROBOT.",
     "AUTOMOD_EMOJI_SPAM_INFO": "بررسی می کند که آیا پیام حاوی 8 ایموجی و یا بیشتر است یا خیر.",
-    "AUTOMOD_MASS_MENTION_INFO": "بررسی می کند که آیا پیام حاوی مقادیر زیادی از منشن‌ها می باشد یا خیر (منشن کردن چند کاربر متفاوت)"
+    "AUTOMOD_MASS_MENTION_INFO": "بررسی می کند که آیا پیام حاوی مقادیر زیادی از منشن‌ها می باشد یا خیر (منشن کردن چند کاربر متفاوت)",
+    "servers": "Servers",
+    "available_commands": "Available Commands",
+    "rights": "© {0} All rights reserved."
 }
