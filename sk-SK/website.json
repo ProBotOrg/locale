@@ -409,7 +409,7 @@
     "title": "ProBot - Bot pre Discord",
     "description": "Popis:",
     "lock_description": "Zakáže @everyone v odosielaní správ na konkrétny kanál.",
-    "unlock_description": "Odstráni odmietnuté odosielanie správ z @everyone v konkrétnom kanáli.",
+    "unlock_description": "Allows @everyone to send messages in specific channel.",
     "name_of_user": "Ukáže užívateľské meno, bez toho aby ho pingol.",
     "user_invites_counter": "Počítadlo pozvaní používateľa",
     "to_mention_author": "Uvádza používateľa, ktorý vyvolal odpoveď",
