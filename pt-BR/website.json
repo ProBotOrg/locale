@@ -705,5 +705,8 @@
     "AUTOMOD_LINKS_INFO": "Detectar se a mensagem contém um link.",
     "AUTOMOD_CAPS_INFO": "Detecta se a mensagem foi enviada com caps como: OLÁ, ISSO É PROBOT.",
     "AUTOMOD_EMOJI_SPAM_INFO": "Detectar se a mensagem contém 8 emojis ou mais.",
-    "AUTOMOD_MASS_MENTION_INFO": "Detectar se a mensagem contém uma quantidade massiva de menções (diferentes usuários por menção)."
+    "AUTOMOD_MASS_MENTION_INFO": "Detectar se a mensagem contém uma quantidade massiva de menções (diferentes usuários por menção).",
+    "servers": "Servers",
+    "available_commands": "Available Commands",
+    "rights": "© {0} All rights reserved."
 }
