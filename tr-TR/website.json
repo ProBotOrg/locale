@@ -409,7 +409,7 @@
     "title": "ProBot - Discord İçin Bot",
     "description": "Tanımlama:",
     "lock_description": "@everyone'ın belirli bir kanalda mesaj göndermesini engeller.",
-    "unlock_description": "@everyone'ın belirli bir kanalda mesaj gönderme engelini kaldırır.",
+    "unlock_description": "Allows @everyone to send messages in specific channel.",
     "name_of_user": "Kullanıcıyı etiketlemeden kullanıcının adını gösterir.",
     "user_invites_counter": "Kullanıcının davet sayacı",
     "to_mention_author": "yazan kişiden bahsetmek için",

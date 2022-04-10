@@ -409,7 +409,7 @@
     "title": "ProBot - Bot para o Discord",
     "description": "Descrição:",
     "lock_description": "Desabilita @everyone de enviar mensagens para um canal específico.",
-    "unlock_description": "Remove as mensagens negadas de @everyone no canal específico.",
+    "unlock_description": "Allows @everyone to send messages in specific channel.",
     "name_of_user": "Exibe o nome do usuário, sem mencionar o usuário.",
     "user_invites_counter": "Contador de convites do usuário",
     "to_mention_author": "Menciona o usuário que utilizou o comando",

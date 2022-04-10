@@ -409,7 +409,7 @@
     "title": "Probot - Bot cho Discord",
     "description": "Chi tiết:",
     "lock_description": "Chặn khả năng gửi tin nhắn của @everyone trong kênh được xác định.",
-    "unlock_description": "Bỏ chặn khả năng gửi tin nhắn của @everyone trong kênh được xác định.",
+    "unlock_description": "Allows @everyone to send messages in specific channel.",
     "name_of_user": "Hiện tiên người dùng nhưng không nhắc tên.",
     "user_invites_counter": "Bộ đếm lời mời người dùng",
     "to_mention_author": "Nhắc tên người dùng đã kích hoạt phản hồi",
