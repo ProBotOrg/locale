@@ -658,7 +658,7 @@
     "upgrade": "ارتقاء",
     "role_search": "جستجو با نام یا ID نقش",
     "type_here": "اینجا بنویسید ..",
-    "new_subscription": "اشتراک‌های جدید",
+    "new_subscription": "اشتراک جدید",
     "invoices_due_title": "{0} فاکتورهای سررسید",
     "invoices_due_description": "شما {0} فاکتور(های) پرداخت نشده فعلی دارید\nبا مقدار پول جاری ${1} دلار",
     "add_funds": "اضافه کردن وجه",
