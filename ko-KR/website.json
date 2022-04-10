@@ -409,7 +409,7 @@
     "title": "ProBot - Discord를 위한 봇",
     "description": "설명:",
     "lock_description": "@everyone이 특정 채널에서 메시지를 보낼 수 없도록 해요.",
-    "unlock_description": "@everyone이 특정 채널에서 메시지를 보낼 수 있도록 해요.",
+    "unlock_description": "Allows @everyone to send messages in specific channel.",
     "name_of_user": "멤버를 멘션하지 않고, 멤버 이름을 표시해요.",
     "user_invites_counter": "멤버의 초대 횟수를 표시해요",
     "to_mention_author": "응답을 요청한 멤버를 멘션해요",
