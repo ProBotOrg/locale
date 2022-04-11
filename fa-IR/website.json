@@ -708,5 +708,6 @@
     "AUTOMOD_MASS_MENTION_INFO": "بررسی می کند که آیا پیام حاوی مقادیر زیادی از منشن‌ها می باشد یا خیر (منشن کردن چند کاربر متفاوت)",
     "servers": "سرور",
     "available_commands": "دستور قابل استفاده",
-    "rights": "© {0} تمامی حقوق محفوظ است."
+    "rights": "© {0} تمامی حقوق محفوظ است.",
+    "index_join_community": "**Join Our** community now!"
 }
