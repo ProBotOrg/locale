@@ -708,5 +708,6 @@
     "AUTOMOD_MASS_MENTION_INFO": "Phản ứng nếu tin nhắn nhắc tên nhiều người dùng khác nhau.",
     "servers": "Server",
     "available_commands": "Các lệnh khả dụng",
-    "rights": "Mọi bản quyền thuộc về © {0}."
+    "rights": "Mọi bản quyền thuộc về © {0}.",
+    "index_join_community": "**Join Our** community now!"
 }
