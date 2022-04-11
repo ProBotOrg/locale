@@ -708,5 +708,6 @@
     "AUTOMOD_MASS_MENTION_INFO": "كشف اذا كانت الرسالة تحتوي على كمية كبيرة من المنشنات (مستخدمون مختلفون لكل منشن).",
     "servers": "السيرفرات",
     "available_commands": "الأوامر المتاحة",
-    "rights": "© {0} جميع الحقوق محفوظة."
+    "rights": "© {0} جميع الحقوق محفوظة.",
+    "index_join_community": "**Join Our** community now!"
 }
