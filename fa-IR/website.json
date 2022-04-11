@@ -409,7 +409,7 @@
     "title": "پروبات - یک بات برای دیسکورد",
     "description": "توضیحات:",
     "lock_description": "‎.در چنلی مشخص غیرفعال می کند @everyone فرستادن پیام توسط",
-    "unlock_description": "Allows @everyone to send messages in specific channel.",
+    "unlock_description": "‎.در چنلی مشخص فعال می کند @everyone فرستادن پیام توسط",
     "name_of_user": "نام کاربر را بدون اینکه آن کاربر پینگ شود، نشان می دهد.",
     "user_invites_counter": "شمارنده تعداد دعوت کاربر",
     "to_mention_author": "کاربری را که درخواست پاسخ داده را منشن می کند",
@@ -570,7 +570,7 @@
     "rr_requires_embed_2": " از اینجا ایمبد درست کنید.",
     "rr_embeds": "ایمبد ها",
     "rr_select_embed": "انتخاب یک ایمبد",
-    "rr_create_embed": "ساختن یک ایمبد!",
+    "rr_create_embed": "یک پیام ایمبد بسازید!",
     "rr_select_message": "انتخاب پیام",
     "daily": "دریافت جایزه روزانه",
     "cant_use_multi_devices": "شما نمی توانید از چند دستگاه استفاده کنید",
@@ -622,7 +622,7 @@
     "enterprise_features_1": "قابلیت های نسخه ویژه",
     "enterprise_features_2": "درخواست برای ویژگی های قابل شخصی سازی 😉",
     "enterprise_features_3": "پشتیبانی تلفنی 24/7",
-    "subscribe": "اشتراک",
+    "subscribe": "خرید اشتراک",
     "reasons_add": "افزودن",
     "premium_payment": "پرداخت",
     "premium_your_payments_methods": "کارت‌های اعتباری و نقدی شما",
@@ -636,7 +636,7 @@
     "manage_premium": "مدیریت پریمیوم",
     "manage": "مدیریت",
     "subscriptions": "اشتراک ها",
-    "tier": "رده",
+    "tier": "درجه",
     "payment_history": "تاریخچه پرداخت",
     "payment_methods": "روش‌های پرداخت",
     "cc_ends_with": "{0} پایان می‌یابد با {1}",
@@ -644,7 +644,7 @@
     "billing_note": "توجه: ما فقط تاریخچه صورتحساب ها را تا یک سال نمایش می دهیم",
     "all_subscriptions": "تمامی اشتراک‌ها",
     "premium_someone_else": "این سرور توسط شخص دیگری ارتقاء یافته. با ایشان برای صورتحساب های پریمیوم تماس بگیرید.",
-    "premium_activate": "اشتراک‌های فعال",
+    "premium_activate": "اشتراک فعال",
     "premium_cancel": "لغو اشتراک",
     "pay_annually_and_save": "سالیانه بپردازید و {0} صرفه‌جویی کنید",
     "per_month_billed_yearly": "{0} به ازای هر ماه در صورتحساب سالانه",
@@ -653,12 +653,12 @@
     "annual_billing": "صورتحساب سالانه",
     "current_plan": "پلن فعلی",
     "billing_period": "دوره صورتحساب",
-    "uninvited_subscription": "اشتراک‌های دعوت نشده",
+    "uninvited_subscription": "اشتراک‌ دعوت نشده",
     "unknown": "ناشناس",
     "upgrade": "ارتقاء",
     "role_search": "جستجو با نام یا ID نقش",
     "type_here": "اینجا بنویسید ..",
-    "new_subscription": "اشتراک‌های جدید",
+    "new_subscription": "اشتراک جدید",
     "invoices_due_title": "{0} فاکتورهای سررسید",
     "invoices_due_description": "شما {0} فاکتور(های) پرداخت نشده فعلی دارید\nبا مقدار پول جاری ${1} دلار",
     "add_funds": "اضافه کردن وجه",
@@ -697,13 +697,16 @@
     "role_under_position": "پروبات باید رولی بالاتر از این موقعیت داشته باشد",
     "home": "صفحه اصلی",
     "auto_responder_response_required": "فیلد پاسخ ضروری است",
-    "AUTOMOD_SPAM_INFO": "Detect when a user sends over 5 messages in 5 seconds.",
-    "AUTOMOD_BADWORDS_INFO": "Detect if the message contains a bad word.",
-    "AUTOMOD_DUPS_INFO": "Detect if the message has repeated text & lines like SPAM SPAM SPAM SPAM.",
-    "AUTOMOD_REPEATED_INFO": "Detect whether the message is sent more than once from the same user.",
-    "AUTOMOD_DISCORD_INVITES_INFO": "Detect if the message contains a discord invitation link.",
-    "AUTOMOD_LINKS_INFO": "Detect if the message contains a link.",
-    "AUTOMOD_CAPS_INFO": "Detect if the message was sent with caps like: HELLO THIS IS PROBOT.",
-    "AUTOMOD_EMOJI_SPAM_INFO": "Detect if the message contains 8 emojis or more.",
-    "AUTOMOD_MASS_MENTION_INFO": "Detect if the message contains a mass amount of mentions (different users per mention)."
+    "AUTOMOD_SPAM_INFO": "وقتی کاربری 5 پیام را کمتر از 5 ثانیه بفرستد، آن شناسایی می کند.",
+    "AUTOMOD_BADWORDS_INFO": "بررسی می کند که آیا پیام حاوی کلمات بد است یا خیر.",
+    "AUTOMOD_DUPS_INFO": "بررسی می کند که آیا پیام حاوی متنی تکرار شده است یا خیر مثل SPAM SPAM SPAM SPAM.",
+    "AUTOMOD_REPEATED_INFO": "بررسی می کند که آیا پیام بیش از یک بار توسط همان کاربر فرستاده شده یا خیر.",
+    "AUTOMOD_DISCORD_INVITES_INFO": "بررسی می کند که آیا پیام حاوی یک لینک دعوت سرور دیسکورد است یا خیر.",
+    "AUTOMOD_LINKS_INFO": "بررسی می کند که آیا پیام حاوی یک لینک است یا خیر.",
+    "AUTOMOD_CAPS_INFO": "بررسی می کند که آیا پیام با حروف بزرگ نوشته شده است یا خیر. مثل: HELLO THIS IS PROBOT.",
+    "AUTOMOD_EMOJI_SPAM_INFO": "بررسی می کند که آیا پیام حاوی 8 ایموجی و یا بیشتر است یا خیر.",
+    "AUTOMOD_MASS_MENTION_INFO": "بررسی می کند که آیا پیام حاوی مقادیر زیادی از منشن‌ها می باشد یا خیر (منشن کردن چند کاربر متفاوت)",
+    "servers": "Servers",
+    "available_commands": "Available Commands",
+    "rights": "© {0} All rights reserved."
 }
