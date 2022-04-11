@@ -708,5 +708,6 @@
     "AUTOMOD_MASS_MENTION_INFO": "Detectar se a mensagem contém uma quantidade massiva de menções (diferentes usuários por menção).",
     "servers": "Servers",
     "available_commands": "Available Commands",
-    "rights": "© {0} All rights reserved."
+    "rights": "© {0} All rights reserved.",
+    "index_join_community": "**Join Our** community now!"
 }
