@@ -708,5 +708,6 @@
     "AUTOMOD_MASS_MENTION_INFO": "Detect if the message contains a mass amount of mentions (different users per mention).",
     "servers": "Servers",
     "available_commands": "Available Commands",
-    "rights": "© {0} All rights reserved."
+    "rights": "© {0} All rights reserved.",
+    "stats_join_community": "**Join Our** community now!"
 }
