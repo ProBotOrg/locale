@@ -708,5 +708,6 @@
     "AUTOMOD_MASS_MENTION_INFO": "Mesajın çok sayıda bahsetme içerip içermediğini tespit edin (bahsetme başına farklı kullanıcılar).",
     "servers": "Servers",
     "available_commands": "Available Commands",
-    "rights": "© {0} All rights reserved."
+    "rights": "© {0} All rights reserved.",
+    "index_join_community": "**Join Our** community now!"
 }
