@@ -708,5 +708,6 @@
     "AUTOMOD_MASS_MENTION_INFO": "Deteta se a mensagem contém muitas menções (diferentes membros mencionados).",
     "servers": "Servidores",
     "available_commands": "Comandos Disponíveis",
-    "rights": "© {0} Todos os direitos reservados."
+    "rights": "© {0} Todos os direitos reservados.",
+    "index_join_community": "**Join Our** community now!"
 }
