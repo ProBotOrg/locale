@@ -678,8 +678,8 @@
     "AUTOMOD_CAPS_INFO": "Detecta se a mensagem foi enviada com caps como: OLÁ, ISSO É PROBOT.",
     "AUTOMOD_EMOJI_SPAM_INFO": "Detectar se a mensagem contém 8 emojis ou mais.",
     "AUTOMOD_MASS_MENTION_INFO": "Detectar se a mensagem contém uma quantidade massiva de menções (diferentes usuários por menção).",
-    "servers": "Servers",
-    "available_commands": "Available Commands",
-    "rights": "© {0} All rights reserved.",
-    "index_join_community": "**Join Our** community now!"
+    "servers": "Servidores",
+    "available_commands": "Comandos disponíveis",
+    "rights": "© {0} Todos os direitos reservados.",
+    "index_join_community": "**Junte-se à nossa** comunidade agora!"
 }
