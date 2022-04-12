@@ -706,8 +706,8 @@
     "AUTOMOD_CAPS_INFO": "Mesajın büyük harflerle gönderilip gönderilmediğini tespit edin: \"MERHABA! BU PROBOT.\" gibi.",
     "AUTOMOD_EMOJI_SPAM_INFO": "Mesajın 8 veya daha fazla emoji içerip içermediğini tespit edin.",
     "AUTOMOD_MASS_MENTION_INFO": "Mesajın çok sayıda bahsetme içerip içermediğini tespit edin (bahsetme başına farklı kullanıcılar).",
-    "servers": "Servers",
-    "available_commands": "Available Commands",
+    "servers": "Sunucular",
+    "available_commands": "Kullanılabilir Komutlar",
     "rights": "© {0} All rights reserved.",
     "index_join_community": "**Join Our** community now!"
 }
