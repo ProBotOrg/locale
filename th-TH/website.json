@@ -381,7 +381,7 @@
     "title": "ProBot - Bot สำหรับ Discord",
     "description": "คำอธิบาย :",
     "lock_description": "ปิดไม่ให้ @everyone ส่งข้อความในช่องทางที่ระบุ",
-    "unlock_description": "Allows @everyone to send messages in specific channel.",
+    "unlock_description": "ลบข้อความที่ถูกปฏิเสธจาก @everyone ในช่องทางที่ระบุ",
     "name_of_user": "แสดงชื่อผู้ใช้โดยไม่ต้องกล่าวถึงผู้ใช้",
     "user_invites_counter": "ตัวนับเชิญของผู้ใช้",
     "to_mention_author": "กล่าวถึงผู้ใช้ที่เรียกการตอบกลับ",
