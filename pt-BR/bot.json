@@ -340,7 +340,7 @@
 	"role_error_managed": ":rolling_eyes: - **{0}** é gerenciado pela integração e não pode ser dado.",
 	"jump_to_message": "Pular para mensagem",
 	"credits_no_reason": "Nenhum motivo fornecido",
-	"removewarn_description": "Remover avisos para o servidor ou usuário.",
+	"removewarn_description": "Removes warnings from all members or specific user.",
 	"help_description": "Feeling lost?",
 	"help_command_description": "Shows details about how to use a command.",
 	"roll_dice": "O dado",
