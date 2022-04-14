@@ -381,7 +381,7 @@
     "title": "ProBot - Bot pentru Discord",
     "description": "Descriere:",
     "lock_description": "Dezactivează @everyone de a trimite mesaje într-un canal specificat. ",
-    "unlock_description": "Allows @everyone to send messages in specific channel.",
+    "unlock_description": "Revocă interzicerea @everyone de a trimite mesaje într-un canal specificat.",
     "name_of_user": "Arată numele utilizatorului, fără a menționa utilizatorul.",
     "user_invites_counter": "Numărul de invitații ale unui utilizator",
     "to_mention_author": "Menționează utilizatorul care a invocat răspunsul",
