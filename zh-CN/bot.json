@@ -340,7 +340,7 @@
 	"role_error_managed": ":rolling_eyes: - **{0}** 是由集成管理，不能给出。",
 	"jump_to_message": "跳转到消息",
 	"credits_no_reason": "未提供原因",
-	"removewarn_description": "删除服务器或用户的警告。",
+	"removewarn_description": "Removes warnings from all members or specific user.",
 	"help_description": "感觉丢失了吗？",
 	"help_command_description": "显示如何使用命令的详细信息。",
 	"roll_dice": "那個骰子",
