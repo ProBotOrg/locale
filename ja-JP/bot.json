@@ -340,7 +340,7 @@
 	"role_error_managed": ":rolling_eyes: -**{0}**  統合によって管理されており、与えることはできません。",
 	"jump_to_message": "ページへ移動",
 	"credits_no_reason": "理由はありませんでした",
-	"removewarn_description": "サーバーまたはユーザーの警告を削除します。",
+	"removewarn_description": "Removes warnings from all members or specific user.",
 	"help_description": "なにかお困りですか？",
 	"help_command_description": "コマンドの使用方法を表示",
 	"roll_dice": "サイコロ",
