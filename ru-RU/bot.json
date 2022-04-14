@@ -340,7 +340,7 @@
 	"role_error_managed": ":rolling_eyes: - **{0}** — управляется интеграцией и не может быть назначена. ",
 	"jump_to_message": "Перейти к сообщению",
 	"credits_no_reason": "Причина не указана.",
-	"removewarn_description": "Удалить предупреждения сервера или пользователя.",
+	"removewarn_description": "Removes warnings from all members or specific user.",
 	"help_description": "Чувствуете себя потерянными?",
 	"help_command_description": "Подробная информация о том, как пользоваться командой.",
 	"roll_dice": "Кубики",
