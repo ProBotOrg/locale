@@ -340,7 +340,7 @@
 	"role_error_managed": ":rolling_eyes: - **{0}** je riadený integráciou a nemožno ho uviesť.",
 	"jump_to_message": "Prejsť na správu",
 	"credits_no_reason": "Žiadny uvedený dôvod.",
-	"removewarn_description": "Odstráňte varovania pre server alebo používateľa.\n",
+	"removewarn_description": "Removes warnings from all members or specific user.",
 	"help_description": "Cítiš sa stratený?",
 	"help_command_description": "Ukazuje podrobnosti o tom, ako používať príkaz.",
 	"roll_dice": "Kocky",
