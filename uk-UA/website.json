@@ -381,7 +381,7 @@
     "title": "ProBot - Бот для Discord",
     "description": "Опис:",
     "lock_description": "Забороняє @everyone надсилати повідомлення у конкретному каналі.",
-    "unlock_description": "Allows @everyone to send messages in specific channel.",
+    "unlock_description": "Видаляє заборонене надсилання повідомлень від @everyone у конкретному каналі.",
     "name_of_user": "Відображає ім'я користувача без згадування.",
     "user_invites_counter": "Лічильник запрошень користувача",
     "to_mention_author": "згадати автора",
