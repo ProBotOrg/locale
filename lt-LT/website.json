@@ -381,7 +381,7 @@
     "title": "ProBot - Robotas Discord programai. ",
     "description": "Aprašymas:",
     "lock_description": "Neleidžiama @everyone tam tikrame kanale siųsti žinučių.",
-    "unlock_description": "Allows @everyone to send messages in specific channel.",
+    "unlock_description": "Pašalinamas draudimas @everyone tam tikrame kanale siųsti žinutes.",
     "name_of_user": "Rodo vartotojo vardą, nepažymint jo. ",
     "user_invites_counter": "Vartotojo pakvietimų skaičius",
     "to_mention_author": "Nurodo vartotoją, kuris iškvietė atsakymą",
