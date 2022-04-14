@@ -340,7 +340,7 @@
 	"role_error_managed": ":rolling_eyes: - **{0}** jest zarządzany przez integrację i nie można go podać.",
 	"jump_to_message": "Przejdź do wiadomości",
 	"credits_no_reason": "Nie podano powodu.",
-	"removewarn_description": "Usuń ostrzeżenia dla serwera lub użytkownika.",
+	"removewarn_description": "Removes warnings from all members or specific user.",
 	"help_description": "Nie wiesz co masz zrobić?",
 	"help_command_description": "Pokazuje szczegóły jak używać komendy.",
 	"roll_dice": "Kości",
