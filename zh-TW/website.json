@@ -381,7 +381,7 @@
     "title": "ProBot - 用於Discord的機器人",
     "description": "描述:",
     "lock_description": "禁止所有人在特定頻道裡傳送訊息",
-    "unlock_description": "Allows @everyone to send messages in specific channel.",
+    "unlock_description": "移除 @everyone 傳送訊息的權限",
     "name_of_user": "在不提及的狀況下顯示使用者名稱",
     "user_invites_counter": "使用者邀請統計",
     "to_mention_author": "提及觸發回覆的使用者",
