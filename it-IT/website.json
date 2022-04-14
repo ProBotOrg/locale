@@ -381,7 +381,7 @@
     "title": "ProBot - bot per discord",
     "description": "Descrizione: ",
     "lock_description": "Disabilità il permesso d'inviare messaggi dal ruolo @everyone per un canale specifico",
-    "unlock_description": "Allows @everyone to send messages in specific channel.",
+    "unlock_description": "Rimuove l'invio dei messaggi negati da @everyone nel canale specifico.",
     "name_of_user": "Visualizza il nome dell'utente, senza pingarlo. ",
     "user_invites_counter": "Contatore inviti dell'utente",
     "to_mention_author": "Menziona l'utente che ha invocato la risposta",
