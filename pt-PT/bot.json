@@ -18,7 +18,7 @@
 	"vmute_description": "Muta um membro dos canais de voz para que não possa falar. ",
 	"unvmute_description": "Desmuta um membro para falar nos canais de voz. ",
 	"move_description": "Move um membro para outro canal de voz. ",
-	"role_description": "Add/remove cargo(s) de um usuário. ",
+	"role_description": "Add/remove cargo(s) de um utilizador.",
 	"warn_description": "Avisa um membro. ",
 	"setcolor_description": "Muda a cor do cargo por código hexadecimal.",
 	"warnings_description": "Obtém a lista de advertências do servidor ou utilizador.",
