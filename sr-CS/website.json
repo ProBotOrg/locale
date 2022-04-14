@@ -381,7 +381,7 @@
     "title": "ProBot - Bot for Discord",
     "description": "Opis:",
     "lock_description": "Onemogućava @everyone slanje poruka u određenim kanalima.",
-    "unlock_description": "Allows @everyone to send messages in specific channel.",
+    "unlock_description": "Uklanja odbijanje slanja poruka od @everyone u određenim kanalima.",
     "name_of_user": "Displays the user's name, without pinging the user.",
     "user_invites_counter": "User's invite counter",
     "to_mention_author": "Mentions the user who invoked the response",
