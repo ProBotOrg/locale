@@ -681,5 +681,6 @@
     "servers": "سرور",
     "available_commands": "دستور قابل استفاده",
     "rights": "© {0} تمامی حقوق محفوظ است.",
-    "index_join_community": "**همین الان** به جمعی از ما بپیوندید!"
+    "index_join_community": "**همین الان** به جمعی از ما بپیوندید!",
+    "protection_roles_adminstrative": "ProBot will prevent these roles from having administrative permissions by removing the permissions when given."
 }
