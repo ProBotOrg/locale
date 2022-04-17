@@ -681,5 +681,6 @@
     "servers": "Servidores",
     "available_commands": "Comandos Disponíveis",
     "rights": "© {0} Todos os direitos reservados.",
-    "index_join_community": "**Join Our** community now!"
+    "index_join_community": "**Join Our** community now!",
+    "protection_roles_adminstrative": "ProBot will prevent these roles from having administrative permissions by removing the permissions when given."
 }
