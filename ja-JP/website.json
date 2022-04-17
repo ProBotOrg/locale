@@ -381,7 +381,7 @@
     "title": "ProBot - Discord向けの《優秀な多機能ボット》",
     "description": "説明:",
     "lock_description": "@everyone を特定のチャンネルで送信禁止にします",
-    "unlock_description": "Allows @everyone to send messages in specific channel.",
+    "unlock_description": "特定のチャンネルの @everyone からのメッセージ送信を拒否する",
     "name_of_user": "呼び出したユーザーの名前を表示します",
     "user_invites_counter": "招待した回数を表示",
     "to_mention_author": "呼び出したユーザーにメンションします",

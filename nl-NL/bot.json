@@ -340,7 +340,7 @@
 	"role_error_managed": ":rolling_eyes: - **{0}** wordt beheerd door de integratie en kan niet worden opgegeven.",
 	"jump_to_message": "Ga naar bericht",
 	"credits_no_reason": "Geen reden opgegeven.",
-	"removewarn_description": "Verwijder waarschuwingen voor de server of gebruiker.",
+	"removewarn_description": "Removes warnings from all members or specific user.",
 	"help_description": "Verloren voelen?",
 	"help_command_description": "Laat details zien over hoe een opdracht moet worden gebruikt.",
 	"roll_dice": "De dobbelsteen",

@@ -381,7 +381,7 @@
     "title": "پڕوبۆت - ڕۆبۆتێک بۆ دیسکۆرد",
     "description": "دەربارە :",
     "lock_description": "ناچاڵاک کردنی رۆڵی @everyone لە ناردنی نامە لەناو ژورێکی دیاریکراو.",
-    "unlock_description": "Allows @everyone to send messages in specific channel.",
+    "unlock_description": "چاڵاک کردنەوەی ناردنی نامە بۆ رۆڵی  @everyone لە ژورێکی دیاری کراودا ئەگەر ناچاڵاک کرابێت.",
     "name_of_user": "Displays the user's name, without pinging the user.",
     "user_invites_counter": "User's invite counter",
     "to_mention_author": "Mentions the user who invoked the response",

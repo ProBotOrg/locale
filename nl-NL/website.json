@@ -381,7 +381,7 @@
     "title": "ProBot - Bot voor Discord",
     "description": "Beschrijving:",
     "lock_description": "Schakelt @everyone berichten uit in een specifiek kanaal.",
-    "unlock_description": "Allows @everyone to send messages in specific channel.",
+    "unlock_description": "Verwijder de @everyone blokkade, in een specifiek kanaal.",
     "name_of_user": "Geeft de naam van de gebruiker weer zonder de gebruiker in te klappen.",
     "user_invites_counter": "Uitnodigingsteller van gebruiker",
     "to_mention_author": "om de auteur te noemen",

@@ -381,7 +381,7 @@
     "title": "ProBot - Bot dla platformy Discord",
     "description": "Opis:",
     "lock_description": "Uniemożliwia roli @everyone wysyłanie wiadomości na określonym kanale.",
-    "unlock_description": "Allows @everyone to send messages in specific channel.",
+    "unlock_description": "Anuluje zakaz wysyłania wiadomości od @everyone na określonym kanale.",
     "name_of_user": "Wyświetla nazwę użytkownika bez pingowania użytkownika.",
     "user_invites_counter": "Licznik zaproszeń użytkownika",
     "to_mention_author": "Wspomina użytkownika, który wywołał odpowiedź",

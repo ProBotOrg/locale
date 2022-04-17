@@ -381,7 +381,7 @@
     "title": "ProBot - Bot pro Discord",
     "description": "Popis:",
     "lock_description": "Zakáže @everyone posílat zprávy ve specifickém kanále.",
-    "unlock_description": "Allows @everyone to send messages in specific channel.",
+    "unlock_description": "Odebere zakázání posílání zpráv od @everyone ve specifickém kanálu.",
     "name_of_user": "Zobrazí jméno uživatele bez zmínky.",
     "user_invites_counter": "Počitadlo pozvánek uživatele",
     "to_mention_author": "Zmíní uživatele, který vykonal odpověď",

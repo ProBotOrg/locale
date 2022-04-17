@@ -340,7 +340,7 @@
 	"role_error_managed": ":rolling_eyes: - **{0}** 역할은 연동으로 관리되어 줄 수 없어요.",
 	"jump_to_message": "메시지로 이동하기",
 	"credits_no_reason": "사유가 제공되지 않았어요",
-	"removewarn_description": "서버 또는 멤버의 경고를 제거해요.",
+	"removewarn_description": "Removes warnings from all members or specific user.",
 	"help_description": "도움이 필요하신가요?",
 	"help_command_description": "명령어 사용법을 상세하게 알려줘요.",
 	"roll_dice": "최대 주사위 수",

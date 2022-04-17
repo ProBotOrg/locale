@@ -340,7 +340,7 @@
 	"role_error_managed": ":rolling_eyes: - **{0}** wird von der Integration verwaltet und kann nicht vergeben werden.",
 	"jump_to_message": "Zur Nachricht springen",
 	"credits_no_reason": "Es wurde kein Grund angegeben.",
-	"removewarn_description": "Warnungen für Server oder Benutzer entfernen.",
+	"removewarn_description": "Removes warnings from all members or specific user.",
 	"help_description": "Fühlen Sie sich verloren?",
 	"help_command_description": "Zeigt Details über die Verwendung eines Befehls.",
 	"roll_dice": "Der Würfel",

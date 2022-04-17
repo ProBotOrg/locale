@@ -381,7 +381,7 @@
     "title": "ProBot - Bot Discordhoz",
     "description": "Leírás:",
     "lock_description": "Letilt @mindenkit egy megadott csatornán való írásról.",
-    "unlock_description": "Allows @everyone to send messages in specific channel.",
+    "unlock_description": "Eltávolítja az elutasított üzenetküldési jogot @mindenkitől egy megadott csatornán.",
     "name_of_user": "Megjeleníti a felhasználó nevét a megemlítése nélkül.",
     "user_invites_counter": "Felhasználó meghívás számlálója",
     "to_mention_author": "Megemlíti a választ kérő felhasználót",

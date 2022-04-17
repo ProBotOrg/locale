@@ -381,7 +381,7 @@
     "title": "ProBot - Bot pour Discord",
     "description": "Description:",
     "lock_description": "Empecher @everyone d'envoyer des messages dans un salon spécifique.",
-    "unlock_description": "Allows @everyone to send messages in specific channel.",
+    "unlock_description": "Retire les erreurs des messages non envoyés de @everyone dans un salon spécifique.",
     "name_of_user": "Afficher le nom de l'utilisateur, sans mentionner l'utilisateur.",
     "user_invites_counter": "Compteur d'invitations de l'utilisateur",
     "to_mention_author": "Mentionne l'utilisateur qui a invoqué la réponse.",

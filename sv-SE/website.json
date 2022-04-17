@@ -381,7 +381,7 @@
     "title": "ProBot - Bot for Discord",
     "description": "beskrivning:",
     "lock_description": "inaktiverar @everyone från att skriva i detta specifika chatten.",
-    "unlock_description": "Allows @everyone to send messages in specific channel.",
+    "unlock_description": "Tar bort meddelanden som nekats från @everyone i en specifik kanal.\n",
     "name_of_user": "Displays the user's name, without pinging the user.",
     "user_invites_counter": "User's invite counter",
     "to_mention_author": "Mentions the user who invoked the response",

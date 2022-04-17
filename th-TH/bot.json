@@ -340,7 +340,7 @@
 	"role_error_managed": ":rolling_eyes:  - **{0}** ถูกจัดการโดยแบบผสมและไม่สามารถให้ได้",
 	"jump_to_message": "ไปที่ข้อความ",
 	"credits_no_reason": "ไม่ได้ระบุเหตุผล",
-	"removewarn_description": "ลบคำเตือนสำหรับเซิร์ฟเวอร์หรือผู้ใช้",
+	"removewarn_description": "Removes warnings from all members or specific user.",
 	"help_description": "รู้สึกสูญเสีย?",
 	"help_command_description": "แสดงรายละเอียดเกี่ยวกับวิธีการใช้คำสั่ง",
 	"roll_dice": "ลูกเต๋า",

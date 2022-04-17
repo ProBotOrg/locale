@@ -381,7 +381,7 @@
     "title": "ProBot-Discord机器人",
     "description": "描述：",
     "lock_description": "禁用 @所有人在指定频道发送消息。",
-    "unlock_description": "Allows @everyone to send messages in specific channel.",
+    "unlock_description": "移除在指定频道中@所有人发送消息的限制。",
     "name_of_user": "显示用户的名字，同时不影响用户。",
     "user_invites_counter": "用户邀请计数器",
     "to_mention_author": "向创始人提示",
