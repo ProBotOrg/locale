@@ -340,7 +340,7 @@
 	"role_error_managed": ":rolling_eyes: **{0}** entegrasyonla yönetilir ve verilemez.",
 	"jump_to_message": "Mesaja Git",
 	"credits_no_reason": "Bir sebep belirtilmedi",
-	"removewarn_description": "Removes warnings from all members or specific user.",
+	"removewarn_description": "Tüm üyelerden veya belirli bir kullanıcıdan uyarıları kaldırır.",
 	"help_description": "Kayıp olmuş mu hissediyorsun?",
 	"help_command_description": "Bir komutun nasıl kullanılacağıyla ilgili ayrıntıları gösterir.",
 	"roll_dice": "Zar",
