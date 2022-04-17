@@ -681,5 +681,6 @@
     "servers": "Server",
     "available_commands": "Các lệnh khả dụng",
     "rights": "Mọi bản quyền thuộc về © {0}.",
-    "index_join_community": "**Tham gia** cộng đồng của chúng tôi nào!"
+    "index_join_community": "**Tham gia** cộng đồng của chúng tôi nào!",
+    "protection_roles_adminstrative": "ProBot will prevent these roles from having administrative permissions by removing the permissions when given."
 }
