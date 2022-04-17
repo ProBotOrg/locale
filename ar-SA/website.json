@@ -681,5 +681,6 @@
     "servers": "السيرفرات",
     "available_commands": "الأوامر المتاحة",
     "rights": "© {0} جميع الحقوق محفوظة.",
-    "index_join_community": "**انضم الى** مجتمعنا الأن!"
+    "index_join_community": "**انضم الى** مجتمعنا الأن!",
+    "protection_roles_adminstrative": "ProBot will prevent these roles from having administrative permissions by removing the permissions when given."
 }
