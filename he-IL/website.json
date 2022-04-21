@@ -390,7 +390,7 @@
     "link_command": "#link",
     "link_onorder": " ** The link was sent to your DM **",
     "link_onlink": " Link ends in: ** 1 day **\nLink can be used: ** 3 times **",
-    "link_onfiald": "** I coudn't sent a DM to you. Check your privacy settings **",
+    "link_onfiald": "** I couldn't send a DM to you. Check your privacy settings **",
     "link_waittext": "** You must wait 6 hours before requesting a new link \n ⏰[time] **",
     "leveling_title": "Leveling System",
     "leveling_levelup_message": "TEXT LEVELING UP Message",
