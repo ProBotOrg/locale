@@ -390,7 +390,7 @@
     "link_command": "#link",
     "link_onorder": " ** L'invito ti è stato inviato in DM **",
     "link_onlink": " L'invito scade tra: ** 1 giorno **\nL'invito può essere utilizzato: ** 3 volte **",
-    "link_onfiald": "** non sono riuscito ad inviarti l'invito in dm. Controlla le tue impostazioni di privacy**",
+    "link_onfiald": "** Non ho potuto inviarti un DM. Controlla le tue impostazioni sulla privacy **",
     "link_waittext": "** Devi attendere 6 ore prima di richiedere un nuovo invito\n ⏰[time]**",
     "leveling_title": "Sistema di livelli",
     "leveling_levelup_message": "Messaggio di LEVEL-UP",
@@ -681,5 +681,6 @@
     "servers": "Servers",
     "available_commands": "Available Commands",
     "rights": "© {0} All rights reserved.",
-    "index_join_community": "**Join Our** community now!"
+    "index_join_community": "**Join Our** community now!",
+    "protection_roles_adminstrative": "ProBot will prevent these roles from having administrative permissions by removing the permissions when given."
 }

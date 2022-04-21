@@ -681,5 +681,6 @@
     "servers": "Server",
     "available_commands": "Các lệnh khả dụng",
     "rights": "Mọi bản quyền thuộc về © {0}.",
-    "index_join_community": "**Tham gia** cộng đồng của chúng tôi nào!"
+    "index_join_community": "**Tham gia** cộng đồng của chúng tôi nào!",
+    "protection_roles_adminstrative": "Probot sẽ gỡ bỏ quyền quản lý cho những vai trò này nếu chúng được cho nhằm tránh tình trạng lạm quyền của quản trị viên."
 }
