@@ -37,7 +37,7 @@
 	"credits_description": "Mostra seu saldo, ou de outro usuário, e transfere créditos para alguém.",
 	"color_description": "Muda a cor de um cargo.",
 	"colors_description": "Lista todas as cores disponíveis.",
-	"title_description": "Muda o seu título no comando #profile.",
+	"title_description": "Altera o seu título no comando `/profile`.",
 	"reset_description": "Reseta os pontos de xp de texto/voz/convites de todos os membros.",
 	"rep_description": "Recompensa alguém com um ponto de reputação. Pode apenas ser usado uma vez a cada 24 horas.",
 	"daily_description": "Dá seu salário diário.",
