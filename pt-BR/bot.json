@@ -431,7 +431,7 @@
 	"vol_amount_description": "Digite o valor para definir.",
 	"resume_description": "Retoma a faixa atualmente pausada.",
 	"setlang_description": "Define o idioma de sua preferência para o bot.",
-	"setlang_language_description": "Idioma para o qual mudar.",
+	"setlang_language_description": "Idioma para alterar.",
 	"unmute_description": "Revoga o comando #mute.",
 	"muted_both": ":white_check_mark: **@{0} silenciado tanto por texto quanto por voz! :zipper_mouth:**"
 }
