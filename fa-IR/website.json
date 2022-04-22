@@ -504,7 +504,7 @@
     "users_amount": "تعداد کاربران",
     "reset_settings_confirm": "آیا مطمئن هستید که می‌خواهید تنظیمات را بازنشانی کنید؟",
     "reset_settings_warn": "این عمل غیرقابل بازگشت است!",
-    "reset_settings": "بازنشاني تنظيمات",
+    "reset_settings": "بازنشانی تنظيمات",
     "only_owner_reset_settings": "فقط مالک سرور می تواند تنظیمات را بازنشانی کند",
     "add_message": "افزودن پیام",
     "reaction_roles": "نقش های بازخوردی",
