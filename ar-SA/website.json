@@ -684,5 +684,7 @@
     "index_join_community": "**انضم الى** مجتمعنا الأن!",
     "protection_roles_adminstrative": "بروبوت سيمنع هذه الرتب من الحصول على صلاحيات إدارية عن طريق إزالة الصلاحيات عند منحها.",
     "loading": "جارٍ التحميل...",
-    "no_option": "لا توجد خيارات"
+    "no_option": "لا توجد خيارات",
+    "protection_role_access": "ProBot will prevent these roles from given / removed from other members.",
+    "MEMBERS_IDS": "Members ids"
 }
