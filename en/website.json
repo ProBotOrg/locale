@@ -683,5 +683,6 @@
     "rights": "© {0} All rights reserved.",
     "index_join_community": "**Join Our** community now!",
     "protection_roles_adminstrative": "ProBot will prevent these roles from having administrative permissions by removing the permissions when given.",
-    "loading": "Loading ..."
+    "loading": "Loading ...",
+    "no_option": "No options"
 }
