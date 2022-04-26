@@ -684,5 +684,7 @@
     "index_join_community": "Topluluğumuza Şimdi **Katılın!**",
     "protection_roles_adminstrative": "ProBot, bir role yönetici izinleri verildiğinde, bu izinleri kaldırarak rollerin yönetici izinlerine sahip olmasını engelleyecektir.",
     "loading": "Loading ...",
-    "no_option": "No options"
+    "no_option": "No options",
+    "protection_role_access": "ProBot will prevent these roles from given / removed from other members.",
+    "MEMBERS_IDS": "Members ids"
 }
