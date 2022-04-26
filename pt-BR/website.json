@@ -684,5 +684,7 @@
     "index_join_community": "**Junte-se à nossa** comunidade agora!",
     "protection_roles_adminstrative": "O ProBot impedirá que esses cargos tenham permissões administrativas removendo as permissões quando fornecidas.",
     "loading": "Loading ...",
-    "no_option": "No options"
+    "no_option": "No options",
+    "protection_role_access": "ProBot will prevent these roles from given / removed from other members.",
+    "MEMBERS_IDS": "Members ids"
 }
