@@ -682,5 +682,7 @@
     "available_commands": "Доступні команди",
     "rights": "© {0} Всі права захищені.",
     "index_join_community": "**Приєднуйся до нас** зараз!",
-    "protection_roles_adminstrative": "ProBot will prevent these roles from having administrative permissions by removing the permissions when given."
+    "protection_roles_adminstrative": "ProBot will prevent these roles from having administrative permissions by removing the permissions when given.",
+    "loading": "Loading ...",
+    "no_option": "No options"
 }
