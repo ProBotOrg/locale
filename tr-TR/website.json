@@ -682,5 +682,7 @@
     "available_commands": "Kullanılabilir Komutlar",
     "rights": "© {0} Tüm Hakları Saklıdır",
     "index_join_community": "Topluluğumuza Şimdi **Katılın!**",
-    "protection_roles_adminstrative": "ProBot, bir role yönetici izinleri verildiğinde, bu izinleri kaldırarak rollerin yönetici izinlerine sahip olmasını engelleyecektir."
+    "protection_roles_adminstrative": "ProBot, bir role yönetici izinleri verildiğinde, bu izinleri kaldırarak rollerin yönetici izinlerine sahip olmasını engelleyecektir.",
+    "loading": "Loading ...",
+    "no_option": "No options"
 }
