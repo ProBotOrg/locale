@@ -21,7 +21,7 @@
 	"role_description": "إضافة او إزالة مستخدم من رول.",
 	"warn_description": "تحذير العضو.",
 	"setcolor_description": "تغيير لون رول عن طريق الـHex Code.",
-	"warnings_description": "الحصول على انذارات العضو.",
+	"warnings_description": "الحصول على إنذارات العضو.",
 	"setnick_description": "تغيير لقب العضو.",
 	"play_description": "أضف أغنية لقائمة الانتظار وتشغيلها.",
 	"skip_description": "تخطي المقطع الحالي.",
