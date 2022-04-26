@@ -400,7 +400,7 @@
     "leveling_rewarded_role": "رول المُكافَئة",
     "leveling_remove_with_higher": "إزالة رتبة الريوارد السابقة عند الحصول على رتبة أعلى منها",
     "leveling_DM": "تهنِئة العضو بالخاص",
-    "leveling_actions": "إجراءات",
+    "leveling_actions": "الإجراءات",
     "leveling_current_channel": "بالروم الحالي",
     "leveling_disabled": "مُعطل",
     "leveling_no_xp_roles": "رتب بدون XP",
@@ -683,6 +683,6 @@
     "rights": "© {0} جميع الحقوق محفوظة.",
     "index_join_community": "**انضم الى** مجتمعنا الأن!",
     "protection_roles_adminstrative": "بروبوت سيمنع هذي الرتب من الحصول على صلاحيات ادارية عن طريق إزالة صلاحيات عند منحها.",
-    "loading": "Loading ...",
-    "no_option": "No options"
+    "loading": "جارٍ التحميل...",
+    "no_option": "لا توجد خيارات"
 }
