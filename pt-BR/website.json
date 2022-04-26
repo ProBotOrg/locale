@@ -682,5 +682,7 @@
     "available_commands": "Comandos disponíveis",
     "rights": "© {0} Todos os direitos reservados.",
     "index_join_community": "**Junte-se à nossa** comunidade agora!",
-    "protection_roles_adminstrative": "O ProBot impedirá que esses cargos tenham permissões administrativas removendo as permissões quando fornecidas."
+    "protection_roles_adminstrative": "O ProBot impedirá que esses cargos tenham permissões administrativas removendo as permissões quando fornecidas.",
+    "loading": "Loading ...",
+    "no_option": "No options"
 }
