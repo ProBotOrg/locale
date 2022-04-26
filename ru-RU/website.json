@@ -678,8 +678,8 @@
     "AUTOMOD_CAPS_INFO": "Detect if the message was sent with caps like: HELLO THIS IS PROBOT.",
     "AUTOMOD_EMOJI_SPAM_INFO": "Detect if the message contains 8 emojis or more.",
     "AUTOMOD_MASS_MENTION_INFO": "Detect if the message contains a mass amount of mentions (different users per mention).",
-    "servers": "Servers",
-    "available_commands": "Available Commands",
+    "servers": "Серверы",
+    "available_commands": "Доступные команды",
     "rights": "© {0} All rights reserved.",
     "index_join_community": "**Join Our** community now!",
     "protection_roles_adminstrative": "ProBot will prevent these roles from having administrative permissions by removing the permissions when given."
