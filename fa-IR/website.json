@@ -684,5 +684,7 @@
     "index_join_community": "**همین الان** به جمعی از ما بپیوندید!",
     "protection_roles_adminstrative": "پروبات از این نقش ها در برابر داشتن دسترسی های مدیریتی با حذف آن دسترسی ها در صورت داده شدن، محافظت می کند.",
     "loading": "Loading ...",
-    "no_option": "No options"
+    "no_option": "No options",
+    "protection_role_access": "ProBot will prevent these roles from given / removed from other members.",
+    "MEMBERS_IDS": "Members ids"
 }
