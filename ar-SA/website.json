@@ -535,7 +535,7 @@
     "rr_toggle": "تبديل",
     "rr_toggle_desc": "هذا النوع يضيف/يزيل الرولات اعتماداً على ما إذا كان المستخدم لديه الرولات. ينصح به!",
     "rr_give": "إعطاء",
-    "rr_give_desc": "هذا النوع يضيف الرول فقط في حالة الضغط على الرياكشن، ينصح به لقوانين السيرفر!",
+    "rr_give_desc": "هذا النوع يضيف الرول فقط في حالة الضغط على الرياكشن.\nينصح به لقوانين السيرفر!",
     "rr_take": "اخذ",
     "rr_take_desc": "هذا النوع يزيل الرولات كلما تم إضافة/إزالة الرياكشن.",
     "rr_requires_embed_1": "هذه الميزة في مرحلة بيتا وهي تتطلب امبيد,",
@@ -687,7 +687,7 @@
     "no_option": "لا توجد خيارات",
     "protection_role_access": "بروبوت سيمنع هذه الرتب من اعطائها / ازالتها من الاعضاء الاخرين.",
     "MEMBERS_IDS": "ايديات الاعضاء",
-    "billing_no_valid_code_number": "Please enter a valid card number",
-    "billing_no_expiry_date": "Please enter a valid expiry date",
-    "billing_no_valid_cvv": "Please enter a valid cvv code"
+    "billing_no_valid_code_number": "الرجاء إدخال رقم بطاقة صالحة",
+    "billing_no_expiry_date": "الرجاء إدخال تاريخ إنتهاء صحيح.",
+    "billing_no_valid_cvv": "الرجاء إدخال رمز cvv صحيح"
 }
