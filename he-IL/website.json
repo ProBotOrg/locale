@@ -686,5 +686,8 @@
     "loading": "Loading ...",
     "no_option": "No options",
     "protection_role_access": "ProBot will prevent these roles from given / removed from other members.",
-    "MEMBERS_IDS": "Members ids"
+    "MEMBERS_IDS": "Members ids",
+    "billing_no_valid_code_number": "Please enter a valid card number",
+    "billing_no_expiry_date": "Please enter a valid expiry date",
+    "billing_no_valid_cvv": "Please enter a valid cvv code"
 }
