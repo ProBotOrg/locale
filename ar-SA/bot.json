@@ -1,7 +1,7 @@
 {
 	"choose_reason": "إختر سبب",
 	"reason_cancel": "إلغاء",
-	"rank_description": "إظهار بطاقة الترتيب (الرانك) الخاصة بك او بشخص اخر بالسيرفر.",
+	"rank_description": "إظهار بطاقة الترتيب (الرانك) الخاصة بك او بشخص آخر بالسيرفر.",
 	"clear_description": "تنظيف رسائل الشات.",
 	"moveme_description": "ينقلك إلى روم صوتي.",
 	"profile_description": "عرض بطاقة التعريف الشخصية العامة المخصصة لك أو لشخص آخر.",
@@ -21,13 +21,13 @@
 	"role_description": "إضافة او إزالة مستخدم من رول.",
 	"warn_description": "تحذير العضو.",
 	"setcolor_description": "تغيير لون رول عن طريق الـHex Code.",
-	"warnings_description": "الحصول على انذارات العضو.",
+	"warnings_description": "الحصول على إنذارات العضو.",
 	"setnick_description": "تغيير لقب العضو.",
 	"play_description": "أضف أغنية لقائمة الانتظار وتشغيلها.",
 	"skip_description": "تخطي المقطع الحالي.",
 	"search_description": "يبحث في يوتيوب عن نتائج لتشغيل احدها.",
 	"queue_description": "عرض قائمة الانتظار للموسيقى الحالية في قائمة التشغيل.",
-	"stop_description": "ايقاف الأغنية الحالية ومسح قائمة انتظار الموسيقى بأكملها.",
+	"stop_description": "إيقاف الأغنية الحالية ومسح قائمة انتظار الموسيقى بأكملها.",
 	"vol_description": "يغير / يعرض حجم الصوت الحالي.",
 	"pause_description": "إيقاف المقطع الذي يتم تشغيلة حاليًا.",
 	"np_description": "يوضح الموسيقى الذي يتم تشغيله حاليًا.",
@@ -432,6 +432,6 @@
 	"resume_description": "إستئناف المقطع الذي تم إيقافه.",
 	"setlang_description": "تعيين لغتك المفضلة على البوت.",
 	"setlang_language_description": "تغيير اللغة إلى.",
-	"unmute_description": "الغاء منع كتابي من عضو.",
+	"unmute_description": "إلغاء منع كتابي من عضو.",
 	"muted_both": ":white_check_mark: **تم إسكات {0} من كل الرومات الكتابية و الصوتية!** :zipper_mouth:"
 }
