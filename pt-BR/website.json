@@ -691,5 +691,6 @@
     "billing_no_expiry_date": "Por favor, insira uma data de expiração válida",
     "billing_no_valid_cvv": "Por favor, insira um código cvv válido",
     "tip": "DICA",
-    "protection_limits_tip": "se alguém tem mais de um cargo, os limites maiores serão aplicados. @everyone é o cargo padrão para todos."
+    "protection_limits_tip": "se alguém tem mais de um cargo, os limites maiores serão aplicados. @everyone é o cargo padrão para todos.",
+    "automod_badword_create": "Create {0}"
 }
