@@ -683,13 +683,13 @@
     "rights": "© {0} Todos os direitos reservados.",
     "index_join_community": "**Junte-se à nossa** comunidade agora!",
     "protection_roles_adminstrative": "O ProBot impedirá que esses cargos tenham permissões administrativas removendo as permissões quando fornecidas.",
-    "loading": "Loading ...",
-    "no_option": "No options",
-    "protection_role_access": "ProBot will prevent these roles from given / removed from other members.",
-    "MEMBERS_IDS": "Members ids",
-    "billing_no_valid_code_number": "Please enter a valid card number",
-    "billing_no_expiry_date": "Please enter a valid expiry date",
-    "billing_no_valid_cvv": "Please enter a valid cvv code",
-    "tip": "TIP",
-    "protection_limits_tip": "if someone has more than one role, the higher limits will apply. @everyone is the default role for everyone."
+    "loading": "Carregando ...",
+    "no_option": "Sem opções",
+    "protection_role_access": "O ProBot impedirá esses cargos dados / removidos de outros membros.",
+    "MEMBERS_IDS": "IDs de membros",
+    "billing_no_valid_code_number": "Por favor, insira um número válido de cartão",
+    "billing_no_expiry_date": "Por favor, insira uma data de expiração válida",
+    "billing_no_valid_cvv": "Por favor, insira um código cvv válido",
+    "tip": "DICA",
+    "protection_limits_tip": "se alguém tem mais de um cargo, os limites maiores serão aplicados. @everyone é o cargo padrão para todos."
 }
