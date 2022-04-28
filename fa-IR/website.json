@@ -691,5 +691,6 @@
     "billing_no_expiry_date": "لطفا یک تاریخ انقضای معتبر وارد کنید",
     "billing_no_valid_cvv": "لطفا یک کد CVV معتبر وارد کنید",
     "tip": "TIP",
-    "protection_limits_tip": "if someone has more than one role, the higher limits will apply. @everyone is the default role for everyone."
+    "protection_limits_tip": "if someone has more than one role, the higher limits will apply. @everyone is the default role for everyone.",
+    "automod_badword_create": "Create {0}"
 }
