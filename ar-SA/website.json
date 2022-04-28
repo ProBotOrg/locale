@@ -691,5 +691,6 @@
     "billing_no_expiry_date": "الرجاء إدخال تاريخ إنتهاء صحيح.",
     "billing_no_valid_cvv": "الرجاء إدخال رمز cvv صحيح",
     "tip": "معلومة",
-    "protection_limits_tip": "إذا كان الشخص لديه اكثر من رتبة، سيتم تطبيق الحدود الأعلى. رتبة @everyone هي الرتبة الاساسية للجميع."
+    "protection_limits_tip": "إذا كان الشخص لديه اكثر من رتبة، سيتم تطبيق الحدود الأعلى. رتبة @everyone هي الرتبة الاساسية للجميع.",
+    "automod_badword_create": "Create {0}"
 }
