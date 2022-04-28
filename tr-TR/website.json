@@ -692,5 +692,5 @@
     "billing_no_valid_cvv": "Lütfen geçerli bir CVV kodu giriniz",
     "tip": "İpucu",
     "protection_limits_tip": "birinin birden fazla rolü varsa, daha yüksek limitler geçerli olacaktır. @everyone herkes için varsayılan roldür",
-    "automod_badword_create": "Create {0}"
+    "select_create": "Create '{0}'"
 }
