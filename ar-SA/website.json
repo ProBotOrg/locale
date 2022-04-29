@@ -618,7 +618,7 @@
     "premium_someone_else": "هذا السيرفر تم ترقيته بواسطة شخص آخر، اتصل به لإدارة فواتير البريميوم.",
     "premium_activate": "تفعيل الاشتراك",
     "premium_cancel": "إلغاء الاشتراك",
-    "pay_annually_and_save": "ادفع سنويا ووفر {0}!",
+    "pay_annually_and_save": "ادفع سنويا و وفر {0}!",
     "per_month_billed_yearly": "{0} في الشهر فاتورة سنوية",
     "per_month_billed_monthly": "{0} في الشهر فاتورة شهرية",
     "monthly_billing": "الدفع الشهري",
@@ -692,5 +692,5 @@
     "billing_no_valid_cvv": "الرجاء إدخال رمز cvv صحيح",
     "tip": "معلومة",
     "protection_limits_tip": "إذا كان الشخص لديه اكثر من رتبة، سيتم تطبيق الحدود الأعلى. رتبة @everyone هي الرتبة الاساسية للجميع.",
-    "select_create": "Create '{0}'"
+    "select_create": "إنشاء '{0}'"
 }
