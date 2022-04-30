@@ -340,7 +340,7 @@
 	"role_error_managed": ":rolling_eyes: - Role **{0}** je spravována integrací a nemůže být přidělena.",
 	"jump_to_message": "Přejít na zprávu",
 	"credits_no_reason": "Bez uvedení důvodu",
-	"removewarn_description": "Removes warnings from all members or specific user.",
+	"removewarn_description": "Odstraní varování od všech členů nebo od specifického uživatele.",
 	"help_description": "Ztratil/a ses?",
 	"help_command_description": "Zobrazí podrobnosti o tom, jak použít příkaz.",
 	"roll_dice": "Kostka",
