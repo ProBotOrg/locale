@@ -690,6 +690,11 @@
     "billing_no_valid_code_number": "لطفاً یک شماره کارت معتبر وارد کنید",
     "billing_no_expiry_date": "لطفا یک تاریخ انقضای معتبر وارد کنید",
     "billing_no_valid_cvv": "لطفا یک کد CVV معتبر وارد کنید",
-    "tip": "TIP",
-    "protection_limits_tip": "if someone has more than one role, the higher limits will apply. @everyone is the default role for everyone."
+    "tip": "نکته",
+    "protection_limits_tip": "اگر کسی بیش تر از یک نقش داشته باشد، محدودیت برای آن بالاتری اعمال می شود. نقش پیشفرض برای همه everyone@ می باشد",
+    "select_create": "ساختن '{0}'",
+    "daily_wrong_token": "Wrong Token",
+    "daily_forbidden": "Forbidden",
+    "daily_refresh_page": "Please refresh the page",
+    "daily_server_error": "خطای داخلی سرور"
 }
