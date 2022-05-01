@@ -693,8 +693,8 @@
     "tip": "معلومة",
     "protection_limits_tip": "إذا كان الشخص لديه اكثر من رتبة، سيتم تطبيق الحدود الأعلى. رتبة @everyone هي الرتبة الاساسية للجميع.",
     "select_create": "إنشاء '{0}'",
-    "daily_wrong_token": "Wrong Token",
-    "daily_forbidden": "Forbidden",
-    "daily_refresh_page": "Please refresh the page",
+    "daily_wrong_token": "توكن خاطئ",
+    "daily_forbidden": "محظور",
+    "daily_refresh_page": "رجاءً حدث الصفحة.",
     "daily_server_error": "خطأ في الخادم الداخلي"
 }
