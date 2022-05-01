@@ -692,5 +692,9 @@
     "billing_no_valid_cvv": "Por favor, introduzca un código cvv válido",
     "tip": "TIP",
     "protection_limits_tip": "si alguien tiene más de un rol, se aplicarán los límites más altos. @everyone es el rol predeterminado para todos.",
-    "select_create": "Crear '{0}'"
+    "select_create": "Crear '{0}'",
+    "daily_wrong_token": "Wrong Token",
+    "daily_forbidden": "Forbidden",
+    "daily_refresh_page": "Please refresh the page",
+    "daily_server_error": "Error Interno del Sevidor"
 }
