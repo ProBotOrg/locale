@@ -692,5 +692,9 @@
     "billing_no_valid_cvv": "Wprowadź poprawny kod CVV",
     "tip": "Wskazówka",
     "protection_limits_tip": "jeśli ktoś ma więcej niż jedną rolę, obowiązują wyższe limity. @everyone jest domyślną rolą dla wszystkich.",
-    "select_create": "Utwórz '{0}'"
+    "select_create": "Utwórz '{0}'",
+    "daily_wrong_token": "Wrong Token",
+    "daily_forbidden": "Forbidden",
+    "daily_refresh_page": "Please refresh the page",
+    "daily_server_error": "Wewnętrzny błąd serwera"
 }
