@@ -693,8 +693,8 @@
     "tip": "DICA",
     "protection_limits_tip": "se alguém tem mais de um cargo, os limites maiores serão aplicados. @everyone é o cargo padrão para todos.",
     "select_create": "Criar '{0}'",
-    "daily_wrong_token": "Wrong Token",
-    "daily_forbidden": "Forbidden",
-    "daily_refresh_page": "Please refresh the page",
+    "daily_wrong_token": "Ficha incorreto",
+    "daily_forbidden": "Proibido",
+    "daily_refresh_page": "Por favor, atualize a página",
     "daily_server_error": "Erro do servidor interno"
 }
