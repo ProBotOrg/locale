@@ -693,5 +693,8 @@
     "tip": "TIP",
     "protection_limits_tip": "if someone has more than one role, the higher limits will apply. @everyone is the default role for everyone.",
     "select_create": "Create '{0}'",
-    "not_found": "The page you're looking for can't be found."
+    "daily_wrong_token": "Wrong Token",
+    "daily_forbidden": "Forbidden",
+    "daily_refresh_page": "Please refresh the page",
+    "daily_server_error": "Internal Server Error"
 }
