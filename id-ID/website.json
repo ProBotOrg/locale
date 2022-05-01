@@ -381,7 +381,7 @@
     "title": "ProBot - Bot for Discord",
     "description": "Description:",
     "lock_description": "Menonaktifkan @everyone untuk mengirim pesan di saluran spesifik.",
-    "unlock_description": "Allows @everyone to send messages in specific channel.",
+    "unlock_description": "Mengaktifkan_deskripsi",
     "name_of_user": "Displays the user's name, without pinging the user.",
     "user_invites_counter": "User's invite counter",
     "to_mention_author": "Mentions the user who invoked the response",
