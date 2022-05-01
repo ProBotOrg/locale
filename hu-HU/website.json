@@ -692,5 +692,9 @@
     "billing_no_valid_cvv": "Please enter a valid cvv code",
     "tip": "TIP",
     "protection_limits_tip": "if someone has more than one role, the higher limits will apply. @everyone is the default role for everyone.",
-    "select_create": "'{0}' létrehozása"
+    "select_create": "'{0}' létrehozása",
+    "daily_wrong_token": "Wrong Token",
+    "daily_forbidden": "Forbidden",
+    "daily_refresh_page": "Please refresh the page",
+    "daily_server_error": "Belső Szerverhiba"
 }
