@@ -219,7 +219,7 @@
     "AUTOMOD_IGNORED_CHANNELS": "Devre Dışı Kanallar",
     "AUTOMOD_IGNORED_ROLES": "Devre Dışı Roller",
     "AUTOMOD_ONLY_IMAGES": "Sadece Resim Kanalları:",
-    "AUTOMOD_ONLY_YOUTUBE": "Sadece YouTube Link Kanalları:",
+    "AUTOMOD_ONLY_YOUTUBE": "Sadece YouTube Bağlantı Kanalları:",
     "SELECT_REASON": "Listeden bir neden seçin",
     "ID_BACKGROUNDS": "Kimlik Arka planları",
     "OTHERS": "Diğerleri",
