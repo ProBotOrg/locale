@@ -692,5 +692,9 @@
     "billing_no_valid_cvv": "Lütfen geçerli bir CVV kodu giriniz",
     "tip": "İpucu",
     "protection_limits_tip": "birinin birden fazla rolü varsa, daha yüksek limitler geçerli olacaktır. @everyone herkes için varsayılan roldür",
-    "select_create": "Oluştur '{0} ' "
+    "select_create": "Oluştur '{0} ' ",
+    "daily_wrong_token": "Wrong Token",
+    "daily_forbidden": "Forbidden",
+    "daily_refresh_page": "Please refresh the page",
+    "daily_server_error": "İç/Dahili Sunucu Hatası"
 }
