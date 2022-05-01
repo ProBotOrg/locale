@@ -692,5 +692,9 @@
     "billing_no_valid_cvv": "لطفا یک کد CVV معتبر وارد کنید",
     "tip": "نکته",
     "protection_limits_tip": "اگر کسی بیش تر از یک نقش داشته باشد، محدودیت برای آن بالاتری اعمال می شود. نقش پیشفرض برای همه everyone@ می باشد",
-    "select_create": "ساختن '{0}'"
+    "select_create": "ساختن '{0}'",
+    "daily_wrong_token": "Wrong Token",
+    "daily_forbidden": "Forbidden",
+    "daily_refresh_page": "Please refresh the page",
+    "daily_server_error": "خطای داخلی سرور"
 }
