@@ -692,5 +692,9 @@
     "billing_no_valid_cvv": "الرجاء إدخال رمز cvv صحيح",
     "tip": "معلومة",
     "protection_limits_tip": "إذا كان الشخص لديه اكثر من رتبة، سيتم تطبيق الحدود الأعلى. رتبة @everyone هي الرتبة الاساسية للجميع.",
-    "select_create": "إنشاء '{0}'"
+    "select_create": "إنشاء '{0}'",
+    "daily_wrong_token": "Wrong Token",
+    "daily_forbidden": "Forbidden",
+    "daily_refresh_page": "Please refresh the page",
+    "daily_server_error": "خطأ في الخادم الداخلي"
 }
