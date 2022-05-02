@@ -282,7 +282,7 @@
     "EDIT_COMMAND_SETTINGS": "MODIFIER LES PARAMÈTRES DE {0}",
     "commands": "Commandes",
     "support": "Support",
-    "probot_commands": "Commandes de ProBot",
+    "discord_bot_commands": "Discord Bot Commands",
     "search_for_command": "Rechercher une commande 🔍",
     "all": "Tout",
     "General": "Général",
