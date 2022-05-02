@@ -282,7 +282,7 @@
     "EDIT_COMMAND_SETTINGS": "UPRAVIT {0} NASTAVENÍ",
     "commands": "Příkazy",
     "support": "Podpora",
-    "probot_commands": "Příkazy ProBota",
+    "discord_bot_commands": "Discord Bot Commands",
     "search_for_command": "Hledat příkaz 🔍",
     "all": "Všechny",
     "General": "Obecné",

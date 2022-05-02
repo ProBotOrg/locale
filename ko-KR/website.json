@@ -282,7 +282,7 @@
     "EDIT_COMMAND_SETTINGS": "{0} 명령어 설정 편집",
     "commands": "명령어",
     "support": "지원 센터",
-    "probot_commands": "ProBot 명령어",
+    "discord_bot_commands": "Discord Bot Commands",
     "search_for_command": "명령어를 검색하세요 🔍",
     "all": "전체",
     "General": "일반",

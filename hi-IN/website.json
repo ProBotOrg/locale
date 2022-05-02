@@ -282,7 +282,7 @@
     "EDIT_COMMAND_SETTINGS": "aidit {0} setings",
     "commands": "कमांड",
     "support": "सहयोग",
-    "probot_commands": "प्रोबोट के कमांड",
+    "discord_bot_commands": "Discord Bot Commands",
     "search_for_command": "कमांड खोजें 🔍",
     "all": "सभी",
     "General": "सामान्य",

@@ -282,7 +282,7 @@
     "EDIT_COMMAND_SETTINGS": "ویرایش تنظیمات {0}",
     "commands": "دستورات",
     "support": "پشتیبانی",
-    "probot_commands": "دستورات پروبات",
+    "discord_bot_commands": "Discord Bot Commands",
     "search_for_command": "جستجو برای دستور 🔍",
     "all": "همه",
     "General": "کلی",

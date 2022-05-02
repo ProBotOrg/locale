@@ -282,7 +282,7 @@
     "EDIT_COMMAND_SETTINGS": "{0} BEÁLLÍTÁSOK SZERKESZTÉSE",
     "commands": "Parancsok",
     "support": "Támogatás",
-    "probot_commands": "ProBot parancsok",
+    "discord_bot_commands": "Discord Bot Commands",
     "search_for_command": "Parancs keresése 🔍",
     "all": "Mind",
     "General": "Általános",

@@ -282,7 +282,7 @@
     "EDIT_COMMAND_SETTINGS": "بژارکردنی {0} ڕێکبەندەکان",
     "commands": "فەرمانەکان",
     "support": "هاوکاری",
-    "probot_commands": "فەرمانەکانی پڕۆبۆت",
+    "discord_bot_commands": "Discord Bot Commands",
     "search_for_command": "گەڕان بۆ فەرمانەکان",
     "all": "هەموو",
     "General": "گشتی",
