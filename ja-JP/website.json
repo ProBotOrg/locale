@@ -282,7 +282,7 @@
     "EDIT_COMMAND_SETTINGS": "{0} の設定を編集",
     "commands": "コマンド ",
     "support": "サポート",
-    "probot_commands": "ProBot コマンド",
+    "discord_bot_commands": "Discord Bot Commands",
     "search_for_command": "コマンドを探す🔍",
     "all": "すべて選択",
     "General": "全般",
