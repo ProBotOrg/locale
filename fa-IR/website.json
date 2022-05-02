@@ -282,7 +282,7 @@
     "EDIT_COMMAND_SETTINGS": "ویرایش تنظیمات {0}",
     "commands": "دستورات",
     "support": "پشتیبانی",
-    "discord_bot_commands": "Discord Bot Commands",
+    "discord_bot_commands": "دستورات بات دیسکورد",
     "search_for_command": "جستجو برای دستور 🔍",
     "all": "همه",
     "General": "کلی",
@@ -693,8 +693,8 @@
     "tip": "نکته",
     "protection_limits_tip": "اگر کسی بیش تر از یک نقش داشته باشد، محدودیت برای آن بالاتری اعمال می شود. نقش پیشفرض برای همه everyone@ می باشد",
     "select_create": "ساختن '{0}'",
-    "daily_wrong_token": "Wrong Token",
-    "daily_forbidden": "Forbidden",
-    "daily_refresh_page": "Please refresh the page",
+    "daily_wrong_token": "توکن اشتباه",
+    "daily_forbidden": "دسترسی غیرمجاز",
+    "daily_refresh_page": "لطفا صفحه را مجدداً بارگزاری کنید",
     "daily_server_error": "خطای داخلی سرور"
 }
