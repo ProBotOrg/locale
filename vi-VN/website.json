@@ -282,7 +282,7 @@
     "EDIT_COMMAND_SETTINGS": "Chỉnh sửa cài đặt của {0}",
     "commands": "Lệnh",
     "support": "Hỗ trợ",
-    "probot_commands": "Lệnh ProBot",
+    "discord_bot_commands": "Discord Bot Commands",
     "search_for_command": "Tìm kiếm lệnh 🔍",
     "all": "Tất cả",
     "General": "Chung",
