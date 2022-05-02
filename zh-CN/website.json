@@ -282,7 +282,7 @@
     "EDIT_COMMAND_SETTINGS": "编辑 {0} 设置",
     "commands": "指令",
     "support": "支援",
-    "probot_commands": "高级机器人指令",
+    "discord_bot_commands": "Discord Bot Commands",
     "search_for_command": "搜索命令 🔍",
     "all": "所有的",
     "General": "一般",
