@@ -282,7 +282,7 @@
     "EDIT_COMMAND_SETTINGS": "{0} AYARLARINI  DÜZENLE",
     "commands": "Komutlar",
     "support": "Destek",
-    "probot_commands": "ProBot Komutları",
+    "discord_bot_commands": "Discord Bot Commands",
     "search_for_command": "Komut ara 🔍",
     "all": "Hepsi",
     "General": "Genel",
