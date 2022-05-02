@@ -282,7 +282,7 @@
     "EDIT_COMMAND_SETTINGS": "EDITEAZĂ SETĂRILE {0}",
     "commands": "Comenzi",
     "support": "Ajutor",
-    "probot_commands": "Comenzi ProBot",
+    "discord_bot_commands": "Discord Bot Commands",
     "search_for_command": "Caută comanda 🔍",
     "all": "Toate",
     "General": "General",
