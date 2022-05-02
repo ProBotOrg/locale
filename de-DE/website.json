@@ -282,7 +282,7 @@
     "EDIT_COMMAND_SETTINGS": " {0} EINSTELLUNGEN BEARBEITEN",
     "commands": "Befehle",
     "support": "Support",
-    "probot_commands": "ProBot-Befehle",
+    "discord_bot_commands": "Discord Bot Commands",
     "search_for_command": "Suche nach Befehl ",
     "all": "Alle",
     "General": "Allgemein",
