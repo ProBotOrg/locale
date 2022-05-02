@@ -282,7 +282,7 @@
     "EDIT_COMMAND_SETTINGS": "EDIT {0} SETTINGS",
     "commands": "Perintah",
     "support": "Support",
-    "probot_commands": "Perintah ProBot",
+    "discord_bot_commands": "Discord Bot Commands",
     "search_for_command": "Search for command 🔍",
     "all": "Semua",
     "General": "Umum",
