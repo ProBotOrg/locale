@@ -134,7 +134,7 @@
 	"vmute_main_description": "{0}, przez: {1}#{2}, POWÓD: {3} KOŃCZY SIĘ: {4}",
 	"vmute_muted_from_description": ":white_check_mark: **@{0} został wyciszony na kanale głosowym! :zipper_mouth:**",
 	"vmute_couldnt_mute_description": ":rolling_eyes: - Nie mogłem wyciszyć tego użytkownika. Sprawdź moje uprawnienia.",
-	"vmute_cant_description": ":rolling_eyes: - **Nie możesz wyrzucić @{0} z kanału głosowego. **",
+	"vmute_cant_description": ":rolling_eyes: - **Nie możesz wyciszyć @{0} na kanle głosowym. **",
 	"setnick_changed_description": ":white_check_mark: Pseudonim **{0}** został zmieniony na {1}! ",
 	"setnick_reset_description": ":white_check_mark: Pseudonim **{0}** został zresetowany.",
 	"setnick_couldnt_update_description": ":rolling_eyes: - Nie mogłem zaktualizować tego użytkownika. Sprawdź moje uprawnienia i pozycję.",
