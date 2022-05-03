@@ -282,7 +282,7 @@
     "EDIT_COMMAND_SETTINGS": "РЕДАКТИРОВАТЬ {0} НАСТРОЙКИ",
     "commands": "Команды",
     "support": "Поддержка",
-    "discord_bot_commands": "Discord Bot Commands",
+    "discord_bot_commands": "Токен Discord бота",
     "search_for_command": "Поиск команды 🔍",
     "all": "Все",
     "General": "Основные",
