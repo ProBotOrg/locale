@@ -340,7 +340,7 @@
 	"role_error_managed": ":rolling_eyes: - **{0}** integrációval kezeli, és nem adható meg.",
 	"jump_to_message": "Ugrás az üzenethez",
 	"credits_no_reason": "Nincs ok megadva.",
-	"removewarn_description": "Removes warnings from all members or specific user.",
+	"removewarn_description": "Eltávolítja az összes tag vagy egy adott felhasználó figyelmeztetéseit.",
 	"help_description": "Eltévedtél?",
 	"help_command_description": "Megmutat információt egy parancs használatáról.",
 	"roll_dice": "A dobókocka",
