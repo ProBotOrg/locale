@@ -42,7 +42,7 @@ module.exports.webLangs = {
   cs: { name: "čeština", flag: "cz" },
   en: { name: "English", flag: "us" },
   tr: { name: "Türkçe", flag: "tr" },
-  zh: { name: "ไทย", flag: "cn" },
+  zh: { name: "中文", flag: "cn" },
   zh_TW: { name: "繁體中文", flag: "tw" },
   ru: { name: "русский", flag: "ru" },
   uk: { name: "Український", flag: "ua" },
