@@ -47,7 +47,7 @@ module.exports.webLangs = {
   ru: { name: "русский", flag: "ru" },
   uk: { name: "Український", flag: "ua" },
   fr: { name: "français", flag: "fr" },
-  de: { name: "Deutsche", flag: "de" },
+  de: { name: "Deutsch", flag: "de" },
   el: { name: "Ελληνικά", flag: "gr" },
   hi: { name: "हिन्दी", flag: "in" },
   pl: { name: "Polski", flag: "pl" },
