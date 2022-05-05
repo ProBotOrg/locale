@@ -44,9 +44,9 @@ module.exports.webLangs = {
   tr: { name: "Türkçe", flag: "tr" },
   zh: { name: "中文", flag: "cn" },
   zh_TW: { name: "繁體中文", flag: "tw" },
-  ru: { name: "русский", flag: "ru" },
+  ru: { name: "Pусский", flag: "ru" },
   uk: { name: "Український", flag: "ua" },
-  fr: { name: "français", flag: "fr" },
+  fr: { name: "Français", flag: "fr" },
   de: { name: "Deutsch", flag: "de" },
   el: { name: "Ελληνικά", flag: "gr" },
   hi: { name: "हिन्दी", flag: "in" },
@@ -63,16 +63,16 @@ module.exports.webLangs = {
   lt: { name: "Italian", flag: "lt" },
   no: { name: "Norsk", flag: "no" },
   pl: { name: "Polski", flag: "pl" },
-  pt_BR: { name: "portuguesa, brasileira", flag: "br" },
+  pt_BR: { name: "Português do Brasil", flag: "br" },
   sr: { name: "Српска", flag: "sr" },
-  sv: { name: "svenska", flag: "sv" },
+  sv: { name: "Svenska", flag: "sv" },
   th: { name: "Thai", flag: "th" },
-  vi: { name: "tiếng Việt", flag: "vn" },
+  vi: { name: "Tiếng Việt", flag: "vn" },
   ckb: { name: "سۆرانی", flag: "kur" },
-  da: { name: "dansk", flag: "dk" },
+  da: { name: "Dansk", flag: "dk" },
   fa: { name: "فارسی", flag: "ir" },
-  fi: { name: "suo̯mi", flag: "fi" },
-  hr: { name: "xř̩ʋatski", flag: "hr" }
+  fi: { name: "Suo̯mi", flag: "fi" },
+  hr: { name: "Hrvatski", flag: "hr" }
 };
 
 
