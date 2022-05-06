@@ -433,5 +433,8 @@
 	"setlang_description": "Tercih ettiğiniz dili bota ayarlar.",
 	"setlang_language_description": "Kendisine değiştirilecek dil.",
 	"unmute_description": "Bir üyenin susturmasını kaldırır.",
-	"muted_both": ":white_check_mark:**@{0} hem yazı hem ses kanallarından susturuldu! :zipper_mouth:**"
+	"muted_both": ":white_check_mark:**@{0} hem yazı hem ses kanallarından susturuldu! :zipper_mouth:**",
+	"slowmode_set": "This channel slowmode has been set to {0}.",
+	"slowmode_should": "Time should be less than or equal to {0}.",
+	"slowmode_is": "This channel slowmode is {0}."
 }
