@@ -54,6 +54,7 @@
         "usage_setlang": "{0} [Language Code]",
         "usage_invite": "{0}",
         "usage_resume": "{0}",
+        "usage_slowmode": "{0}\n{0} (time)\n{0} off",
         "examples_rank": "{0}\n{0} {1}",
         "examples_clear": "{0} 1000\n{0} bots 10\n{0} {1} 10",
         "examples_moveme": "{0} general\n{0} {1}",
@@ -108,7 +109,8 @@
         "examples_removewarn": "{0} 56323094912\n{0} @Dramex\n{0} all",
         "examples_setlang": "{0} en",
         "examples_invite": "{0}",
-        "examples_resume": "{0}"
+        "examples_resume": "{0}",
+        "examples_slowmode": "{0}\n{0} 1h\n{0} off"
     },
     "website":{
         "usage_removewarn": "{0} [warnID]\n{0} [user]\n{0} all",
@@ -154,6 +156,7 @@
         "usage_rank": "{0} (user)",
         "usage_setlang": "{0} [Language Code]",
         "usage_resume": "{0}",
+        "usage_slowmode": "{0}\n{0} (time)\n{0} off",
         "examples_clear": "{0}\n{0} 1000\n{0} bots 10\n{0} @Dramex 10",
         "examples_moveme": "{0} general\n{0} @Dramex",
         "examples_id": "{0} @Dramex",
@@ -196,6 +199,7 @@
         "examples_rank": "{0}\n{0} @Dramex\n{0} 728882410384785451",
         "examples_removewarn": "{0} 1810\n{0} @Dramex\n{0} all",
         "examples_setlang": "{0} en",
-        "examples_resume": "{0}"
+        "examples_resume": "{0}",
+        "examples_slowmode": "{0}\n{0} 1h\n{0} off"
     }
 }
