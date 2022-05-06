@@ -65,7 +65,7 @@
     "roll_description": "رمي حجر نرد.",
     "default_roll": "النرد الافتراضي",
     "points_description": "النقاط التي يمكن أن تُعطى من قبل المشرفين.",
-    "slowmode_description": "تفعيل اة تعطيل سلو مود من الروم.",
+    "slowmode_description": "تفعيل او تعطيل سلو مود من الروم.",
     "Utility": "الأوامر العامة",
     "Moderation": "الإشراف",
     "Logs": "اللوق",
