@@ -438,7 +438,7 @@
     "store_buy_use": "شراء & استخدام",
     "store_use": "استخدام",
     "store_with_colors": "مع الألوان",
-    "store_price": "السعر ${0}",
+    "store_price": "السعر {0}",
     "success": "تم بنجاح 👌",
     "premium_month": "شهر",
     "premium_months": "أشهر",

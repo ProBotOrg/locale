@@ -174,6 +174,7 @@
 	"vip_details_description": "**ژمارەی پریمیوم:** {0}\n**پریمیوم کۆتایی دێت لە:** {1}\n**تۆمارکراوە بۆ :** {2}",
 	"vip_ended_description": "كۆتاييى هات\n",
 	"slowmode_description": "Enable or disable slowmode on a channel.",
+	"slowmode_time_description": "The time to set for slowmode channel.",
 	"credits_not_enough": "‌** :thinking: | {0}, باڵانسی پێویستت نیه!**",
 	"credits_trans_done": "**:moneybag: | {0}, گواسترایه‌وه‌ `${1}` بۆ {2} **",
 	"credits_receipt": ":atm: | پسوولەی گوێزرانەوە ```تۆ بڕی وەرگرت لەلایەن {1} ( ئایدی: {2} )\nهۆکار: {3}\n```",
