@@ -433,5 +433,8 @@
 	"setlang_description": "선호하는 언어를 선택해요.",
 	"setlang_language_description": "변경할 언어",
 	"unmute_description": "멤버의 음소거를 해제해요.",
-	"muted_both": ":white_check_mark: **@{0}님이 채팅, 음성 채널에서 음소거됐어요! :zipper_mouth:**"
+	"muted_both": ":white_check_mark: **@{0}님이 채팅, 음성 채널에서 음소거됐어요! :zipper_mouth:**",
+	"slowmode_set": "This channel slowmode has been set to {0}.",
+	"slowmode_should": "Time should be less than or equal to {0}.",
+	"slowmode_is": "This channel slowmode is {0}."
 }
