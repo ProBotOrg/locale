@@ -174,6 +174,7 @@
 	"vip_details_description": "**Premiumnummer:** {0}\n**Premium tar slut om** {1}\n**Registrerad för:** {2}",
 	"vip_ended_description": "avslutad",
 	"slowmode_description": "Enable or disable slowmode on a channel.",
+	"slowmode_time_description": "The time to set for slowmode channel.",
 	"credits_not_enough": "** :thinking: | {0}, Ditt saldo räcker inte för det!**",
 	"credits_trans_done": "**:moneybag: | {0}, har överfört `${1}` till {2}**{0}",
 	"credits_receipt": ":atm:  |  Överföringskvitto ```Du har fått ${0} från användare {1} (ID: {2})```",
