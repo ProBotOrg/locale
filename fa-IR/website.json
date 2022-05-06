@@ -65,7 +65,7 @@
     "roll_description": "انداختن تاس.",
     "default_roll": "حداکثر عدد تاس انداختن پیش فرض",
     "points_description": "امتیاز های تحت سرور که توسط مودراتور ها داده می شود.",
-    "slowmode_description": "Enable or disabled slowmode on a channel.",
+    "slowmode_description": "Enable or disable slowmode on a channel.",
     "Utility": "کاربردی",
     "Moderation": "مدیریت",
     "Logs": "سوابق",
