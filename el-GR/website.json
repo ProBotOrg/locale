@@ -65,6 +65,7 @@
     "roll_description": "rolling dice.",
     "default_roll": "Default roll dice",
     "points_description": "Πόντοι βασισμένοι σε διακομιστή που μπορούν να δοθούν από συντονιστές.",
+    "slowmode_description": "Enable or disabled slowmode on a channel.",
     "Utility": "Χρησιμότητα",
     "Moderation": "Συντονισμός",
     "Logs": "Αρχεία καταγραφής",
