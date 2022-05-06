@@ -98,6 +98,7 @@
     "DAY": "天",
     "NONE": "无",
     "WELCOME_MESSAGE": "当用户加入服务器时向其发送信息。",
+    "LEAVE_MESSAGE": "Send a message when a user leaves the server",
     "WELCOME_IMAGE": "当用户加入服务器时向其发送图案。",
     "WIDTH": "宽度",
     "HEIGHT": "高度",
