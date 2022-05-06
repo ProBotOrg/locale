@@ -173,6 +173,7 @@
 	"vip_please_specify_description": ":rolling_eyes: - **Prosím, špecifikujte**",
 	"vip_details_description": "**Prémiové číslo:** {0}\n**Prémia končí o** {1}\n**Registrované pre:** {2}",
 	"vip_ended_description": "ukončený",
+	"slowmode_description": "Enable or disabled slowmode on a channel.",
 	"credits_not_enough": "**:thinking: | {0}, Váš zostatok na to nestačí! **",
 	"credits_trans_done": "**:moneybag: | {0}, prevádzal `${1}` do {2} **",
 	"credits_receipt": ":atm:  |  Potvrdenie o prevode ```Dostali ste ${0} od používateľa {1} (ID: {2})```",
