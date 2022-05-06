@@ -98,6 +98,7 @@
     "DAY": "दिन",
     "NONE": "कोई नहीं",
     "WELCOME_MESSAGE": "सदस्य सर्वर से जुड़ने पर संदेश भेजे",
+    "LEAVE_MESSAGE": "Send a message when a user leaves the server",
     "WELCOME_IMAGE": "सदस्य सर्वर से जुड़ने पर चित्र भेजे",
     "WIDTH": "चौड़ाई",
     "HEIGHT": "ऊंचाई",
