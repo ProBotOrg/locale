@@ -54,7 +54,7 @@ module.exports.webLangs = {
   pt: { name: "Português", flag: "pt" },
   nl: { name: "Nederlands", flag: "nl" },
   it: { name: "Italiana", flag: "it" },
-  es: { name: "Española", flag: "es" },
+  es: { name: "Español", flag: "es" },
   ro: { name: "Română", flag: "ro" },
   sk: { name: "Slovák", flag: "sk" },
   ja: { name: "日本語", flag: "jp" },
