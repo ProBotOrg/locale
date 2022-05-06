@@ -98,6 +98,7 @@
     "DAY": "Deň",
     "NONE": "Žiadne",
     "WELCOME_MESSAGE": "Poslať správu keď sa užívateľ pripojí na server",
+    "LEAVE_MESSAGE": "Send a message when a user leaves the server",
     "WELCOME_IMAGE": "Poslať obrázok keď sa užívateľ pripojí na server",
     "WIDTH": "Šírka",
     "HEIGHT": "výška",
