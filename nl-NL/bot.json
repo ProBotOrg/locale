@@ -432,6 +432,9 @@
 	"resume_description": "Hervat het momenteel gepauzeerde nummer.",
 	"setlang_description": "Stelt je gewenste taal in op de bot.",
 	"setlang_language_description": "Taal om naar te veranderen",
-	"unmute_description": "Een lid wordt niet meer gedempt. En kan weet typen en kanalen",
-	"muted_both": ":white_check_mark: **@{0} gedempt vanaf zowel de tekst als de stem! :zipper_mouth:**"
+	"unmute_description": "Een lid wordt niet meer gedempt. En kan weer typen in kanalen",
+	"muted_both": ":white_check_mark: **@{0} gedempt vanaf zowel de tekst als de stem! :zipper_mouth:**",
+	"slowmode_set": "This channel slowmode has been set to {0}.",
+	"slowmode_should": "Time should be less than or equal to {0}.",
+	"slowmode_is": "This channel slowmode is {0}."
 }
