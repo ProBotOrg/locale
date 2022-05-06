@@ -173,7 +173,7 @@
 	"vip_please_specify_description": ":rolling_eyes: - **Vänligen ange**",
 	"vip_details_description": "**Premiumnummer:** {0}\n**Premium tar slut om** {1}\n**Registrerad för:** {2}",
 	"vip_ended_description": "avslutad",
-	"slowmode_description": "Enable or disabled slowmode on a channel.",
+	"slowmode_description": "Enable or disable slowmode on a channel.",
 	"credits_not_enough": "** :thinking: | {0}, Ditt saldo räcker inte för det!**",
 	"credits_trans_done": "**:moneybag: | {0}, har överfört `${1}` till {2}**{0}",
 	"credits_receipt": ":atm:  |  Överföringskvitto ```Du har fått ${0} från användare {1} (ID: {2})```",
@@ -437,5 +437,6 @@
 	"muted_both": ":white_check_mark: **@{0} muted from both text and voice! :zipper_mouth:**",
 	"slowmode_set": "This channel slowmode has been set to {0}.",
 	"slowmode_should": "Time should be less than or equal to {0}.",
-	"slowmode_is": "This channel slowmode is {0}."
+	"slowmode_is": "This channel slowmode is {0}.",
+	"slowmode_disabled": "Slowmode has been disabled from this channel."
 }
