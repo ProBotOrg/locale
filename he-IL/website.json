@@ -65,6 +65,7 @@
     "roll_description": "מטיל קוביות",
     "default_roll": "גלגול במצב ברירת מחדל",
     "points_description": "שרת שמבוסס על נקודות שיכולות להתקבל על ידי מנחים.",
+    "slowmode_description": "Enable or disabled slowmode on a channel.",
     "Utility": "תועלת",
     "Moderation": "מתינות",
     "Logs": "לוגים",
