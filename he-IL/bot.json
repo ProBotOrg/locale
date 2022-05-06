@@ -173,6 +173,7 @@
 	"vip_please_specify_description": ":rolling_eyes: - **אנא ציין**",
 	"vip_details_description": "**מספר פרימיום:** {0}\n**פרימיום נגמר ב** {1}\n**נרשם עבור:** {2}",
 	"vip_ended_description": "נגמר",
+	"slowmode_description": "Enable or disabled slowmode on a channel.",
 	"credits_not_enough": "** :thinking: | {0}, הכסף שלך לא מספיק בשביל זה!**",
 	"credits_trans_done": "**:moneybag: | {0}, העביר `${1}` ל {2} **",
 	"credits_receipt": ":atm: | קבלה על העברה ```קיבלת ${0} מהמשתמש {1} (מזהה: {2})\nסיבה: {3}\n```",
