@@ -173,6 +173,7 @@
 	"vip_please_specify_description": ":rolling_eyes: - **Kérlek add meg**",
 	"vip_details_description": "**Prémium száma:** {0}\n**Prémium véget ér:** {1}\n**Regisztrálva neki:** {2}",
 	"vip_ended_description": "végződött",
+	"slowmode_description": "Enable or disabled slowmode on a channel.",
 	"credits_not_enough": "** :thinking: | {0}, Az egyenleged nem elegendő hozzá!**",
 	"credits_trans_done": "**:moneybag: | {0}, ${1}-t átküldtél ennek: {2} **",
 	"credits_receipt": ":atm:  |  Átutalási nyugta ```${0}-t kaptál tőle: {1} (ID: {2})\nOk: {3}\n```",
