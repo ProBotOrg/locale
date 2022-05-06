@@ -98,6 +98,7 @@
     "DAY": "Hari",
     "NONE": "Tidak ada",
     "WELCOME_MESSAGE": "Mengirim pesan ketika seorang pengguna masuk ke server",
+    "LEAVE_MESSAGE": "Send a message when a user leaves the server",
     "WELCOME_IMAGE": "Mengirim sebuah gambar ketika seorang pengguna masuk ke server",
     "WIDTH": "Lebar",
     "HEIGHT": "Tinggi",
