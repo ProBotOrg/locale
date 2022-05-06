@@ -98,6 +98,7 @@
     "DAY": "День",
     "NONE": "Нет",
     "WELCOME_MESSAGE": "Отправить сообщение, когда пользователь входит на сервер.",
+    "LEAVE_MESSAGE": "Send a message when a user leaves the server",
     "WELCOME_IMAGE": "Отправка изображения при подключении пользователя к серверу",
     "WIDTH": "Ширина",
     "HEIGHT": "Высота",

@@ -98,6 +98,7 @@
     "DAY": "يوم",
     "NONE": "لا شيء",
     "WELCOME_MESSAGE": "إرسال رسالة عند دخول عضو للسيرفر",
+    "LEAVE_MESSAGE": "Send a message when a user leaves the server",
     "WELCOME_IMAGE": "إرسال صورة عند دخول عضو للسيرفر",
     "WIDTH": "العرض",
     "HEIGHT": "الإرتفاع",

@@ -98,6 +98,7 @@
     "DAY": "Μέρα",
     "NONE": "Κανένα",
     "WELCOME_MESSAGE": "Στείλτε ένα μήνυμα όταν ένα νέο μέλος έρχεται στον διακομιστή",
+    "LEAVE_MESSAGE": "Send a message when a user leaves the server",
     "WELCOME_IMAGE": "Στείλτε μια εικόνα όταν ένα νέο μέλος έρχεται στον διακομιστή",
     "WIDTH": "Πλάτος",
     "HEIGHT": "Ύψος",

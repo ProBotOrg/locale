@@ -98,6 +98,7 @@
     "DAY": "Dag",
     "NONE": "Geen",
     "WELCOME_MESSAGE": "Stuur een bericht wanneer een gebruiker zich aansluit bij de server.",
+    "LEAVE_MESSAGE": "Send a message when a user leaves the server",
     "WELCOME_IMAGE": "Een afbeelding verzenden wanneer een gebruiker zich bij de server aansluit.",
     "WIDTH": "Breedte",
     "HEIGHT": "Hoogte",

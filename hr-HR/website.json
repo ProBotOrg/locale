@@ -98,6 +98,7 @@
     "DAY": "Dan",
     "NONE": "Ništa",
     "WELCOME_MESSAGE": "Send a message when a user joins the server",
+    "LEAVE_MESSAGE": "Send a message when a user leaves the server",
     "WELCOME_IMAGE": "Send an image when a user joins the server",
     "WIDTH": "Širina",
     "HEIGHT": "Visina",

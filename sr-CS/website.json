@@ -98,6 +98,7 @@
     "DAY": "Dan",
     "NONE": "Ništa",
     "WELCOME_MESSAGE": "Pošalji poruku kada korisnik uđe na server",
+    "LEAVE_MESSAGE": "Send a message when a user leaves the server",
     "WELCOME_IMAGE": "Pošalji sliku kada korisnik uđe na server",
     "WIDTH": "Širina",
     "HEIGHT": "Visina",

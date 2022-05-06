@@ -98,6 +98,7 @@
     "DAY": "Zi",
     "NONE": "Nimic",
     "WELCOME_MESSAGE": "Trimite un mesaj când un utilizator intră pe server",
+    "LEAVE_MESSAGE": "Send a message when a user leaves the server",
     "WELCOME_IMAGE": "Trimite o imagine când un utilizator intră pe server",
     "WIDTH": "Lăţime",
     "HEIGHT": "Înălțime",

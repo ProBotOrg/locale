@@ -98,6 +98,7 @@
     "DAY": "יום",
     "NONE": "ללא",
     "WELCOME_MESSAGE": "שלח הודעה כאשר משתמש מצטרף לשרת",
+    "LEAVE_MESSAGE": "Send a message when a user leaves the server",
     "WELCOME_IMAGE": "שלח תמונה כאשר משתמש מצטרף לשרת",
     "WIDTH": "רוחב",
     "HEIGHT": "גובה",

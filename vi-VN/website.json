@@ -98,6 +98,7 @@
     "DAY": "Ngày",
     "NONE": "Không",
     "WELCOME_MESSAGE": "Gửi tin nhắn khi có người dùng tham gia server",
+    "LEAVE_MESSAGE": "Send a message when a user leaves the server",
     "WELCOME_IMAGE": "Gửi hình ảnh khi có người dùng tham gia server",
     "WIDTH": "Chiều rộng",
     "HEIGHT": "Chiều cao",

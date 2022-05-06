@@ -98,6 +98,7 @@
     "DAY": "روز",
     "NONE": "هیچ کدام",
     "WELCOME_MESSAGE": "ارسال پیام هنگامی که یک کاربر عضو سرور می شود",
+    "LEAVE_MESSAGE": "Send a message when a user leaves the server",
     "WELCOME_IMAGE": "ارسال یک تصویر هنگامی که یک کاربر عضو سرور می شود",
     "WIDTH": "طول",
     "HEIGHT": "ارتفاع",

@@ -98,6 +98,7 @@
     "DAY": "Ден",
     "NONE": "Нищо",
     "WELCOME_MESSAGE": "Изпраща Съобщение, когато Член се Присъедини към сървъра",
+    "LEAVE_MESSAGE": "Send a message when a user leaves the server",
     "WELCOME_IMAGE": "Изпраща Снимка, когато член се Присъедини",
     "WIDTH": "Широчина",
     "HEIGHT": "Височина",
