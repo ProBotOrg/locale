@@ -433,5 +433,8 @@
 	"setlang_description": "Ustawia preferowany język dla bota.",
 	"setlang_language_description": "Język do zmiany.",
 	"unmute_description": "Dezaktywuje wyciszenie członka.",
-	"muted_both": ":white_check_mark: **@{0} został wyciszony zarówno na kanałach tekstowych, jak i głosowych! :zipper_mouth:**"
+	"muted_both": ":white_check_mark: **@{0} został wyciszony zarówno na kanałach tekstowych, jak i głosowych! :zipper_mouth:**",
+	"slowmode_set": "This channel slowmode has been set to {0}.",
+	"slowmode_should": "Time should be less than or equal to {0}.",
+	"slowmode_is": "This channel slowmode is {0}."
 }
