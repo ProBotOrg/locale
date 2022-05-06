@@ -65,7 +65,7 @@
     "roll_description": "házím kostkou.",
     "default_roll": "Výchozí hod kostkou",
     "points_description": "Serverově založené body, které mohou být uděleny moderátory.",
-    "slowmode_description": "Enable or disabled slowmode on a channel.",
+    "slowmode_description": "Enable or disable slowmode on a channel.",
     "Utility": "Nástroje",
     "Moderation": "Moderace",
     "Logs": "Protokoly",
