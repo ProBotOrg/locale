@@ -173,6 +173,7 @@
 	"vip_please_specify_description": ":rolling_eyes: - **Gelieve te specificeren**",
 	"vip_details_description": "**Premium nummer:** {0}\n **Premium eindigt over** {1}\n **Geregistreerd voor:** {2}",
 	"vip_ended_description": "beëindigd",
+	"slowmode_description": "Enable or disabled slowmode on a channel.",
 	"credits_not_enough": "** :thinking: |  {0}, je geld is niet genoeg voor dat!**",
 	"credits_trans_done": "**:moneybag: |  {0}, overgedragen aan  `${1}` naar {2} **",
 	"credits_receipt": ":atm:  | Transfer Ontvangst ```Je hebt ${0} ontvangen van gebruiker {1} (ID: {2})\nReden: {3} \n```",
