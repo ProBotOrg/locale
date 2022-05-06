@@ -173,7 +173,7 @@
 	"vip_please_specify_description": ":rolling_eyes: - **perfavore specifica**",
 	"vip_details_description": "**numero premium:** {0}\n**il premium termina in** {1}\n**registrato per:** {2}",
 	"vip_ended_description": "Terminato",
-	"slowmode_description": "Enable or disabled slowmode on a channel.",
+	"slowmode_description": "Enable or disable slowmode on a channel.",
 	"credits_not_enough": "** :thinking: | {0}, il tuo bilancio non basta per effetuare l'acquisto**",
 	"credits_trans_done": "**:moneybag: | {0}, ha trasferito `${1}` a {2}**",
 	"credits_receipt": ":atm: | trasferimento ricevuto ```hai ricevuto ${0} da l'utente {1} (ID:{2})```",
@@ -437,5 +437,6 @@
 	"muted_both": ":white_check_mark: **@{0} muted from both text and voice! :zipper_mouth:**",
 	"slowmode_set": "This channel slowmode has been set to {0}.",
 	"slowmode_should": "Time should be less than or equal to {0}.",
-	"slowmode_is": "This channel slowmode is {0}."
+	"slowmode_is": "This channel slowmode is {0}.",
+	"slowmode_disabled": "Slowmode has been disabled from this channel."
 }

@@ -173,7 +173,7 @@
 	"vip_please_specify_description": ":rolling_eyes: - **지정해주세요.**",
 	"vip_details_description": "**프리미엄 번호:** {0}\n**프리미엄 종료일:** {1}\n**프리미엄 가입일:** {2}",
 	"vip_ended_description": "종료됨",
-	"slowmode_description": "Enable or disabled slowmode on a channel.",
+	"slowmode_description": "Enable or disable slowmode on a channel.",
 	"credits_not_enough": "**:thinking: | {0}님, 잔액이 충분하지 않아요!**",
 	"credits_trans_done": "**:moneybag: | {0}님, {2}님께 `${1}`만큼 주었어요.**",
 	"credits_receipt": ":atm: | 이전 영수증 ```{1}님께 (ID: {2}) 잔액 ${0} 상당을 받으셨어요.\n사유: {3}\n```",
@@ -437,5 +437,6 @@
 	"muted_both": ":white_check_mark: **@{0}님이 채팅, 음성 채널에서 음소거됐어요! :zipper_mouth:**",
 	"slowmode_set": "채널의 슬로우모드가 {0}초로 설정됐어요.",
 	"slowmode_should": "시간이 {0}초 이하여야 해요.",
-	"slowmode_is": "채널의 슬로우모드는 {0}초에요."
+	"slowmode_is": "채널의 슬로우모드는 {0}초에요.",
+	"slowmode_disabled": "Slowmode has been disabled from this channel."
 }
