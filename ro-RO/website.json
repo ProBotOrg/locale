@@ -65,6 +65,7 @@
     "roll_description": "zar. ",
     "default_roll": "Default roll dice",
     "points_description": "Puncte bazate pe server care pot fi acordate de moderatori. ",
+    "slowmode_description": "Enable or disabled slowmode on a channel.",
     "Utility": "Utilități",
     "Moderation": "Moderație",
     "Logs": "Log-uri",
