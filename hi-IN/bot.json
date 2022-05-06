@@ -173,7 +173,7 @@
 	"vip_please_specify_description": ":rolling_eyes: - ** krpaya nirdisht karen **",
 	"vip_details_description": "** preemiyam sankhya: ** {0}\n**mein preemiyam samaapt hota hai** {1}\n** ke lie panjeekrt: ** {2}",
 	"vip_ended_description": "samaapt",
-	"slowmode_description": "Enable or disabled slowmode on a channel.",
+	"slowmode_description": "Enable or disable slowmode on a channel.",
 	"credits_not_enough": "**:thinking: | {0}, aapaka santulan isake lie paryaapt nahin hai! **",
 	"credits_trans_done": "**:moneybag: | {0}, ne `${1}` ko {2} ** mein sthaanaantarit kar diya hai",
 	"credits_receipt": ":atm: | sthaanaantaran raseed `` `aapako upayogakarta {1} (ID: {2})` `` se ${0} praapt huee hai",
@@ -437,5 +437,6 @@
 	"muted_both": ":white_check_mark: **@{0} muted text aur voice donon se! :zipper_mouth:**",
 	"slowmode_set": "This channel slowmode has been set to {0}.",
 	"slowmode_should": "Time should be less than or equal to {0}.",
-	"slowmode_is": "This channel slowmode is {0}."
+	"slowmode_is": "This channel slowmode is {0}.",
+	"slowmode_disabled": "Slowmode has been disabled from this channel."
 }
