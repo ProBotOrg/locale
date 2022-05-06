@@ -433,5 +433,8 @@
 	"setlang_description": "ボットに希望する言語を設定する",
 	"setlang_language_description": "言語が変更されました",
 	"unmute_description": "メッセージ入力の禁止を解除する。",
-	"muted_both": ":white_check_mark: **@{0} さんがテキストチャンネルとボイスチャンネルの両方でミュートされました！ :zipper_mouth:**"
+	"muted_both": ":white_check_mark: **@{0} さんがテキストチャンネルとボイスチャンネルの両方でミュートされました！ :zipper_mouth:**",
+	"slowmode_set": "This channel slowmode has been set to {0}.",
+	"slowmode_should": "Time should be less than or equal to {0}.",
+	"slowmode_is": "This channel slowmode is {0}."
 }
