@@ -433,5 +433,8 @@
 	"setlang_description": "Đặt ngôn ngữ cho bot.",
 	"setlang_language_description": "Ngôn ngữ muốn đổi.",
 	"unmute_description": "Bỏ khóa trò chuyện cho thành viên.",
-	"muted_both": ":white_check_mark: **Đã tắt tiếng @{0} cho cả text và voice! :zipper_mouth:**"
+	"muted_both": ":white_check_mark: **Đã tắt tiếng @{0} cho cả text và voice! :zipper_mouth:**",
+	"slowmode_set": "This channel slowmode has been set to {0}.",
+	"slowmode_should": "Time should be less than or equal to {0}.",
+	"slowmode_is": "This channel slowmode is {0}."
 }
