@@ -98,6 +98,7 @@
     "DAY": "Diena",
     "NONE": "Nieko",
     "WELCOME_MESSAGE": "Išsiųsti pranešimą, kaip naujas žmogus prisijungia į serverį.",
+    "LEAVE_MESSAGE": "Send a message when a user leaves the server",
     "WELCOME_IMAGE": "Išsiųsti nuotrauką kaip naujas žmogus prisijungia į serverį",
     "WIDTH": "Plotis",
     "HEIGHT": "Aukštis",
