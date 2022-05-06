@@ -98,6 +98,7 @@
     "DAY": "日",
     "NONE": "未設定",
     "WELCOME_MESSAGE": "サーバー参加時にメッセージを送る",
+    "LEAVE_MESSAGE": "Send a message when a user leaves the server",
     "WELCOME_IMAGE": "サーバー参加時に画像を送る",
     "WIDTH": "幅",
     "HEIGHT": "高さ",
