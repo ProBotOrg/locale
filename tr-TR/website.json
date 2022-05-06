@@ -65,6 +65,7 @@
     "roll_description": "zar atın.",
     "default_roll": "Setlang",
     "points_description": "Moderatörler tarafından verilebilecek sunucu bazlı puanlar.",
+    "slowmode_description": "Enable or disabled slowmode on a channel.",
     "Utility": "İşlevsellik",
     "Moderation": "Moderasyon",
     "Logs": "Kayıtlar",
