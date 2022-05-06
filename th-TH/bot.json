@@ -173,7 +173,7 @@
 	"vip_please_specify_description": ":rolling_eyes: - **โปรดระบุหรือ**",
 	"vip_details_description": "**หมายเลขพรีเมียม** {0} \n**พรีเมียมจะหมดอายุใน** {1}\n**ลงทะเบียนสำหรับ** {2}",
 	"vip_ended_description": "สิ้นสุดแล้ว",
-	"slowmode_description": "Enable or disabled slowmode on a channel.",
+	"slowmode_description": "Enable or disable slowmode on a channel.",
 	"credits_not_enough": "** :thinking: | {0}, ยอดเงินของคุณไม่เพียงพอสำหรับสิ่งนั้น! **",
 	"credits_trans_done": "**:moneybag: | {0}, ได้โอนเงิน `${1}` ให้กับ {2} **",
 	"credits_receipt": ":atm: | ใบเสร็จการโอน ```คุณได้รับ ${0} จากผู้ใช้ {1} (ID: {2})```",
@@ -437,5 +437,6 @@
 	"muted_both": ":white_check_mark: **@{0} ถูกปิดเสียงและถูกใบ้จากช่องเสียงและช่องข้อความ! :zipper_mouth: **",
 	"slowmode_set": "This channel slowmode has been set to {0}.",
 	"slowmode_should": "Time should be less than or equal to {0}.",
-	"slowmode_is": "This channel slowmode is {0}."
+	"slowmode_is": "This channel slowmode is {0}.",
+	"slowmode_disabled": "Slowmode has been disabled from this channel."
 }
