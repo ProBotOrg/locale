@@ -433,5 +433,8 @@
 	"setlang_description": "Beállítja a preferált nyelved a boton.",
 	"setlang_language_description": "A nyelv, amire váltasz.",
 	"unmute_description": "Feloldja a némítást a megadott tagról.",
-	"muted_both": ":white_check_mark: **@{0} némítva szövegről és hangról! :zipper_mouth:**"
+	"muted_both": ":white_check_mark: **@{0} némítva szövegről és hangról! :zipper_mouth:**",
+	"slowmode_set": "This channel slowmode has been set to {0}.",
+	"slowmode_should": "Time should be less than or equal to {0}.",
+	"slowmode_is": "This channel slowmode is {0}."
 }
