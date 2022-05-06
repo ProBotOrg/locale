@@ -173,7 +173,7 @@
 	"vip_please_specify_description": ":rolling_eyes: - **Kérlek add meg**",
 	"vip_details_description": "**Prémium száma:** {0}\n**Prémium véget ér:** {1}\n**Regisztrálva neki:** {2}",
 	"vip_ended_description": "végződött",
-	"slowmode_description": "Enable or disabled slowmode on a channel.",
+	"slowmode_description": "Be- vagy kikapcsolja a lassított módot egy csatornán.",
 	"credits_not_enough": "** :thinking: | {0}, Az egyenleged nem elegendő hozzá!**",
 	"credits_trans_done": "**:moneybag: | {0}, ${1}-t átküldtél ennek: {2} **",
 	"credits_receipt": ":atm:  |  Átutalási nyugta ```${0}-t kaptál tőle: {1} (ID: {2})\nOk: {3}\n```",
@@ -435,7 +435,8 @@
 	"setlang_language_description": "A nyelv, amire váltasz.",
 	"unmute_description": "Feloldja a némítást a megadott tagról.",
 	"muted_both": ":white_check_mark: **@{0} némítva szövegről és hangról! :zipper_mouth:**",
-	"slowmode_set": "This channel slowmode has been set to {0}.",
+	"slowmode_set": "A csatorna lassított módja mostantól {0}.",
 	"slowmode_should": "Time should be less than or equal to {0}.",
-	"slowmode_is": "This channel slowmode is {0}."
+	"slowmode_is": "This channel slowmode is {0}.",
+	"slowmode_disabled": "Slowmode has been disabled from this channel."
 }
