@@ -98,6 +98,7 @@
     "DAY": "Dia",
     "NONE": "Nenhum",
     "WELCOME_MESSAGE": "Envia uma mensagem quando um usuário entrar no servidor",
+    "LEAVE_MESSAGE": "Send a message when a user leaves the server",
     "WELCOME_IMAGE": "Envia uma imagem quando um usuário entrar no servidor",
     "WIDTH": "Largura",
     "HEIGHT": "Altura",
