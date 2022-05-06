@@ -65,6 +65,7 @@
     "roll_description": "ridenamas kauliukas.",
     "default_roll": "Default roll dice",
     "points_description": "Serverio taškai, kuriuos gali suteikti moderatoriai.",
+    "slowmode_description": "Enable or disabled slowmode on a channel.",
     "Utility": "Įrankiai",
     "Moderation": "Moderavimas",
     "Logs": "Įvykių žurnalas",
