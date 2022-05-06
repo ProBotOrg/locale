@@ -65,6 +65,7 @@
     "roll_description": "bacanje kockice.",
     "default_roll": "Default roll dice",
     "points_description": "Poeni servera koji mogu biti dati od strane moderatora.",
+    "slowmode_description": "Enable or disabled slowmode on a channel.",
     "Utility": "Komande",
     "Moderation": "Moderacija",
     "Logs": "Logovi",
