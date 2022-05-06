@@ -65,6 +65,7 @@
     "roll_description": "eldobja a kockát.",
     "default_roll": "Alapértelmezett dobókocka",
     "points_description": "Szerver alapú pontok amiket a moderátorok adnak.",
+    "slowmode_description": "Enable or disabled slowmode on a channel.",
     "Utility": "Eszközök",
     "Moderation": "Moderáció",
     "Logs": "Naplók",
