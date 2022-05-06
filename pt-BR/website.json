@@ -65,7 +65,7 @@
     "roll_description": "Rola um dado.",
     "default_roll": "Dados de rolagem padrão.",
     "points_description": "Um sistema de pontos por servidor que pode ser dado pelos moderadores.",
-    "slowmode_description": "Enable or disabled slowmode on a channel.",
+    "slowmode_description": "Enable or disable slowmode on a channel.",
     "Utility": "Utilitários",
     "Moderation": "Moderação",
     "Logs": "Registros",
