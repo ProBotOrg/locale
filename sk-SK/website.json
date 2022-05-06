@@ -65,7 +65,7 @@
     "roll_description": "Hodí kockami.\n",
     "default_roll": "Predvolený hod kockou",
     "points_description": "Body založené na serveri, ktoré môžu poskytnúť moderátori.\n",
-    "slowmode_description": "Enable or disabled slowmode on a channel.",
+    "slowmode_description": "Enable or disable slowmode on a channel.",
     "Utility": "Nástroje",
     "Moderation": "Moderátor",
     "Logs": "Záznamy",

@@ -65,7 +65,7 @@
     "roll_description": "Rzut kośćmi.",
     "default_roll": "Domyślne rzuty kostką",
     "points_description": "Punkty oparte na serwerze, które mogą być przyznawane przez moderatorów.",
-    "slowmode_description": "Enable or disabled slowmode on a channel.",
+    "slowmode_description": "Enable or disable slowmode on a channel.",
     "Utility": "Użyteczne",
     "Moderation": "Moderacyjne",
     "Logs": "Logi",

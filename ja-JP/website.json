@@ -65,7 +65,7 @@
     "roll_description": "サイコロころがし",
     "default_roll": "通常のサイコロころがし",
     "points_description": "モデレーターが付与できるサーバー基準のポイント",
-    "slowmode_description": "Enable or disabled slowmode on a channel.",
+    "slowmode_description": "Enable or disable slowmode on a channel.",
     "Utility": "便利機能",
     "Moderation": "管理",
     "Logs": "ログ",

@@ -65,7 +65,7 @@
     "roll_description": "Tung súc sắc.",
     "default_roll": "Số mặt mặc định",
     "points_description": "Điểm tính trong server được cho bởi quản lí.",
-    "slowmode_description": "Enable or disabled slowmode on a channel.",
+    "slowmode_description": "Enable or disable slowmode on a channel.",
     "Utility": "Tiện ích",
     "Moderation": "Quản lý",
     "Logs": "Nhật kí",

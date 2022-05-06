@@ -65,7 +65,7 @@
     "roll_description": "rola o teu número.",
     "default_roll": "Rolar os dados padrão",
     "points_description": "Sistema de pontos que pode ser usado pelos moderadores",
-    "slowmode_description": "Enable or disabled slowmode on a channel.",
+    "slowmode_description": "Enable or disable slowmode on a channel.",
     "Utility": "Utilidades",
     "Moderation": "Moderação",
     "Logs": "Registos",

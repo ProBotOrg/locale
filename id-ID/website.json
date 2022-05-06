@@ -65,7 +65,7 @@
     "roll_description": "mengguling dadu.",
     "default_roll": "Lempar dadu bawaan",
     "points_description": "Sebuah poin berbasis server yang dapat diberikan oleh moderator.",
-    "slowmode_description": "Enable or disabled slowmode on a channel.",
+    "slowmode_description": "Enable or disable slowmode on a channel.",
     "Utility": "Kegunaan",
     "Moderation": "Moderasi",
     "Logs": "Log",
