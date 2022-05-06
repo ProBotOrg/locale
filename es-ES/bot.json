@@ -433,5 +433,8 @@
 	"setlang_description": "Establece su idioma preferido para el bot.",
 	"setlang_language_description": "Idioma al que cambiar.",
 	"unmute_description": "Remover el silencio de un miembro.",
-	"muted_both": ":white_check_mark:**@{0} silenciado tanto por texto como por voz!:zipper_mouth:**"
+	"muted_both": ":white_check_mark:**@{0} silenciado tanto por texto como por voz!:zipper_mouth:**",
+	"slowmode_set": "This channel slowmode has been set to {0}.",
+	"slowmode_should": "Time should be less than or equal to {0}.",
+	"slowmode_is": "This channel slowmode is {0}."
 }
