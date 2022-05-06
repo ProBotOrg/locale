@@ -173,7 +173,7 @@
 	"vip_please_specify_description": ":rolling_eyes: - **Prašome nurodyti**",
 	"vip_details_description": "**Premium numeris:** {0}\n**Premium baigiasi už** {1}\n**Registruotas kaip:** {2}",
 	"vip_ended_description": "baigėsi",
-	"slowmode_description": "Enable or disabled slowmode on a channel.",
+	"slowmode_description": "Enable or disable slowmode on a channel.",
 	"credits_not_enough": "** :thinking: | {0}, Jūsų balansas yra nepakankamas tam**",
 	"credits_trans_done": "**:moneybag: | {0}, pervedė `${1}` vartotojui {2} **",
 	"credits_receipt": ":atm:  |  Pervedimo išrašas ```Jūs gavote ${0} nuo vartotojo {1} (ID: {2})\nPaskirtis: {3} \n```",
@@ -437,5 +437,6 @@
 	"muted_both": ":white_check_mark: **@{0} muted from both text and voice! :zipper_mouth:**",
 	"slowmode_set": "This channel slowmode has been set to {0}.",
 	"slowmode_should": "Time should be less than or equal to {0}.",
-	"slowmode_is": "This channel slowmode is {0}."
+	"slowmode_is": "This channel slowmode is {0}.",
+	"slowmode_disabled": "Slowmode has been disabled from this channel."
 }
