@@ -65,6 +65,7 @@
     "roll_description": "Rollt einen Würfel.",
     "default_roll": "Default roll dice",
     "points_description": "Serverbasierte Punkte, die von Moderatoren vergeben werden können.",
+    "slowmode_description": "Enable or disabled slowmode on a channel.",
     "Utility": "Hilfsmittel",
     "Moderation": "Moderation",
     "Logs": "Protokolle",

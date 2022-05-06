@@ -65,6 +65,7 @@
     "roll_description": "擲骰子",
     "default_roll": "默認",
     "points_description": "一種可從管理原領取的伺服器分數",
+    "slowmode_description": "Enable or disabled slowmode on a channel.",
     "Utility": "工具",
     "Moderation": "管理",
     "Logs": "日誌",

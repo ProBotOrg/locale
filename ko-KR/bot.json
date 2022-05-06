@@ -173,6 +173,7 @@
 	"vip_please_specify_description": ":rolling_eyes: - **지정해주세요.**",
 	"vip_details_description": "**프리미엄 번호:** {0}\n**프리미엄 종료일:** {1}\n**프리미엄 가입일:** {2}",
 	"vip_ended_description": "종료됨",
+	"slowmode_description": "Enable or disabled slowmode on a channel.",
 	"credits_not_enough": "**:thinking: | {0}님, 잔액이 충분하지 않아요!**",
 	"credits_trans_done": "**:moneybag: | {0}님, {2}님께 `${1}`만큼 주었어요.**",
 	"credits_receipt": ":atm: | 이전 영수증 ```{1}님께 (ID: {2}) 잔액 ${0} 상당을 받으셨어요.\n사유: {3}\n```",
@@ -340,7 +341,7 @@
 	"role_error_managed": ":rolling_eyes: - **{0}** 역할은 연동으로 관리되어 줄 수 없어요.",
 	"jump_to_message": "메시지로 이동하기",
 	"credits_no_reason": "사유가 제공되지 않았어요",
-	"removewarn_description": "Removes warnings from all members or specific user.",
+	"removewarn_description": "모든 멤버 또는 특정 멤버의 경고를 제거해요.",
 	"help_description": "도움이 필요하신가요?",
 	"help_command_description": "명령어 사용법을 상세하게 알려줘요.",
 	"roll_dice": "최대 주사위 수",
@@ -433,5 +434,8 @@
 	"setlang_description": "선호하는 언어를 선택해요.",
 	"setlang_language_description": "변경할 언어",
 	"unmute_description": "멤버의 음소거를 해제해요.",
-	"muted_both": ":white_check_mark: **@{0}님이 채팅, 음성 채널에서 음소거됐어요! :zipper_mouth:**"
+	"muted_both": ":white_check_mark: **@{0}님이 채팅, 음성 채널에서 음소거됐어요! :zipper_mouth:**",
+	"slowmode_set": "채널의 슬로우모드가 {0}초로 설정됐어요.",
+	"slowmode_should": "시간이 {0}초 이하여야 해요.",
+	"slowmode_is": "채널의 슬로우모드는 {0}초에요."
 }

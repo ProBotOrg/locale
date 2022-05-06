@@ -173,6 +173,7 @@
 	"vip_please_specify_description": ":rolling_eyes: - **Proszę sprecyzuj**",
 	"vip_details_description": "**Numer premium:** {0}\n**Premium kończy się:** {1}\n**Zarejestrowany:** {2}",
 	"vip_ended_description": "zakończony",
+	"slowmode_description": "Enable or disabled slowmode on a channel.",
 	"credits_not_enough": "** :thinking: | {0}, nie masz wystarczającej ilości środków na koncie (saldo).**",
 	"credits_trans_done": "**:moneybag: | {0}, przekazał `${1}` dla {2} **\n",
 	"credits_receipt": ":atm: | Potwierdzenie przelewu ```Otrzymałeś ${0} od użytkownika {1} (ID: {2})`",
@@ -433,5 +434,8 @@
 	"setlang_description": "Ustawia preferowany język dla bota.",
 	"setlang_language_description": "Język do zmiany.",
 	"unmute_description": "Dezaktywuje wyciszenie członka.",
-	"muted_both": ":white_check_mark: **@{0} został wyciszony zarówno na kanałach tekstowych, jak i głosowych! :zipper_mouth:**"
+	"muted_both": ":white_check_mark: **@{0} został wyciszony zarówno na kanałach tekstowych, jak i głosowych! :zipper_mouth:**",
+	"slowmode_set": "This channel slowmode has been set to {0}.",
+	"slowmode_should": "Time should be less than or equal to {0}.",
+	"slowmode_is": "This channel slowmode is {0}."
 }

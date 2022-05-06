@@ -173,6 +173,7 @@
 	"vip_please_specify_description": ":rolling_eyes: - **Пожалуйста уточните**",
 	"vip_details_description": "**Премиум Номер:** {0}\n**Премиум закончится** {1}\n**Зарегистрирован для:** {2}",
 	"vip_ended_description": "законченный ",
+	"slowmode_description": "Enable or disabled slowmode on a channel.",
 	"credits_not_enough": "** :thinking: | {0}, на вашем счете недостаточно средств для этого**",
 	"credits_trans_done": "**:moneybag: | {0}, будет переведено`${1}` пользователю {2} **",
 	"credits_receipt": ":atm: | Приходный ордер ```Вам поступило на счет ${0} от пользователя {1} (ID: {2})\nReason: {3} \n```",
@@ -433,5 +434,8 @@
 	"setlang_description": "Устанавливает предпочтительный язык для бота.",
 	"setlang_language_description": "Язык, на который следует перейти.",
 	"unmute_description": "Разрешить участнику писать. ",
-	"muted_both": ":white_check_mark: **@{0} заглушен в текстовых и голосовых каналах! :zipper_mouth:**"
+	"muted_both": ":white_check_mark: **@{0} заглушен в текстовых и голосовых каналах! :zipper_mouth:**",
+	"slowmode_set": "This channel slowmode has been set to {0}.",
+	"slowmode_should": "Time should be less than or equal to {0}.",
+	"slowmode_is": "This channel slowmode is {0}."
 }

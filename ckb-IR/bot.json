@@ -173,6 +173,7 @@
 	"vip_please_specify_description": ":rolling_eyes: - **تکایە دیاری بکە**",
 	"vip_details_description": "**ژمارەی پریمیوم:** {0}\n**پریمیوم کۆتایی دێت لە:** {1}\n**تۆمارکراوە بۆ :** {2}",
 	"vip_ended_description": "كۆتاييى هات\n",
+	"slowmode_description": "Enable or disabled slowmode on a channel.",
 	"credits_not_enough": "‌** :thinking: | {0}, باڵانسی پێویستت نیه!**",
 	"credits_trans_done": "**:moneybag: | {0}, گواسترایه‌وه‌ `${1}` بۆ {2} **",
 	"credits_receipt": ":atm: | پسوولەی گوێزرانەوە ```تۆ بڕی وەرگرت لەلایەن {1} ( ئایدی: {2} )\nهۆکار: {3}\n```",
@@ -433,5 +434,8 @@
 	"setlang_description": "دانانی زمانی پەسەندکراو بۆ بۆتەکەت.",
 	"setlang_language_description": "زمانەکە بۆ گۆڕین بۆی.",
 	"unmute_description": "لابردنی میوت لەسەر ئەندامەکە",
-	"muted_both": ":white_check_mark: **@{0} بێدەنگکرا لە ژوورە دەنگی و نوسینەکیەکانیش! :zipper_mouth: **"
+	"muted_both": ":white_check_mark: **@{0} بێدەنگکرا لە ژوورە دەنگی و نوسینەکیەکانیش! :zipper_mouth: **",
+	"slowmode_set": "This channel slowmode has been set to {0}.",
+	"slowmode_should": "Time should be less than or equal to {0}.",
+	"slowmode_is": "This channel slowmode is {0}."
 }

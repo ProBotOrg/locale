@@ -173,6 +173,7 @@
 	"vip_please_specify_description": ":rolling_eyes: - **Gelieve te specificeren**",
 	"vip_details_description": "**Premium nummer:** {0}\n **Premium eindigt over** {1}\n **Geregistreerd voor:** {2}",
 	"vip_ended_description": "beëindigd",
+	"slowmode_description": "Enable or disabled slowmode on a channel.",
 	"credits_not_enough": "** :thinking: |  {0}, je geld is niet genoeg voor dat!**",
 	"credits_trans_done": "**:moneybag: |  {0}, overgedragen aan  `${1}` naar {2} **",
 	"credits_receipt": ":atm:  | Transfer Ontvangst ```Je hebt ${0} ontvangen van gebruiker {1} (ID: {2})\nReden: {3} \n```",
@@ -432,6 +433,9 @@
 	"resume_description": "Hervat het momenteel gepauzeerde nummer.",
 	"setlang_description": "Stelt je gewenste taal in op de bot.",
 	"setlang_language_description": "Taal om naar te veranderen",
-	"unmute_description": "Een lid wordt niet meer gedempt. En kan weet typen en kanalen",
-	"muted_both": ":white_check_mark: **@{0} gedempt vanaf zowel de tekst als de stem! :zipper_mouth:**"
+	"unmute_description": "Een lid wordt niet meer gedempt. En kan weer typen in kanalen",
+	"muted_both": ":white_check_mark: **@{0} gedempt vanaf zowel de tekst als de stem! :zipper_mouth:**",
+	"slowmode_set": "This channel slowmode has been set to {0}.",
+	"slowmode_should": "Time should be less than or equal to {0}.",
+	"slowmode_is": "This channel slowmode is {0}."
 }

@@ -65,6 +65,7 @@
     "roll_description": "Rollende dobbelsteen.",
     "default_roll": "Standaard dobbelsteen rol.",
     "points_description": "Server gebaseerde punten die kunnen worden gegeven door moderators.",
+    "slowmode_description": "Enable or disabled slowmode on a channel.",
     "Utility": "Hulpprogramma",
     "Moderation": "Moderatie",
     "Logs": "Logboek",

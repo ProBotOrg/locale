@@ -65,6 +65,7 @@
     "roll_description": "ludhakata paasa.",
     "default_roll": "दफल्ट डाइस रोल ",
     "points_description": "ek sarvar aadhaarit ank jo madhyasthon dvaara die ja sakate hain.",
+    "slowmode_description": "Enable or disabled slowmode on a channel.",
     "Utility": "उपयोगिता",
     "Moderation": "संचालन",
     "Logs": "लॅग्स",
