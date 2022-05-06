@@ -98,6 +98,7 @@
     "DAY": "วัน",
     "NONE": "ไม่มี",
     "WELCOME_MESSAGE": "ส่งข้อความเมื่อผู้ใช้เข้าร่วมเซิร์ฟเวอร์",
+    "LEAVE_MESSAGE": "Send a message when a user leaves the server",
     "WELCOME_IMAGE": "ส่งภาพเมื่อผู้ใช้เข้าร่วมเซิร์ฟเวอร์",
     "WIDTH": "ความกว้าง",
     "HEIGHT": "ความสูง",
