@@ -98,6 +98,7 @@
     "DAY": "Nap",
     "NONE": "Egyik sem",
     "WELCOME_MESSAGE": "Üzenet küldése tag csatlakozásakor",
+    "LEAVE_MESSAGE": "Send a message when a user leaves the server",
     "WELCOME_IMAGE": "Kép küldése tag csatlakozásakor",
     "WIDTH": "Szélesség",
     "HEIGHT": "Magasság",
