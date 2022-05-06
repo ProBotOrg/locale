@@ -65,7 +65,7 @@
     "roll_description": "Lance les dés.",
     "default_roll": "Lancé de dés par défaut",
     "points_description": "Des points de serveur qui peuvent être donnés par les modérateurs.",
-    "slowmode_description": "Enable or disabled slowmode on a channel.",
+    "slowmode_description": "Enable or disable slowmode on a channel.",
     "Utility": "Utilitaire",
     "Moderation": "Modération",
     "Logs": "Actions éffectués",
