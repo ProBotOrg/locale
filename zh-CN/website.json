@@ -65,6 +65,7 @@
     "roll_description": "掷骰子。",
     "default_roll": "Default roll dice",
     "points_description": "由他人给予点数的，并以点数为基础。",
+    "slowmode_description": "Enable or disabled slowmode on a channel.",
     "Utility": "工具",
     "Moderation": "审核",
     "Logs": "日志",
