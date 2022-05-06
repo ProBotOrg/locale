@@ -433,5 +433,8 @@
 	"setlang_description": "Setzt Ihre bevorzugte Sprache des Bots.",
 	"setlang_language_description": "Sprache, zu der geändert werden soll.",
 	"unmute_description": "Deaktiviert die Stummschaltung eines Benutzers.",
-	"muted_both": ":white_check_mark: **@{0} Von Text- und Sprachkanälen stummgeschaltet! :zipper_mouth:**"
+	"muted_both": ":white_check_mark: **@{0} Von Text- und Sprachkanälen stummgeschaltet! :zipper_mouth:**",
+	"slowmode_set": "This channel slowmode has been set to {0}.",
+	"slowmode_should": "Time should be less than or equal to {0}.",
+	"slowmode_is": "This channel slowmode is {0}."
 }
