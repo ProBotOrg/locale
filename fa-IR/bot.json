@@ -433,5 +433,8 @@
 	"setlang_description": ".زبان دلخواه شما را برای بات تنظیم می کند",
 	"setlang_language_description": ".زبانی که به آن تغییر پیدا کند",
 	"unmute_description": "عضوی را از حالت بی‌صدا بیرون می آورد.",
-	"muted_both": ":white_check_mark: **:zipper_mouth: !از هر دو حالت صوتی و متنی به سکوت در آمد @{0}**"
+	"muted_both": ":white_check_mark: **:zipper_mouth: !از هر دو حالت صوتی و متنی به سکوت در آمد @{0}**",
+	"slowmode_set": "This channel slowmode has been set to {0}.",
+	"slowmode_should": "Time should be less than or equal to {0}.",
+	"slowmode_is": "This channel slowmode is {0}."
 }
