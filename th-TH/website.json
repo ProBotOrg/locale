@@ -65,6 +65,7 @@
     "roll_description": "ทอยลูกเต๋า",
     "default_roll": "Default roll dice",
     "points_description": "คะแนนตามเซิร์ฟเวอร์ ผู้ดูแลสามารถมอบให้ได้",
+    "slowmode_description": "Enable or disabled slowmode on a channel.",
     "Utility": "เครื่องมือ",
     "Moderation": "การคัดกรอง",
     "Logs": "หมวดหมู่",
