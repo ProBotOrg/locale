@@ -98,6 +98,7 @@
     "DAY": "Dzień",
     "NONE": "Brak",
     "WELCOME_MESSAGE": "Wyślij wiadomość, gdy użytkownik dołączy do serwera.",
+    "LEAVE_MESSAGE": "Send a message when a user leaves the server",
     "WELCOME_IMAGE": "Wyślij obraz, gdy użytkownik dołączy do serwera.",
     "WIDTH": "Szerokość",
     "HEIGHT": "Wysokość",
