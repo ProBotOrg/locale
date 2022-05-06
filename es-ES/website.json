@@ -65,6 +65,7 @@
     "roll_description": "Tira un dado",
     "default_roll": "Número de caras por defecto",
     "points_description": "Un servidor basado en puntos que pueden ser dados por los moderadores.",
+    "slowmode_description": "Enable or disabled slowmode on a channel.",
     "Utility": "Utilidades",
     "Moderation": "Moderación",
     "Logs": "Registros",
