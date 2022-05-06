@@ -65,6 +65,7 @@
     "roll_description": "rolling dice.",
     "default_roll": "Default roll dice",
     "points_description": "A server based points that can be given by moderators.",
+    "slowmode_description": "Enable or disabled slowmode on a channel.",
     "Utility": "Utility",
     "Moderation": "Moderasyon",
     "Logs": "Logs",
