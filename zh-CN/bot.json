@@ -433,5 +433,8 @@
 	"setlang_description": "在此设置您的首选语言",
 	"setlang_language_description": "要更改的语言。",
 	"unmute_description": "取消成员的键入限制。",
-	"muted_both": ":white_check_mark: **@{0} 从文本处静音！ :zipper_mouth:**"
+	"muted_both": ":white_check_mark: **@{0} 从文本处静音！ :zipper_mouth:**",
+	"slowmode_set": "This channel slowmode has been set to {0}.",
+	"slowmode_should": "Time should be less than or equal to {0}.",
+	"slowmode_is": "This channel slowmode is {0}."
 }
