@@ -173,6 +173,7 @@
 	"vip_please_specify_description": ":rolling_eyes: - **Merci de préciser**",
 	"vip_details_description": "**Numbre Premium :** {0}\n**Premium expire dans** {1}\n**Enregistré pour :** {2}",
 	"vip_ended_description": "terminé",
+	"slowmode_description": "Enable or disabled slowmode on a channel.",
 	"credits_not_enough": "** :thinking: | {0}, Votre solde n'est pas assez elevé pour cela !**",
 	"credits_trans_done": "**:moneybag: | {0}, a transféré `${1}` à {2} **",
 	"credits_receipt": ":atm: | Reçu de transfert```Vous avez reçu ${0} de l'utilisateur {1} (ID: {2})```",
