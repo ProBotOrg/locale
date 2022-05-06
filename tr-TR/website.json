@@ -98,6 +98,7 @@
     "DAY": "Gün",
     "NONE": "Hiçbiri",
     "WELCOME_MESSAGE": "Bir kullanıcı sunucuya giriş yaptığında bir mesaj gönder",
+    "LEAVE_MESSAGE": "Send a message when a user leaves the server",
     "WELCOME_IMAGE": "Bir kullanıcı sunucuya giriş yaptığında bir resim gönder",
     "WIDTH": "Genişlik",
     "HEIGHT": "Yükseklik",
