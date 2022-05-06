@@ -65,6 +65,7 @@
     "roll_description": "بەردەزار.",
     "default_roll": "تایسی خولانەوەی بنەڕەت",
     "points_description": "خاڵەکانی سێرڤێر لەلایەن مۆدرێتەکانەوە دەکرێ ببەخشرێ.",
+    "slowmode_description": "Enable or disabled slowmode on a channel.",
     "Utility": "فەرمانی گشتی",
     "Moderation": "چاودێری",
     "Logs": "تۆمارەکان",
