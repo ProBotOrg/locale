@@ -173,6 +173,7 @@
 	"vip_please_specify_description": ":rolling_eyes: - **指定してください**",
 	"vip_details_description": "**プレミアム番号:** {0}\n**プレミアム終了まで** {1}\n**登録先：** {2}",
 	"vip_ended_description": "終了しました",
+	"slowmode_description": "Enable or disabled slowmode on a channel.",
 	"credits_not_enough": "** :thinking: | {0}さんの残高が不足しています！**",
 	"credits_trans_done": "**:moneybag: | {0}は、`${1}` を {2} に移動しました**",
 	"credits_receipt": ":atm:  |  通帳 ```受け取り金額 ${0} 　振り込み主： {1} (ID: {2})```",
