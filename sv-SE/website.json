@@ -65,6 +65,7 @@
     "roll_description": "kasta tärningar.",
     "default_roll": "Default roll dice",
     "points_description": "Server baserade poäng som kan ges av moderatorer.",
+    "slowmode_description": "Enable or disabled slowmode on a channel.",
     "Utility": "Verktyg",
     "Moderation": "Måtta",
     "Logs": "loggar",
