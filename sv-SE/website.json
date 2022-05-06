@@ -98,6 +98,7 @@
     "DAY": "Dag",
     "NONE": "ingen",
     "WELCOME_MESSAGE": "Skicka ett meddelande när en användare ansluter sig till servern",
+    "LEAVE_MESSAGE": "Send a message when a user leaves the server",
     "WELCOME_IMAGE": "Skicka en bild när en användare ansluter sig till servern",
     "WIDTH": "Bredd",
     "HEIGHT": "Höjd",
