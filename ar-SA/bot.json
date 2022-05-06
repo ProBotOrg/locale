@@ -433,5 +433,8 @@
 	"setlang_description": "تعيين لغتك المفضلة على البوت.",
 	"setlang_language_description": "تغيير اللغة إلى.",
 	"unmute_description": "إلغاء منع كتابي من عضو.",
-	"muted_both": ":white_check_mark: **تم إسكات {0} من كل الرومات الكتابية و الصوتية!** :zipper_mouth:"
+	"muted_both": ":white_check_mark: **تم إسكات {0} من كل الرومات الكتابية و الصوتية!** :zipper_mouth:",
+	"slowmode_set": "This channel slowmode has been set to {0}.",
+	"slowmode_should": "Time should be less than or equal to {0}.",
+	"slowmode_is": "This channel slowmode is {0}."
 }
