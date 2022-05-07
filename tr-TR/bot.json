@@ -174,7 +174,7 @@
 	"vip_details_description": "**Premium Numarası:** {0}\n**Premium'un sona ereceği zaman** {1}\n{2} **Adına kayıtlı** ",
 	"vip_ended_description": "sona erdi",
 	"slowmode_description": "Yavaş Mod'u bir kanalda etkinleştirir/devre dışı bırakır.",
-	"slowmode_time_description": "Bu kanalın yavaş mod'u {0} olarak ayarlandı.",
+	"slowmode_time_description": "Yavaş Mod kanalı için ayarlanacak süre.",
 	"credits_not_enough": "** :thinking: | {0}, Bu işlem için bakiyeniz yeterli değil!**",
 	"credits_trans_done": "**:moneybag: | {0}, {2} 'ye `${1}`aktardı **",
 	"credits_receipt": ":atm: | Transfer Receipt ```Kullanıcı {1} 'den ${0} aldınız {1} (ID: {2})```",
