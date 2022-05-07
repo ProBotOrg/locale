@@ -342,7 +342,7 @@
 	"role_error_managed": ":rolling_eyes: - **{0}** מנוהל על ידי אינטגרציה ולכן אינו ניתן לקבלה.",
 	"jump_to_message": "קפוץ להודעה",
 	"credits_no_reason": "No reason provided",
-	"removewarn_description": "Removes warnings from all members or specific user.",
+	"removewarn_description": "מוריד הזהרות מכל המשתמשים או ממשתמש מסוים.",
 	"help_description": "מרגיש אבוד?",
 	"help_command_description": "מראה מידע על איך להשתמש בפקודה.",
 	"roll_dice": "הקוביה",
