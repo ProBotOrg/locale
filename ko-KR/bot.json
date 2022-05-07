@@ -436,8 +436,8 @@
 	"setlang_language_description": "변경할 언어",
 	"unmute_description": "멤버의 음소거를 해제해요.",
 	"muted_both": ":white_check_mark: **@{0}님이 채팅, 음성 채널에서 음소거됐어요! :zipper_mouth:**",
-	"slowmode_set": "채널의 슬로우모드가 {0}초로 설정됐어요.",
-	"slowmode_should": "시간이 {0}초 이하여야 해요.",
-	"slowmode_is": "채널의 슬로우모드는 {0}초에요.",
+	"slowmode_set": "채널의 슬로우모드가 {0}으(로) 설정됐어요.",
+	"slowmode_should": "시간이 {0} 이하여야 해요.",
+	"slowmode_is": "채널의 슬로우모드는 {0}에요.",
 	"slowmode_disabled": "Slowmode has been disabled from this channel."
 }
