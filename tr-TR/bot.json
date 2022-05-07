@@ -173,8 +173,8 @@
 	"vip_please_specify_description": ":rolling_eyes: - **Lütfen belirtin**",
 	"vip_details_description": "**Premium Numarası:** {0}\n**Premium'un sona ereceği zaman** {1}\n{2} **Adına kayıtlı** ",
 	"vip_ended_description": "sona erdi",
-	"slowmode_description": "Enable or disable slowmode on a channel.",
-	"slowmode_time_description": "The time to set for slowmode channel.",
+	"slowmode_description": "Yavaş Mod'u bir kanalda etkinleştirir/devre dışı bırakır.",
+	"slowmode_time_description": "Bu kanalın yavaş mod'u {0} olarak ayarlandı.",
 	"credits_not_enough": "** :thinking: | {0}, Bu işlem için bakiyeniz yeterli değil!**",
 	"credits_trans_done": "**:moneybag: | {0}, {2} 'ye `${1}`aktardı **",
 	"credits_receipt": ":atm: | Transfer Receipt ```Kullanıcı {1} 'den ${0} aldınız {1} (ID: {2})```",
@@ -436,8 +436,8 @@
 	"setlang_language_description": "Kendisine değiştirilecek dil.",
 	"unmute_description": "Bir üyenin susturmasını kaldırır.",
 	"muted_both": ":white_check_mark:**@{0} hem yazı hem ses kanallarından susturuldu! :zipper_mouth:**",
-	"slowmode_set": "This channel slowmode has been set to {0}.",
-	"slowmode_should": "Time should be less than or equal to {0}.",
-	"slowmode_is": "This channel slowmode is {0}.",
-	"slowmode_disabled": "Slowmode has been disabled from this channel."
+	"slowmode_set": "Bu kanalın yavaş mod'u {0} olarak ayarlandı.",
+	"slowmode_should": "Süre, {0} değerinden küçük veya ona eşit olmalıdır.",
+	"slowmode_is": "Bu kanalın yavaş mod'u {0}.",
+	"slowmode_disabled": "Yavaş mod bu kanalda devre dışı bırakıldı."
 }

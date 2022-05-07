@@ -173,8 +173,8 @@
 	"vip_please_specify_description": ":rolling_eyes: **- Vui lòng chỉ ra.**",
 	"vip_details_description": "**Mã số Premium:** {0}\n**Premium hết hạn trong:** {1}\n**Được đăng kí cho:** {2}",
 	"vip_ended_description": "đã kết thúc",
-	"slowmode_description": "Enable or disable slowmode on a channel.",
-	"slowmode_time_description": "The time to set for slowmode channel.",
+	"slowmode_description": "Kích hoạt hoặc vô hiệu chế độ chậm bật cho kênh.",
+	"slowmode_time_description": "Thời lượng cho chế độ chậm bật cho kênh.",
 	"credits_not_enough": "**:thinking: | {0}, số dư của bạn không đủ!**",
 	"credits_trans_done": "**:moneybag: | {0}, đã chuyển `${1}` cho {2}.**",
 	"credits_receipt": ":atm: | Biên lai chuyển khoản: ```Bạn đã nhận được ${0} từ {1} (ID: {2})\nLý do: {3} \n```",
@@ -436,8 +436,8 @@
 	"setlang_language_description": "Ngôn ngữ muốn đổi.",
 	"unmute_description": "Bỏ khóa trò chuyện cho thành viên.",
 	"muted_both": ":white_check_mark: **Đã tắt tiếng @{0} cho cả text và voice! :zipper_mouth:**",
-	"slowmode_set": "This channel slowmode has been set to {0}.",
-	"slowmode_should": "Time should be less than or equal to {0}.",
-	"slowmode_is": "This channel slowmode is {0}.",
-	"slowmode_disabled": "Slowmode has been disabled from this channel."
+	"slowmode_set": "Chế độ chậm bật đã được đặt thành {0} cho kênh này.",
+	"slowmode_should": "Thời lượng lên là ít hơn hoặc bằng {0}.",
+	"slowmode_is": "Thời lượng chậm bật của kênh này là {0}.",
+	"slowmode_disabled": "Đã tắt chế độ chậm bật cho kênh này."
 }
