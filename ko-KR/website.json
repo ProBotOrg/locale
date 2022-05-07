@@ -99,7 +99,7 @@
     "DAY": "일",
     "NONE": "없음",
     "WELCOME_MESSAGE": "멤버가 서버에 접속할 때 메시지 보내기",
-    "LEAVE_MESSAGE": "Send a message when a user leaves the server",
+    "LEAVE_MESSAGE": "멤버가 서버에 퇴장할 때 메시지 보내기",
     "WELCOME_IMAGE": "멤버가 서버에 접속할 때 사진 보내기",
     "WIDTH": "너비",
     "HEIGHT": "높이",
