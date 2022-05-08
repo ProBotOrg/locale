@@ -673,7 +673,7 @@
     "auto_responder_response_required": "Response field is required",
     "AUTOMOD_SPAM_INFO": "멤버가 5초 이내 메시지 5개 이상을 보낼 때 실행돼요.",
     "AUTOMOD_BADWORDS_INFO": "메시지에 설정된 부적절한 단어가 포함됐을 때 실행돼요.",
-    "AUTOMOD_DUPS_INFO": "메시지가 반복적인 내용 & 줄로 이루어졌을 때 실행돼요. (예: SPAM SPAM SPAM SPAM.)",
+    "AUTOMOD_DUPS_INFO": "메시지가 중복적인 내용 & 줄로 이루어졌을 때 실행돼요. (예: SPAM SPAM SPAM SPAM.)",
     "AUTOMOD_REPEATED_INFO": "메시지가 같은 멤버에게서 두 번 이상 보내졌을 때 실행돼요.",
     "AUTOMOD_DISCORD_INVITES_INFO": "메시지에 Discord 서버 초대 링크가 포함됐을 때 실행돼요.",
     "AUTOMOD_LINKS_INFO": "메시지에 설정된 링크가 포함됐을 때 실행돼요.",
