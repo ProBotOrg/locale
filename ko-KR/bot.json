@@ -174,7 +174,7 @@
 	"vip_details_description": "**프리미엄 번호:** {0}\n**프리미엄 종료일:** {1}\n**프리미엄 가입일:** {2}",
 	"vip_ended_description": "종료됨",
 	"slowmode_description": "채널 내 슬로우모드를 활성화하거나 비활성화해요.",
-	"slowmode_time_description": "채널에 적용할 슬로우모드 시간",
+	"slowmode_time_description": "채널에 적용 할 슬로우모드 시간",
 	"credits_not_enough": "**:thinking: | {0}님, 잔액이 충분하지 않아요!**",
 	"credits_trans_done": "**:moneybag: | {0}님, {2}님께 `${1}`만큼 주었어요.**",
 	"credits_receipt": ":atm: | 이전 영수증 ```{1}님께 (ID: {2}) 잔액 ${0} 상당을 받으셨어요.\n사유: {3}\n```",
