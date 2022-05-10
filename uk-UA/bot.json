@@ -434,7 +434,7 @@
 	"resume_description": "Відновлює поточну призупинену доріжку.",
 	"setlang_description": "Встановлює бажану мову для бота.",
 	"setlang_language_description": "Мова, на яку слід перейти.",
-	"unmute_description": "Дозволити учаснику писати.",
+	"unmute_description": "Дозволити учаснику спілкуватися.",
 	"muted_both": ":white_check_mark: ** @{0} заглушений в текстових і голосових каналах! :zipper_mouth: **",
 	"slowmode_set": "Повільний режим каналу був встановлений на {0}.",
 	"slowmode_should": "Час повинен бути менший або дорівнювати {0}.",
