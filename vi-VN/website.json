@@ -698,5 +698,8 @@
     "daily_wrong_token": "Sai Token",
     "daily_forbidden": "Bị cấm",
     "daily_refresh_page": "Vui lòng làm mới trang",
-    "daily_server_error": "Lỗi server nội bộ"
+    "daily_server_error": "Lỗi server nội bộ",
+    "autorole_specific_invite": "Assign Role To Specific Invite",
+    "autorole_select_roles": "SELECT ROLES",
+    "autorole_invite_link": "INVITE LINK"
 }
