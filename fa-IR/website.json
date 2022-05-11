@@ -698,5 +698,8 @@
     "daily_wrong_token": "توکن اشتباه",
     "daily_forbidden": "دسترسی غیرمجاز",
     "daily_refresh_page": "لطفا صفحه را مجدداً بارگذاری کنید",
-    "daily_server_error": "خطای داخلی سرور"
+    "daily_server_error": "خطای داخلی سرور",
+    "autorole_specific_invite": "Assign Role To Specific Invite",
+    "autorole_select_roles": "SELECT ROLES",
+    "autorole_invite_link": "INVITE LINK"
 }
