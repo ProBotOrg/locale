@@ -597,7 +597,7 @@
     "enterprise_features_2": "Peça recursos personalizáveis 😉",
     "enterprise_features_3": "Suporte por telefone 24/7",
     "subscribe": "Assinar",
-    "add": "Add",
+    "add": "Adicionar",
     "premium_payment": "PAGAMENTO",
     "premium_your_payments_methods": "Seus Cartões de Crédito e Débito",
     "premium_new_cc": "Novo Cartão de Crédito",
@@ -699,7 +699,7 @@
     "daily_forbidden": "Proibido",
     "daily_refresh_page": "Por favor, atualize a página",
     "daily_server_error": "Erro do servidor interno",
-    "autorole_specific_invite": "Assign Role To Specific Invite",
-    "autorole_select_roles": "SELECT ROLES",
-    "autorole_invite_link": "INVITE LINK"
+    "autorole_specific_invite": "Atribuir cargo para convite específico",
+    "autorole_select_roles": "SELECIONAR CARGOS",
+    "autorole_invite_link": "LINK DE CONVITE"
 }
