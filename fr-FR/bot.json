@@ -173,8 +173,8 @@
 	"vip_please_specify_description": ":rolling_eyes: - **Merci de préciser**",
 	"vip_details_description": "**Numbre Premium :** {0}\n**Premium expire dans** {1}\n**Enregistré pour :** {2}",
 	"vip_ended_description": "terminé",
-	"slowmode_description": "Enable or disable slowmode on a channel.",
-	"slowmode_time_description": "The time to set for slowmode channel.",
+	"slowmode_description": "Activer ou désactiver le mode ralenti sur un salon.",
+	"slowmode_time_description": "Le temps à définir pour le salon en mode lent.",
 	"credits_not_enough": "** :thinking: | {0}, Votre solde n'est pas assez elevé pour cela !**",
 	"credits_trans_done": "**:moneybag: | {0}, a transféré `${1}` à {2} **",
 	"credits_receipt": ":atm: | Reçu de transfert```Vous avez reçu ${0} de l'utilisateur {1} (ID: {2})```",
@@ -342,7 +342,7 @@
 	"role_error_managed": ":rolling_eyes: - **{0}** est géré par intégration et ne peut pas être donné.",
 	"jump_to_message": "Aller au message",
 	"credits_no_reason": "Aucune raison fournie",
-	"removewarn_description": "Removes warnings from all members or specific user.",
+	"removewarn_description": "Supprime les avertissements de tous les membres ou utilisateur spécifique.",
 	"help_description": "Vous vous sentez perdu?",
 	"help_command_description": "Affiche des détails à propos de comment utiliser une commande.",
 	"roll_dice": "Les dés",
@@ -436,8 +436,8 @@
 	"setlang_language_description": "Langue vers changer à.",
 	"unmute_description": "Rétablit le micro d'un membre dont le micro a été coupé.",
 	"muted_both": ":white_check_mark: **@{0} a été muet à la fois du texte et de la voix! :zipper_mouth:**",
-	"slowmode_set": "This channel slowmode has been set to {0}.",
-	"slowmode_should": "Time should be less than or equal to {0}.",
-	"slowmode_is": "This channel slowmode is {0}.",
-	"slowmode_disabled": "Slowmode has been disabled from this channel."
+	"slowmode_set": "Ce mode de ralentissement du salon a été réglé sur {0}.",
+	"slowmode_should": "Le temps doit être inférieur ou égal à {0}.",
+	"slowmode_is": "Ce mode de ralentissement du salon est {0}.",
+	"slowmode_disabled": "Le mode ralentissement a été désactivé à partir de ce salon."
 }
