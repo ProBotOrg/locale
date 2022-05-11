@@ -698,5 +698,8 @@
     "daily_wrong_token": "잘못된 토큰이에요",
     "daily_forbidden": "서버 접근이 거부됐어요",
     "daily_refresh_page": "페이지를 새로고침 해주세요",
-    "daily_server_error": "내부 서버 오류가 발생했어요"
+    "daily_server_error": "내부 서버 오류가 발생했어요",
+    "autorole_specific_invite": "Assign Role To Specific Invite",
+    "autorole_select_roles": "SELECT ROLES",
+    "autorole_invite_link": "INVITE LINK"
 }
