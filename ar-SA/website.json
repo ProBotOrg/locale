@@ -597,7 +597,7 @@
     "enterprise_features_2": "ميزات مخصصة",
     "enterprise_features_3": "الدعم عن طريق الهاتف 24/7",
     "subscribe": "أشترك",
-    "reasons_add": "أضف:",
+    "add": "Add",
     "premium_payment": "الدفع",
     "premium_your_payments_methods": "بطاقات الائتمان والبطاقات المصرفية الخاصة بك",
     "premium_new_cc": "بطاقة ائتمان جديدة",
@@ -699,7 +699,7 @@
     "daily_forbidden": "محظور",
     "daily_refresh_page": "رجاءً حدث الصفحة.",
     "daily_server_error": "خطأ في الخادم الداخلي",
-    "autorole_specific_invite": "Assign Role To Specific Invite",
-    "autorole_select_roles": "SELECT ROLES",
-    "autorole_invite_link": "INVITE LINK"
+    "autorole_specific_invite": "اضافة رتبة للرابط محدد",
+    "autorole_select_roles": "أختر رتبة",
+    "autorole_invite_link": "رابط الانفايت"
 }
