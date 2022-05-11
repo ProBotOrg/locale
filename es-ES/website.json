@@ -698,5 +698,8 @@
     "daily_wrong_token": "Token incorrecto",
     "daily_forbidden": "Prohibido",
     "daily_refresh_page": "Por favor, actualiza la página",
-    "daily_server_error": "Error Interno del Sevidor"
+    "daily_server_error": "Error Interno del Sevidor",
+    "autorole_specific_invite": "Assign Role To Specific Invite",
+    "autorole_select_roles": "SELECT ROLES",
+    "autorole_invite_link": "INVITE LINK"
 }
