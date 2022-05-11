@@ -475,7 +475,7 @@
     "leveling_text_only": "كتابي فقط",
     "leveling_role_poisiton": "موقع الرتبة",
     "rewards": "المكافأة",
-    "welcomer_variable_user": "منشن المدعو",
+    "welcomer_variable_user": "منشن العضو",
     "welcomer_variable_username": "اسم العضو بدون منشن",
     "welcomer_variable_inviter": "منشن الداعي",
     "welcomer_variable_invitername": "اسم الداعي بدون منشن",
@@ -594,7 +594,7 @@
     "contact_us": "تواصل معنا",
     "enterprise_description": "لأولئك الذين يريدون شيئا مميز",
     "enterprise_features_1": "جميع مزايا البريميوم",
-    "enterprise_features_2": "طلب مميزات قابلة للتخصيص 😉",
+    "enterprise_features_2": "ميزات مخصصة",
     "enterprise_features_3": "الدعم عن طريق الهاتف 24/7",
     "subscribe": "أشترك",
     "reasons_add": "أضف:",

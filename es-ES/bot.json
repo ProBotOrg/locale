@@ -174,7 +174,7 @@
 	"vip_details_description": "**Número Premium:** {0}\n**El Premium termina en** {1}\n**Registrado para:** {2}",
 	"vip_ended_description": "terminó",
 	"slowmode_description": "Habilita o Deshabilita el modo lento en un canal",
-	"slowmode_time_description": "The time to set for slowmode channel.",
+	"slowmode_time_description": "El tiempo a configurar para el canal de modo lento.",
 	"credits_not_enough": "** :thinking: | {0}, ¡No tienes saldo suficiente!**",
 	"credits_trans_done": "**:moneybag: | {0}, ha transferido `${1}` a {2}**",
 	"credits_receipt": ":atm:  | Recibo de Transferencia ```Has recibido ${0} del usuario {1} (ID: {2})```",
