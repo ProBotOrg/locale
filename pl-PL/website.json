@@ -698,5 +698,8 @@
     "daily_wrong_token": "Nieprawidłowy token",
     "daily_forbidden": "Zabronione",
     "daily_refresh_page": "Odśwież stronę.",
-    "daily_server_error": "Wewnętrzny błąd serwera"
+    "daily_server_error": "Wewnętrzny błąd serwera",
+    "autorole_specific_invite": "Assign Role To Specific Invite",
+    "autorole_select_roles": "SELECT ROLES",
+    "autorole_invite_link": "INVITE LINK"
 }
