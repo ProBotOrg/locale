@@ -698,5 +698,8 @@
     "daily_wrong_token": "توكن خاطئ",
     "daily_forbidden": "محظور",
     "daily_refresh_page": "رجاءً حدث الصفحة.",
-    "daily_server_error": "خطأ في الخادم الداخلي"
+    "daily_server_error": "خطأ في الخادم الداخلي",
+    "autorole_specific_invite": "Assign Role To Specific Invite",
+    "autorole_select_roles": "SELECT ROLES",
+    "autorole_invite_link": "INVITE LINK"
 }
