@@ -698,5 +698,8 @@
     "daily_wrong_token": "Wrong Token",
     "daily_forbidden": "Forbidden",
     "daily_refresh_page": "Please refresh the page",
-    "daily_server_error": "Ошибка сервера"
+    "daily_server_error": "Ошибка сервера",
+    "autorole_specific_invite": "Assign Role To Specific Invite",
+    "autorole_select_roles": "SELECT ROLES",
+    "autorole_invite_link": "INVITE LINK"
 }
