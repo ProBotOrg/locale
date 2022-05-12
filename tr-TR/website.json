@@ -597,7 +597,7 @@
     "enterprise_features_2": "Özelleştirilebilir özellikler isteyin 😉",
     "enterprise_features_3": "7/24 Telefon ile Destek",
     "subscribe": "Abone ol",
-    "add": "Add",
+    "add": "Ekle",
     "premium_payment": "ÖDEME",
     "premium_your_payments_methods": "Kredi ve Banka Kartlarınız",
     "premium_new_cc": "Kredi Kartı Ekle",
@@ -699,7 +699,7 @@
     "daily_forbidden": "Yasaklandı",
     "daily_refresh_page": "Lütfen Sayfayı Yenileyin",
     "daily_server_error": "İç/Dahili Sunucu Hatası",
-    "autorole_specific_invite": "Assign Role To Specific Invite",
-    "autorole_select_roles": "SELECT ROLES",
-    "autorole_invite_link": "INVITE LINK"
+    "autorole_specific_invite": "Belirli Davet Bağlantısına Otomatik Rol Verin",
+    "autorole_select_roles": "ROL SEÇ",
+    "autorole_invite_link": "DAVET BAĞLANTISI"
 }
