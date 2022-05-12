@@ -597,7 +597,7 @@
     "enterprise_features_2": "درخواست برای ویژگی های قابل شخصی سازی 😉",
     "enterprise_features_3": "پشتیبانی تلفنی 24/7",
     "subscribe": "خرید اشتراک",
-    "add": "Add",
+    "add": "افزودن",
     "premium_payment": "پرداخت",
     "premium_your_payments_methods": "کارت‌های اعتباری و نقدی شما",
     "premium_new_cc": "کارت اعتباری جدید",
@@ -699,7 +699,7 @@
     "daily_forbidden": "دسترسی غیرمجاز",
     "daily_refresh_page": "لطفا صفحه را مجدداً بارگذاری کنید",
     "daily_server_error": "خطای داخلی سرور",
-    "autorole_specific_invite": "Assign Role To Specific Invite",
+    "autorole_specific_invite": "دادن نقش به دعوت از یک لینک مشخص",
     "autorole_select_roles": "SELECT ROLES",
     "autorole_invite_link": "INVITE LINK"
 }
