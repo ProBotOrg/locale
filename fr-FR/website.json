@@ -701,5 +701,6 @@
     "daily_server_error": "Erreur interne du serveur",
     "autorole_specific_invite": "Affecter un rôle à une invitation spécifique",
     "autorole_select_roles": "SÉLECTIONNER DES RÔLES",
-    "autorole_invite_link": "LIEN D'INVITATION"
+    "autorole_invite_link": "LIEN D'INVITATION",
+    "no_link_provide": "No link provided"
 }
