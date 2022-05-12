@@ -597,7 +597,7 @@
     "enterprise_features_2": "カスタマイズ可能な機能 😉",
     "enterprise_features_3": "24時間365日、電話によるサポート",
     "subscribe": "申し込む",
-    "reasons_add": "追加:",
+    "add": "Add",
     "premium_payment": "お支払い",
     "premium_your_payments_methods": "クレジットカードとデビットカード",
     "premium_new_cc": "新規クレジットカード",
@@ -698,5 +698,8 @@
     "daily_wrong_token": "Wrong Token",
     "daily_forbidden": "Forbidden",
     "daily_refresh_page": "Please refresh the page",
-    "daily_server_error": "内部サーバーエラー"
+    "daily_server_error": "内部サーバーエラー",
+    "autorole_specific_invite": "Assign Role To Specific Invite",
+    "autorole_select_roles": "SELECT ROLES",
+    "autorole_invite_link": "INVITE LINK"
 }

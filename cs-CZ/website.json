@@ -597,7 +597,7 @@
     "enterprise_features_2": "Možnost zažádat o přizpůsobitelné funkce",
     "enterprise_features_3": "Podpora telefonem 24/7",
     "subscribe": "Odebírat",
-    "reasons_add": "Přidat:",
+    "add": "Add",
     "premium_payment": "PLATBA",
     "premium_your_payments_methods": "Vaše kreditní a debetní karty",
     "premium_new_cc": "Nová platební karta",
@@ -698,5 +698,8 @@
     "daily_wrong_token": "Chybný token",
     "daily_forbidden": "Zakázáno",
     "daily_refresh_page": "Obnovte prosím stránku",
-    "daily_server_error": "Interní chyba serveru"
+    "daily_server_error": "Interní chyba serveru",
+    "autorole_specific_invite": "Assign Role To Specific Invite",
+    "autorole_select_roles": "SELECT ROLES",
+    "autorole_invite_link": "INVITE LINK"
 }

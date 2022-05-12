@@ -597,7 +597,7 @@
     "enterprise_features_2": "Можливість налаштування функцій😉",
     "enterprise_features_3": "Телефонна підтримка 24/7",
     "subscribe": "Підписатися",
-    "reasons_add": "Додати:",
+    "add": "Add",
     "premium_payment": "ПЛАТІЖ",
     "premium_your_payments_methods": "Ваші кредитні та дебетові карти",
     "premium_new_cc": "Нова банківська картка",
@@ -698,5 +698,8 @@
     "daily_wrong_token": "Неправильний токен",
     "daily_forbidden": "Заборонено",
     "daily_refresh_page": "Будь ласка, оновіть сторінку",
-    "daily_server_error": "Помилка сервера"
+    "daily_server_error": "Помилка сервера",
+    "autorole_specific_invite": "Assign Role To Specific Invite",
+    "autorole_select_roles": "SELECT ROLES",
+    "autorole_invite_link": "INVITE LINK"
 }

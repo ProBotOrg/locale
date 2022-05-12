@@ -597,7 +597,7 @@
     "enterprise_features_2": "Yêu cầu tính năng như ý",
     "enterprise_features_3": "Hỗ trợ qua dây nóng 24/7.",
     "subscribe": "Đăng ký",
-    "reasons_add": "Thêm:",
+    "add": "Thêm",
     "premium_payment": "GIAO DỊCH",
     "premium_your_payments_methods": "Thẻ tín dụng và thẻ ghi nợ của bạn",
     "premium_new_cc": "Thẻ tín dụng mới",
@@ -698,5 +698,8 @@
     "daily_wrong_token": "Sai Token",
     "daily_forbidden": "Bị cấm",
     "daily_refresh_page": "Vui lòng làm mới trang",
-    "daily_server_error": "Lỗi server nội bộ"
+    "daily_server_error": "Lỗi server nội bộ",
+    "autorole_specific_invite": "Thêm vai trò với link mời có sẵn",
+    "autorole_select_roles": "CHỌN VAI TRÒ",
+    "autorole_invite_link": "LINK MỜI"
 }

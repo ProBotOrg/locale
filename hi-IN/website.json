@@ -597,7 +597,7 @@
     "enterprise_features_2": "कस्टम फीचर्स ",
     "enterprise_features_3": "कॉल पे सपोर्ट 24/7",
     "subscribe": "सब्सक्राइब",
-    "reasons_add": "जोड़े:",
+    "add": "Add",
     "premium_payment": "पेमेंट ",
     "premium_your_payments_methods": "आपके क्रेडिट और डेबिट कार्ड्स ",
     "premium_new_cc": "नया डेबिट कार्ड ",
@@ -698,5 +698,8 @@
     "daily_wrong_token": "Wrong Token",
     "daily_forbidden": "Forbidden",
     "daily_refresh_page": "Please refresh the page",
-    "daily_server_error": "Aantarik server truti"
+    "daily_server_error": "Aantarik server truti",
+    "autorole_specific_invite": "Assign Role To Specific Invite",
+    "autorole_select_roles": "SELECT ROLES",
+    "autorole_invite_link": "INVITE LINK"
 }

@@ -597,7 +597,7 @@
     "enterprise_features_2": "Custom features",
     "enterprise_features_3": "Support by phone 24/7",
     "subscribe": "Subscribe",
-    "reasons_add": "Add:",
+    "add": "Add",
     "premium_payment": "PAYMENT",
     "premium_your_payments_methods": "Your Credit and Debit Cards",
     "premium_new_cc": "New Credit Card",
@@ -698,5 +698,8 @@
     "daily_wrong_token": "Wrong Token",
     "daily_forbidden": "Forbidden",
     "daily_refresh_page": "Please refresh the page",
-    "daily_server_error": "Abbiamo riscontrato un'errore interno al nostro server"
+    "daily_server_error": "Abbiamo riscontrato un'errore interno al nostro server",
+    "autorole_specific_invite": "Assign Role To Specific Invite",
+    "autorole_select_roles": "SELECT ROLES",
+    "autorole_invite_link": "INVITE LINK"
 }

@@ -597,7 +597,7 @@
     "enterprise_features_2": "Peça por características personalizáveis 😉",
     "enterprise_features_3": "Suporte por telemóvel 24/7",
     "subscribe": "Subscrever",
-    "reasons_add": "Add:",
+    "add": "Add",
     "premium_payment": "PAGAMENTO",
     "premium_your_payments_methods": "Cartões de Crédito e Débito",
     "premium_new_cc": "Novo Cartão de Crédito",
@@ -698,5 +698,8 @@
     "daily_wrong_token": "Token incorreto",
     "daily_forbidden": "Forbidden",
     "daily_refresh_page": "Por favor atualize a página",
-    "daily_server_error": "Erro interno no Servidor"
+    "daily_server_error": "Erro interno no Servidor",
+    "autorole_specific_invite": "Assign Role To Specific Invite",
+    "autorole_select_roles": "SELECT ROLES",
+    "autorole_invite_link": "INVITE LINK"
 }

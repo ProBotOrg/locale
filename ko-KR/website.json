@@ -597,7 +597,7 @@
     "enterprise_features_2": "맞춤 기능 요청 가능😉",
     "enterprise_features_3": "연중무휴 고객지원",
     "subscribe": "구독",
-    "reasons_add": "추가:",
+    "add": "Add",
     "premium_payment": "결제 수단",
     "premium_your_payments_methods": "크레딧과 신용카드",
     "premium_new_cc": "새 신용카드",
@@ -698,5 +698,8 @@
     "daily_wrong_token": "잘못된 토큰이에요",
     "daily_forbidden": "서버 접근이 거부됐어요",
     "daily_refresh_page": "페이지를 새로고침 해주세요",
-    "daily_server_error": "내부 서버 오류가 발생했어요"
+    "daily_server_error": "내부 서버 오류가 발생했어요",
+    "autorole_specific_invite": "Assign Role To Specific Invite",
+    "autorole_select_roles": "SELECT ROLES",
+    "autorole_invite_link": "INVITE LINK"
 }

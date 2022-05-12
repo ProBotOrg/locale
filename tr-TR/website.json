@@ -597,7 +597,7 @@
     "enterprise_features_2": "Özelleştirilebilir özellikler isteyin 😉",
     "enterprise_features_3": "7/24 Telefon ile Destek",
     "subscribe": "Abone ol",
-    "reasons_add": "Ekle:",
+    "add": "Ekle",
     "premium_payment": "ÖDEME",
     "premium_your_payments_methods": "Kredi ve Banka Kartlarınız",
     "premium_new_cc": "Kredi Kartı Ekle",
@@ -698,5 +698,8 @@
     "daily_wrong_token": "Yanlış Token",
     "daily_forbidden": "Yasaklandı",
     "daily_refresh_page": "Lütfen Sayfayı Yenileyin",
-    "daily_server_error": "İç/Dahili Sunucu Hatası"
+    "daily_server_error": "İç/Dahili Sunucu Hatası",
+    "autorole_specific_invite": "Belirli Davet Bağlantısına Otomatik Rol Verin",
+    "autorole_select_roles": "ROL SEÇ",
+    "autorole_invite_link": "DAVET BAĞLANTISI"
 }
