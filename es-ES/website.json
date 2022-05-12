@@ -701,5 +701,6 @@
     "daily_server_error": "Error Interno del Sevidor",
     "autorole_specific_invite": "Assign Role To Specific Invite",
     "autorole_select_roles": "SELECT ROLES",
-    "autorole_invite_link": "INVITE LINK"
+    "autorole_invite_link": "INVITE LINK",
+    "no_link_provide": "No link provided"
 }
