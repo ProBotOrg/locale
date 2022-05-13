@@ -701,5 +701,6 @@
     "daily_server_error": "خطای داخلی سرور",
     "autorole_specific_invite": "دادن نقش به دعوت از یک لینک مشخص",
     "autorole_select_roles": "انتخاب نقش ها",
-    "autorole_invite_link": "لینک دعوت"
+    "autorole_invite_link": "لینک دعوت",
+    "no_link_provide": "No link provided"
 }

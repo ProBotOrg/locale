@@ -701,5 +701,6 @@
     "daily_server_error": "Erro do servidor interno",
     "autorole_specific_invite": "Atribuir cargo para convite específico",
     "autorole_select_roles": "SELECIONAR CARGOS",
-    "autorole_invite_link": "LINK DE CONVITE"
+    "autorole_invite_link": "LINK DE CONVITE",
+    "no_link_provide": "No link provided"
 }

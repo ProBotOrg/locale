@@ -597,7 +597,7 @@
     "enterprise_features_2": "Egyéni funkciók",
     "enterprise_features_3": "Telefonos támogatás 24/7",
     "subscribe": "Előfizetés",
-    "add": "Add",
+    "add": "Hozzáadás",
     "premium_payment": "FIZETÉS",
     "premium_your_payments_methods": "Hitel- és betéti kártyáid",
     "premium_new_cc": "Új bankkártya",
@@ -700,6 +700,7 @@
     "daily_refresh_page": "Kérjük frissítse az oldalt.",
     "daily_server_error": "Belső Szerverhiba",
     "autorole_specific_invite": "Assign Role To Specific Invite",
-    "autorole_select_roles": "SELECT ROLES",
-    "autorole_invite_link": "INVITE LINK"
+    "autorole_select_roles": "RANGOK KIVÁLASZTÁSA",
+    "autorole_invite_link": "MEGHÍVÓ LINK",
+    "no_link_provide": "Nincs megadott link"
 }

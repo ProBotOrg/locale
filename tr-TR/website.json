@@ -701,5 +701,6 @@
     "daily_server_error": "İç/Dahili Sunucu Hatası",
     "autorole_specific_invite": "Belirli Davet Bağlantısına Otomatik Rol Verin",
     "autorole_select_roles": "ROL SEÇ",
-    "autorole_invite_link": "DAVET BAĞLANTISI"
+    "autorole_invite_link": "DAVET BAĞLANTISI",
+    "no_link_provide": "No link provided"
 }

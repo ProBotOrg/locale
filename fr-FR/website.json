@@ -597,7 +597,7 @@
     "enterprise_features_2": "Demander des fonctionnalités personnalisables 😉",
     "enterprise_features_3": "Assistance par téléphone 24/7",
     "subscribe": "S'abonner",
-    "add": "Add",
+    "add": "Ajouter",
     "premium_payment": "PAIEMENT",
     "premium_your_payments_methods": "Vos cartes de crédit et de débit",
     "premium_new_cc": "Nouvelle carte de crédit",
@@ -701,5 +701,6 @@
     "daily_server_error": "Erreur interne du serveur",
     "autorole_specific_invite": "Affecter un rôle à une invitation spécifique",
     "autorole_select_roles": "SÉLECTIONNER DES RÔLES",
-    "autorole_invite_link": "LIEN D'INVITATION"
+    "autorole_invite_link": "LIEN D'INVITATION",
+    "no_link_provide": "Aucun lien fourni"
 }

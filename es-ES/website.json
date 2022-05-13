@@ -597,7 +597,7 @@
     "enterprise_features_2": "Pregunte por funciones personalizables 😉",
     "enterprise_features_3": "Soporte por teléfono 24/7",
     "subscribe": "Suscribir",
-    "add": "Add",
+    "add": "Añadir",
     "premium_payment": "PAGO",
     "premium_your_payments_methods": "Sus tarjetas de crédito y debito",
     "premium_new_cc": "Nueva tarjeta de crédito",
@@ -699,7 +699,8 @@
     "daily_forbidden": "Prohibido",
     "daily_refresh_page": "Por favor, actualiza la página",
     "daily_server_error": "Error Interno del Sevidor",
-    "autorole_specific_invite": "Assign Role To Specific Invite",
-    "autorole_select_roles": "SELECT ROLES",
-    "autorole_invite_link": "INVITE LINK"
+    "autorole_specific_invite": "Asignar Rol a Invitación Específica",
+    "autorole_select_roles": "SELECCIONAR ROLES",
+    "autorole_invite_link": "LINK DE INVITACION",
+    "no_link_provide": "No se proporcionó un enlace"
 }
