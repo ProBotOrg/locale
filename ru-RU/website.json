@@ -65,7 +65,7 @@
     "roll_description": "Бросить кости.",
     "default_roll": "Бросок кубиков по умолчанию",
     "points_description": "Просмотр баллов на сервере, которые могут быть начислены модераторами.",
-    "slowmode_description": "Enable or disable slowmode on a channel.",
+    "slowmode_description": "Включает или выключает медленный режим на канале.\n",
     "Utility": "Утилиты",
     "Moderation": "Модерация",
     "Logs": "Журнал",
