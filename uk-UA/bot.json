@@ -8,7 +8,7 @@
 	"top_description": "Показати учасників, які набрали найбільшу кількість балів активності на сервері.",
 	"user_description": "Показати інформацію про себе або користувача, наприклад, ID і дату вступу.",
 	"avatar_description": "Показати аватар користувача.",
-	"server_description": "Shows information about a server",
+	"server_description": "Показує інформацію про сервер.",
 	"roles_description": "Показати список ролей на сервері і кількість учасників.",
 	"ban_description": "Заблокувати учасника.",
 	"unban_description": "Розблокувати учасника.",
