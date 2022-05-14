@@ -173,8 +173,8 @@
 	"vip_please_specify_description": ":rolling_eyes: - **אנא ציין**",
 	"vip_details_description": "**מספר פרימיום:** {0}\n**פרימיום נגמר ב** {1}\n**נרשם עבור:** {2}",
 	"vip_ended_description": "נגמר",
-	"slowmode_description": "Enable or disable slowmode on a channel.",
-	"slowmode_time_description": "The time to set for slowmode channel.",
+	"slowmode_description": "אפשר או השבת מצב איטי בערוץ.",
+	"slowmode_time_description": "הזמן להגדרה לערוץ במצב איטי.",
 	"credits_not_enough": "** :thinking: | {0}, הכסף שלך לא מספיק בשביל זה!**",
 	"credits_trans_done": "**:moneybag: | {0}, העביר `${1}` ל {2} **",
 	"credits_receipt": ":atm: | קבלה על העברה ```קיבלת ${0} מהמשתמש {1} (מזהה: {2})\nסיבה: {3}\n```",
@@ -436,8 +436,8 @@
 	"setlang_language_description": "שפה לשנות אליה.",
 	"unmute_description": "מבטל השתקה מחבר.",
 	"muted_both": ":white_check_mark: **@{0} muted from both text and voice! :zipper_mouth:**",
-	"slowmode_set": "This channel slowmode has been set to {0}.",
-	"slowmode_should": "Time should be less than or equal to {0}.",
-	"slowmode_is": "This channel slowmode is {0}.",
-	"slowmode_disabled": "Slowmode has been disabled from this channel."
+	"slowmode_set": "המצב איטי של הערוץ הזה הוגדר ל{0}.",
+	"slowmode_should": "הזמן צריך להיות קטן או שווה ל-{0}.",
+	"slowmode_is": "המצב איטי של הערוץ הזה הוא {0}.",
+	"slowmode_disabled": "מצב איטי הושבת מהערוץ הזה."
 }
