@@ -184,7 +184,7 @@
 	"credits_cant_find": "** :interrobang: | {0}, não consigo encontrar {1}!**",
 	"credits_bots": ":thinking:  | **{0}**, bots não têm creditos!",
 	"credits_need_transfer": "** :interrobang: | {0}, Ponha os créditos que quer transferir!**",
-	"credits_transfer_fees": "** {0}, Taxas de transferência: `{1}`, Montante :`${2} \n ** digite esses números para confirmar:",
+	"credits_transfer_fees": "** {0}, Taxas de transferência: `{1}`, Montante :`${2} `\n ** digite esses números para confirmar:",
 	"profile_robot": ":robot:  **|  {0}**, bots não têm ranks!",
 	"profile_cant_find": ":mag: **|  {0}**, utilizador não encontrado.",
 	"short_url": "Introduza um URL",
