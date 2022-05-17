@@ -439,5 +439,5 @@
 	"slowmode_set": "このチャンネルのスローモード設定時間： {0}",
 	"slowmode_should": "設定する時間は {0} 以下でなければなりません。",
 	"slowmode_is": "このチャンネルのスローモード設定時間は {0} です。",
-	"slowmode_disabled": "Slowmode has been disabled from this channel."
+	"slowmode_disabled": "このチャンネルのスローモードが無効になりました。"
 }
