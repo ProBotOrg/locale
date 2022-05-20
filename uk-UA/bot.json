@@ -75,7 +75,7 @@
 	"channel_has_been_locked": "**:lock: {0} було заблоковано.**",
 	"channel_has_been_unlocked": "**:unlock: {0} було розблоковано.**",
 	"lock_description": "Забороняє @everyone надсилати повідомлення у конкретному каналі.",
-	"unlock_description": "Видаляє заборонене надсилання повідомлень від @everyone у конкретному каналі.",
+	"unlock_description": "Дозволяє @everyone надсилати повідомлення у конкретному каналі.",
 	"requested_by_embed": "За запитом {0}#{1}",
 	"cant_mute_user": ":rolling_eyes: - ** Ви не можете зробити беззвучний режим @{0}.",
 	"cant_find_member": ":rolling_eyes: - **Я не можу знайти цього користувача**",
