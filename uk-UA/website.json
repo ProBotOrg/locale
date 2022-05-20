@@ -215,7 +215,7 @@
     "AUTOMOD_LINKS": "ПОСИЛАННЯ",
     "AUTOMOD_DISCORD_INVITES": "ДІСКОРД ЗАПРОШЕННЯ",
     "AUTOMOD_REPEATED": "ПОВТОРЕННІ ПОВІДОМЛЕННЯ",
-    "AUTOMOD_MASS_MENTION": "ПІДСУМКА МАСИ",
+    "AUTOMOD_MASS_MENTION": "МАСОВЕ ЗВЕРНЕННЯ",
     "AUTOMOD_EMOJI_SPAM": "ЕМОДЗІ СПАМ",
     "AUTOMOD_CAPS": "СПАМ КАПС (70% > КАПС)",
     "AUTOMOD_IGNORED_CHANNELS": "Ігноровані канали:",
