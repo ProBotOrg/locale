@@ -292,7 +292,7 @@
     "info": "정보",
     "usage": "Usage:",
     "probot": "ProBot",
-    "index_header_big_string": "전문적인 Discord 서버를 만들어 보세요!",
+    "index_header_big_string": "전문적인 Discord 서버를 만들어 보아요!",
     "index_why_probot": "왜 ProBot을 사용해야 하죠?",
     "index_feature_1_title": "최고의 환영 인사말",
     "index_feature_1_description": "즉시 사용할 수 있고 맞춤 가능한 디자인으로 새 멤버를 환영할 거에요",
@@ -597,7 +597,7 @@
     "enterprise_features_2": "맞춤 기능 요청 가능😉",
     "enterprise_features_3": "연중무휴 고객지원",
     "subscribe": "구독",
-    "add": "Add",
+    "add": "추가",
     "premium_payment": "결제 수단",
     "premium_your_payments_methods": "크레딧과 신용카드",
     "premium_new_cc": "새 신용카드",
@@ -699,8 +699,8 @@
     "daily_forbidden": "서버 접근이 거부됐어요",
     "daily_refresh_page": "페이지를 새로고침 해주세요",
     "daily_server_error": "내부 서버 오류가 발생했어요",
-    "autorole_specific_invite": "Assign Role To Specific Invite",
-    "autorole_select_roles": "SELECT ROLES",
-    "autorole_invite_link": "INVITE LINK",
-    "no_link_provide": "No link provided"
+    "autorole_specific_invite": "특정 초대 링크로 온 멤버에게만 역할 부여하기",
+    "autorole_select_roles": "역할을 선택하세요",
+    "autorole_invite_link": "초대 링크",
+    "no_link_provide": "초대 링크가 입력되지 않았어요"
 }
