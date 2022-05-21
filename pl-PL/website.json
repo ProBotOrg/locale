@@ -33,7 +33,7 @@
     "vmute_description": "Wycisza członka na kanałach głosowych, aby nie mógł mówić.",
     "unvmute_description": "Usuwa wyciszenie członka na kanałach głosowych.",
     "move_description": "Przenosi członka do kanału głosowego.",
-    "role_description": "Dodaje/usuwa role użytkownikowi",
+    "role_description": "Dodaje/usuwa role użytkownikowi.",
     "warn_description": "Ostrzega, daje upomnienie członkowi.",
     "setcolor_description": "Zmienia kolory ról za pomocą kodów hex.",
     "warnings_description": "Uzyskiwanie listy ostrzeżeń użytkownika na serwerze.",
@@ -597,7 +597,7 @@
     "enterprise_features_2": "Niestandardowe funkcje",
     "enterprise_features_3": "Wsparcie telefoniczne 24/7",
     "subscribe": "Subskrybuj",
-    "add": "Add",
+    "add": "Dodaj",
     "premium_payment": "PŁATNOŚĆ",
     "premium_your_payments_methods": "Twoje karty kredytowe i debetowe",
     "premium_new_cc": "Nowa karta kredytowa",
@@ -699,8 +699,8 @@
     "daily_forbidden": "Zabronione",
     "daily_refresh_page": "Odśwież stronę.",
     "daily_server_error": "Wewnętrzny błąd serwera",
-    "autorole_specific_invite": "Assign Role To Specific Invite",
-    "autorole_select_roles": "SELECT ROLES",
-    "autorole_invite_link": "INVITE LINK",
-    "no_link_provide": "No link provided"
+    "autorole_specific_invite": "Przypisz rolę do określonego zaproszenia",
+    "autorole_select_roles": "WYBIERZ ROLE",
+    "autorole_invite_link": "LINK Z ZAPROSZENIEM",
+    "no_link_provide": "Nie podano linku"
 }

@@ -173,8 +173,8 @@
 	"vip_please_specify_description": ":rolling_eyes: - **指定してください**",
 	"vip_details_description": "**プレミアム番号:** {0}\n**プレミアム終了まで** {1}\n**登録先：** {2}",
 	"vip_ended_description": "終了しました",
-	"slowmode_description": "Enable or disable slowmode on a channel.",
-	"slowmode_time_description": "The time to set for slowmode channel.",
+	"slowmode_description": "チャンネルのスローモードを有効または無効にします。",
+	"slowmode_time_description": "スローモードチャンネルの時間設定",
 	"credits_not_enough": "** :thinking: | {0}さんの残高が不足しています！**",
 	"credits_trans_done": "**:moneybag: | {0}は、`${1}` を {2} に移動しました**",
 	"credits_receipt": ":atm:  |  通帳 ```受け取り金額 ${0} 　振り込み主： {1} (ID: {2})```",
@@ -342,7 +342,7 @@
 	"role_error_managed": ":rolling_eyes: -**{0}**  統合によって管理されており、与えることはできません。",
 	"jump_to_message": "ページへ移動",
 	"credits_no_reason": "理由はありませんでした",
-	"removewarn_description": "Removes warnings from all members or specific user.",
+	"removewarn_description": "すべてのメンバーまたは特定のユーザーからの警告を削除します。",
 	"help_description": "なにかお困りですか？",
 	"help_command_description": "コマンドの使用方法を表示",
 	"roll_dice": "サイコロ",
@@ -436,8 +436,8 @@
 	"setlang_language_description": "言語が変更されました",
 	"unmute_description": "メッセージ入力の禁止を解除する。",
 	"muted_both": ":white_check_mark: **@{0} さんがテキストチャンネルとボイスチャンネルの両方でミュートされました！ :zipper_mouth:**",
-	"slowmode_set": "This channel slowmode has been set to {0}.",
-	"slowmode_should": "Time should be less than or equal to {0}.",
-	"slowmode_is": "This channel slowmode is {0}.",
-	"slowmode_disabled": "Slowmode has been disabled from this channel."
+	"slowmode_set": "このチャンネルのスローモード設定時間： {0}",
+	"slowmode_should": "設定する時間は {0} 以下でなければなりません。",
+	"slowmode_is": "このチャンネルのスローモード設定時間は {0} です。",
+	"slowmode_disabled": "このチャンネルのスローモードが無効になりました。"
 }

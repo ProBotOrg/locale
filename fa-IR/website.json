@@ -458,7 +458,7 @@
     "both_voice_and_text": "هم صوتی و هم متنی",
     "whitelist_urls": "لیست سفید آدرس های اینترنتی",
     "automod_mute_time": "مدت زمان حالت سکوت",
-    "automod_mute_violations": "تعداد حالات به سکوت رفته در اثر تخطی کردن",
+    "automod_mute_violations": "تعداد دفعات تخطی کردن قبل از اعمال حالت سکوت",
     "automod_mute_in": "در",
     "automod_mute_time_mintues": "دقیقه",
     "automod_mute_time_hours": "ساعت",
@@ -702,5 +702,5 @@
     "autorole_specific_invite": "دادن نقش به دعوت از یک لینک مشخص",
     "autorole_select_roles": "انتخاب نقش ها",
     "autorole_invite_link": "لینک دعوت",
-    "no_link_provide": "No link provided"
+    "no_link_provide": "هیچ لینکی ارائه نشده"
 }
