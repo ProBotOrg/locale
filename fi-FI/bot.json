@@ -434,7 +434,7 @@
 	"resume_description": "Soittaa tällä hetkellä keskeytetyn raidan.\n",
 	"setlang_description": "Asettaa haluamasi kielen botille.",
 	"setlang_language_description": "Kieli, johon vaihdetaan.",
-	"unmute_description": "Unmutes a member.",
+	"unmute_description": "Poista mykistys jäseneltä.",
 	"muted_both": ":white_check_mark: **@{0} mykistetty sekä tekstistä että äänestä! :zipper_mouth:**",
 	"slowmode_set": "Tämän kanavan hidastus tila on asetettu arvoon {0}.",
 	"slowmode_should": "Ajan pitäisi olla pienempi tai yhtä suuri kuin {0}.",
