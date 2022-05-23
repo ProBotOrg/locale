@@ -63,7 +63,7 @@
 	"Color has been removed successfully!": "رنگ با موفقیت حذف شد!",
 	"Requested by": "درخواست شده توسط",
 	"colors_already": ":rolling_eyes: - شما از قبل این رنگ را دارید.",
-	"colors_permission": ":rolling_eyes: - **رنگ ها نباید دسترسی مدیریتی داشته باشند**",
+	"colors_permission": ":rolling_eyes: - ** رول رنگ ها نباید دسترسی `administrative` داشته باشند**",
 	"colors_done": "رنگ با موفقیت تغییر یافت.",
 	"I don't have permission to give you this color": "من دسترسی دادن این رنگ را به شما ندارم",
 	"Wrong color number": "عدد رنگ اشتباه",
@@ -118,7 +118,7 @@
 	"warn_cant_description": ":rolling_eyes: - **.اخطار دهید @{0} شما نمی توانید به**",
 	"warn_select_description": "**یک دلیل انتخاب کنید:**",
 	"warn_specify_description": ":rolling_eyes: - **لطفا یک دلیل مشخص کنید.**",
-	"warn_been_removed_description": ":white_check_mark: **{0} از اخطار ها حذف شد.**",
+	"warn_been_removed_description": ":white_check_mark: **{0} اخطار حذف شد.**",
 	"warn_cant_warning_description": "🔍 **من نمی توانم اخطاری را که شما دنبالش هستید را پیدا کنم.**",
 	"warn_specify_number_description": ":rolling_eyes: - **لطفا تعداد کاربر (یا همه شان) را مشخص یا آن ها را منشن کنید تا همه اخطار هایشان پاک شود.**",
 	"vkick_cant_permission_description": ":rolling_eyes: - من نتوانستم کاربر را بیرون بیاندازم. لطفا دسترسی های من را بررسی کنید.",
