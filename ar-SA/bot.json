@@ -439,5 +439,13 @@
 	"slowmode_set": "تم وضع سلو مود في هذا الروم الى {0}.",
 	"slowmode_should": "الوقت يجب ان يكون اقل أو يساوي {0}.",
 	"slowmode_is": "سلو مود في هذا الروم هو {0}.",
-	"slowmode_disabled": "تم تعطيل سلو مود من هذا الروم."
+	"slowmode_disabled": "تم تعطيل سلو مود من هذا الروم.",
+	"timeout_done": ":white_check_mark: **{0} has been timed out!**",
+	"timeout_cant": ":rolling_eyes: - ** You can't timeout @{0}. **",
+	"timeout_missing_permission": ":rolling_eyes: - I couldn't timeout that user. Please check my permissions and role position.",
+	"timeout_max_time": ":x: Timeout duration must be lower or equal to 28 days.",
+	"untimeout_done": ":white_check_mark: **{0} has been untimed out.**",
+	"untimeout_cant": ":rolling_eyes: - ** You can't untimeout @{0}. **",
+	"untimeout_missing_permission": ":rolling_eyes: - I couldn't untimeout that user. Please check my permissions and role position.",
+	"untimeout_not_timedout": ":x: Member is not timed out."
 }
