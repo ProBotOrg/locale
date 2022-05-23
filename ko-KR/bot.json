@@ -439,5 +439,13 @@
 	"slowmode_set": "채널의 슬로우모드가 {0}으(로) 설정됐어요.",
 	"slowmode_should": "시간이 {0} 이하여야 해요.",
 	"slowmode_is": "채널의 슬로우모드는 {0}에요.",
-	"slowmode_disabled": "채널의 슬로우모드가 비활성화됐어요."
+	"slowmode_disabled": "채널의 슬로우모드가 비활성화됐어요.",
+	"timeout_done": ":white_check_mark: **{0} has been timed out!**",
+	"timeout_cant": ":rolling_eyes: - ** You can't timeout @{0}. **",
+	"timeout_missing_permission": ":rolling_eyes: - I couldn't timeout that user. Please check my permissions and role position.",
+	"timeout_max_time": ":x: Timeout duration must be lower or equal to 28 days.",
+	"untimeout_done": ":white_check_mark: **{0} has been untimed out.**",
+	"untimeout_cant": ":rolling_eyes: - ** You can't untimeout @{0}. **",
+	"untimeout_missing_permission": ":rolling_eyes: - I couldn't untimeout that user. Please check my permissions and role position.",
+	"untimeout_not_timedout": ":x: Member is not timed out."
 }
