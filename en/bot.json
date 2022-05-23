@@ -440,7 +440,7 @@
 	"slowmode_should": "Time should be less than or equal to {0}.",
 	"slowmode_is": "This channel slowmode is {0}.",
 	"slowmode_disabled": "Slowmode has been disabled from this channel.",
-	"timeout_done": ":white_check_mark: **{0} timeod out from the server! :airplane:**",
+	"timeout_done": ":white_check_mark: **{0} timed out from the server! :airplane:**",
     "timeout_cant": ":rolling_eyes: - ** You can't timeout @{0}. **",
     "timeout_missing_permission": ":rolling_eyes: - I couldn't timeout that user. Please check my permissions and role position.",
 	"timeout_max_time": "Timeout duration must be lower or equal to 28 days."
