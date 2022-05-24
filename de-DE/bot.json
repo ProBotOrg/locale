@@ -413,6 +413,10 @@
 	"role_remove_user_description": "Benutzer, von dem die Rolle entfernt werden soll.",
 	"role_pick_type_description": "Art wählen",
 	"setcolor_role_description": "Rolle, für die Farbe gesetzt werden soll.",
+	"timeout_user_description": "The user to timeout",
+	"timeout_time_description": "The duration of timeout",
+	"timeout_reason_description": "The reason of timeout.",
+	"untimeout_user_description": "The user to untimeout",
 	"give_value": "Geben",
 	"remove_value": "Entfernen",
 	"all_value": "Alle",
@@ -449,6 +453,6 @@
 	"untimeout_missing_permission": ":rolling_eyes: - I couldn't untimeout that user. Please check my permissions and role position.",
 	"untimeout_not_timedout": ":x: Member is not timed out.",
 	"cant_bots": ":robot: I can't take this action on bots.",
-	"logs_timedout": "**{0} has been timed out for {1}**.",
-	"logs_timedout_remove": "**{0}'s timeout has been ended / removed.**."
+	"timeout_description": "Timeout a user from sending messages, reply, react or join voice channels during timeout.",
+	"untimeout_description": "Remove timeout from a user"
 }
