@@ -447,5 +447,6 @@
 	"untimeout_done": ":white_check_mark: **{0} تم ازالة الوقت المستقطع.**",
 	"untimeout_cant": ":rolling_eyes: - ** لا يمكنك ازالة الوقت المستقطع @{0}. **",
 	"untimeout_missing_permission": ":rolling_eyes: - لا استطع ازالة الوقت المستقطع لهذا العضو. يرجى مراجعة صلاحياتي وترتيب رتبتي.",
-	"untimeout_not_timedout": ":x: لم ينتهي الوقت المستقطع لهذا العضو."
+	"untimeout_not_timedout": ":x: لم ينتهي الوقت المستقطع لهذا العضو.",
+	"cant_bots": ":robot: I can't take this action on bots."
 }
