@@ -439,7 +439,7 @@
 	"slowmode_set": "سلۆو مۆد بۆ ئەم ژوورە بوە بە {0}.",
 	"slowmode_should": "کاتەکە ئەبێت لە {0} بەرزتر بێت یان یەکسان بێت بە {0}.",
 	"slowmode_is": "سڵۆو مۆد بۆ ئەم ژوورە یەکسانە بە {0}.",
-	"slowmode_disabled": "سڵۆومۆد ناچالاک کراوە."
+	"slowmode_disabled": "سڵۆومۆد ناچالاک کراوە.",
 	"timeout_done": ":white_check_mark: **{0} has been timed out!**",
 	"timeout_cant": ":rolling_eyes: - ** You can't timeout @{0}. **",
 	"timeout_missing_permission": ":rolling_eyes: - I couldn't timeout that user. Please check my permissions and role position.",
