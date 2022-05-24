@@ -447,5 +447,6 @@
 	"untimeout_done": ":white_check_mark: **{0}님의 타임아웃이 해제됐어요.**",
 	"untimeout_cant": ":rolling_eyes: - **@{0}님의 타임아웃을 해제할 수 없어요.**",
 	"untimeout_missing_permission": ":rolling_eyes: - 멤버의 타임아웃을 해제하지 못했어요. 봇의 권한과 역할 위치를 확인해주세요.",
-	"untimeout_not_timedout": ":x: 멤버가 타임아웃되지 않았어요."
+	"untimeout_not_timedout": ":x: 멤버가 타임아웃되지 않았어요.",
+	"cant_bots": ":robot: I can't take this action on bots."
 }
