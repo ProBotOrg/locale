@@ -48,7 +48,7 @@
 	"short_description": "링크를 축약해요.",
 	"roll_description": "주사위를 굴려요.",
 	"points_description": "관리자에게 받을 수 있는 서버 기반 포인트에요.",
-	"usage": "Usage:",
+	"usage": "사용법:",
 	"c": "설명:",
 	"aliases": "별칭:",
 	"Language has been changed successfully": ":white_check_mark: 언어가 변경됐어요.",
