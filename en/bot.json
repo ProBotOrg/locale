@@ -413,6 +413,9 @@
 	"role_remove_user_description": "User to remove role from.",
 	"role_pick_type_description": "Pick a type",
 	"setcolor_role_description": "Role to set color for.",
+	"timeout_user_description": "The user to timeout",
+	"timeout_time_description": "The duration of timeout",
+	"timeout_reason_description": "The reason of timeout.",
 	"give_value": "Give",
 	"remove_value": "Remove",
 	"all_value": "All",
@@ -451,5 +454,4 @@
 	"cant_bots": ":robot: I can't take this action on bots.",
 	"logs_timedout" : "**{0} has been timed out for {1}**.",
 	"logs_timedout_remove": "**{0}'s timeout has been ended / removed.**."
-
 }
