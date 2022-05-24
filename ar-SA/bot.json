@@ -454,5 +454,5 @@
 	"untimeout_not_timedout": ":x: لم ينتهي الوقت المستقطع لهذا العضو.",
 	"cant_bots": ":robot: لا أستطيع اتخاذ هذا الإجراء على بوتات.",
 	"timeout_description": "اعطء وقت مستقطع للمستخدم لمنعه من إرسال الرسائل، اضافه رياكشن، رد على رسائل أو الانضمام إلى رومات الصوتية خلال الوقت المستقطع.",
-	"untimeout_description": "Remove timeout from a user"
+	"untimeout_description": "إزالة الوقت المستقطع من المستخدم."
 }
