@@ -202,7 +202,7 @@
     "PERMISSIONS_USER": "멤버 역할에 있는 관리자 권한을 제거",
     "REMOVE_ROLES": "관리자 역할에서 멤버를 제거",
     "PROTECTED_ROLES": "보호된 역할",
-    "PROTECTED_HINT": "%EVERYONE% + 자동 역할을 추가하는 것을 권장해요",
+    "PROTECTED_HINT": "{0} + 자동 역할을 추가하는 것을 권장해요",
     "ACTION_WHEN_PROTECTED": "보호된 역할이 변경됐거나 삭제됐을 때 할 행동",
     "UNDO_REMOVE_ALL": "작업을 취소하고 모든 역할에 있는 관리자 권한을 제거",
     "PROTECT_BOT_JOINED": "봇이 서버에 접속할 때 할 행동",
