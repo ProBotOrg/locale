@@ -705,5 +705,6 @@
     "autorole_specific_invite": "Määritä Rooli Tiettyyn Kutsuun",
     "autorole_select_roles": "VALITSE ROLIT",
     "autorole_invite_link": "KUTSU LINK",
-    "no_link_provide": "Linkkiä ei ole annettu"
+    "no_link_provide": "Linkkiä ei ole annettu",
+    "timeout": "Timeout (Given / Removed)"
 }
