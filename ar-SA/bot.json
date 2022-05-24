@@ -448,5 +448,7 @@
 	"untimeout_cant": ":rolling_eyes: - ** لا يمكنك ازالة الوقت المستقطع @{0}. **",
 	"untimeout_missing_permission": ":rolling_eyes: - لا استطع ازالة الوقت المستقطع لهذا العضو. يرجى مراجعة صلاحياتي وترتيب رتبتي.",
 	"untimeout_not_timedout": ":x: لم ينتهي الوقت المستقطع لهذا العضو.",
-	"cant_bots": ":robot: I can't take this action on bots."
+	"cant_bots": ":robot: لا أستطيع اتخاذ هذا الإجراء على بوتات.",
+	"logs_timedout": "**{0} has been timed out for {1}**.",
+	"logs_timedout_remove": "**{0}'s timeout has been ended / removed.**."
 }
