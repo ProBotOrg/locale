@@ -705,5 +705,6 @@
     "autorole_specific_invite": "特定の招待にロールを割り当てる",
     "autorole_select_roles": "ロールを選択",
     "autorole_invite_link": "招待リンク",
-    "no_link_provide": "リンクが提供されていません"
+    "no_link_provide": "リンクが提供されていません",
+    "timeout": "Timeout (Given / Removed)"
 }
