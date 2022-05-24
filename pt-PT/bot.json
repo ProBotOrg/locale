@@ -448,5 +448,7 @@
 	"untimeout_cant": ":rolling_eyes: - ** Não pode descastigar @{0}. **",
 	"untimeout_missing_permission": ":rolling_eyes: - Não pude remover o castigo desse membro. Por favor verifique as minhas permissões e posição dde cargo.",
 	"untimeout_not_timedout": ":x: Membro não está castigado.",
-	"cant_bots": ":robot: I can't take this action on bots."
+	"cant_bots": ":robot: I can't take this action on bots.",
+	"logs_timedout": "**{0} has been timed out for {1}**.",
+	"logs_timedout_remove": "**{0}'s timeout has been ended / removed.**."
 }
