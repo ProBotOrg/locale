@@ -705,5 +705,6 @@
     "autorole_specific_invite": "Přiřadit roli ke konkrétní pozvánce",
     "autorole_select_roles": "VYBRAT ROLE",
     "autorole_invite_link": "POZVÁNKA",
-    "no_link_provide": "Nebyl zadán žádný odkaz"
+    "no_link_provide": "Nebyl zadán žádný odkaz",
+    "timeout": "Timeout (Given / Removed)"
 }
