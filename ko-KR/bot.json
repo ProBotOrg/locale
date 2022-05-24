@@ -413,10 +413,10 @@
 	"role_remove_user_description": "역할을 가져올 멤버",
 	"role_pick_type_description": "종류를 선택하세요",
 	"setcolor_role_description": "색상으로 설정할 역할",
-	"timeout_user_description": "The user to timeout",
-	"timeout_time_description": "The duration of timeout",
-	"timeout_reason_description": "The reason of timeout.",
-	"untimeout_user_description": "The user to untimeout",
+	"timeout_user_description": "타임아웃할 멤버",
+	"timeout_time_description": "타임아웃할 기간",
+	"timeout_reason_description": "타임아웃할 사유",
+	"untimeout_user_description": "타임아웃을 해제할 멤버",
 	"give_value": "부여",
 	"remove_value": "제거",
 	"all_value": "전체",
@@ -452,7 +452,7 @@
 	"untimeout_cant": ":rolling_eyes: - **@{0}님의 타임아웃을 해제할 수 없어요.**",
 	"untimeout_missing_permission": ":rolling_eyes: - 멤버의 타임아웃을 해제하지 못했어요. 봇의 권한과 역할 위치를 확인해주세요.",
 	"untimeout_not_timedout": ":x: 멤버가 타임아웃되지 않았어요.",
-	"cant_bots": ":robot: I can't take this action on bots.",
-	"timeout_description": "Timeout a user from sending messages, reply, react or join voice channels during timeout.",
-	"untimeout_description": "Remove timeout from a user"
+	"cant_bots": ":robot: 봇은 타임아웃할 수 없어요.",
+	"timeout_description": "멤버를 타임아웃해서 채팅을 보내거나 반응하거나, 음성 채널에 접속할 수 없게 해요.",
+	"untimeout_description": "멤버의 타임아웃을 해제해요"
 }
