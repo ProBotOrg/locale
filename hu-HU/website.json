@@ -705,5 +705,6 @@
     "autorole_specific_invite": "Assign Role To Specific Invite",
     "autorole_select_roles": "RANGOK KIVÁLASZTÁSA",
     "autorole_invite_link": "MEGHÍVÓ LINK",
-    "no_link_provide": "Nincs megadott link"
+    "no_link_provide": "Nincs megadott link",
+    "timeout": "Timeout (Given / Removed)"
 }
