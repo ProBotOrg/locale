@@ -440,12 +440,12 @@
 	"slowmode_should": "Debe ser menor o igual que {0}.",
 	"slowmode_is": "El modo lento de este canal es {0}.",
 	"slowmode_disabled": "El modo lento ha sido deshabilitado de este canal.",
-	"timeout_done": ":white_check_mark: **{0} has been timed out!**",
-	"timeout_cant": ":rolling_eyes: - ** You can't timeout @{0}. **",
-	"timeout_missing_permission": ":rolling_eyes: - I couldn't timeout that user. Please check my permissions and role position.",
-	"timeout_max_time": ":x: Timeout duration must be lower or equal to 28 days.",
-	"untimeout_done": ":white_check_mark: **{0} has been untimed out.**",
-	"untimeout_cant": ":rolling_eyes: - ** You can't untimeout @{0}. **",
-	"untimeout_missing_permission": ":rolling_eyes: - I couldn't untimeout that user. Please check my permissions and role position.",
-	"untimeout_not_timedout": ":x: Member is not timed out."
+	"timeout_done": ":white_check_mark: **{0} se le ha dado timeout!**",
+	"timeout_cant": ":rolling_eyes: - ** No puedes darle timeout a @{0}. **",
+	"timeout_missing_permission": ":rolling_eyes: - No pude darle timeout a ese usuario. Por favor, comprueba mis permisos y la posición de mi rol.",
+	"timeout_max_time": ":x: La duración del timeout debe ser menor o igual a 28 días.",
+	"untimeout_done": ":white_check_mark: **{0} ha se le acabo del tiemout.**",
+	"untimeout_cant": ":rolling_eyes: - ** No puedes quitarle el timeout a @{0}. **",
+	"untimeout_missing_permission": ":rolling_eyes: - No pude quitarle el timeout a ese usuario. Por favor, comprueba mis permisos y la posición de mi rol.",
+	"untimeout_not_timedout": ":x: El miembro no tiene tiemout."
 }
