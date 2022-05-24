@@ -453,6 +453,6 @@
 	"untimeout_missing_permission": ":rolling_eyes: - No pude quitarle el timeout a ese usuario. Por favor, comprueba mis permisos y la posición de mi rol.",
 	"untimeout_not_timedout": ":x: El miembro no tiene tiemout.",
 	"cant_bots": ":robot: I can't take this action on bots.",
-	"timeout_description": "Timeout a user from sending messages, reply, react or join voice channels during timeout.",
+	"timeout_description": "Timeout a user from sending messages, react or join voice channels.",
 	"untimeout_description": "Remove timeout from a user"
 }
