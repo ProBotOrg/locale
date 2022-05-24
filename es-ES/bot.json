@@ -447,5 +447,6 @@
 	"untimeout_done": ":white_check_mark: **{0} ha se le acabo del tiemout.**",
 	"untimeout_cant": ":rolling_eyes: - ** No puedes quitarle el timeout a @{0}. **",
 	"untimeout_missing_permission": ":rolling_eyes: - No pude quitarle el timeout a ese usuario. Por favor, comprueba mis permisos y la posición de mi rol.",
-	"untimeout_not_timedout": ":x: El miembro no tiene tiemout."
+	"untimeout_not_timedout": ":x: El miembro no tiene tiemout.",
+	"cant_bots": ":robot: I can't take this action on bots."
 }
