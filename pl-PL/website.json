@@ -705,5 +705,6 @@
     "autorole_specific_invite": "Przypisz rolę do określonego zaproszenia",
     "autorole_select_roles": "WYBIERZ ROLE",
     "autorole_invite_link": "LINK Z ZAPROSZENIEM",
-    "no_link_provide": "Nie podano linku"
+    "no_link_provide": "Nie podano linku",
+    "timeout": "Timeout (Given / Removed)"
 }
