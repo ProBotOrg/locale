@@ -416,6 +416,7 @@
 	"timeout_user_description": "The user to timeout",
 	"timeout_time_description": "The duration of timeout",
 	"timeout_reason_description": "The reason of timeout.",
+	"untimeout_user_description": "The user to untimeout",
 	"give_value": "Give",
 	"remove_value": "Remove",
 	"all_value": "All",
