@@ -439,5 +439,16 @@
 	"slowmode_set": "El modo lento de este canal se ha establecido en {0}.",
 	"slowmode_should": "Debe ser menor o igual que {0}.",
 	"slowmode_is": "El modo lento de este canal es {0}.",
-	"slowmode_disabled": "El modo lento ha sido deshabilitado de este canal."
+	"slowmode_disabled": "El modo lento ha sido deshabilitado de este canal.",
+	"timeout_done": ":white_check_mark: **{0} se le ha dado timeout!**",
+	"timeout_cant": ":rolling_eyes: - ** No puedes darle timeout a @{0}. **",
+	"timeout_missing_permission": ":rolling_eyes: - No pude darle timeout a ese usuario. Por favor, comprueba mis permisos y la posición de mi rol.",
+	"timeout_max_time": ":x: La duración del timeout debe ser menor o igual a 28 días.",
+	"untimeout_done": ":white_check_mark: **{0} ha se le acabo del tiemout.**",
+	"untimeout_cant": ":rolling_eyes: - ** No puedes quitarle el timeout a @{0}. **",
+	"untimeout_missing_permission": ":rolling_eyes: - No pude quitarle el timeout a ese usuario. Por favor, comprueba mis permisos y la posición de mi rol.",
+	"untimeout_not_timedout": ":x: El miembro no tiene tiemout.",
+	"cant_bots": ":robot: I can't take this action on bots.",
+	"logs_timedout": "**{0} has been timed out for {1}**.",
+	"logs_timedout_remove": "**{0}'s timeout has been ended / removed.**."
 }

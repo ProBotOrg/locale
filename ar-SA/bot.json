@@ -439,5 +439,16 @@
 	"slowmode_set": "تم وضع سلو مود في هذا الروم الى {0}.",
 	"slowmode_should": "الوقت يجب ان يكون اقل أو يساوي {0}.",
 	"slowmode_is": "سلو مود في هذا الروم هو {0}.",
-	"slowmode_disabled": "تم تعطيل سلو مود من هذا الروم."
+	"slowmode_disabled": "تم تعطيل سلو مود من هذا الروم.",
+	"timeout_done": ":white_check_mark: **{0} تم اعطائه وقت مستقطع!**",
+	"timeout_cant": ":rolling_eyes: - **لا يمكنك اعطاء وقت مستقطع @{0}.**",
+	"timeout_missing_permission": ":rolling_eyes: - لم استطع اعطاء وقت مستقطع لهذا العضو. يرجى مراجعة صلاحياتي وترتيب رتبتي",
+	"timeout_max_time": ":x: مدة الوقت المستقطع يجب أن تكون أقل أو تساوي 28 يوما.",
+	"untimeout_done": ":white_check_mark: **{0} تم ازالة الوقت المستقطع.**",
+	"untimeout_cant": ":rolling_eyes: - ** لا يمكنك ازالة الوقت المستقطع @{0}. **",
+	"untimeout_missing_permission": ":rolling_eyes: - لا استطع ازالة الوقت المستقطع لهذا العضو. يرجى مراجعة صلاحياتي وترتيب رتبتي.",
+	"untimeout_not_timedout": ":x: لم ينتهي الوقت المستقطع لهذا العضو.",
+	"cant_bots": ":robot: لا أستطيع اتخاذ هذا الإجراء على بوتات.",
+	"logs_timedout": "{0} تم إعطاءه وقت مستقطع ل**{1}.**",
+	"logs_timedout_remove": "**تم انتهاء / أزالة الوقت المستقطع لـ {0}.**"
 }
