@@ -453,6 +453,6 @@
 	"untimeout_missing_permission": ":rolling_eyes: - Tôi không thể hủy hạn chế cho người dùng đó. Vui lòng xem lại quyền và vị trí vai trò của tôi.",
 	"untimeout_not_timedout": ":x: Người dùng không bị hạn chế.",
 	"cant_bots": ":robot: Tôi không thể thực hiện việc này với bot.",
-	"timeout_description": "Timeout a user from sending messages, reply, react or join voice channels during timeout.",
+	"timeout_description": "Timeout a user from sending messages, react or join voice channels.",
 	"untimeout_description": "Remove timeout from a user"
 }
