@@ -28,7 +28,7 @@
     "server_description": "서버에 대한 정보를 알려줘요.",
     "kick_description": "멤버를 추방해요.",
     "timeout_description": "멤버를 타임아웃해요.",
-    "vkick_description": "멤버를 음성 채널에서 추방해요",
+    "vkick_description": "멤버를 음성 채널에서 추방해요.",
     "mute_description": "멤버를 채팅 채널에서 음소거해서 채팅을 칠 수 없도록 해요.",
     "unmute_description": "멤버의 음소거를 해제해요.",
     "vmute_description": "멤버를 음성 채널에서 음소거해서 말을 할 수 없도록 해요.",
@@ -706,5 +706,5 @@
     "autorole_select_roles": "역할을 선택하세요",
     "autorole_invite_link": "초대 링크",
     "no_link_provide": "초대 링크가 입력되지 않았어요",
-    "timeout": "Timeout (Given / Removed)"
+    "timeout": "타임아웃 (주어짐 / 해제됨)"
 }
