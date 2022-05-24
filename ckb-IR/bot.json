@@ -440,4 +440,15 @@
 	"slowmode_should": "کاتەکە ئەبێت لە {0} بەرزتر بێت یان یەکسان بێت بە {0}.",
 	"slowmode_is": "سڵۆو مۆد بۆ ئەم ژوورە یەکسانە بە {0}.",
 	"slowmode_disabled": "سڵۆومۆد ناچالاک کراوە."
+	"timeout_done": ":white_check_mark: **{0} has been timed out!**",
+	"timeout_cant": ":rolling_eyes: - ** You can't timeout @{0}. **",
+	"timeout_missing_permission": ":rolling_eyes: - I couldn't timeout that user. Please check my permissions and role position.",
+	"timeout_max_time": ":x: Timeout duration must be lower or equal to 28 days.",
+	"untimeout_done": ":white_check_mark: **{0} has been untimed out.**",
+	"untimeout_cant": ":rolling_eyes: - ** You can't untimeout @{0}. **",
+	"untimeout_missing_permission": ":rolling_eyes: - I couldn't untimeout that user. Please check my permissions and role position.",
+	"untimeout_not_timedout": ":x: Member is not timed out.",
+	"cant_bots": ":robot: I can't take this action on bots.",
+	"logs_timedout": "**{0} has been timed out for {1}**.",
+	"logs_timedout_remove": "**{0}'s timeout has been ended / removed.**."
 }

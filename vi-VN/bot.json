@@ -439,5 +439,16 @@
 	"slowmode_set": "Chế độ chậm bật đã được đặt thành {0} cho kênh này.",
 	"slowmode_should": "Thời lượng lên là ít hơn hoặc bằng {0}.",
 	"slowmode_is": "Thời lượng chậm bật của kênh này là {0}.",
-	"slowmode_disabled": "Đã tắt chế độ chậm bật cho kênh này."
+	"slowmode_disabled": "Đã tắt chế độ chậm bật cho kênh này.",
+	"timeout_done": ":white_check_mark: **Đã đặt hạn chế cho {0}!**",
+	"timeout_cant": ":rolling_eyes: - **Bạn không thể hạn chế @{0}.**",
+	"timeout_missing_permission": ":rolling_eyes: - Tôi không thể hạn chế người dùng đó. Vui lòng xem lại quyền và vị trí vai trò của tôi.",
+	"timeout_max_time": ":x: Thời gianhạn chế phải bằng hoặc ít hơn 28 ngày.",
+	"untimeout_done": ":white_check_mark: **Đã hủy hạn chế cho {0}!**",
+	"untimeout_cant": ":rolling_eyes: - **Bạn không thể hủy hạn chế cho @{0}.**",
+	"untimeout_missing_permission": ":rolling_eyes: - Tôi không thể hủy hạn chế cho người dùng đó. Vui lòng xem lại quyền và vị trí vai trò của tôi.",
+	"untimeout_not_timedout": ":x: Người dùng không bị hạn chế.",
+	"cant_bots": ":robot: Tôi không thể thực hiện việc này với bot.",
+	"logs_timedout": "**{0} has been timed out for {1}**.",
+	"logs_timedout_remove": "**{0}'s timeout has been ended / removed.**."
 }
