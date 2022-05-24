@@ -413,6 +413,10 @@
 	"role_remove_user_description": "Usuário para remover cargo.",
 	"role_pick_type_description": "Escolha um tipo",
 	"setcolor_role_description": "Cargo para definir a cor.",
+	"timeout_user_description": "The user to timeout",
+	"timeout_time_description": "The duration of timeout",
+	"timeout_reason_description": "The reason of timeout.",
+	"untimeout_user_description": "The user to untimeout",
 	"give_value": "Dar",
 	"remove_value": "Remover",
 	"all_value": "Todos",
@@ -449,6 +453,6 @@
 	"untimeout_missing_permission": ":rolling_eyes: - Eu não consegui retirar o castigo desse usuário. Por favor, verifique minhas permissões e posição de cargo.",
 	"untimeout_not_timedout": ":x: membro não está de castigo.",
 	"cant_bots": ":robot: I can't take this action on bots.",
-	"logs_timedout": "**{0} has been timed out for {1}**.",
-	"logs_timedout_remove": "**{0}'s timeout has been ended / removed.**."
+	"timeout_description": "Timeout a user from sending messages, reply, react or join voice channels during timeout.",
+	"untimeout_description": "Remove timeout from a user"
 }
