@@ -705,5 +705,6 @@
     "autorole_specific_invite": "Присвояване на роля на конкретна покана!\n",
     "autorole_select_roles": "Изберете роли!",
     "autorole_invite_link": "Линк за покана.",
-    "no_link_provide": "Не е предоставен \"link\"."
+    "no_link_provide": "Не е предоставен \"link\".",
+    "timeout": "Timeout (Given / Removed)"
 }
