@@ -413,10 +413,10 @@
 	"role_remove_user_description": "Người dùng để gỡ vai trò.",
 	"role_pick_type_description": "Chọn một loại hình.",
 	"setcolor_role_description": "Vai trò để đặt màu.",
-	"timeout_user_description": "The user to timeout",
-	"timeout_time_description": "The duration of timeout",
-	"timeout_reason_description": "The reason of timeout.",
-	"untimeout_user_description": "The user to untimeout",
+	"timeout_user_description": "Người dùng cần hạn chế",
+	"timeout_time_description": "Thời gian hạn chế",
+	"timeout_reason_description": "Lí do hạn chế",
+	"untimeout_user_description": "Người dùng đang bị hạn chế",
 	"give_value": "Chỉ cho",
 	"remove_value": "Gỡ",
 	"all_value": "Tất cả",
@@ -453,6 +453,6 @@
 	"untimeout_missing_permission": ":rolling_eyes: - Tôi không thể hủy hạn chế cho người dùng đó. Vui lòng xem lại quyền và vị trí vai trò của tôi.",
 	"untimeout_not_timedout": ":x: Người dùng không bị hạn chế.",
 	"cant_bots": ":robot: Tôi không thể thực hiện việc này với bot.",
-	"timeout_description": "Timeout a user from sending messages, react or join voice channels.",
-	"untimeout_description": "Remove timeout from a user"
+	"timeout_description": "Hạn chế người dùng và không cho phép họ gửi tin, dùng biểu cảm và tham gia kênh voice.",
+	"untimeout_description": "Loại bỏ hạn chế cho người dùng"
 }
