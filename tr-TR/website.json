@@ -27,13 +27,13 @@
     "top_description": "Lider tablosundaki üyeleri yazı ya da ses olarak görüntüler.",
     "server_description": "Sunucu hakkında bilgi gösterir",
     "kick_description": "Bir kullanıcıyı sunucudan kovar",
-    "timeout_description": "Timeouts a member.",
+    "timeout_description": "Bir üye zaman aşımına uğrar.",
     "vkick_description": "Bir üyeyi sesli bir kanaldan kovar",
     "mute_description": "Yazılı kanallardan bir üyeyi susturun, böylece yazamazlar.",
     "unmute_description": "Bir üyenin susturmasını kaldırır.",
     "vmute_description": "Bir üyeyi sesli kanallarda susturun, böylece konuşamazlar.",
     "unvmute_description": " Bir üyenin sesli kanallardan susturmasını kaldırır.",
-    "untimeout_description": "Removes a timeout from a member.",
+    "untimeout_description": "Bir üyeden bir zaman aşımını kaldırır.",
     "move_description": "Bir üyeyi bir ses kanalına taşır.",
     "role_description": "Kullanıcılara rol ekle/kullanıcılardan rol al.",
     "warn_description": "Bir üyeyi uyarır.",
@@ -609,7 +609,7 @@
     "notifications_add_alert": "Uyarı Ekle",
     "ban_specific_time": "Yasaklamak için belirli bir süre",
     "mute_specific_time": "Susturmak için belirli bir süre",
-    "timeout_specific_time": "timeout for specific time",
+    "timeout_specific_time": "belirli bir süre için zaman aşımı",
     "manage_premium": "Premium'u Yönet",
     "manage": "Yönet",
     "subscriptions": "Abonelikler",
@@ -705,6 +705,6 @@
     "autorole_specific_invite": "Belirli Davet Bağlantısına Otomatik Rol Verin",
     "autorole_select_roles": "ROL SEÇ",
     "autorole_invite_link": "DAVET BAĞLANTISI",
-    "no_link_provide": "No link provided",
-    "timeout": "Timeout (Given / Removed)"
+    "no_link_provide": "Bağlantı sağlanmadı",
+    "timeout": "Zaman Aşımı (Verildi / Kaldırıldı)"
 }
