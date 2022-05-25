@@ -413,10 +413,10 @@
 	"role_remove_user_description": "Usuário para remover cargo.",
 	"role_pick_type_description": "Escolha um tipo",
 	"setcolor_role_description": "Cargo para definir a cor.",
-	"timeout_user_description": "The user to timeout",
-	"timeout_time_description": "The duration of timeout",
-	"timeout_reason_description": "The reason of timeout.",
-	"untimeout_user_description": "The user to untimeout",
+	"timeout_user_description": "O usuário para o tempo limite",
+	"timeout_time_description": "A duração do tempo limite",
+	"timeout_reason_description": "O motivo do tempo limite.",
+	"untimeout_user_description": "O usuário para untimeout",
 	"give_value": "Dar",
 	"remove_value": "Remover",
 	"all_value": "Todos",
@@ -452,7 +452,7 @@
 	"untimeout_cant": ":rolling_eyes: - ** Você não pode retirar o castigo @{0}. **",
 	"untimeout_missing_permission": ":rolling_eyes: - Eu não consegui retirar o castigo desse usuário. Por favor, verifique minhas permissões e posição de cargo.",
 	"untimeout_not_timedout": ":x: membro não está de castigo.",
-	"cant_bots": ":robot: I can't take this action on bots.",
-	"timeout_description": "Timeout a user from sending messages, react or join voice channels.",
-	"untimeout_description": "Remove timeout from a user"
+	"cant_bots": ":robot: Não posso realizar esta ação em bots.",
+	"timeout_description": "Tempo limite de um usuário para enviar mensagens, reagir ou ingressar em canais de voz.",
+	"untimeout_description": "Remover o tempo limite de um usuário"
 }
