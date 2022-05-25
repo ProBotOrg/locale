@@ -27,13 +27,13 @@
     "top_description": "Перегляд найактивніших учасників текстових та голосових каналів.",
     "server_description": "Перегляд інформації про сервер.",
     "kick_description": "Вигнати учасника.",
-    "timeout_description": "Timeouts a member.",
+    "timeout_description": "Час очікування члена.",
     "vkick_description": "Вигнати учасника з голосового каналу.",
     "mute_description": "Заборонити учаснику писати в текстових каналах.",
     "unmute_description": "Дозволити учаснику спілкуватися.",
     "vmute_description": "Вимкнути мікрофон учаснику в голосових каналах.",
     "unvmute_description": "Включити мікрофон учаснику.",
-    "untimeout_description": "Removes a timeout from a member.",
+    "untimeout_description": "Видаляє тайм-аут для учасника.",
     "move_description": "Перемістити учасника в голосовий канал.",
     "role_description": "Видати/зняти роль(і) учаснику.",
     "warn_description": "Зробити попередження учаснику.",
@@ -609,7 +609,7 @@
     "notifications_add_alert": "Додати сповіщення",
     "ban_specific_time": "заблокувати на певний час",
     "mute_specific_time": "мут на певний час",
-    "timeout_specific_time": "timeout for specific time",
+    "timeout_specific_time": "тайм-аут на певний час",
     "manage_premium": "Управління Преміумом",
     "manage": "Управління",
     "subscriptions": "Підписки",
@@ -706,5 +706,5 @@
     "autorole_select_roles": "ВИБЕРІТЬ РОЛІ",
     "autorole_invite_link": "ПОСИЛАННЯ НА ЗАПРОШЕННЯ",
     "no_link_provide": "Посилання відсутнє",
-    "timeout": "Timeout (Given / Removed)"
+    "timeout": "Тайм-аут (надано / видалено)"
 }
