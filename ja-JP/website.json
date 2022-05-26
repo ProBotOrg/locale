@@ -571,7 +571,7 @@
     "command_saved_success": "{0} を記憶しました👌",
     "wildcard": "ワイルドカード",
     "wildcard_description": "特定の文字・単語について、メッセージ内を検索します。",
-    "never_mind": "お気になさらないでください",
+    "never_mind": "今のは忘れて（キャンセル）",
     "do_you_really": "本当に {0} を削除してもよろしいですか？",
     "add_field": "フィールドを追加",
     "contact_owner_allow": "オーナーに連絡し、許可を得てください (-_-)",
