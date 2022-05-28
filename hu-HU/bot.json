@@ -454,5 +454,7 @@
 	"untimeout_not_timedout": ":x: A tag nincs felfüggesztve.",
 	"cant_bots": ":robot: Nem végezhetem el ezt a műveletet botokon.",
 	"timeout_description": "Egy tag felfüggesztése, hogy ne tudjon üzeneteket küldeni, reagálni és hangcsatornákat használni.",
-	"untimeout_description": "Felfüggesztés eltávolítása egy felhasználóról."
+	"untimeout_description": "Felfüggesztés eltávolítása egy felhasználóról.",
+	"logs_timedout": "**{0} has been timed out for {1}**.",
+	"logs_timedout_remove": "**{0}'s timeout has been ended / removed.**."
 }
