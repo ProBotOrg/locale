@@ -454,5 +454,7 @@
 	"untimeout_not_timedout": ":x: El miembro no tiene tiemout.",
 	"cant_bots": ":robot: No puedo realizar esta acción en bots.",
 	"timeout_description": "Tiempo de espera de un usuario para enviar mensajes, reaccionar o unirse a canales de voz.",
-	"untimeout_description": "Eliminar el tiempo de espera de un usuario"
+	"untimeout_description": "Eliminar el tiempo de espera de un usuario",
+	"logs_timedout": "**{0} has been timed out for {1}**.",
+	"logs_timedout_remove": "**{0}'s timeout has been ended / removed.**."
 }
