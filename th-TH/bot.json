@@ -454,5 +454,7 @@
 	"untimeout_not_timedout": ":x: สมาชิกไม่หมดเวลา",
 	"cant_bots": ":robot: ดำเนินการนี้กับบอทไม่ได้",
 	"timeout_description": "หมดเวลาผู้ใช้จากการส่งข้อความ โต้ตอบ หรือเข้าร่วมช่องเสียง",
-	"untimeout_description": "ลบการหมดเวลาออกจากผู้ใช้"
+	"untimeout_description": "ลบการหมดเวลาออกจากผู้ใช้",
+	"logs_timedout": "**{0} has been timed out for {1}**.",
+	"logs_timedout_remove": "**{0}'s timeout has been ended / removed.**."
 }
