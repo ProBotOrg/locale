@@ -454,5 +454,7 @@
 	"untimeout_not_timedout": ":x: Час очікування члена не вичерпано.",
 	"cant_bots": ":robot: Я не можу виконати цю дію щодо ботів.",
 	"timeout_description": "Тайм-аут, щоб користувач міг надсилати повідомлення, реагувати або приєднуватися до голосових каналів.",
-	"untimeout_description": "Видалити тайм-аут у користувача"
+	"untimeout_description": "Видалити тайм-аут у користувача",
+	"logs_timedout": "**{0} has been timed out for {1}**.",
+	"logs_timedout_remove": "**{0}'s timeout has been ended / removed.**."
 }
