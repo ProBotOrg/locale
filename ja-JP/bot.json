@@ -454,5 +454,7 @@
 	"untimeout_not_timedout": ":x: メンバーがタイムアウトしていません。",
 	"cant_bots": ":robot: ボットに対してこのアクションを実行することはできません。",
 	"timeout_description": "Timeout a user from sending messages, react or join voice channels.",
-	"untimeout_description": "Remove timeout from a user"
+	"untimeout_description": "Remove timeout from a user",
+	"logs_timedout": "**{0} has been timed out for {1}**.",
+	"logs_timedout_remove": "**{0}'s timeout has been ended / removed.**."
 }
