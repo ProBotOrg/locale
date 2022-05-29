@@ -456,5 +456,5 @@
 	"timeout_description": "Bir kullanıcının mesaj göndermesi, tepki vermesi veya ses kanallarına katılması zaman aşımına uğradı.",
 	"untimeout_description": "Bir kullanıcıdan zaman aşımını kaldırma",
 	"logs_timedout": "**{0} has been timed out for {1}**.",
-	"logs_timedout_remove": "**{0}'s timeout has been ended / removed.**."
+	"logs_timedout_remove": "**{0}'s timeout has been ended / removed.**"
 }
