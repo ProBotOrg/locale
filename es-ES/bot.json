@@ -456,5 +456,5 @@
 	"timeout_description": "Tiempo de espera de un usuario para enviar mensajes, reaccionar o unirse a canales de voz.",
 	"untimeout_description": "Eliminar el tiempo de espera de un usuario",
 	"logs_timedout": "**{0} has been timed out for {1}**.",
-	"logs_timedout_remove": "**{0}'s timeout has been ended / removed.**."
+	"logs_timedout_remove": "**{0}'s timeout has been ended / removed.**"
 }
