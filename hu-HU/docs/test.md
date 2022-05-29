@@ -1,3 +1,0 @@
-# Helló rooka
-### Szia
-aaaaaa

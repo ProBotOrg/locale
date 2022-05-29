@@ -1,3 +1,0 @@
-# Merhaba xST
-### Selam
-aaaaaa
