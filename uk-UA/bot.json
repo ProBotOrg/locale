@@ -456,5 +456,5 @@
 	"timeout_description": "Тайм-аут, щоб користувач міг надсилати повідомлення, реагувати або приєднуватися до голосових каналів.",
 	"untimeout_description": "Видалити тайм-аут у користувача",
 	"logs_timedout": "**{0} has been timed out for {1}**.",
-	"logs_timedout_remove": "**{0}'s timeout has been ended / removed.**."
+	"logs_timedout_remove": "**{0}'s timeout has been ended / removed.**"
 }
