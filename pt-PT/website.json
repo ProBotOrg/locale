@@ -41,7 +41,7 @@
     "warnings_description": "Obtém a lista de advertências do servidor ou utilizador.",
     "setnick_description": "Altera o apelido de um membro.",
     "play_description": "Adiciona uma música à fila e toca-a.",
-    "skip_description": "Salta a música atual.",
+    "skip_description": "Pula a música atual.",
     "search_description": "Pesquisas por resultados para tocar.",
     "queue_description": "Mostra as faixas atuais em espera na lista de reprodução.",
     "stop_description": "Para a música atual e limpa toda a fila de reprodução em espera.",
