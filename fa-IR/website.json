@@ -705,5 +705,6 @@
     "autorole_specific_invite": "دادن نقش به دعوت از یک لینک مشخص",
     "autorole_select_roles": "انتخاب نقش ها",
     "autorole_invite_link": "لینک دعوت",
-    "no_link_provide": "هیچ لینکی ارائه نشده"
+    "no_link_provide": "هیچ لینکی ارائه نشده",
+    "timeout": "Timeout (Given / Removed)"
 }

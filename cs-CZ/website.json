@@ -27,13 +27,13 @@
     "top_description": "Zobrazit nejlepší členy podle textu nebo hlasu.",
     "server_description": "Zobrazí informace o serveru",
     "kick_description": "Vyhodí člena.",
-    "timeout_description": "Timeouts a member.",
+    "timeout_description": "Časové limity člena.",
     "vkick_description": "Vyhodí člena z hlasového kanálu.",
     "mute_description": "Ztlumí člena z textových kanálů, takže nebude moct psát.",
     "unmute_description": "Zruší umlčení člena.",
     "vmute_description": "Ztlumí člena z hlasových kanálů, takže nebude moct mluvit.",
     "unvmute_description": "Zruší umlčení člena z hlasových kanálů.",
-    "untimeout_description": "Removes a timeout from a member.",
+    "untimeout_description": "Odebere členu časový limit.",
     "move_description": "Přesune člena do hlasového kanálu,",
     "role_description": "Přidat/odebral roli / role pro člena.",
     "warn_description": "Varuje člena.",
@@ -609,7 +609,7 @@
     "notifications_add_alert": "Přidat upozornění",
     "ban_specific_time": "ban na určitý čas",
     "mute_specific_time": "umlčení na určitý čas",
-    "timeout_specific_time": "timeout for specific time",
+    "timeout_specific_time": "časový limit na konkrétní čas",
     "manage_premium": "Správa Premium",
     "manage": "Spravovat",
     "subscriptions": "Odběry",
@@ -705,5 +705,6 @@
     "autorole_specific_invite": "Přiřadit roli ke konkrétní pozvánce",
     "autorole_select_roles": "VYBRAT ROLE",
     "autorole_invite_link": "POZVÁNKA",
-    "no_link_provide": "Nebyl zadán žádný odkaz"
+    "no_link_provide": "Nebyl zadán žádný odkaz",
+    "timeout": "Časový limit (dáno / odstraněno)"
 }

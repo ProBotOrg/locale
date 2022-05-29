@@ -413,6 +413,10 @@
 	"role_remove_user_description": ".کاربری که نقش از آن حذف شود",
 	"role_pick_type_description": "یک نوع را انتخاب کنید",
 	"setcolor_role_description": ".یک نقش برای تنظیم رنگ آن",
+	"timeout_user_description": "کاربری که باید تایم‌اوت شود",
+	"timeout_time_description": "مدت زمان تایم‌اوت",
+	"timeout_reason_description": "دلیل تایم‌اوت",
+	"untimeout_user_description": "The user to untimeout",
 	"give_value": "دادن",
 	"remove_value": "حذف",
 	"all_value": "همه",
@@ -449,6 +453,8 @@
 	"untimeout_missing_permission": ":rolling_eyes: - I couldn't untimeout that user. Please check my permissions and role position.",
 	"untimeout_not_timedout": ":x: Member is not timed out.",
 	"cant_bots": ":robot: I can't take this action on bots.",
+	"timeout_description": "Timeout a user from sending messages, react or join voice channels.",
+	"untimeout_description": "Remove timeout from a user",
 	"logs_timedout": "**{0} has been timed out for {1}**.",
 	"logs_timedout_remove": "**{0}'s timeout has been ended / removed.**."
 }

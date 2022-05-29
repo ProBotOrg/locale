@@ -413,6 +413,10 @@
 	"role_remove_user_description": "المستخدم المراد ازالة الرتبة منه.",
 	"role_pick_type_description": "إختر نوع.",
 	"setcolor_role_description": "الرول المراد تعيين لونه.",
+	"timeout_user_description": "المستخدم المراد اعطائه وقت مستقطع",
+	"timeout_time_description": "مدة وقت المستقطع",
+	"timeout_reason_description": "سبب وقت المستقطع",
+	"untimeout_user_description": "المستخدم المراد ازاله الوقت المستقطع منه",
 	"give_value": "إعطاء",
 	"remove_value": "حذف",
 	"all_value": "الكل",
@@ -449,6 +453,8 @@
 	"untimeout_missing_permission": ":rolling_eyes: - لا استطع ازالة الوقت المستقطع لهذا العضو. يرجى مراجعة صلاحياتي وترتيب رتبتي.",
 	"untimeout_not_timedout": ":x: لم ينتهي الوقت المستقطع لهذا العضو.",
 	"cant_bots": ":robot: لا أستطيع اتخاذ هذا الإجراء على بوتات.",
-	"logs_timedout": "{0} تم إعطاءه وقت مستقطع ل**{1}.**",
-	"logs_timedout_remove": "**تم انتهاء / أزالة الوقت المستقطع لـ {0}.**"
+	"timeout_description": "منع المستخدم من إرسال رسائل، عمل رياكشن، او دخول للرومات صوتية",
+	"untimeout_description": "إزالة الوقت المستقطع من المستخدم.",
+	"logs_timedout": "**{0} has been timed out for {1}**.",
+	"logs_timedout_remove": "**{0} تم إنهاء / إزالة وقت مستقطع . **"
 }

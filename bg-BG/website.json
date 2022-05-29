@@ -3,8 +3,8 @@
     "clear_description": "Изтриване на съобщения от канал. ",
     "moveme_description": "Премества ви в Гласов Канал. ",
     "id_description": "Прегледайте Вашата или на някой друг Rank Card-а в дадения сървър. ",
-    "profile_description": "View your or someone else's customizable personal global profile card.",
-    "user_description": "Shows information, such as ID and join date, about yourself or a user.",
+    "profile_description": "Вижте вашата или чужда персонализирана лична карта за глобален профил.",
+    "user_description": "Показва информация, като ID и дата на присъединяване, за вас или потребител.",
     "avatar_description": "Покажи профилната снимка на друг член",
     "roles_description": "Get a list of server roles and member counts.",
     "ban_description": "Bans a member.",
@@ -27,7 +27,7 @@
     "top_description": "Покажете водещите членове чрез текст или глас.",
     "server_description": "Показва Информация за Сървъра",
     "kick_description": "Одстраняване на член",
-    "timeout_description": "Timeouts a member.",
+    "timeout_description": "Времето за изчакване на член.",
     "vkick_description": "Одстранява член от гласов канал",
     "mute_description": "Заглушава член от текстовите канали, така че той не може да пише.",
     "unmute_description": "Премахва заглушаването на член.",
@@ -705,5 +705,6 @@
     "autorole_specific_invite": "Присвояване на роля на конкретна покана!\n",
     "autorole_select_roles": "Изберете роли!",
     "autorole_invite_link": "Линк за покана.",
-    "no_link_provide": "Не е предоставен \"link\"."
+    "no_link_provide": "Не е предоставен \"link\".",
+    "timeout": "Timeout (Given / Removed)"
 }

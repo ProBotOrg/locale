@@ -705,5 +705,6 @@
     "autorole_specific_invite": "Atribuir cargo para convite específico",
     "autorole_select_roles": "SELECIONAR CARGOS",
     "autorole_invite_link": "LINK DE CONVITE",
-    "no_link_provide": "Sem link fornecido"
+    "no_link_provide": "Sem link fornecido",
+    "timeout": "Tempo limite (Dado / Removido)"
 }

@@ -413,6 +413,10 @@
 	"role_remove_user_description": "Usuario a eliminar un rol",
 	"role_pick_type_description": "Elige un tipo",
 	"setcolor_role_description": "Rol a poner color.",
+	"timeout_user_description": "El usuario a tiempo de espera",
+	"timeout_time_description": "La duración del tiempo de espera",
+	"timeout_reason_description": "La razón del tiempo de espera.",
+	"untimeout_user_description": "El usuario a untimeout",
 	"give_value": "Dar",
 	"remove_value": "Eliminar",
 	"all_value": "Todo",
@@ -448,7 +452,9 @@
 	"untimeout_cant": ":rolling_eyes: - ** No puedes quitarle el timeout a @{0}. **",
 	"untimeout_missing_permission": ":rolling_eyes: - No pude quitarle el timeout a ese usuario. Por favor, comprueba mis permisos y la posición de mi rol.",
 	"untimeout_not_timedout": ":x: El miembro no tiene tiemout.",
-	"cant_bots": ":robot: I can't take this action on bots.",
+	"cant_bots": ":robot: No puedo realizar esta acción en bots.",
+	"timeout_description": "Tiempo de espera de un usuario para enviar mensajes, reaccionar o unirse a canales de voz.",
+	"untimeout_description": "Eliminar el tiempo de espera de un usuario",
 	"logs_timedout": "**{0} has been timed out for {1}**.",
 	"logs_timedout_remove": "**{0}'s timeout has been ended / removed.**."
 }

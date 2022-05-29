@@ -705,5 +705,6 @@
     "autorole_specific_invite": "Asignar Rol a Invitación Específica",
     "autorole_select_roles": "SELECCIONAR ROLES",
     "autorole_invite_link": "LINK DE INVITACION",
-    "no_link_provide": "No se proporcionó un enlace"
+    "no_link_provide": "No se proporcionó un enlace",
+    "timeout": "Tiempo de espera (dado / eliminado)"
 }
