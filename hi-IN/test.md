@@ -1,3 +1,0 @@
-# Namaste rooka
-### Namaste
-aaaaaa
