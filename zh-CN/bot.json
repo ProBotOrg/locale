@@ -456,5 +456,5 @@
 	"timeout_description": "用户发送消息、反应或加入语音频道超时。",
 	"untimeout_description": "从用户中删除超时",
 	"logs_timedout": "**{0} has been timed out for {1}**.",
-	"logs_timedout_remove": "**{0}'s timeout has been ended / removed.**."
+	"logs_timedout_remove": "**{0}'s timeout has been ended / removed.**"
 }
