@@ -456,5 +456,5 @@
 	"timeout_description": "Hạn chế người dùng và không cho phép họ gửi tin, dùng biểu cảm và tham gia kênh voice.",
 	"untimeout_description": "Loại bỏ hạn chế cho người dùng",
 	"logs_timedout": "**{0} đã bị hạn chế vì {1}**.",
-	"logs_timedout_remove": "**Đã bỏ hạn chế cho {0} hoặc đã hết hạn hạn chế**."
+	"logs_timedout_remove": "**Đã bỏ hạn chế cho {0} hoặc đã hết hạn chế.**"
 }
