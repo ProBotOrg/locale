@@ -205,7 +205,7 @@
 	"top_voice_score": ":microphone2: نقاط الصوت",
 	"top_more": "المزيد؟",
 	"points_title": "النقاط :",
-	"points_requested": "تم طلبة بواسطة {0}",
+	"points_requested": "تم طلبه بواسطة {0}",
 	"points_only_managers": ":rolling_eyes: - يمكن لمسؤولين النقاط فقط إدارة النقاط.",
 	"points_done_reset": ":sparkles: ** تم إعادة ضبط جميع النقاط بنجاح. **",
 	"points_valid_number": ":rolling_eyes: - ** الرجاء استخدام رقم صحيح. **",
