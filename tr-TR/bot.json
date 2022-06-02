@@ -400,7 +400,7 @@
 	"temp_on_description": "geçici kanalları açın.",
 	"temp_off_description": "geçici kanalları kapatın.",
 	"temp_time_description": "Geçici kanalları silme süresi (saniye biçiminde).",
-	"temp_seconds_description": "Ses kanalını zamanlayın.",
+	"temp_seconds_description": "Ses kanalı için süre belirleyin.",
 	"temp_max_description": "Kullanıcının tek seferde oluşturabileceği geçici kanal sayısı",
 	"temp_max_number_description": "Kullanıcıların oluşturabileceği maksimum kanal sayısı, sınırsız için 0.",
 	"role_gives_description": "Bir kullanıcıya bir rol verir.",
@@ -450,11 +450,11 @@
 	"timeout_max_time": ":x: Zaman aşımı süresi 28 günden az veya 28 güne eşit olmalıdır.",
 	"untimeout_done": ":white_check_mark: **{0}'ın zaman aşımı kaldırıldı.**",
 	"untimeout_cant": ":white_check_mark: **{0}'ın zaman aşımını kaldıramazsın.**",
-	"untimeout_missing_permission": ":rolling_eyes: - Bu kullanıcının zaman aşımını kaldıramadım. Lütfen izinlerimi ve rol pozisyonumu kontrol edin.",
+	"untimeout_missing_permission": ":rolling_eyes: - Bu kullanıcıya uygulanan zaman aşımını kaldıramadım. Lütfen izinlerimi ve rol pozisyonumu kontrol edin.",
 	"untimeout_not_timedout": ":x: Üyeye zaman aşımı uygulanmamış.",
 	"cant_bots": ":robot: Bu eylemi botlarda yapamam.",
 	"timeout_description": "Bir kullanıcıyı mesaj göndermekten, mesajlara tepki eklemesinden veya ses kanallarına katılmasından zaman aşımına uğrat.",
 	"untimeout_description": "Bir kullanıcıya uygulanan zaman aşımınını kaldır",
-	"logs_timedout": "**{0} has been timed out for {1}**.",
-	"logs_timedout_remove": "**{0}'s timeout has been ended / removed.**"
+	"logs_timedout": "**{0}, {1} süresince zaman aşımına uğradı**.",
+	"logs_timedout_remove": "**{0}'ın zaman aşımı sona erdi/kaldırıldı**"
 }
