@@ -1,6 +1,5 @@
+pull_request_title: '🎉 chore(strings): new crowdin translation'
 files:
   - source: /en/*
     translation: /%locale%/%original_file_name%
     update_option: update_as_unapproved
-  - source: /en/docs/*
-    translation: /%locale%/docs/%original_file_name%
