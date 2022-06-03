@@ -706,5 +706,5 @@
     "autorole_select_roles": "역할을 선택하세요",
     "autorole_invite_link": "초대 링크",
     "no_link_provide": "초대 링크가 입력되지 않았어요",
-    "timeout": "타임아웃 (주어짐 / 해제됨)"
+    "timeout": "타임아웃이 주어지거나 해제됐을 때"
 }
