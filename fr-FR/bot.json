@@ -31,7 +31,7 @@
 	"vol_description": "Modifie / montre le volume actuel.",
 	"pause_description": "Mettre en pause le morceau en cours d'écoute.",
 	"np_description": "Montre quel morceau le bot joue actuellement.",
-	"repeat_description": "Activer/désactiver le mode de répétition.",
+	"repeat_description": "Bascule le mode de répétition.",
 	"seek_description": "Chercher à un certain endroit du morceau en cours.",
 	"restore_description": "Restaure votre sauvegarde !",
 	"credits_description": "Montre votre solde ou celui de quelqu'un d'autre.",
@@ -429,7 +429,7 @@
 	"day_value": "Jour",
 	"week_value": "Semaine",
 	"month_value": "Mois",
-	"play_song_description": "Chanson à rechercher ou le lien de la chanson youtube/ soundcloud/ spotify.",
+	"play_song_description": "Chanson à rechercher ou le lien de la chanson.",
 	"search_song_description": "Chanson à rechercher pour.",
 	"queue_page_description": "La page que vous recherchez pour.",
 	"skip_NOT_description": "Combien de pistes à sauter.",
@@ -456,5 +456,5 @@
 	"timeout_description": "Timeout a user from sending messages, react or join voice channels.",
 	"untimeout_description": "Remove timeout from a user",
 	"logs_timedout": "**{0} has been timed out for {1}**.",
-	"logs_timedout_remove": "**{0}'s timeout has been ended / removed.**."
+	"logs_timedout_remove": "**{0}'s timeout has been ended / removed.**"
 }
