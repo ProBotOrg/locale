@@ -643,7 +643,6 @@
     "billing_available_credit": "Mevcut Kredi",
     "billing_account_balance": "Bakiyeniz (${0})",
     "billing_pay_credits": "ProBot Kredileri",
-    "billing_no_balance": "Yetersiz Bakiye",
     "default": "Varsayılan",
     "billing_no_history": "Ödeme geçmişi yok",
     "billing_add_payment": "Ödeme Yöntemi Ekle",
