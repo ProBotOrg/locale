@@ -643,7 +643,6 @@
     "billing_available_credit": "उपलब्ध जमा धन",
     "billing_account_balance": "खाता शेष (${0})",
     "billing_pay_credits": "प्रोबोट क्रेडिट",
-    "billing_no_balance": "पर्याप्त संतुलन नहीं",
     "default": "चूक",
     "billing_no_history": "कोई भुगतान इतिहास नहीं",
     "billing_add_payment": "भुगतान विधि जोड़ें",
