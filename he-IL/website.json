@@ -643,7 +643,6 @@
     "billing_available_credit": "אשראי זמין",
     "billing_account_balance": "סכום כסף ({0}$)",
     "billing_pay_credits": "כרטיסי ProBot",
-    "billing_no_balance": "אין מספיק יתרה",
     "default": "ברירת המחדל",
     "billing_no_history": "אין הסטוריית תשלומים",
     "billing_add_payment": "הוסף אמצעי תשלום",
