@@ -643,7 +643,6 @@
     "billing_available_credit": "Доступний кредит",
     "billing_account_balance": "Баланс акаунту (${0})",
     "billing_pay_credits": "ProBot кредити",
-    "billing_no_balance": "Недостатньо коштів",
     "default": "За замовчуванням",
     "billing_no_history": "Відсутня історія платежів",
     "billing_add_payment": "Додати спосіб оплати",
