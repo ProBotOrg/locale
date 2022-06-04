@@ -643,7 +643,6 @@
     "billing_available_credit": "اعتبار موجود",
     "billing_account_balance": "موجودی حساب (${0})",
     "billing_pay_credits": "موجودی اعتبار پروبات",
-    "billing_no_balance": "موجودی کافی نیست",
     "default": "پیشفرض",
     "billing_no_history": "بدون سابقه پرداخت",
     "billing_add_payment": "افزودن روش پرداخت",
