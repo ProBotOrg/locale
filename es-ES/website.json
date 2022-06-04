@@ -706,5 +706,5 @@
     "autorole_select_roles": "SELECCIONAR ROLES",
     "autorole_invite_link": "LINK DE INVITACION",
     "no_link_provide": "No se proporcionó un enlace",
-    "timeout": "Tiempo de espera (dado / eliminado)"
+    "timeout": "Timeout (dado / eliminado)"
 }
