@@ -643,7 +643,6 @@
     "billing_available_credit": "사용 가능한 크레딧",
     "billing_account_balance": "계정 잔액 (${0})",
     "billing_pay_credits": "ProBot 크레딧",
-    "billing_no_balance": "계정 잔액이 부족해요",
     "default": "기본",
     "billing_no_history": "결제 내역 없음",
     "billing_add_payment": "결제 수단 추가",
