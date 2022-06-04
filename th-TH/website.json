@@ -643,7 +643,6 @@
     "billing_available_credit": "เครดิตที่ใช้ได้",
     "billing_account_balance": "ยอดคงเหลือในบัญชี (${0})",
     "billing_pay_credits": "เครดิต ProBot ",
-    "billing_no_balance": "ยอดคงเหลือไม่เพียงพอ",
     "default": "ค่าเริ่มต้น",
     "billing_no_history": "ไม่มีประวัติชำระเงิน",
     "billing_add_payment": "เพิ่มวิธีการชำระเงิน",
