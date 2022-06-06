@@ -705,5 +705,6 @@
     "autorole_select_roles": "VALITSE ROLIT",
     "autorole_invite_link": "KUTSU LINK",
     "no_link_provide": "Linkkiä ei ole annettu",
-    "timeout": "Timeout (Given / Removed)"
+    "timeout": "Timeout (Given / Removed)",
+    "premium_invite_required": "You have to invite the premium bot to get access to premium features"
 }
