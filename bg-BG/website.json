@@ -705,5 +705,6 @@
     "autorole_select_roles": "Изберете роли!",
     "autorole_invite_link": "Линк за покана.",
     "no_link_provide": "Не е предоставен \"link\".",
-    "timeout": "Timeout (Given / Removed)"
+    "timeout": "Timeout (Given / Removed)",
+    "premium_invite_required": "You have to invite the premium bot to get access to premium features"
 }
