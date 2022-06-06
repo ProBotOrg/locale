@@ -705,5 +705,6 @@
     "autorole_select_roles": "ROL SEÇ",
     "autorole_invite_link": "DAVET BAĞLANTISI",
     "no_link_provide": "Bağlantı sağlanmadı",
-    "timeout": "Zaman Aşımı (Verildi / Kaldırıldı)"
+    "timeout": "Zaman Aşımı (Verildi / Kaldırıldı)",
+    "premium_invite_required": "You have to invite the premium bot to get access to premium features"
 }

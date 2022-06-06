@@ -705,5 +705,6 @@
     "autorole_select_roles": "SELECCIONAR ROLES",
     "autorole_invite_link": "LINK DE INVITACION",
     "no_link_provide": "No se proporcionó un enlace",
-    "timeout": "Timeout (dado / eliminado)"
+    "timeout": "Timeout (dado / eliminado)",
+    "premium_invite_required": "You have to invite the premium bot to get access to premium features"
 }

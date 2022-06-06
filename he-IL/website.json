@@ -705,5 +705,6 @@
     "autorole_select_roles": "בחר תפקידים",
     "autorole_invite_link": "הקישור של ההזמנה",
     "no_link_provide": "לא צויין קישור",
-    "timeout": "פסק זמן (ניתן/הוסר)"
+    "timeout": "פסק זמן (ניתן/הוסר)",
+    "premium_invite_required": "You have to invite the premium bot to get access to premium features"
 }
