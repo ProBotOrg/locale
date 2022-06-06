@@ -705,5 +705,6 @@
     "autorole_select_roles": "เลือกบทบาท",
     "autorole_invite_link": "ลิงก์คำเชิญ",
     "no_link_provide": "หากไม่มีลิงก์",
-    "timeout": "หมดเวลา (ให้ / ลบ)"
+    "timeout": "หมดเวลา (ให้ / ลบ)",
+    "premium_invite_required": "You have to invite the premium bot to get access to premium features"
 }
