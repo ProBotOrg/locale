@@ -705,5 +705,6 @@
     "autorole_select_roles": "VYBRAT ROLE",
     "autorole_invite_link": "POZVÁNKA",
     "no_link_provide": "Nebyl zadán žádný odkaz",
-    "timeout": "Časový limit (dáno / odstraněno)"
+    "timeout": "Časový limit (dáno / odstraněno)",
+    "premium_invite_required": "You have to invite the premium bot to get access to premium features"
 }
