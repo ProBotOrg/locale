@@ -705,5 +705,6 @@
     "autorole_select_roles": "CHỌN VAI TRÒ",
     "autorole_invite_link": "LINK MỜI",
     "no_link_provide": "Chưa có link được cấp",
-    "timeout": "Hạn chế (Đã đặt / Đã hủy)"
+    "timeout": "Hạn chế (Đã đặt / Đã hủy)",
+    "premium_invite_required": "You have to invite the premium bot to get access to premium features"
 }
