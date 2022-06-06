@@ -705,5 +705,6 @@
     "autorole_select_roles": "ロールを選択",
     "autorole_invite_link": "招待リンク",
     "no_link_provide": "リンクが提供されていません",
-    "timeout": "Timeout (Given / Removed)"
+    "timeout": "Timeout (Given / Removed)",
+    "premium_invite_required": "You have to invite the premium bot to get access to premium features"
 }
