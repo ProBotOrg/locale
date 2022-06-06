@@ -705,5 +705,6 @@
     "autorole_select_roles": "ВИБЕРІТЬ РОЛІ",
     "autorole_invite_link": "ПОСИЛАННЯ НА ЗАПРОШЕННЯ",
     "no_link_provide": "Посилання відсутнє",
-    "timeout": "Відсторонення (видано / знято )"
+    "timeout": "Відсторонення (видано / знято )",
+    "premium_invite_required": "You have to invite the premium bot to get access to premium features"
 }
