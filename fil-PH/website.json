@@ -705,5 +705,6 @@
     "autorole_select_roles": "PUMILI NG MGA TUNGKULIN",
     "autorole_invite_link": "IMBITA ANG LINK",
     "no_link_provide": "Walang ibinigay na link",
-    "timeout": "Timeout (Ibinigay / Inalis)"
+    "timeout": "Timeout (Ibinigay / Inalis)",
+    "premium_invite_required": "You have to invite the premium bot to get access to premium features"
 }
