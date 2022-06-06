@@ -643,7 +643,6 @@
     "billing_available_credit": "Наличен кредит!",
     "billing_account_balance": "Account Balance (${0})",
     "billing_pay_credits": "ProBot кредити",
-    "billing_no_balance": "Недостатъчен баланс!",
     "default": "Стандартен!",
     "billing_no_history": "История на плащанията!",
     "billing_add_payment": "Add Payment Method",

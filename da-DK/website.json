@@ -643,7 +643,6 @@
     "billing_available_credit": "Tilgængelig Kredit",
     "billing_account_balance": "Konto Saldo (${0})",
     "billing_pay_credits": "ProBot Credits",
-    "billing_no_balance": "Ikke nok saldo",
     "default": "Standard",
     "billing_no_history": "Ingen betalingshistorik",
     "billing_add_payment": "Tilføj Betalingsmetode",

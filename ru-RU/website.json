@@ -643,7 +643,6 @@
     "billing_available_credit": "Доступный кредит",
     "billing_account_balance": "Баланс аккаунта (${0})",
     "billing_pay_credits": "ProBot Credits",
-    "billing_no_balance": "Недостаточно средств",
     "default": "По умолчанию",
     "billing_no_history": "Отсутствует история платежей",
     "billing_add_payment": "Добавить способ оплаты",

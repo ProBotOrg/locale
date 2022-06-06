@@ -643,7 +643,6 @@
     "billing_available_credit": "Dostępe środki",
     "billing_account_balance": "Saldo konta (${0})",
     "billing_pay_credits": "Saldo ProBot",
-    "billing_no_balance": "Brak wystarczających środków",
     "default": "Domyślne",
     "billing_no_history": "Brak historii płatności",
     "billing_add_payment": "Dodaj metodę płatności",

@@ -643,7 +643,6 @@
     "billing_available_credit": "الرصيد المتوفر",
     "billing_account_balance": "رصيد الحساب (${0})",
     "billing_pay_credits": "رصيد بروبوت",
-    "billing_no_balance": "لا يوجد رصيد كافي",
     "default": "افتراضي",
     "billing_no_history": "لا يوجد سجل دفع",
     "billing_add_payment": "إضافة طريقة الدفع",

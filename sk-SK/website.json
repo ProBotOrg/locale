@@ -643,7 +643,6 @@
     "billing_available_credit": "Dostupný kredit",
     "billing_account_balance": "\nZostatok na účte (${0})",
     "billing_pay_credits": "ProBot kredity",
-    "billing_no_balance": "Nedostatok prostriedkov",
     "default": "Predvolená",
     "billing_no_history": "História platieb",
     "billing_add_payment": "Pridajte spôsob platby",

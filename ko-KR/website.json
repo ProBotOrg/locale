@@ -643,7 +643,6 @@
     "billing_available_credit": "사용 가능한 크레딧",
     "billing_account_balance": "계정 잔액 (${0})",
     "billing_pay_credits": "ProBot 크레딧",
-    "billing_no_balance": "계정 잔액이 부족해요",
     "default": "기본",
     "billing_no_history": "결제 내역 없음",
     "billing_add_payment": "결제 수단 추가",
@@ -706,5 +705,5 @@
     "autorole_select_roles": "역할을 선택하세요",
     "autorole_invite_link": "초대 링크",
     "no_link_provide": "초대 링크가 입력되지 않았어요",
-    "timeout": "타임아웃 (주어짐 / 해제됨)"
+    "timeout": "타임아웃이 주어지거나 해제됐을 때"
 }

@@ -643,7 +643,6 @@
     "billing_available_credit": "Rendelkezésre álló kredit",
     "billing_account_balance": "Számlaegyenleg (${0})",
     "billing_pay_credits": "ProBot kreditek",
-    "billing_no_balance": "Nincs elegendő egyenleg",
     "default": "Alapértelmezett",
     "billing_no_history": "Nincs fizetési előzmény",
     "billing_add_payment": "Fizetési mód hozzáadása",

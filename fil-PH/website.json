@@ -643,7 +643,6 @@
     "billing_available_credit": "Magagamit na Credit",
     "billing_account_balance": "Balanse ng Account (${0})",
     "billing_pay_credits": "ProBot Credits\n",
-    "billing_no_balance": "Hindi sapat na balanse",
     "default": "Default",
     "billing_no_history": "Walang history ng pagbabayad",
     "billing_add_payment": "Magdagdag ng Paraan ng Pagbabayad",
