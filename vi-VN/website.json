@@ -297,7 +297,7 @@
     "index_header_big_string": "Xây dựng một server Discord chuyên nghiệp!",
     "index_why_probot": "Vì sao chọn Probot",
     "index_feature_1_title": "Tin nhắn chào mừng tuyệt nhất",
-    "index_feature_1_description": "Tin nhắn chào mừng của chúng tôi rất dễ sử dụng và có thể tùy chỉnh một cách dễ dàng.",
+    "index_feature_1_description": "Chào đón thành viên mới vào server của bạn với tính năng chào mừng dễ dùng dễ tùy chỉnh của chúng tôi",
     "index_feature_2_title": "Hệ thống chống raid",
     "index_feature_2_description": "Phát hiện hành vi có ý định tấng công và phản ứng một cách tự động với từng mức độ khác nhau",
     "index_feature_3_title": "Tự động phản hồi",
@@ -706,5 +706,5 @@
     "autorole_invite_link": "LINK MỜI",
     "no_link_provide": "Chưa có link được cấp",
     "timeout": "Hạn chế (Đã đặt / Đã hủy)",
-    "premium_invite_required": "You have to invite the premium bot to get access to premium features"
+    "premium_invite_required": "Bạn cần mời bot premium vào server để có thể dùng các tính năng premium"
 }
