@@ -146,7 +146,7 @@
 	"link_error_description": ":rolling_eyes: - **Erreur**",
 	"link_cant_find_description": ":rolling_eyes: - **Je ne peux pas trouver le salon par défault des liens**",
 	"vip_ownership_successfully_description": "** Propriété transmise avec succès **",
-	"vip_mistake_description": ":rolling_eyes: - Erreur d'orthographe.",
+	"vip_mistake_description": ":rolling_eyes: - Erreur d'orthographe, assurez-vous d'écrire `confirm`",
 	"vip_twitch_channel_description": "Précisez le lien vers une chaîne Twitch :",
 	"vip_wrong_url_description": ":rolling_eyes: - ** Mauvais lien, annulation ... **\n",
 	"vip_changing_description": "**Changement ...** (Ceci peut prendre un certain à cause des restrictions Discord ",
