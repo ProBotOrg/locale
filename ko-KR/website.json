@@ -701,7 +701,7 @@
     "daily_forbidden": "서버 접근이 거부됐어요",
     "daily_refresh_page": "페이지를 새로고침 해주세요",
     "daily_server_error": "내부 서버 오류가 발생했어요",
-    "autorole_specific_invite": "특정 초대 링크로 온 멤버에게만 역할 부여하기",
+    "autorole_specific_invite": "특정 초대 링크로 온 멤버에게 역할 부여",
     "autorole_select_roles": "역할을 선택하세요",
     "autorole_invite_link": "초대 링크",
     "no_link_provide": "초대 링크가 입력되지 않았어요",
