@@ -452,9 +452,9 @@
 	"untimeout_cant": ":rolling_eyes: - ** Não pode tirar @{0} do castigo. **",
 	"untimeout_missing_permission": ":rolling_eyes: - Não consegui remover o castigo desse membro. Por favor verifique as minhas permissões e posição de cargo.",
 	"untimeout_not_timedout": ":x: Membro não está castigado.",
-	"cant_bots": ":robot: I can't take this action on bots.",
+	"cant_bots": ":robot: Não posso fazer isso em bots.",
 	"timeout_description": "Castigue um membro de mandar mensagens, responder, reagir ou de entrar em canais de voz.",
 	"untimeout_description": "Remove castigo do membro",
-	"logs_timedout": "**{0} has been timed out for {1}**.",
+	"logs_timedout": "**{0} foi castigado por {1}**.",
 	"logs_timedout_remove": "** O castigo de {0} foi removido / terminou.**"
 }
