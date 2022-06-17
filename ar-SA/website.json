@@ -707,6 +707,6 @@
     "no_link_provide": "لا يوجد رابط",
     "timeout": "التايم اوت ( اعطاء / أزاله)",
     "premium_invite_required": "يجب عليك دعوة بوت البريميوم للحصول على مميزات البريميوم",
-    "notifications_send_channel": "Send To Channel",
-    "notifications_content": "Insert Content Here"
+    "notifications_send_channel": "إرسال للروم",
+    "notifications_content": "اكتب رسالة هنا"
 }
