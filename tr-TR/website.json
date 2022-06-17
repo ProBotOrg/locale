@@ -202,7 +202,7 @@
     "PERMISSIONS_USER": "Yönetici izinlerini kullanıcı rollerinden kaldırın",
     "REMOVE_ROLES": "Üyeyi yönetici rollerinden kaldırın",
     "PROTECTED_ROLES": "Korunmuş roller",
-    "PROTECTED_HINT": "%EVERYONE%'e otomatik rol verilmesi önerilir",
+    "PROTECTED_HINT": "{0} + otomatik rolü eklemeniz önerilir",
     "ACTION_WHEN_PROTECTED": "Korunan rol güncellenirse/silinirse gerçekleşen olay",
     "UNDO_REMOVE_ALL": "İşlemi geri alın + tüm yönetici izinlerini tüm rollerden kaldırın",
     "PROTECT_BOT_JOINED": "Bir bot sunucuya katıldığındaki eylem",
@@ -581,7 +581,7 @@
     "yearly": "YILLIK",
     "prime": "Prime",
     "premium": "Premium",
-    "enterprise": "Kurumsal",
+    "enterprise": "Enterprise",
     "prime_description_1": "BEST ",
     "prime_description_2": "Üye etkileşiminin anahtar olduğu uygun büyüklükteki sunucular için.",
     "prime_features_1": "Ses düzeyini ayarlama",
@@ -706,5 +706,5 @@
     "autorole_invite_link": "DAVET BAĞLANTISI",
     "no_link_provide": "Bağlantı sağlanmadı",
     "timeout": "Zaman Aşımı (Verildi / Kaldırıldı)",
-    "premium_invite_required": "You have to invite the premium bot to get access to premium features"
+    "premium_invite_required": "Premium özelliklere erişmek için premium botu davet etmeniz gerekir"
 }
