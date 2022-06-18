@@ -706,5 +706,7 @@
     "autorole_invite_link": "초대 링크",
     "no_link_provide": "초대 링크가 입력되지 않았어요",
     "timeout": "타임아웃이 주어지거나 해제됐을 때",
-    "premium_invite_required": "프리미엄 기능을 이용하려면 프리미엄 봇을 초대해야 해요"
+    "premium_invite_required": "프리미엄 기능을 이용하려면 프리미엄 봇을 초대해야 해요",
+    "notifications_send_channel": "Send To Channel",
+    "notifications_content": "Insert Content Here"
 }

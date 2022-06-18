@@ -706,5 +706,7 @@
     "autorole_invite_link": "UITNODIGINGSLINK",
     "no_link_provide": "Geen link meegegeven",
     "timeout": "Timeout (gegeven / verwijderd)",
-    "premium_invite_required": "Je moet de premium bot uitnodigen om toegang te krijgen tot premium functies."
+    "premium_invite_required": "Je moet de premium bot uitnodigen om toegang te krijgen tot premium functies.",
+    "notifications_send_channel": "Send To Channel",
+    "notifications_content": "Insert Content Here"
 }

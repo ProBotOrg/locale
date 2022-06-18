@@ -706,5 +706,7 @@
     "autorole_invite_link": "LINK Z ZAPROSZENIEM",
     "no_link_provide": "Nie podano linku",
     "timeout": "Timeout (Given / Removed)",
-    "premium_invite_required": "Musisz zaprosić bota premium, aby uzyskać dostęp do funkcji premium"
+    "premium_invite_required": "Musisz zaprosić bota premium, aby uzyskać dostęp do funkcji premium",
+    "notifications_send_channel": "Send To Channel",
+    "notifications_content": "Insert Content Here"
 }

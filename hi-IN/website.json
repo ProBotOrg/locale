@@ -706,5 +706,7 @@
     "autorole_invite_link": "आमंत्रित लिंक",
     "no_link_provide": "कोई लिंक प्रदान नहीं किया गया",
     "timeout": "समयबाह्य (दिया गया / हटाया गया)",
-    "premium_invite_required": "You have to invite the premium bot to get access to premium features"
+    "premium_invite_required": "You have to invite the premium bot to get access to premium features",
+    "notifications_send_channel": "Send To Channel",
+    "notifications_content": "Insert Content Here"
 }

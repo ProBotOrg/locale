@@ -706,5 +706,7 @@
     "autorole_invite_link": "LINK MỜI",
     "no_link_provide": "Chưa có link được cấp",
     "timeout": "Hạn chế (Đã đặt / Đã hủy)",
-    "premium_invite_required": "Bạn cần mời bot premium vào server để có thể dùng các tính năng premium"
+    "premium_invite_required": "Bạn cần mời bot premium vào server để có thể dùng các tính năng premium",
+    "notifications_send_channel": "Send To Channel",
+    "notifications_content": "Insert Content Here"
 }
