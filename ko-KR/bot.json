@@ -242,7 +242,7 @@
 	"temp_updated": ":white_check_mark: **기능이 업데이트됐어요.**",
 	"temp_invalid": "**잘못된 인수가 포함됐어요.**",
 	"temp_create": "임시 채널 만들기",
-	"music_no_played": "음악이 재생되고 있지 않아요!",
+	"music_no_played": "음악을 재생하지 않았어요!",
 	"music_now_playing": "**:notes: {0}에서 재생하고 있어요....**",
 	"music_no_playing": "**:frowning2: 음악이 재생되고 있지 않아요.**",
 	"music_current_queue": "**:notes: 현재 재생목록 | {0}개**",
@@ -455,6 +455,6 @@
 	"cant_bots": ":robot: 봇에게는 적용할 수 없어요.",
 	"timeout_description": "멤버를 타임아웃해서 채팅을 보내거나 반응하거나, 음성 채널에 접속할 수 없게 해요.",
 	"untimeout_description": "멤버의 타임아웃을 해제해요",
-	"logs_timedout": "**{0}님이 {1} 동안 타임아웃됐어요.**",
+	"logs_timedout": "**@{0}님이 {1} 동안 타임아웃됐어요.**",
 	"logs_timedout_remove": "**{0}님의 타임아웃이 해제됐어요.**"
 }
