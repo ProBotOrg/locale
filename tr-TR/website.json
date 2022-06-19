@@ -305,7 +305,7 @@
     "index_feature_4_title": "Otomatik Moderasyon",
     "index_feature_4_description": "ProBot'un automod sistemi kötü kullanıcı davranışlarını tespit eder ve bunlarla ilgili işlem yapar",
     "index_feature_5_title": "Çok Dilli",
-    "index_feature_5_description": "ProBot 13'ten fazla dili destekler!",
+    "index_feature_5_description": "ProBot 30'dan fazla dili destekliyor!",
     "index_feature_6_title": "99.99% Çalışma Süresi",
     "index_feature_6_description": "Kesinti süreleri konusunda endişelenmenize gerek yok, ProBot çevrimiçi!",
     "why_probot_text": "Karşılama görselleri, Derinlemesine kayıtlar, Sosyal içerikli komutlar, Müzik, Moderasyon ve daha fazlası için çok amaçlı özelleştirilebilir bir bot ...",
@@ -707,6 +707,6 @@
     "no_link_provide": "Bağlantı sağlanmadı",
     "timeout": "Zaman Aşımı (Verildi / Kaldırıldı)",
     "premium_invite_required": "Premium özelliklere erişmek için premium botu davet etmeniz gerekir",
-    "notifications_send_channel": "Send To Channel",
-    "notifications_content": "Insert Content Here"
+    "notifications_send_channel": "Kanala Gönder",
+    "notifications_content": "Buraya Metin Ekleyin"
 }
