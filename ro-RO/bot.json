@@ -1,5 +1,5 @@
 {
-	"choose_reason": "Alege un motiv",
+	"choose_reason": "Alege un motiv.",
 	"reason_cancel": "Anulează",
 	"rank_description": "Vezi cardul tău de nivel sau al altcuiva.",
 	"clear_description": "Șterge mesajele dintr-un canal. ",
@@ -173,7 +173,7 @@
 	"vip_please_specify_description": ":rolling_eyes: - **Te rog specifică**",
 	"vip_details_description": "**Numărul Premium:** {0}\n**Se termină în** {1}\n**Înregistrat pentru:** {2}",
 	"vip_ended_description": "terminat",
-	"slowmode_description": "Enable or disable slowmode on a channel.",
+	"slowmode_description": "Activează sau dezactivează modul lent pe un canal.",
 	"slowmode_time_description": "The time to set for slowmode channel.",
 	"credits_not_enough": "** :thinking: | {0}, banii tăi nu sunt suficienți pentru acel lucru!**",
 	"credits_trans_done": "**:moneybag: | {0} a transferat `${1}` către {2} **",
