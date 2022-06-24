@@ -707,6 +707,6 @@
     "no_link_provide": "Nenhum link atribuido",
     "timeout": "Castifo (Dado / Removido)",
     "premium_invite_required": "Tem que convidar o bot premium para obter acesso a funcionalidades premium",
-    "notifications_send_channel": "Send To Channel",
-    "notifications_content": "Insert Content Here"
+    "notifications_send_channel": "Enviar para o canal",
+    "notifications_content": "Insira aqui o conteúdo"
 }
