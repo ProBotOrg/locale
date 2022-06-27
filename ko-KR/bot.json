@@ -277,7 +277,7 @@
 	"reset_confirm_text": ":thinking: **채팅 경험치를 초기화하시겠어요?**",
 	"reset_confirm_voice": ":thinking: **음성 경험치를 초기화하시겠어요?**",
 	"reset_confirm_invites": ":thinking: **모든 초대 수를 초기화하시겠어요?**",
-	"logs_responsible_moderator": "**관리자:**",
+	"logs_responsible_moderator": "**행위자:**",
 	"logs_reason": "**사유:**",
 	"logs_channel_created": ":house: **채널이 만들어졌어요: `{0}`**",
 	"logs_channel_deleted": ":house: **채널이 삭제됐어요: `{0}`**",
