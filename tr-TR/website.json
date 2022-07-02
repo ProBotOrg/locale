@@ -706,7 +706,7 @@
     "autorole_invite_link": "DAVET BAĞLANTISI",
     "no_link_provide": "Bağlantı sağlanmadı",
     "timeout": "Zaman Aşımı (Verildi / Kaldırıldı)",
-    "premium_invite_required": "Premium özelliklere erişmek için premium botu davet etmeniz gerekir",
+    "premium_invite_required": "Premium özelliklere erişmek için premium botu sunucunuza davet etmeniz gerekir",
     "notifications_send_channel": "Kanala Gönder",
     "notifications_content": "Buraya Metin Ekleyin"
 }
