@@ -533,7 +533,7 @@
     "mod_want_delete_action": "정말로 행동을 삭제할까요?",
     "mod_edit_action_id": "ID로 행동 수정하기:",
     "mod_action_reason": "행동 사유:",
-    "mod_punishment_end": "처벌이 끝나는 시각:",
+    "mod_punishment_end": "처벌 종료 시각:",
     "mod_this_will_deleted": "해당 행동은 삭제될 거에요",
     "mod_delete_date_action": "과거의 날짜",
     "rr_toggle": "전환",
