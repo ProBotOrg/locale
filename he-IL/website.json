@@ -707,6 +707,6 @@
     "no_link_provide": "לא צויין קישור",
     "timeout": "פסק זמן (ניתן/הוסר)",
     "premium_invite_required": "אתה חייב להזמין את רובוט הפרימיום כדי לקבל גישה לתכונות הפרימיום",
-    "notifications_send_channel": "Send To Channel",
-    "notifications_content": "Insert Content Here"
+    "notifications_send_channel": "שלח לערוץ",
+    "notifications_content": "הכנס תוכן כאן"
 }

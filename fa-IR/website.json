@@ -707,6 +707,6 @@
     "no_link_provide": "هیچ لینکی ارائه نشده",
     "timeout": "تایم‌اوت (اعمال شدن / برداشته شدن)",
     "premium_invite_required": "شما بایستی بات پریمیوم را به یک سرور دعوت کنید تا بتوانید از ویژگی های پریمیوم آن استفاده کنید",
-    "notifications_send_channel": "Send To Channel",
-    "notifications_content": "Insert Content Here"
+    "notifications_send_channel": "ارسال به کانال",
+    "notifications_content": "محتوای مورد نظر اینجا درج شود"
 }

@@ -707,6 +707,6 @@
     "no_link_provide": "No se proporcionó un enlace",
     "timeout": "Timeout (dado / eliminado)",
     "premium_invite_required": "Tienes que invitar al bot premium para tener acceso a las funciones premium",
-    "notifications_send_channel": "Send To Channel",
-    "notifications_content": "Insert Content Here"
+    "notifications_send_channel": "Enviar al canal",
+    "notifications_content": "Inserte el contenido aquí"
 }
