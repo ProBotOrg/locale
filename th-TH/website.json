@@ -20,7 +20,7 @@
     "OVERVIEW": "ภาพรวม",
     "credits": "เครดิต",
     "level": "เลเวล",
-    "rank": "ระดับ",
+    "rank": "อันดับ",
     "reputation": "ชื่อเสียง",
     "AUTO_RESPONDER": "ตัวตอบกลับอัตโนมัติ",
     "WELCOMER": "การต้อนรับ",
@@ -548,7 +548,7 @@
     "rr_select_embed": "เลือก Embed ที่ต้องการ",
     "rr_create_embed": "สร้าง Embed!",
     "rr_select_message": "เลือก​ข้อ​ความ",
-    "daily": "รับรางวัลประจำวันของคุณ",
+    "daily": "รับรางวัลประจำวัน",
     "cant_use_multi_devices": "คุณไม่สามารถใช้อุปกรณ์หลายเครื่องควบคุมพร้อมกันได้",
     "claimed_last_daily": "คุณได้รับเครดิต {0} ในวันสุดท้ายของทุกวัน",
     "daily_get_upto": "คุณสามารถรับได้สูงสุด {0} ทุกวัน",
@@ -589,7 +589,7 @@
     "prime_features_3": "ผู้กระทำในบันทึก",
     "prime_features_4": "ปลดแบนทุกคน",
     "prime_features_5": "การป้องกันขั้นสูง",
-    "premium_description_1": "สำหรับเซิร์ฟเวอร์ขนาดใหญ่ที่ ProBot Anti-Raid มีความสำคัญ",
+    "premium_description_1": "สำหรับเซิร์ฟเวอร์ขนาดใหญ่ที่ป้องกันการจู่โจมด้วย ProBot Anti-Raid ",
     "premium_features_1": "คุณสมบัติทั้งหมดของพรีเมียมระดับ 1",
     "premium_features_2": "เปลี่ยนชื่อผู้ใช้และอวาตาร์",
     "premium_features_3": "การป้องกันการจู่โจมขั้นสูง",
@@ -707,6 +707,6 @@
     "no_link_provide": "หากไม่มีลิงก์",
     "timeout": "หมดเวลา (ให้ / ลบ)",
     "premium_invite_required": "คุณต้องเชิญบอทพรีเมียม เพื่อรับฟีเจอร์พิเศษ!",
-    "notifications_send_channel": "Send To Channel",
-    "notifications_content": "Insert Content Here"
+    "notifications_send_channel": "ส่งไปที่ช่อง",
+    "notifications_content": "ใส่เนื้อหาที่นี่"
 }

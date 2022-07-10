@@ -290,7 +290,7 @@
 	"logs_welcome_age": "⏲** Kontoalder:**",
 	"logs_joined_server": "**{0} tilsluttede sig serveren.**",
 	"logs_member_kicked": ":wave: **{0} sparket.**",
-	"logs_member_left": "**{0} tilbage.**",
+	"logs_member_left": "**{0} forlod serveren.**",
 	"logs_member_updated": "\n:writing_hand: **{0} er blevet opdateret.**\n",
 	"logs_old_nickname": "**Old Nickname :**",
 	"logs_new_nickname": "**New Nickname :**",
