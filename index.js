@@ -1,7 +1,7 @@
 const languages = {};
 languages.ar = require('./ar-SA/website.json');
 languages.bg = require('./bg-BG/website.json');
-languages.ckb = require('./ckb-IR/website.json')
+languages["ku-IQ"] = require('./ckb-IR/website.json')
 languages.cs = require('./cs-CZ/website.json');
 languages.da = require('./da-DK/website.json');
 languages.de = require('./de-DE/website.json');
@@ -68,7 +68,7 @@ module.exports.webLangs = {
   sv: { name: "Svenska", flag: "sv" },
   th: { name: "Thai", flag: "th" },
   vi: { name: "Tiếng Việt", flag: "vn" },
-  ckb: { name: "سۆرانی", flag: "kur" },
+  "ku-IQ": { name: "سۆرانی", flag: "kur" },
   da: { name: "Dansk", flag: "dk" },
   fa: { name: "فارسی", flag: "ir" },
   fi: { name: "Suo̯mi", flag: "fi" },
