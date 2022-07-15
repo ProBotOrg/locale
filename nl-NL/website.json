@@ -694,7 +694,7 @@
     "billing_no_valid_code_number": "Voer een geldig creditkart nummer in",
     "billing_no_expiry_date": "Voer een geldige verloopdatum in.",
     "billing_no_valid_cvv": "Geef een geldige cvv code op.",
-    "tip": "TIP",
+    "tip": "Dutch\n\n",
     "protection_limits_tip": "Als iemand meer dan één rol heeft, zijn de hgoere limiten van toepassingen. @eveyone is de standaardrol voor iedereen.",
     "select_create": "Create '{0}'",
     "daily_wrong_token": "Verkeerde token",
