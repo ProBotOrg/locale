@@ -643,7 +643,6 @@
     "billing_available_credit": "Crédito Disponível",
     "billing_account_balance": "Saldo da Conta (${0})",
     "billing_pay_credits": "Créditos do ProBot",
-    "billing_no_balance": "Saldo insuficiente",
     "default": "Padrão",
     "billing_no_history": "Sem histórico de pagamento",
     "billing_add_payment": "Adicionar forma de pagamento",
@@ -706,5 +705,8 @@
     "autorole_select_roles": "SELECIONAR CARGOS",
     "autorole_invite_link": "LINK DE CONVITE",
     "no_link_provide": "Sem link fornecido",
-    "timeout": "Tempo limite (Dado / Removido)"
+    "timeout": "Tempo limite (Dado / Removido)",
+    "premium_invite_required": "Você tem que convidar o bot premium para obter acesso a recursos premium",
+    "notifications_send_channel": "Enviar para um canal",
+    "notifications_content": "Insira o conteúdo aqui"
 }

@@ -27,7 +27,7 @@
     "top_description": "پیشاندانی ئەندامە سەرەکان بە دەق یان دەنگ ",
     "server_description": "پێشاندانی زانیاری سەبارەت دەربارەی سێرڤەر",
     "kick_description": "دەرکردنی ئەندامێک",
-    "timeout_description": "Timeouts a member.",
+    "timeout_description": "Kick",
     "vkick_description": "ئەندامێک دەردەکە لە ڤۆیس",
     "mute_description": "میوت کردنی ئەندامێک لە چەناڵی نووسینەکان تاوەکو نەتوانن نامە بنێرن",
     "unmute_description": "لابردنی میوت لەسەر ئەندامەکە",
@@ -643,7 +643,6 @@
     "billing_available_credit": "Available Credit",
     "billing_account_balance": "Account Balance (${0})",
     "billing_pay_credits": "ProBot Credits",
-    "billing_no_balance": "Not enough balance",
     "default": "Default",
     "billing_no_history": "No payment history",
     "billing_add_payment": "Add Payment Method",
@@ -706,5 +705,8 @@
     "autorole_select_roles": "SELECT ROLES",
     "autorole_invite_link": "INVITE LINK",
     "no_link_provide": "No link provided",
-    "timeout": "Timeout (Given / Removed)"
+    "timeout": "Timeout (Given / Removed)",
+    "premium_invite_required": "You have to invite the premium bot to get access to premium features",
+    "notifications_send_channel": "Send To Channel",
+    "notifications_content": "Insert Content Here"
 }

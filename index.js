@@ -1,7 +1,7 @@
 const languages = {};
 languages.ar = require('./ar-SA/website.json');
 languages.bg = require('./bg-BG/website.json');
-languages.ckb = require('./ckb-IR/website.json')
+languages["ku-IQ"] = require('./ckb-IR/website.json')
 languages.cs = require('./cs-CZ/website.json');
 languages.da = require('./da-DK/website.json');
 languages.de = require('./de-DE/website.json');
@@ -21,7 +21,7 @@ languages.lt = require('./lt-LT/website.json');
 languages.nl = require('./nl-NL/website.json');
 languages.no = require('./no-NO/website.json');
 languages.pl = require('./pl-PL/website.json');
-languages["pt_BR"] = require('./pt-BR/website.json');
+languages["pt-BR"] = require('./pt-BR/website.json');
 languages.pt = require('./pt-PT/website.json');
 languages.ro = require('./ro-RO/website.json');
 languages.ru = require('./ru-RU/website.json');
@@ -33,7 +33,7 @@ languages.tr = require('./tr-TR/website.json');
 languages.uk = require('./uk-UA/website.json');
 languages.vi = require('./vi-VN/website.json');
 languages.zh = require('./zh-CN/website.json');
-languages["zh_TW"] = require('./zh-TW/website.json');
+languages["zh-TW"] = require('./zh-TW/website.json');
 
 module.exports = languages;
 module.exports.webLangs = {
@@ -43,7 +43,7 @@ module.exports.webLangs = {
   en: { name: "English", flag: "us" },
   tr: { name: "Türkçe", flag: "tr" },
   zh: { name: "中文", flag: "cn" },
-  zh_TW: { name: "繁體中文", flag: "tw" },
+  "zh-TW": { name: "繁體中文", flag: "tw" },
   ru: { name: "Pусский", flag: "ru" },
   uk: { name: "Український", flag: "ua" },
   fr: { name: "Français", flag: "fr" },
@@ -63,12 +63,12 @@ module.exports.webLangs = {
   lt: { name: "Italian", flag: "lt" },
   no: { name: "Norsk", flag: "no" },
   pl: { name: "Polski", flag: "pl" },
-  pt_BR: { name: "Português do Brasil", flag: "br" },
+  "pt-BR": { name: "Português do Brasil", flag: "br" },
   sr: { name: "Српска", flag: "sr" },
   sv: { name: "Svenska", flag: "sv" },
   th: { name: "Thai", flag: "th" },
   vi: { name: "Tiếng Việt", flag: "vn" },
-  ckb: { name: "سۆرانی", flag: "kur" },
+  "ku-IQ": { name: "سۆرانی", flag: "kur" },
   da: { name: "Dansk", flag: "dk" },
   fa: { name: "فارسی", flag: "ir" },
   fi: { name: "Suo̯mi", flag: "fi" },

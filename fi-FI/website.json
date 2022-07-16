@@ -643,7 +643,6 @@
     "billing_available_credit": "Käytettävissä Oleva Luotto",
     "billing_account_balance": "Tilin saldo (${0})",
     "billing_pay_credits": "ProBotin Luotto",
-    "billing_no_balance": "Ei tarpeeksi saldo",
     "default": "Oletus",
     "billing_no_history": "Ei maksuhistoriaa",
     "billing_add_payment": "Lisää Maksutapa",
@@ -706,5 +705,8 @@
     "autorole_select_roles": "VALITSE ROLIT",
     "autorole_invite_link": "KUTSU LINK",
     "no_link_provide": "Linkkiä ei ole annettu",
-    "timeout": "Timeout (Given / Removed)"
+    "timeout": "Timeout (Given / Removed)",
+    "premium_invite_required": "You have to invite the premium bot to get access to premium features",
+    "notifications_send_channel": "Send To Channel",
+    "notifications_content": "Insert Content Here"
 }

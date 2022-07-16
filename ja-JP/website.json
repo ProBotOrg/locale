@@ -643,7 +643,6 @@
     "billing_available_credit": "利用可能なクレジット",
     "billing_account_balance": "アカウントの残高：${0}",
     "billing_pay_credits": "ProBot クレジット",
-    "billing_no_balance": "残高が足りません",
     "default": "デフォルト",
     "billing_no_history": "お支払い履歴がありません",
     "billing_add_payment": "お支払い方法を追加",
@@ -706,5 +705,8 @@
     "autorole_select_roles": "ロールを選択",
     "autorole_invite_link": "招待リンク",
     "no_link_provide": "リンクが提供されていません",
-    "timeout": "Timeout (Given / Removed)"
+    "timeout": "Timeout (Given / Removed)",
+    "premium_invite_required": "You have to invite the premium bot to get access to premium features",
+    "notifications_send_channel": "Send To Channel",
+    "notifications_content": "Insert Content Here"
 }

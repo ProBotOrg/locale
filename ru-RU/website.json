@@ -643,7 +643,6 @@
     "billing_available_credit": "Доступный кредит",
     "billing_account_balance": "Баланс аккаунта (${0})",
     "billing_pay_credits": "ProBot Credits",
-    "billing_no_balance": "Недостаточно средств",
     "default": "По умолчанию",
     "billing_no_history": "Отсутствует история платежей",
     "billing_add_payment": "Добавить способ оплаты",
@@ -706,5 +705,8 @@
     "autorole_select_roles": "SELECT ROLES",
     "autorole_invite_link": "INVITE LINK",
     "no_link_provide": "No link provided",
-    "timeout": "Timeout (Given / Removed)"
+    "timeout": "Timeout (Given / Removed)",
+    "premium_invite_required": "You have to invite the premium bot to get access to premium features",
+    "notifications_send_channel": "Send To Channel",
+    "notifications_content": "Insert Content Here"
 }
