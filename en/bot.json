@@ -458,5 +458,5 @@
 	"logs_timedout": "**{0} has been timed out for {1}**.",
 	"logs_timedout_remove": "**{0}'s timeout has been ended / removed.**",
 	"search_placeholder": "Choose a song.",
-	"select_someone_else": "This select belong to someone else."
+	"select_someone_else": ":x: This select belong to someone else."
 }
