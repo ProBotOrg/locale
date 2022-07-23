@@ -29,7 +29,7 @@
     "kick_description": "एक मेम्बर को किक करता है ",
     "timeout_description": "मेंबर को टाइमउट करता है ",
     "vkick_description": "वॉयस चैनल से मेम्बर को किक करता है ",
-    "mute_description": "paath chainalon se ek sadasy ko myoot karen taaki ve taip na kar saken.",
+    "mute_description": "यूजर को म्यूट करता है ताकि वो टाइप ना कर सके ",
     "unmute_description": "सदस्य को अनम्यूट करता है।",
     "vmute_description": "aavaaj chainalon se ek sadasy ko myoot karen to ve bol nahin sakata.",
     "unvmute_description": "aavaaj chainalon se sadasy ko anamyoot karata hai.",
