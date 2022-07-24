@@ -1,7 +1,7 @@
 {
 	"choose_reason": "사유를 선택하세요",
 	"reason_cancel": "취소",
-	"rank_description": "본인이나 다른 사람의 등급 카드를 확인해요.",
+	"rank_description": "나 또는 다른 사용자의 랭크 카드를 표시합니다.",
 	"clear_description": "채널의 메시지를 청소해요.",
 	"moveme_description": "다른 음성 채널로 이동해요.",
 	"profile_description": "본인 또는 멤버의 맞춤 글로벌 프로필 카드를 보여줘요.",
@@ -72,7 +72,7 @@
 	"examples": "예시:",
 	"Invites": "초대하기",
 	"lock_must_has_manage_channels": ":rolling_eyes: **이 작업을 수행하려면 `채널 관리하기` 권한이 필요해요.**",
-	"channel_has_been_locked": "**:lock: {0} 채널이 잠금됐어요.**",
+	"channel_has_been_locked": "**:lock: {0} 채널이 잠겼어요.**",
 	"channel_has_been_unlocked": "**:unlock: {0} 채널이 잠금 해제됐어요.**",
 	"lock_description": "@everyone이 특정 채널에서 메시지를 보낼 수 없도록 해요.",
 	"unlock_description": "@everyone이 특정 채널에서 메시지를 보낼 수 있도록 해요.",
