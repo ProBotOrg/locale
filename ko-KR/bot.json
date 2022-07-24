@@ -1,8 +1,8 @@
 {
 	"choose_reason": "사유를 선택하세요",
 	"reason_cancel": "취소",
-	"rank_description": "나 또는 다른 사용자의 랭크 카드를 표시합니다.",
-	"clear_description": "채널의 메세지를 정리합니다.",
+	"rank_description": "본인이나 다른 사람의 등급 카드를 확인해요.",
+	"clear_description": "채널의 메시지를 청소해요.",
 	"moveme_description": "다른 음성 채널로 이동해요.",
 	"profile_description": "본인 또는 멤버의 맞춤 글로벌 프로필 카드를 보여줘요.",
 	"top_description": "서버 점수 또는 글로벌 경험치가 가장 높은 멤버를 알려줘요.",
