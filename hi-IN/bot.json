@@ -438,7 +438,7 @@
 	"resume_description": "Vartamaan mein ruke hue geet ko phir se shuro karata hai.",
 	"setlang_description": "Aapake pasandeeda bhaasha ko bot par set karata hai.",
 	"setlang_language_description": "Mein badalane ke lie bhaasha.",
-	"unmute_description": "सदस्य को अनम्यूट करता है।\nsadasy ko anamyoot karata hai.",
+	"unmute_description": "सदस्य को अनम्यूट करता है।",
 	"muted_both": ":white_check_mark: **@{0} muted text aur voice donon se! :zipper_mouth:**",
 	"slowmode_set": "This channel slowmode has been set to {0}.",
 	"slowmode_should": "Time should be less than or equal to {0}.",
