@@ -131,7 +131,7 @@
 	"unban_members_being_description": ":white_check_mark: **{0}** membri sono stati sbannati",
 	"unban_unbanned_description": ":white_check_mark: **{0} sbannato**",
 	"unban_cant_find_description": ":rolling_eyes: - **non riesco a trovare {0} nella lista dei Ban**",
-	"vmute_main_description": "{0}, DA: {1}#{2}, RAGIONE: {3} TERMINA IL: {4}",
+	"vmute_main_description": "{0}, Da: {1}#{2}, MOTIVO: {3} TERMINA IL: {4}",
 	"vmute_muted_from_description": ":white_check_mark: **@{0} mutato dal canale vocale! :zipper_mouth:**",
 	"vmute_couldnt_mute_description": ":rolling_eyes: - Non riesco a mutare questo utente. Perfavore controlla i miei permessi",
 	"vmute_cant_description": ":rolling_eyes: - **non puoi usare il comabdo vmute @{0}**",
