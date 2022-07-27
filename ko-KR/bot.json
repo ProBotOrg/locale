@@ -131,7 +131,7 @@
 	"unban_members_being_description": ":white_check_mark: 멤버 **{0}**명이 차단 해제됐어요.",
 	"unban_unbanned_description": ":white_check_mark: **{0}님이 차단 해제됐어요!**",
 	"unban_cant_find_description": ":rolling_eyes: - **{0}님을 차단 목록에서 찾지 못했어요**",
-	"vmute_main_description": "{0}, 관리자: {1}, 사유: {3}, 종료 시간: {4}",
+	"vmute_main_description": "관리자: {0}#{1}, 사유: {2}, 종료 시간: {3}",
 	"vmute_muted_from_description": ":white_check_mark: **@{0}님이 음성 채널에서 음소거됐어요! :zipper_mouth:**",
 	"vmute_couldnt_mute_description": ":rolling_eyes: - 이 멤버를 음소거하지 못했어요. 봇의 권한을 확인해주세요.",
 	"vmute_cant_description": ":rolling_eyes: - **@{0}님을 음소거할 수 없어요.**",
