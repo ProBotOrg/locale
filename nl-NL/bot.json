@@ -131,7 +131,7 @@
 	"unban_members_being_description": ":white_check_mark: **{0}** de verbanning van deze leden worden ongedaan gemaakt.",
 	"unban_unbanned_description": ":white_check_mark: **Verbanning van {0} is opgeheven",
 	"unban_cant_find_description": ":rolling_eyes: - **Ik kan deze persoon {0} niet vinden in de banlijst**",
-	"vmute_main_description": "{0}, Door: {1}#{2}, REDEN: {3} EINDIGT OP: {4}",
+	"vmute_main_description": "Door: {0}#{1}, REDEN: {2}, EINDIGT OP: {3}",
 	"vmute_muted_from_description": ":white_check_mark: **@{0} kan niet spreken in stem! :zipper_mouth:**",
 	"vmute_couldnt_mute_description": ":rolling_eyes: - Ik kan die gebruiker niet dempen.  Controleer mijn toestemmingen.",
 	"vmute_cant_description": ":rolling_eyes: - ** U kunt @{0} niet dempen. **",
