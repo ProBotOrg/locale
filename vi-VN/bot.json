@@ -131,7 +131,7 @@
 	"unban_members_being_description": ":white_check_mark: Đã gỡ cấm **{0}** thành viên.",
 	"unban_unbanned_description": ":white_check_mark: **Đã gỡ cấm {0}!**",
 	"unban_cant_find_description": ":rolling_eyes: - **Tôi không tìm thấy {0} trong danh sách cấm.**",
-	"vmute_main_description": "{0}, bởi {1}#{2}, Lý do: {3} Kết thúc vào lúc: {4}",
+	"vmute_main_description": "Bởi: {0}#{1}, Lý do: {2} Kết thúc vào lúc: {3}",
 	"vmute_muted_from_description": ":white_check_mark: **@{0} đã bị tắt tiếng! :zipper_mouth:**",
 	"vmute_couldnt_mute_description": ":rolling_eyes: - Tôi không thể tắt tiếng người dùng đó. Vui lòng xem lại quyền của tôi.",
 	"vmute_cant_description": ":rolling_eyes: - **Bạn không thể tắt tiếng @{0} được.**",
