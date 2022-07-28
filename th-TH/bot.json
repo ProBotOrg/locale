@@ -456,5 +456,7 @@
 	"timeout_description": "หมดเวลาผู้ใช้จากการส่งข้อความ โต้ตอบ หรือเข้าร่วมช่องเสียง",
 	"untimeout_description": "ลบการหมดเวลาออกจากผู้ใช้",
 	"logs_timedout": "**{0} ถูกหมดเวลาเป็นเวลา {1}**",
-	"logs_timedout_remove": "**ระยะหมดเวลาของ **{0} สิ้นสุด / ถูกนำออก**"
+	"logs_timedout_remove": "**ระยะหมดเวลาของ **{0} สิ้นสุด / ถูกนำออก**",
+	"shuffle_description": "Shuffle the current queue!",
+	"shuffle_done": ":twisted_rightwards_arrows: **Shuffled the queue.**"
 }
