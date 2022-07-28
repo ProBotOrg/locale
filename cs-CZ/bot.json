@@ -456,5 +456,7 @@
 	"timeout_description": "Pozastavit uživatele od posílání zpráv, reagování nebo připojování se do hlasových kanálů.",
 	"untimeout_description": "Odebrat uživateli pauzu",
 	"logs_timedout": "**Uživatel {0} dostal pauzu na {1}**.",
-	"logs_timedout_remove": "**Pauza uživatele {0} skončila/byla zrušena.**"
+	"logs_timedout_remove": "**Pauza uživatele {0} skončila/byla zrušena.**",
+	"shuffle_description": "Shuffle the current queue!",
+	"shuffle_done": ":twisted_rightwards_arrows: **Shuffled the queue.**"
 }
