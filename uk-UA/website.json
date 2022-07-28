@@ -708,5 +708,7 @@
     "timeout": "Відсторонення (видано / знято )",
     "premium_invite_required": "Вам потрібно запросити преміум-бота для отримання доступу преміум-функцій",
     "notifications_send_channel": "Надіслати в канал",
-    "notifications_content": "Вставити вміст тут"
+    "notifications_content": "Вставити вміст тут",
+    "shuffle_description": "Shuffle the current queue!",
+    "resume_description": "Resumes the currently paused track."
 }
