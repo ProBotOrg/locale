@@ -456,5 +456,7 @@
 	"timeout_description": "Timeout een gebruiker voor het verzenden, reageren op berichten of deelnemen aan een spraakkanelen.",
 	"untimeout_description": "Timeout van een gebruiker verwijderen.",
 	"logs_timedout": "**{0} heeft een timeout gekregen voor {1}**.",
-	"logs_timedout_remove": "**{0}'s timeout is afgelopen / verwijderd.**"
+	"logs_timedout_remove": "**{0}'s timeout is afgelopen / verwijderd.**",
+	"shuffle_description": "Shuffle the current queue!",
+	"shuffle_done": ":twisted_rightwards_arrows: **Shuffled the queue.**"
 }
