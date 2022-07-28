@@ -708,5 +708,7 @@
     "timeout": "Aislamiento (dado / eliminado)",
     "premium_invite_required": "Tienes que invitar al bot premium para tener acceso a las funciones premium",
     "notifications_send_channel": "Enviar al canal",
-    "notifications_content": "Inserte el contenido aquí"
+    "notifications_content": "Inserte el contenido aquí",
+    "shuffle_description": "Shuffle the current queue!",
+    "resume_description": "Resumes the currently paused track."
 }
