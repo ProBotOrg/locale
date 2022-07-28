@@ -131,7 +131,7 @@
 	"unban_members_being_description": ":white_check_mark: جاري فك حظر **{0}** عضو ...",
 	"unban_unbanned_description": ":white_check_mark: تم فك حظر **{0}**.",
 	"unban_cant_find_description": "** لا يمكنني العثور على {0} في قائمة الحظر ** :rolling_eyes: ",
-	"vmute_main_description": "{0}، بواسطة: {1}#{2} ، سبب: {3} ينتهي في: {4}",
+	"vmute_main_description": "بواسطة: {0}#{1}، السبب: {2}، ينتهي في: {3}",
 	"vmute_muted_from_description": ":white_check_mark: **تم إسكات {0} من الرومات الصوتية!** :zipper_mouth:",
 	"vmute_couldnt_mute_description": ":rolling_eyes: - لم أستطع إسكات هذا المستخدم. يرجى التحقق من صلاحياتي.",
 	"vmute_cant_description": "**انت لا تستطيع إسكات {0}.** :rolling_eyes:",
@@ -456,5 +456,7 @@
 	"timeout_description": "منع المستخدم من إرسال رسائل، عمل رياكشن، او دخول للرومات صوتية",
 	"untimeout_description": "إزالة الوقت المستقطع من المستخدم.",
 	"logs_timedout": "{0} تم إعطاء وقت مستقطع ل**{1}.**",
-	"logs_timedout_remove": "**{0} تم إنهاء / إزالة وقت مستقطع.**"
+	"logs_timedout_remove": "**{0} تم إنهاء / إزالة وقت مستقطع.**",
+	"shuffle_description": "Shuffle the current queue!",
+	"shuffle_done": ":twisted_rightwards_arrows: **Shuffled the queue.**"
 }
