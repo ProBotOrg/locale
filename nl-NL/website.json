@@ -708,5 +708,7 @@
     "timeout": "Timeout (gegeven / verwijderd)",
     "premium_invite_required": "Je moet de premium bot uitnodigen om toegang te krijgen tot premium functies.",
     "notifications_send_channel": "Verzend naar kanaal",
-    "notifications_content": "Inhoud hier invoegen"
+    "notifications_content": "Inhoud hier invoegen",
+    "shuffle_description": "Shuffle the current queue!",
+    "resume_description": "Resumes the currently paused track."
 }
