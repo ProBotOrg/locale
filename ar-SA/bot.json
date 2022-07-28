@@ -457,6 +457,6 @@
 	"untimeout_description": "إزالة الوقت المستقطع من المستخدم.",
 	"logs_timedout": "{0} تم إعطاء وقت مستقطع ل**{1}.**",
 	"logs_timedout_remove": "**{0} تم إنهاء / إزالة وقت مستقطع.**",
-	"shuffle_description": "Shuffle the current queue!",
-	"shuffle_done": ":twisted_rightwards_arrows: **Shuffled the queue.**"
+	"shuffle_description": "خلط قائمة الانتظار الحالية.",
+	"shuffle_done": ":twisted_rightwards_arrows: **تم خلط قائمة الانتظار.**"
 }
