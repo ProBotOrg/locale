@@ -57,6 +57,7 @@
         "usage_slowmode": "{0}\n{0} (time)\n{0} off",
         "usage_timeout": "{0} [user]\n{0} [user] (time)\n{0} [user] (reason)",
         "usage_untimeout": "{0} [user]",
+        "usage_shuffle": "{0}",
         "examples_rank": "{0}\n{0} {1}",
         "examples_clear": "{0} 1000\n{0} bots 10\n{0} {1} 10",
         "examples_moveme": "{0} general\n{0} {1}",
@@ -114,7 +115,8 @@
         "examples_resume": "{0}",
         "examples_slowmode": "{0}\n{0} 1\n{0} 1h\n{0} off",
         "examples_timeout": "{0} {1}\n{0} {1} 1h\n{0} {1} Spamming",
-        "examples_untimeout": "{0} {1}\n{0} 157605500488384512"
+        "examples_untimeout": "{0} {1}\n{0} 157605500488384512",
+        "examples_shuffle": "{0}"
     },
     "website":{
         "usage_removewarn": "{0} [warnID]\n{0} [user]\n{0} all",
@@ -163,6 +165,7 @@
         "usage_slowmode": "{0}\n{0} (time)\n{0} off",
         "usage_timeout": "{0} [user]\n{0} [user] (time)\n{0} [user] (reason)",
         "usage_untimeout": "{0} [user]",
+        "usage_shuffle": "{0}",
         "examples_clear": "{0}\n{0} 1000\n{0} bots 10\n{0} @Dramex 10",
         "examples_moveme": "{0} general\n{0} @Dramex",
         "examples_id": "{0} @Dramex",
@@ -208,6 +211,7 @@
         "examples_resume": "{0}",
         "examples_slowmode": "{0}\n{0} 1\n{0} 1h\n{0} off",
         "examples_timeout": "{0} @Fnr\n{0} @Fnr 1h\n{0} @Fnr Spamming",
-        "examples_untimeout": "{0} @Dramex\n{0} 157605500488384512"
+        "examples_untimeout": "{0} @Dramex\n{0} 157605500488384512",
+        "examples_shuffle": "{0}"
     }
 }
