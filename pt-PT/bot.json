@@ -456,5 +456,7 @@
 	"timeout_description": "Castigue um membro de mandar mensagens, responder, reagir ou de entrar em canais de voz.",
 	"untimeout_description": "Remove castigo do membro",
 	"logs_timedout": "**{0} foi castigado por {1}**.",
-	"logs_timedout_remove": "** O castigo de {0} foi removido / terminou.**"
+	"logs_timedout_remove": "** O castigo de {0} foi removido / terminou.**",
+	"shuffle_description": "Shuffle the current queue!",
+	"shuffle_done": ":twisted_rightwards_arrows: **Shuffled the queue.**"
 }
