@@ -709,6 +709,6 @@
     "premium_invite_required": "يجب عليك دعوة بوت البريميوم للحصول على مميزات البريميوم",
     "notifications_send_channel": "إرسال للروم",
     "notifications_content": "اكتب رسالة هنا",
-    "shuffle_description": "Shuffle the current queue!",
-    "resume_description": "Resumes the currently paused track."
+    "shuffle_description": "خلط قائمة الانتظار الحالية.",
+    "resume_description": "إستئناف الموسيقى الذي تمت إيقافها."
 }
