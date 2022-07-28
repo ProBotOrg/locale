@@ -456,5 +456,7 @@
 	"timeout_description": "Dema bikarhênerek ji şandina peyaman, reaksiyonê an tevlê kanalên dengî biqede.",
 	"untimeout_description": "Wextê ji bikarhênerek rakin",
 	"logs_timedout": "Kick",
-	"logs_timedout_remove": "{0}"
+	"logs_timedout_remove": "{0}",
+	"shuffle_description": "Shuffle the current queue!",
+	"shuffle_done": ":twisted_rightwards_arrows: **Shuffled the queue.**"
 }
