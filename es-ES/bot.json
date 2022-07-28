@@ -456,5 +456,7 @@
 	"timeout_description": "Aislamiento, impedir que un usuario envíe mensajes, reaccione o se una a los canales de voz.",
 	"untimeout_description": "Eliminar el aislamiento de un usuario",
 	"logs_timedout": "**{0} se ha agotado el aislamiento para {1}**.",
-	"logs_timedout_remove": "** El aislamiento de{0}ha terminado / eliminado.**"
+	"logs_timedout_remove": "** El aislamiento de{0}ha terminado / eliminado.**",
+	"shuffle_description": "Shuffle the current queue!",
+	"shuffle_done": ":twisted_rightwards_arrows: **Shuffled the queue.**"
 }
