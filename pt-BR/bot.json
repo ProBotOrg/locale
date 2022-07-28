@@ -456,5 +456,7 @@
 	"timeout_description": "Tempo limite de um usuário para enviar mensagens, reagir ou ingressar em canais de voz.",
 	"untimeout_description": "Remover o tempo limite de um usuário",
 	"logs_timedout": "**{0} o castigo foi definido para {1}**.",
-	"logs_timedout_remove": "**{0} o castigo foi terminado / removido.**"
+	"logs_timedout_remove": "**{0} o castigo foi terminado / removido.**",
+	"shuffle_description": "Shuffle the current queue!",
+	"shuffle_done": ":twisted_rightwards_arrows: **Shuffled the queue.**"
 }
