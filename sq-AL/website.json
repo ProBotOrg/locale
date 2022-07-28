@@ -708,5 +708,7 @@
     "timeout": "Kohëzgjatja (e dhënë / e hequr)",
     "premium_invite_required": "Duhet të ftoni robotin premium për të pasur akses në veçoritë premium",
     "notifications_send_channel": "Dërgo në kanal",
-    "notifications_content": "Insert Content Here\n"
+    "notifications_content": "Insert Content Here\n",
+    "shuffle_description": "Shuffle the current queue!",
+    "resume_description": "Resumes the currently paused track."
 }
