@@ -456,5 +456,7 @@
 	"timeout_description": "Sperren Sie einen Benutzer aus, um Nachrichten zu senden, zu reagieren oder Sprachkanälen beizutreten.",
 	"untimeout_description": "Timeout von einem Benutzer entfernen",
 	"logs_timedout": "**{0} has been timed out for {1}**.",
-	"logs_timedout_remove": "**{0}'s timeout has been ended / removed.**"
+	"logs_timedout_remove": "**{0}'s timeout has been ended / removed.**",
+	"shuffle_description": "Shuffle the current queue!",
+	"shuffle_done": ":twisted_rightwards_arrows: **Shuffled the queue.**"
 }
