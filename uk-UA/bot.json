@@ -456,5 +456,7 @@
 	"timeout_description": "Тайм-аут, щоб користувач міг надсилати повідомлення, реагувати або приєднуватися до голосових каналів.",
 	"untimeout_description": "Видалити тайм-аут у користувача",
 	"logs_timedout": "**{0} відсторонений за {1}**.",
-	"logs_timedout_remove": "**{0} відсторонення закінчено / знято.**"
+	"logs_timedout_remove": "**{0} відсторонення закінчено / знято.**",
+	"shuffle_description": "Shuffle the current queue!",
+	"shuffle_done": ":twisted_rightwards_arrows: **Shuffled the queue.**"
 }
