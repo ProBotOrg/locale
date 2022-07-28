@@ -23,7 +23,7 @@
     "rank": "등급",
     "reputation": "평판",
     "AUTO_RESPONDER": "자동 응답",
-    "WELCOMER": "환영 인사",
+    "WELCOMER": "멤버 인사",
     "top_description": "채팅이나 음성 채널의 상위 멤버를 보여줘요.",
     "server_description": "서버에 대한 정보를 알려줘요.",
     "kick_description": "멤버를 추방해요.",
