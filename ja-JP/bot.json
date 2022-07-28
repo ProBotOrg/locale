@@ -456,5 +456,7 @@
 	"timeout_description": "ユーザーがメッセージの送信、反応、ボイスチャンネルへの参加をタイムアウトします。",
 	"untimeout_description": "ユーザーのタイムアウトを解除",
 	"logs_timedout": "**{0} さんが{1}タイムアウトされました。**",
-	"logs_timedout_remove": "**{0} さんのタイムアウトが終了/解除されました。**"
+	"logs_timedout_remove": "**{0} さんのタイムアウトが終了/解除されました。**",
+	"shuffle_description": "Shuffle the current queue!",
+	"shuffle_done": ":twisted_rightwards_arrows: **Shuffled the queue.**"
 }
