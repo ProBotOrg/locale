@@ -456,5 +456,7 @@
 	"timeout_description": "Timeout en bruger fra at sende beskeder, reagere eller deltage talekanaler.",
 	"untimeout_description": "Fjern timeout fra en bruger",
 	"logs_timedout": "**{0} er blevet timet ud for {1}**.",
-	"logs_timedout_remove": "**{0}'s timeout er afsluttet / fjernet.**"
+	"logs_timedout_remove": "**{0}'s timeout er afsluttet / fjernet.**",
+	"shuffle_description": "Shuffle the current queue!",
+	"shuffle_done": ":twisted_rightwards_arrows: **Shuffled the queue.**"
 }
