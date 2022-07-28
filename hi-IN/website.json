@@ -708,5 +708,7 @@
     "timeout": "समयबाह्य (दिया गया / हटाया गया)",
     "premium_invite_required": "आपको प्रीमियम फीचर के लिए प्रीमियम बोट को इन्वाइट करना होगा ",
     "notifications_send_channel": "चैनल को भेजे ",
-    "notifications_content": "इधर कंटेंट डाले "
+    "notifications_content": "इधर कंटेंट डाले ",
+    "shuffle_description": "Shuffle the current queue!",
+    "resume_description": "Resumes the currently paused track."
 }
