@@ -456,5 +456,7 @@
 	"timeout_description": "멤버를 타임아웃해서 채팅을 보내거나 반응하거나, 음성 채널에 접속할 수 없게 해요.",
 	"untimeout_description": "멤버의 타임아웃을 해제해요",
 	"logs_timedout": "**{0}님이 {1} 동안 타임아웃됐어요.**",
-	"logs_timedout_remove": "**{0}님의 타임아웃이 해제됐어요.**"
+	"logs_timedout_remove": "**{0}님의 타임아웃이 해제됐어요.**",
+	"shuffle_description": "Shuffle the current queue!",
+	"shuffle_done": ":twisted_rightwards_arrows: **Shuffled the queue.**"
 }
