@@ -710,5 +710,5 @@
     "notifications_send_channel": "채널로 보내기",
     "notifications_content": "내용을 입력하세요",
     "shuffle_description": "Shuffle the current queue!",
-    "resume_description": "Resumes the currently paused track."
+    "resume_description": "일시정지된 트랙을 다시 재생해요."
 }
