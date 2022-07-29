@@ -1,6 +1,6 @@
 {
     "rank_description": "Bekijk de rang van u of die van iemand anders op de server.",
-    "clear_description": "Reinigt berichten van een kanaal.",
+    "clear_description": "Verwijderd berichten van een kanaal.",
     "moveme_description": "Verplaatst je naar een spraakkanaal.",
     "id_description": "Bekijk de rang van u of die van iemand anders op de server.",
     "profile_description": "Bekijk persoonlijke globale profielkaart van iemand anders of van jou.",
@@ -9,7 +9,7 @@
     "roles_description": "Krijg een lijst met server rollen en leden aantal.",
     "ban_description": "Verban een lid",
     "unban_description": "Verbanning opheffen van een lid",
-    "blacklisted_call_dramex": "Uw account is geblokkeerd voor verdachte activiteit, neem contact op met @Dramex voor meer informatie",
+    "blacklisted_call_dramex": "Je account staat op de zwarte lijst vanwege verdachte activiteiten, neem contact op met @Dramex voor meer informatie",
     "blacklisted_title": "Je account is geblokkeerd voor verdachte activiteit, los de captcha op om door te gaan",
     "blacklisted_note": "Dit is een eenmalig ticket, verspil het niet.",
     "aliases": "Aliassen:",
@@ -238,7 +238,7 @@
     "TODAY_JOINS_LEFTS": "Leden zijn de laatste 24 uur lid/links toegevoegd/verlaten",
     "ONLINE_MEMBERS": "Online Leden",
     "TOTAL_MEMBERS": "Totaal aantal leden",
-    "JOINS_LEAVES": "Verbindingen / Bladeren",
+    "JOINS_LEAVES": "Verbind / Verlaat",
     "MESSAGE_STATS": "Aantal berichten (excl. Bots)",
     "BOT_GIVEN_A_ROLE": "Actie wanneer bot een administratieve rol heeft gegeven aan een administratieve functie",
     "USE_COMMA": "Gebruik een komma om ze te scheiden.",
@@ -286,7 +286,7 @@
     "EDIT_COMMAND_SETTINGS": "INSTELLINGEN {0} BIJWERKEN",
     "commands": "Opdrachten",
     "support": "Ondersteuning",
-    "discord_bot_commands": "Discord bot commandos",
+    "discord_bot_commands": "Discord Bot Commando's",
     "search_for_command": "Zoeken naar de opdracht ",
     "all": "Alles",
     "General": "Algemeen",
@@ -709,6 +709,6 @@
     "premium_invite_required": "Je moet de premium bot uitnodigen om toegang te krijgen tot premium functies.",
     "notifications_send_channel": "Verzend naar kanaal",
     "notifications_content": "Inhoud hier invoegen",
-    "shuffle_description": "Shuffle the current queue!",
-    "resume_description": "Resumes the currently paused track."
+    "shuffle_description": "Laat de huidige wachtrij zien.",
+    "resume_description": "Hervat het momenteel gepauzeerde nummer."
 }
