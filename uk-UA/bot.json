@@ -457,6 +457,6 @@
 	"untimeout_description": "Видалити тайм-аут у користувача",
 	"logs_timedout": "**{0} відсторонений за {1}**.",
 	"logs_timedout_remove": "**{0} відсторонення закінчено / знято.**",
-	"shuffle_description": "Shuffle the current queue!",
-	"shuffle_done": ":twisted_rightwards_arrows: **Shuffled the queue.**"
+	"shuffle_description": "Перемішати поточну чергу!",
+	"shuffle_done": ":twisted_rightwards_arrows: **Черга перемішана. **"
 }
