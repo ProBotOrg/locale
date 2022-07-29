@@ -709,6 +709,6 @@
     "premium_invite_required": "Bạn cần mời bot premium vào server để có thể dùng các tính năng premium",
     "notifications_send_channel": "Gửi đến một kênh",
     "notifications_content": "Thêm nội dung ở đây",
-    "shuffle_description": "Shuffle the current queue!",
-    "resume_description": "Resumes the currently paused track."
+    "shuffle_description": "Xáo hàng đợi hiện tại!",
+    "resume_description": "Tiếp tục bài hát đang tạm ngừng."
 }
