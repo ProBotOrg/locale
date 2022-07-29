@@ -2,10 +2,10 @@
 	"choose_reason": "Kies een reden",
 	"reason_cancel": "Annuleer",
 	"rank_description": "Bekijk de rang van u of die van iemand anders op de server.",
-	"clear_description": "Reinigt berichten van een kanaal.",
+	"clear_description": "Verwijderd berichten van een kanaal.",
 	"moveme_description": "Verplaatst u naar een spraakkanaal.",
 	"profile_description": "Bekijk persoonlijke globale profielkaart van iemand anders of van jou.",
-	"top_description": "Toon leden met de hoogste server score of globale XP.",
+	"top_description": "Geeft de meeste actieve deelnemers op de server weer",
 	"user_description": "Toont info zoals, ID, join datum van jezelf of een ander lid.",
 	"avatar_description": "Krijg de avatar van een gebruiker.",
 	"server_description": "Toont informatie over de server.",
@@ -457,6 +457,6 @@
 	"untimeout_description": "Timeout van een gebruiker verwijderen.",
 	"logs_timedout": "**{0} heeft een timeout gekregen voor {1}**.",
 	"logs_timedout_remove": "**{0}'s timeout is afgelopen / verwijderd.**",
-	"shuffle_description": "Shuffle the current queue!",
-	"shuffle_done": ":twisted_rightwards_arrows: **Shuffled the queue.**"
+	"shuffle_description": "Laat de huidige wachtrij zien.",
+	"shuffle_done": ":twisted_rightwards_arrows: **De wachtrij is gehusseld.**"
 }
