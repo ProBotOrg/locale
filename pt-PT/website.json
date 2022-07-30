@@ -12,7 +12,7 @@
     "blacklisted_call_dramex": "Conta bloqueada devido a atividades suspeitas, por favor contacte @Dramex para mais detalhes",
     "blacklisted_title": "A sua conta foi bloqueada devido a atividades suspeitas, por favor resolva o captcha para continuar",
     "blacklisted_note": "Este bilhete é de um uso só, não o desperdice.",
-    "aliases": "Pseudônimos",
+    "aliases": "Pseudônimos:",
     "examples": "Exemplos:",
     "24/7_description": "Ativa/desativa o modo 24/7. Isto faz com que o bot não saia do canal de voz até que o pares.",
     "MODULE_SETTINGS": "CONFIGURAÇÕES DO MÓDULO",
