@@ -709,6 +709,6 @@
     "premium_invite_required": "Tem que convidar o bot premium para obter acesso a funcionalidades premium",
     "notifications_send_channel": "Enviar para o canal",
     "notifications_content": "Insira aqui o conteúdo",
-    "shuffle_description": "Shuffle the current queue!",
-    "resume_description": "Resumes the currently paused track."
+    "shuffle_description": "Misture a fila atual!",
+    "resume_description": "Continua a faixa atualmente em pausa."
 }
