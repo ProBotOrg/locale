@@ -369,7 +369,7 @@
 	"points_set_description": "Setează punctele la o sumă specifică.",
 	"points_reset_description": "Resetează punctele tuturor membrilor sau ale unui utilizator specific.",
 	"points_reset_user_description": "Utilizator pentru a reseta puncte.",
-	"points_list_description": "Show all members points.",
+	"points_list_description": "Arată punctele tuturor membrilor.",
 	"points_list_filter_description": "Role to filter points for.",
 	"move_user_description": "The user to move.",
 	"move_channel_description": "Channel to move the user to.",
