@@ -208,7 +208,7 @@
 	"points_requested": "Pedido por {0}",
 	"points_only_managers": ":rolling_eyes: - Apenas gerentes dos pontos podem gerir os pontos.",
 	"points_done_reset": ":sparkles: **Todos os pontos foram redefinidos com sucesso.**",
-	"points_valid_number": ":rolling_eyes: - **Por favor, use um número válido.**",
+	"points_valid_number": ":rolling_eyes: - **Por favor use um número válido.**",
 	"points_target_user": ":sparkles:  pontos de **{0}** é **{1}**",
 	"points_new": ":sparkles:  a nova pontuação de **{0}** é **{1}**.",
 	"move_not_in_voice": ":rolling_eyes: — **É necessário estar num canal de voz! **",
@@ -457,6 +457,6 @@
 	"untimeout_description": "Remove castigo do membro",
 	"logs_timedout": "**{0} foi castigado por {1}**.",
 	"logs_timedout_remove": "** O castigo de {0} foi removido / terminou.**",
-	"shuffle_description": "Shuffle the current queue!",
-	"shuffle_done": ":twisted_rightwards_arrows: **Shuffled the queue.**"
+	"shuffle_description": "Misture a fila atual!",
+	"shuffle_done": ":twisted_rightwards_arrows: ** Ordem das faixas misturadas.**"
 }
