@@ -174,7 +174,7 @@
 	"vip_details_description": "**Numărul Premium:** {0}\n**Se termină în** {1}\n**Înregistrat pentru:** {2}",
 	"vip_ended_description": "terminat",
 	"slowmode_description": "Activează sau dezactivează modul lent pe un canal.",
-	"slowmode_time_description": "The time to set for slowmode channel.",
+	"slowmode_time_description": "Timpul de setare pentru canalul lent.",
 	"credits_not_enough": "** :thinking: | {0}, banii tăi nu sunt suficienți pentru acel lucru!**",
 	"credits_trans_done": "**:moneybag: | {0} a transferat `${1}` către {2} **",
 	"credits_receipt": ":atm:  |  Raport transfer ```Ai primit ${0} de la {1} (ID: {2})```",
