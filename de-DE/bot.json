@@ -115,7 +115,7 @@
 	"setcolor_hex_description": ":rolling_eyes: - Hex Farbcode länge muss 6 oder 3 stellig sein",
 	"setcolor_done_description": ":white_check_mark: **  Die Farbe von {0} wurde erfolgreich geändert.**",
 	"setcolor_permission_need_description": ":rolling_eyes: ** ProBot hat keine Berechtigung für diese Rolle **",
-	"warn_cant_description": ":rolling_eyes: - ** Du kannst @{0}nicht warnen. **",
+	"warn_cant_description": ":rolling_eyes: - ** Du kannst @{0} nicht warnen. **",
 	"warn_select_description": "**Wähle einen Grund:**",
 	"warn_specify_description": ":rolling_eyes: - **Bitte geben Sie einen Grund an.**",
 	"warn_been_removed_description": ":white_check_mark: **{0} Warnungen wurden entfernt.**",
