@@ -99,7 +99,7 @@
 	"ban_from_server_description": ":white_check_mark: **{0} забанено на сервері! :airplane:**",
 	"ban_cant_description": ":rolling_eyes: - ** Ви не можете заблокувати @{0}. **",
 	"ban_missing_permission_description": ":rolling_eyes: - Я не можу заблокувати цього користувача. Перевірте права доступу та позицію ролі.",
-	"clear_cooldown_description": "**{0}**, Остигни (**{1}** вийшов)",
+	"clear_cooldown_description": "**{0}**, Відпочинь (ще **{1}** )",
 	"clear_cant_description": ":rolling_eyes: - Я не можу очистити цей канал. Будь ласка, перевірте мої права доступу.",
 	"clear_message_has": "{0} повідомлення було видалено.",
 	"clear_messages_have": "{0} повідомлень було видалено.",
