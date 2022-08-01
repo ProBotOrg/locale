@@ -78,7 +78,7 @@
 	"unlock_description": "Verwijder de @everyone blokkade, in een specifiek kanaal.",
 	"requested_by_embed": "Aangevraagd door {0}#{1}",
 	"cant_mute_user": ":rolling_eyes: - ** Je kan @{0}niet dempen. **",
-	"cant_find_member": ":rolling_eyes: - **Ik kan dit lid niet vinden**",
+	"cant_find_member": ":rolling_eyes: - **Ik kan deze gebruiker niet vinden**",
 	"mute_user_muted": ":white_check_mark: **@{0} gedempt van het verzenden van tekst! :zipper_mouth:**",
 	"daily_credits_refreshes_description": "**:rolling_eyes: →  {0}, je dagelijkse credits verversen over {1}. **",
 	"daily_not_have_rank_description": ":robot:  **|  {0}**, bots hebben geen ranks!",
