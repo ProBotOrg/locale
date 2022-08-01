@@ -131,7 +131,7 @@
 	"unban_members_being_description": ":white_check_mark: ** {0} ** учасники були розблоковані",
 	"unban_unbanned_description": ":white_check_mark: ** {0} розблокований! **",
 	"unban_cant_find_description": ":rolling_eyes: - ** Я не можу знайти {0} в чорному списку **",
-	"vmute_main_description": "{0}, Ким: {1} # {2}, ПРИЧИНА: {3} ТЕРМІН ДІЇ: {4}",
+	"vmute_main_description": "Ким: {0}#{1} ПРИЧИНА: {2} ТЕРМІН ДІЇ: {3}",
 	"vmute_muted_from_description": ":white_check_mark: ** У @{0} був відключений мікрофон! :zipper_mouth:**",
 	"vmute_couldnt_mute_description": ":rolling_eyes: - Я не можу відключити цього користувача. Будь ласка перевір мої права доступу і дозволу.",
 	"vmute_cant_description": ":rolling_eyes: - ** Ви не можете відключити користувача @{0}. **",
