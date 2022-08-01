@@ -710,5 +710,5 @@
     "notifications_send_channel": "Надіслати в канал",
     "notifications_content": "Вставити вміст тут",
     "shuffle_description": "Перемішати поточну чергу!",
-    "resume_description": "Resumes the currently paused track."
+    "resume_description": "Відновлює відтворення призупиненого треку."
 }
