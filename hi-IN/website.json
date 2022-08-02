@@ -31,8 +31,8 @@
     "vkick_description": "वॉयस चैनल से मेम्बर को किक करता है ",
     "mute_description": "यूजर को म्यूट करता है ताकि वो टाइप ना कर सके ",
     "unmute_description": "सदस्य को अनम्यूट करता है।",
-    "vmute_description": "aavaaj chainalon se ek sadasy ko myoot karen to ve bol nahin sakata.",
-    "unvmute_description": "aavaaj chainalon se sadasy ko anamyoot karata hai.",
+    "vmute_description": "वौइस् चैनल से मेंबर को म्यूट करता है ताकि वो बात ना कर पाए ",
+    "unvmute_description": "वौइस् चैनल्स से मेंबर को उनम्यूट करता है ",
     "untimeout_description": "किसी सदस्य से टाइमआउट निकालता है।",
     "move_description": "kisee sadasy ko vois chainal mein le jaata hai.",
     "role_description": "सदस्य के रोल्स संपादित करें",
@@ -710,5 +710,5 @@
     "notifications_send_channel": "चैनल को भेजे ",
     "notifications_content": "इधर कंटेंट डाले ",
     "shuffle_description": "Shuffle the current queue!",
-    "resume_description": "Resumes the currently paused track."
+    "resume_description": "अभी चल रहे गाने को रोक देता है "
 }
