@@ -235,7 +235,7 @@
 	"server_others": ":earth_africa: Anderen",
 	"server_others_value": "**Regio:** {0}\n**Verificatieniveau :** {1}",
 	"server_roles": ":closed_lock_with_key:  rollen ({0})",
-	"server_roles_value": "Om een lijst met alle rollen te bekijken, gebruik **#roles**",
+	"server_roles_value": "Om een lijst met alle rollen te bekijken, gebruik **/roles**",
 	"temp_activated": ":white_check_mark: **De functie is succesvol geactiveerd**",
 	"temp_need_enabled": ":rolling_eyes: - **Tijdelijke kanalen moeten ingeschakeld zijn om deze functie te gebruiken, dat kan je doen door `#temp on`**",
 	"temp_disabled": ":white_check_mark: **De functie is succesvol uitgeschakeld**",
