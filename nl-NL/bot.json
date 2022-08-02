@@ -245,7 +245,7 @@
 	"music_no_played": "Er wordt geen muziek afgespeeld!",
 	"music_now_playing": "**:notes: Speelt nu in {0}....**",
 	"music_no_playing": "**:frowning2: Geen muziek afspelen**",
-	"music_current_queue": "**:notes: Huidige wachtrij/wachtrij {0} berichten**",
+	"music_current_queue": "**:notes: Huidige wachtrij {0} nummers**",
 	"music_added_ProQueue": ":notes: **{0}** Toegevoegd aan **ProQueue** (`{1}`)!",
 	"music_must_listening": ":no_entry_sign: Je moet luisteren in **{0}** om dat te gebruiken!",
 	"music_join_voice": ":no_entry_sign: Je moet een spraakkanaal openen om dat te gebruiken!",
