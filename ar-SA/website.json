@@ -710,5 +710,6 @@
     "notifications_send_channel": "إرسال للروم",
     "notifications_content": "اكتب رسالة هنا",
     "shuffle_description": "خلط قائمة الانتظار الحالية.",
-    "resume_description": "إستئناف الموسيقى الذي تمت إيقافها."
+    "resume_description": "إستئناف الموسيقى الذي تمت إيقافها.",
+    "protection_bots_warning": "These limits might not apply to bots due to how they work, be careful from inviting unknown bots."
 }
