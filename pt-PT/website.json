@@ -710,5 +710,6 @@
     "notifications_send_channel": "Enviar para o canal",
     "notifications_content": "Insira aqui o conteúdo",
     "shuffle_description": "Misture a fila atual!",
-    "resume_description": "Continua a faixa atualmente em pausa."
+    "resume_description": "Continua a faixa atualmente em pausa.",
+    "protection_bots_warning": "These limits might not apply to bots due to how they work, be careful from inviting unknown bots."
 }
