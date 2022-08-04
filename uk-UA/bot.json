@@ -457,6 +457,9 @@
 	"untimeout_description": "Видалити тайм-аут у користувача",
 	"logs_timedout": "**{0} відсторонений за {1}**.",
 	"logs_timedout_remove": "**{0} відсторонення закінчено / знято.**",
+	"leveling_title": "You got a new reward 🥳",
 	"shuffle_description": "Перемішати поточну чергу!",
-	"shuffle_done": ":twisted_rightwards_arrows: **Черга перемішана. **"
+	"shuffle_done": ":twisted_rightwards_arrows: **Черга перемішана. **",
+	"search_placeholder": "Choose a song.",
+	"select_someone_else": ":x: This select belong to someone else."
 }
