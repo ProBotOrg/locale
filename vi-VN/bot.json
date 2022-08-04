@@ -457,6 +457,9 @@
 	"untimeout_description": "Loại bỏ hạn chế cho người dùng",
 	"logs_timedout": "**Đã đặt hạn chế cho {0} trong {1}.**",
 	"logs_timedout_remove": "**Đã bỏ hạn chế cho {0} hoặc đã hết hạn chế.**",
+	"leveling_title": "You got a new reward 🥳",
 	"shuffle_description": "Xáo hàng đợi hiện tại!",
-	"shuffle_done": ":twisted_rightwards_arrows: **Đã xáo trộn hàng đợi.**"
+	"shuffle_done": ":twisted_rightwards_arrows: **Đã xáo trộn hàng đợi.**",
+	"search_placeholder": "Choose a song.",
+	"select_someone_else": ":x: This select belong to someone else."
 }
