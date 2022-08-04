@@ -710,5 +710,6 @@
     "notifications_send_channel": "Gửi đến một kênh",
     "notifications_content": "Thêm nội dung ở đây",
     "shuffle_description": "Xáo hàng đợi hiện tại!",
-    "resume_description": "Tiếp tục bài hát đang tạm ngừng."
+    "resume_description": "Tiếp tục bài hát đang tạm ngừng.",
+    "protection_bots_warning": "These limits might not apply to bots due to how they work, be careful from inviting unknown bots."
 }
