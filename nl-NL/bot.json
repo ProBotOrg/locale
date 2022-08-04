@@ -457,6 +457,9 @@
 	"untimeout_description": "Timeout van een gebruiker verwijderen.",
 	"logs_timedout": "**{0} heeft een timeout gekregen voor {1}**.",
 	"logs_timedout_remove": "**{0}'s timeout is afgelopen / verwijderd.**",
+	"leveling_title": "You got a new reward 🥳",
 	"shuffle_description": "Laat de huidige wachtrij zien.",
-	"shuffle_done": ":twisted_rightwards_arrows: **De wachtrij is gehusseld.**"
+	"shuffle_done": ":twisted_rightwards_arrows: **De wachtrij is gehusseld.**",
+	"search_placeholder": "Choose a song.",
+	"select_someone_else": ":x: This select belong to someone else."
 }
