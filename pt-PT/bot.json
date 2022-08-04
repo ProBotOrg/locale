@@ -457,6 +457,9 @@
 	"untimeout_description": "Remove castigo do membro",
 	"logs_timedout": "**{0} foi castigado por {1}**.",
 	"logs_timedout_remove": "** O castigo de {0} foi removido / terminou.**",
+	"leveling_title": "You got a new reward 🥳",
 	"shuffle_description": "Misture a fila atual!",
-	"shuffle_done": ":twisted_rightwards_arrows: ** Ordem das faixas misturadas.**"
+	"shuffle_done": ":twisted_rightwards_arrows: ** Ordem das faixas misturadas.**",
+	"search_placeholder": "Choose a song.",
+	"select_someone_else": ":x: This select belong to someone else."
 }
