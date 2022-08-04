@@ -457,6 +457,7 @@
 	"untimeout_description": "Remove timeout from a user",
 	"logs_timedout": "**{0} has been timed out for {1}**.",
 	"logs_timedout_remove": "**{0}'s timeout has been ended / removed.**",
+	"leveling_title": "You got a new reward 🥳",
 	"shuffle_description": "Shuffle the current queue!",
 	"shuffle_done": ":twisted_rightwards_arrows: **Shuffled the queue.**",
 	"search_placeholder": "Choose a song.",
