@@ -711,5 +711,5 @@
     "notifications_content": "اكتب رسالة هنا",
     "shuffle_description": "خلط قائمة الانتظار الحالية.",
     "resume_description": "إستئناف الموسيقى الذي تمت إيقافها.",
-    "protection_bots_warning": "محمد"
+    "protection_bots_warning": "قد لا تنطبق هذه الحدود على البوت بسبب كيفية عملها، كن حذراً من دعوة بوت غير معروف."
 }
