@@ -259,7 +259,7 @@
 	"music_Resumed": ":notes: Resumed **{0}**.",
 	"music_must_be": ":no_entry_sign: There must be music playing to use that!",
 	"music_player_paused": ":bulb: The player is already paused! Use `/resume` to unpause!",
-	"music_paused": ":notes: Paused **{0}**. Type `/play` to unpause!",
+	"music_paused": ":notes: Paused **{0}**. Type `/resume` to unpause!",
 	"music_player_stopped": ":notes: The player has stopped and the queue has been cleared.",
 	"music_example_seek": ":rolling_eyes: - Example `/seek 2:12`",
 	"music_song_not_long": ":rolling_eyes: - The song isn't that long.",

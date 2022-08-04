@@ -259,7 +259,7 @@
 	"music_Resumed": ":notes: Đã quay lại **{0}**.",
 	"music_must_be": ":no_entry_sign: Phải có nhạc đang chơi để có thể dùng lệnh đó!",
 	"music_player_paused": ":bulb: Đã tạm ngừng! Dùng `/play` để tiếp tục phát!",
-	"music_paused": ":notes: Đã tạm ngừng **{0}**. Dùng `/play` để tiếp tục!",
+	"music_paused": ":notes: Đã tạm ngừng **{0}**. Dùng `/resume` để tiếp tục!",
 	"music_player_stopped": ":notes: Đã ngừng phát nhạc và dọn sạch hàng đợi.",
 	"music_example_seek": ":rolling_eyes: - Ví dụ: `/seek 2:12`",
 	"music_song_not_long": ":rolling_eyes: - Bài hát không dài đến vậy.",

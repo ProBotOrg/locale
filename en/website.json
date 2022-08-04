@@ -290,7 +290,7 @@
     "search_for_command": "Search for command 🔍",
     "all": "All",
     "General": "General",
-    "soical": "Social",
+    "leveling": "Leveling",
     "info": "Info",
     "usage": "Usage:",
     "probot": "ProBot",
@@ -717,4 +717,7 @@
     "commands_moderation_description": "Power up moderation with these cool commands!",
     "commands_music_description": "Enjoy high-quality music with more than 10+ commands to control your BEATS!",
     "commands_premium_description": "Control your custom bot with these special commands!"
+    "shuffle_description": "Shuffle the current queue!",
+    "resume_description": "Resumes the currently paused track.",
+    "protection_bots_warning" : "These limits might not apply to bots due to how they work, be careful from inviting unknown bots."
 }
