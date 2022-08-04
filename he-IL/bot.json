@@ -456,5 +456,10 @@
 	"timeout_description": "הבאת פסק זמן למשתמש מונעת ממנו מלשלוח הודעות, הוספת ריאקשנים או כניסה לחדרי קול.",
 	"untimeout_description": "מסיר פסק זמן ממשתמש ",
 	"logs_timedout": "** המשתמש {0} קיבל פסק זמן מכיוון ש{1}**.",
-	"logs_timedout_remove": "**פסק הזמן למשתמש {0} הוסר או נגמר**."
+	"logs_timedout_remove": "**פסק הזמן למשתמש {0} הוסר או נגמר**.",
+	"leveling_title": "You got a new reward 🥳",
+	"shuffle_description": "Shuffle the current queue!",
+	"shuffle_done": ":twisted_rightwards_arrows: **Shuffled the queue.**",
+	"search_placeholder": "Choose a song.",
+	"select_someone_else": ":x: This select belong to someone else."
 }

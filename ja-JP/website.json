@@ -708,5 +708,8 @@
     "timeout": "タイムアウト（付与/解除）",
     "premium_invite_required": "プレミアム機能を利用するにはプレミアムbotをサーバーへ招待する必要があります。",
     "notifications_send_channel": "チャンネルへ送信",
-    "notifications_content": "ここにコンテンツを挿入"
+    "notifications_content": "ここにコンテンツを挿入",
+    "shuffle_description": "Shuffle the current queue!",
+    "resume_description": "Resumes the currently paused track.",
+    "protection_bots_warning": "These limits might not apply to bots due to how they work, be careful from inviting unknown bots."
 }

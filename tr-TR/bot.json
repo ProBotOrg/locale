@@ -456,5 +456,10 @@
 	"timeout_description": "Bir kullanıcıyı mesaj göndermekten, mesajlara tepki eklemesinden veya ses kanallarına katılmasından zaman aşımına uğrat.",
 	"untimeout_description": "Bir kullanıcıya uygulanan zaman aşımınını kaldır",
 	"logs_timedout": "**{0}, {1} süresince zaman aşımına uğradı**.",
-	"logs_timedout_remove": "**{0}'ın zaman aşımı sona erdi/kaldırıldı**"
+	"logs_timedout_remove": "**{0}'ın zaman aşımı sona erdi/kaldırıldı**",
+	"leveling_title": "You got a new reward 🥳",
+	"shuffle_description": "Shuffle the current queue!",
+	"shuffle_done": ":twisted_rightwards_arrows: **Shuffled the queue.**",
+	"search_placeholder": "Choose a song.",
+	"select_someone_else": ":x: This select belong to someone else."
 }

@@ -456,5 +456,10 @@
 	"timeout_description": "Pozastaviť užívateľa od posielania správ, reagovania alebo pripájania sa do hlasových kanálov.",
 	"untimeout_description": "Odobrať užívateľovi pauzu",
 	"logs_timedout": "**Používateľ {0} dostal pauzu na {1}**.",
-	"logs_timedout_remove": "**Pauza používateľa {0} skončila/bola zrušená.**"
+	"logs_timedout_remove": "**Pauza používateľa {0} skončila/bola zrušená.**",
+	"leveling_title": "You got a new reward 🥳",
+	"shuffle_description": "Shuffle the current queue!",
+	"shuffle_done": ":twisted_rightwards_arrows: **Shuffled the queue.**",
+	"search_placeholder": "Choose a song.",
+	"select_someone_else": ":x: This select belong to someone else."
 }

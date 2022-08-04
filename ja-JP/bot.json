@@ -79,7 +79,7 @@
 	"requested_by_embed": "{0}#{1}がリクエストしました",
 	"cant_mute_user": ":rolling_eyes: - ** @{0}をミュートすることはできません**",
 	"cant_find_member": ":rolling_eyes: - **メンバーが見つかりません**",
-	"mute_user_muted": ":white_check_mark: **@{0} がコマンドを使用してミュートにしました :zipper_mouth:**",
+	"mute_user_muted": ":white_check_mark: **@{0} をコマンド経由でミュートに設定しました :zipper_mouth:**",
 	"daily_credits_refreshes_description": "**:rolling_eyes: |  {0}、あなたの毎日のクレジットは {1}後に再度取得可能になります **",
 	"daily_not_have_rank_description": ":robot:  **|  {0}**, ボットにランクがありません！",
 	"daily_credits_got_description": "**:moneybag: {0}, あなたは :dollar: {1} ポイントを獲得しました！**",
@@ -456,5 +456,10 @@
 	"timeout_description": "ユーザーがメッセージの送信、反応、ボイスチャンネルへの参加をタイムアウトします。",
 	"untimeout_description": "ユーザーのタイムアウトを解除",
 	"logs_timedout": "**{0} さんが{1}タイムアウトされました。**",
-	"logs_timedout_remove": "**{0} さんのタイムアウトが終了/解除されました。**"
+	"logs_timedout_remove": "**{0} さんのタイムアウトが終了/解除されました。**",
+	"leveling_title": "You got a new reward 🥳",
+	"shuffle_description": "Shuffle the current queue!",
+	"shuffle_done": ":twisted_rightwards_arrows: **Shuffled the queue.**",
+	"search_placeholder": "Choose a song.",
+	"select_someone_else": ":x: This select belong to someone else."
 }

@@ -131,7 +131,7 @@
 	"unban_members_being_description": ":white_check_mark: **{0}** members are being unbanned.",
 	"unban_unbanned_description": ":white_check_mark: **{0} unbanned!**",
 	"unban_cant_find_description": ":rolling_eyes: - **I can't find {0} in the ban list**",
-	"vmute_main_description": "{0}, By: {1}#{2}, REASON: {3} ENDS ON: {4}",
+	"vmute_main_description": "By: {0}#{1}, REASON: {2}, ENDS ON: {3}",
 	"vmute_muted_from_description": ":white_check_mark: **@{0} muted from the voice! :zipper_mouth:**",
 	"vmute_couldnt_mute_description": ":rolling_eyes: - I couldn't mute that user. Please check my permissions.",
 	"vmute_cant_description": ":rolling_eyes: - ** You can't vmute @{0}. **",
@@ -456,5 +456,10 @@
 	"timeout_description": "Timeout a user from sending messages, react or join voice channels.",
 	"untimeout_description": "Remove timeout from a user",
 	"logs_timedout": "**{0} has been timed out for {1}**.",
-	"logs_timedout_remove": "**{0}'s timeout has been ended / removed.**"
+	"logs_timedout_remove": "**{0}'s timeout has been ended / removed.**",
+	"leveling_title": "You got a new reward 🥳",
+	"shuffle_description": "Shuffle the current queue!",
+	"shuffle_done": ":twisted_rightwards_arrows: **Shuffled the queue.**",
+	"search_placeholder": "Choose a song.",
+	"select_someone_else": ":x: This select belong to someone else."
 }

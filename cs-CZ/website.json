@@ -708,5 +708,8 @@
     "timeout": "Pauza (dána / odebrána)",
     "premium_invite_required": "Pro získání přístupu k prémiovým funkcím musíš pozvat premium bota",
     "notifications_send_channel": "Poslat do kanálu",
-    "notifications_content": "Sem zadej obsah"
+    "notifications_content": "Sem zadej obsah",
+    "shuffle_description": "Shuffle the current queue!",
+    "resume_description": "Resumes the currently paused track.",
+    "protection_bots_warning": "These limits might not apply to bots due to how they work, be careful from inviting unknown bots."
 }

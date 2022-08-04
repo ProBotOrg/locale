@@ -1,7 +1,7 @@
 {
     "rank_description": "Vê o seu rank ou o de outra pessoa no servidor. ",
     "clear_description": "Limpa mensagens de um canal.",
-    "moveme_description": "Move-o para outro canal de voz. ",
+    "moveme_description": "Move-te para outro canal de voz. ",
     "id_description": "Vê o seu rank ou o de outra pessoa no servidor. ",
     "profile_description": "Vê o seu perfil ou o de outra pessoa no servidor. ",
     "user_description": "Mostra informações, como ID e data de entrada, sobre si ou doutro membro.",
@@ -12,7 +12,7 @@
     "blacklisted_call_dramex": "Conta bloqueada devido a atividades suspeitas, por favor contacte @Dramex para mais detalhes",
     "blacklisted_title": "A sua conta foi bloqueada devido a atividades suspeitas, por favor resolva o captcha para continuar",
     "blacklisted_note": "Este bilhete é de um uso só, não o desperdice.",
-    "aliases": "Pseudônimos",
+    "aliases": "Pseudônimos:",
     "examples": "Exemplos:",
     "24/7_description": "Ativa/desativa o modo 24/7. Isto faz com que o bot não saia do canal de voz até que o pares.",
     "MODULE_SETTINGS": "CONFIGURAÇÕES DO MÓDULO",
@@ -290,7 +290,7 @@
     "search_for_command": "Procurar por comando ",
     "all": "Tudo",
     "General": "Geral",
-    "leveling": "Leveling",
+    "leveling": "Sistema de níveis",
     "info": "Info",
     "usage": "Usage:",
     "probot": "ProBot",
@@ -708,5 +708,8 @@
     "timeout": "Castifo (Dado / Removido)",
     "premium_invite_required": "Tem que convidar o bot premium para obter acesso a funcionalidades premium",
     "notifications_send_channel": "Enviar para o canal",
-    "notifications_content": "Insira aqui o conteúdo"
+    "notifications_content": "Insira aqui o conteúdo",
+    "shuffle_description": "Misture a fila atual!",
+    "resume_description": "Continua a faixa atualmente em pausa.",
+    "protection_bots_warning": "These limits might not apply to bots due to how they work, be careful from inviting unknown bots."
 }

@@ -456,5 +456,10 @@
 	"timeout_description": "Timeout en användare från att skicka meddelanden, reagera eller gå med i röstkanaler.",
 	"untimeout_description": "Ta bort timeout från en användare",
 	"logs_timedout": "**{0} har fått en tidsgräns för {1}**.",
-	"logs_timedout_remove": "**{0}s timeout har avslutats / tagits bort.**"
+	"logs_timedout_remove": "**{0}s timeout har avslutats / tagits bort.**",
+	"leveling_title": "You got a new reward 🥳",
+	"shuffle_description": "Shuffle the current queue!",
+	"shuffle_done": ":twisted_rightwards_arrows: **Shuffled the queue.**",
+	"search_placeholder": "Choose a song.",
+	"select_someone_else": ":x: This select belong to someone else."
 }

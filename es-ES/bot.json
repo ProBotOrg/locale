@@ -131,7 +131,7 @@
 	"unban_members_being_description": ":white_check_mark: **{0}** miembros siendo desbaneados.",
 	"unban_unbanned_description": ":white_check_mark: ¡**{0} desbaneado!**",
 	"unban_cant_find_description": ":rolling_eyes: - **No puedo encontrar a {0} en la lista de baneos**",
-	"vmute_main_description": "{0}, por: {1}#{2}, RAZÓN: {3} TERMINA EN: {4}",
+	"vmute_main_description": "Por: {0}#{1}, MOTIVO: {2}, TERMINA EN: {3}",
 	"vmute_muted_from_description": ":white_check_mark: **¡@{0} silenciado de los canales de voz! :zipper_mouth:**",
 	"vmute_couldnt_mute_description": ":rolling_eyes: - No pude silenciar a ese usuario. Por favor, comprueba mis permisos.",
 	"vmute_cant_description": ":rolling_eyes: - ** No puedes silenciar @{0}. **",
@@ -456,5 +456,10 @@
 	"timeout_description": "Aislamiento, impedir que un usuario envíe mensajes, reaccione o se una a los canales de voz.",
 	"untimeout_description": "Eliminar el aislamiento de un usuario",
 	"logs_timedout": "**{0} se ha agotado el aislamiento para {1}**.",
-	"logs_timedout_remove": "** El aislamiento de{0}ha terminado / eliminado.**"
+	"logs_timedout_remove": "** El aislamiento de{0}ha terminado / eliminado.**",
+	"leveling_title": "You got a new reward 🥳",
+	"shuffle_description": "Shuffle the current queue!",
+	"shuffle_done": ":twisted_rightwards_arrows: **Shuffled the queue.**",
+	"search_placeholder": "Choose a song.",
+	"select_someone_else": ":x: This select belong to someone else."
 }

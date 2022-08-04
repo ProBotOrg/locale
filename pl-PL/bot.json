@@ -456,5 +456,10 @@
 	"timeout_description": "Limit czasu użytkownikowi na wysyłanie wiadomości, reagowanie lub dołączanie do kanałów głosowych.",
 	"untimeout_description": "Usuń limit czasu dla użytkownika",
 	"logs_timedout": "**{0} został przekroczony limit czasu {1}**.",
-	"logs_timedout_remove": "**Limit czasu {0} został zakończony/usunięty.**"
+	"logs_timedout_remove": "**Limit czasu {0} został zakończony/usunięty.**",
+	"leveling_title": "You got a new reward 🥳",
+	"shuffle_description": "Shuffle the current queue!",
+	"shuffle_done": ":twisted_rightwards_arrows: **Shuffled the queue.**",
+	"search_placeholder": "Choose a song.",
+	"select_someone_else": ":x: This select belong to someone else."
 }

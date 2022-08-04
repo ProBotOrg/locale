@@ -131,7 +131,7 @@
 	"unban_members_being_description": ":white_check_mark: Đã gỡ cấm **{0}** thành viên.",
 	"unban_unbanned_description": ":white_check_mark: **Đã gỡ cấm {0}!**",
 	"unban_cant_find_description": ":rolling_eyes: - **Tôi không tìm thấy {0} trong danh sách cấm.**",
-	"vmute_main_description": "{0}, bởi {1}#{2}, Lý do: {3} Kết thúc vào lúc: {4}",
+	"vmute_main_description": "Bởi: {0}#{1}, Lý do: {2} Kết thúc vào lúc: {3}",
 	"vmute_muted_from_description": ":white_check_mark: **@{0} đã bị tắt tiếng! :zipper_mouth:**",
 	"vmute_couldnt_mute_description": ":rolling_eyes: - Tôi không thể tắt tiếng người dùng đó. Vui lòng xem lại quyền của tôi.",
 	"vmute_cant_description": ":rolling_eyes: - **Bạn không thể tắt tiếng @{0} được.**",
@@ -456,5 +456,10 @@
 	"timeout_description": "Hạn chế người dùng và không cho phép họ gửi tin, dùng biểu cảm và tham gia kênh voice.",
 	"untimeout_description": "Loại bỏ hạn chế cho người dùng",
 	"logs_timedout": "**Đã đặt hạn chế cho {0} trong {1}.**",
-	"logs_timedout_remove": "**Đã bỏ hạn chế cho {0} hoặc đã hết hạn chế.**"
+	"logs_timedout_remove": "**Đã bỏ hạn chế cho {0} hoặc đã hết hạn chế.**",
+	"leveling_title": "You got a new reward 🥳",
+	"shuffle_description": "Xáo hàng đợi hiện tại!",
+	"shuffle_done": ":twisted_rightwards_arrows: **Đã xáo trộn hàng đợi.**",
+	"search_placeholder": "Choose a song.",
+	"select_someone_else": ":x: This select belong to someone else."
 }

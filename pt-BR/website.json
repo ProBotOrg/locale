@@ -708,5 +708,8 @@
     "timeout": "Tempo limite (Dado / Removido)",
     "premium_invite_required": "Você tem que convidar o bot premium para obter acesso a recursos premium",
     "notifications_send_channel": "Enviar para um canal",
-    "notifications_content": "Insira o conteúdo aqui"
+    "notifications_content": "Insira o conteúdo aqui",
+    "shuffle_description": "Embaralhe a fila atual!",
+    "resume_description": "Retoma a faixa atualmente pausada.",
+    "protection_bots_warning": "Esses limites podem não se aplicar aos bots devido ao modo como eles funcionam, tenha cuidado ao convidar bots desconhecidos."
 }
