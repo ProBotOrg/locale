@@ -457,6 +457,9 @@
 	"untimeout_description": "멤버의 타임아웃을 해제해요",
 	"logs_timedout": "**{0}님이 {1} 동안 타임아웃됐어요.**",
 	"logs_timedout_remove": "**{0}님의 타임아웃이 해제됐어요.**",
+	"leveling_title": "You got a new reward 🥳",
 	"shuffle_description": "현재 재생목록을 셔플해요!",
-	"shuffle_done": ":twisted_rightwards_arrows: **재생목록을 셔플했어요.**"
+	"shuffle_done": ":twisted_rightwards_arrows: **재생목록을 셔플했어요.**",
+	"search_placeholder": "Choose a song.",
+	"select_someone_else": ":x: This select belong to someone else."
 }
