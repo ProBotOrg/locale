@@ -710,5 +710,6 @@
     "notifications_send_channel": "चैनल को भेजे ",
     "notifications_content": "इधर कंटेंट डाले ",
     "shuffle_description": "Shuffle the current queue!",
-    "resume_description": "अभी चल रहे गाने को रोक देता है "
+    "resume_description": "अभी चल रहे गाने को रोक देता है ",
+    "protection_bots_warning": "These limits might not apply to bots due to how they work, be careful from inviting unknown bots."
 }
