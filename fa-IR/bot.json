@@ -457,6 +457,9 @@
 	"untimeout_description": "حذف تایم‌اوت اعمال شده روی یک کاربر ",
 	"logs_timedout": "**کاربر {0} برای {1} تایم‌اوت شد**.",
 	"logs_timedout_remove": "**تایم‌اوت کاربر {0} رفع شد / به پایان رسید**.",
+	"leveling_title": "You got a new reward 🥳",
 	"shuffle_description": "Shuffle the current queue!",
-	"shuffle_done": ":twisted_rightwards_arrows: **Shuffled the queue.**"
+	"shuffle_done": ":twisted_rightwards_arrows: **Shuffled the queue.**",
+	"search_placeholder": "Choose a song.",
+	"select_someone_else": ":x: This select belong to someone else."
 }
