@@ -710,5 +710,6 @@
     "notifications_send_channel": "채널로 보내기",
     "notifications_content": "내용을 입력하세요",
     "shuffle_description": "현재 재생목록을 셔플해요!",
-    "resume_description": "일시정지된 트랙을 다시 재생해요."
+    "resume_description": "일시정지된 트랙을 다시 재생해요.",
+    "protection_bots_warning": "These limits might not apply to bots due to how they work, be careful from inviting unknown bots."
 }
