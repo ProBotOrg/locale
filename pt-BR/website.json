@@ -711,5 +711,5 @@
     "notifications_content": "Insira o conteúdo aqui",
     "shuffle_description": "Embaralhe a fila atual!",
     "resume_description": "Retoma a faixa atualmente pausada.",
-    "protection_bots_warning": "These limits might not apply to bots due to how they work, be careful from inviting unknown bots."
+    "protection_bots_warning": "Esses limites podem não se aplicar aos bots devido ao modo como eles funcionam, tenha cuidado ao convidar bots desconhecidos."
 }
