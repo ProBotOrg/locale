@@ -457,6 +457,9 @@
 	"untimeout_description": "Eliminar el aislamiento de un usuario",
 	"logs_timedout": "**{0} se ha agotado el aislamiento para {1}**.",
 	"logs_timedout_remove": "** El aislamiento de{0}ha terminado / eliminado.**",
+	"leveling_title": "You got a new reward 🥳",
 	"shuffle_description": "Shuffle the current queue!",
-	"shuffle_done": ":twisted_rightwards_arrows: **Shuffled the queue.**"
+	"shuffle_done": ":twisted_rightwards_arrows: **Shuffled the queue.**",
+	"search_placeholder": "Choose a song.",
+	"select_someone_else": ":x: This select belong to someone else."
 }
