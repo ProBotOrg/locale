@@ -457,6 +457,9 @@
 	"untimeout_description": "Remover o tempo limite de um usuário",
 	"logs_timedout": "**{0} o castigo foi definido para {1}**.",
 	"logs_timedout_remove": "**{0} o castigo foi terminado / removido.**",
+	"leveling_title": "You got a new reward 🥳",
 	"shuffle_description": "Embaralhe a fila atual!",
-	"shuffle_done": ":twisted_rightwards_arrows: **embaralhou a fila.**"
+	"shuffle_done": ":twisted_rightwards_arrows: **embaralhou a fila.**",
+	"search_placeholder": "Choose a song.",
+	"select_someone_else": ":x: This select belong to someone else."
 }
