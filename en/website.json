@@ -290,7 +290,7 @@
     "search_for_command": "Search for command 🔍",
     "all": "All",
     "General": "General",
-    "soical": "Social",
+    "leveling": "Leveling",
     "info": "Info",
     "usage": "Usage:",
     "probot": "ProBot",
@@ -708,5 +708,8 @@
     "timeout": "Timeout (Given / Removed)",
     "premium_invite_required": "You have to invite the premium bot to get access to premium features",
     "notifications_send_channel": "Send To Channel",
-    "notifications_content": "Insert Content Here"
+    "notifications_content": "Insert Content Here",
+    "shuffle_description": "Shuffle the current queue!",
+    "resume_description": "Resumes the currently paused track.",
+    "protection_bots_warning" : "These limits might not apply to bots due to how they work, be careful from inviting unknown bots."
 }

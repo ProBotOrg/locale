@@ -259,7 +259,7 @@
 	"music_Resumed": ":notes: إستئناف**{0}**.",
 	"music_must_be": ":no_entry_sign: يجب أن تكون الموسيقى تعمل لإستعمال هذا الأمر!",
 	"music_player_paused": "المُشغل مؤقف مسبقاً. اكتب `#شغل` لإعادة التشغيل! :notes:",
-	"music_paused": " تم إيقاف **{0}**. اكتب `#شغل` لإعادة التشغيل! :notes:",
+	"music_paused": " تم إيقاف **{0}**. اكتب `/resume` لإعادة التشغيل! :notes:",
 	"music_player_stopped": "تم إيقاف المُشغل ومسح قائمة الانتظار. :notes: ",
 	"music_example_seek": ":rolling_eyes: `/seek 2:12` مثال",
 	"music_song_not_long": ":rolling_eyes: - الأغنية ليست طويلة بشكل كافي.",

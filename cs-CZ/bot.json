@@ -259,7 +259,7 @@
 	"music_Resumed": ":notes: Obnovil přehrávání **{0}**.",
 	"music_must_be": ":no_entry_sign: Pro použití tohoto se musí přehrávat hudba!",
 	"music_player_paused": ":bulb: Přehrávač je již pozastaven! Použij `/play` pro obnovení přehrávání!",
-	"music_paused": ":notes: Pozastaveno přehrávání **{0}**. Zadej `/play` pro obnovení přehrávání!",
+	"music_paused": ":notes: Pozastaveno přehrávání **{0}**. Zadej `/reusme` pro obnovení přehrávání!",
 	"music_player_stopped": ":notes: Přehrávač byl zastaven a fronta byla vymazána.",
 	"music_example_seek": ":rolling_eyes: - Například `/seek 2:12`",
 	"music_song_not_long": ":rolling_eyes: - Skladba není tak dlouhá.",

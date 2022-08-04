@@ -453,8 +453,8 @@
 	"untimeout_missing_permission": ":rolling_eyes: - タイムアウトの解除に失敗しました。この機能を使うには管理者権限が必要です。Discordのサーバー設定からProBotのロールの地位を上げるか、管理者権限を付与してください。",
 	"untimeout_not_timedout": ":x: メンバーがタイムアウトしていません。",
 	"cant_bots": ":robot: ボットに対してこのアクションを実行することはできません。",
-	"timeout_description": "Timeout a user from sending messages, react or join voice channels.",
-	"untimeout_description": "Remove timeout from a user",
-	"logs_timedout": "**{0} has been timed out for {1}**.",
-	"logs_timedout_remove": "**{0}'s timeout has been ended / removed.**"
+	"timeout_description": "ユーザーがメッセージの送信、反応、ボイスチャンネルへの参加をタイムアウトします。",
+	"untimeout_description": "ユーザーのタイムアウトを解除",
+	"logs_timedout": "**{0} さんが{1}タイムアウトされました。**",
+	"logs_timedout_remove": "**{0} さんのタイムアウトが終了/解除されました。**"
 }
