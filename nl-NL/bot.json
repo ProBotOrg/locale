@@ -457,10 +457,10 @@
 	"untimeout_description": "Timeout van een gebruiker verwijderen.",
 	"logs_timedout": "**{0} heeft een timeout gekregen voor {1}**.",
 	"logs_timedout_remove": "**{0}'s timeout is afgelopen / verwijderd.**",
-	"leveling_title": "You got a new reward 🥳",
+	"leveling_title": "Je hebt een nieuwe beloning 🥳",
 	"shuffle_description": "Laat de huidige wachtrij zien.",
 	"shuffle_done": ":twisted_rightwards_arrows: **De wachtrij is gehusseld.**",
-	"search_placeholder": "Choose a song.",
-	"select_someone_else": ":x: This select belong to someone else.",
-	"lock_channel_reason_description": "Reason of the lock\n"
+	"search_placeholder": "Kies een nummer.",
+	"select_someone_else": ":x: Deze selectie is van iemand anders.",
+	"lock_channel_reason_description": "Reden van de vergrendeling\n"
 }
