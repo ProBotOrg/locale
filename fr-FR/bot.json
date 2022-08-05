@@ -459,8 +459,8 @@
 	"logs_timedout_remove": "**{0}'s timeout has been ended / removed.**",
 	"leveling_title": "Vous avez reçu une nouvelle récompense 🥳",
 	"shuffle_description": "Mélangez la file d'attente actuelle !",
-	"shuffle_done": ":twisted_rightwards_arrows: **Shuffled the queue.**",
+	"shuffle_done": ":twisted_rightwards_arrows : **Mélange la file d'attente.**",
 	"search_placeholder": "Choisissez une chanson.",
 	"select_someone_else": ":x: Cette sélection appartient à quelqu'un d'autre.",
-	"lock_channel_reason_description": "Reason of the lock\n"
+	"lock_channel_reason_description": "Raison du verrouillé"
 }
