@@ -461,5 +461,6 @@
 	"shuffle_description": "خلط قائمة الانتظار الحالية.",
 	"shuffle_done": ":twisted_rightwards_arrows: **تم خلط قائمة الانتظار.**",
 	"search_placeholder": "اختر أغنية.",
-	"select_someone_else": ":x: هذا الاختيار ينتمي لشخص آخر."
+	"select_someone_else": ":x: هذا الاختيار ينتمي لشخص آخر.",
+	"lock_channel_reason_description": "سبب القفل"
 }
