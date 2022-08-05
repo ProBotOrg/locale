@@ -716,7 +716,7 @@
     "commands_info_description": "Want to see statistics / info about your server or users? Check these commands.",
     "commands_moderation_description": "Power up moderation with these cool commands!",
     "commands_music_description": "Enjoy high-quality music with more than 10+ commands to control your BEATS!",
-    "commands_premium_description": "Control your premium bot with these perks!"
+    "commands_premium_description": "Control your premium bot with these perks!",
     "shuffle_description": "Shuffle the current queue!",
     "resume_description": "Resumes the currently paused track.",
     "protection_bots_warning" : "These limits might not apply to bots due to how they work, be careful from inviting unknown bots.",
