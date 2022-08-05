@@ -709,7 +709,16 @@
     "premium_invite_required": "يجب عليك دعوة بوت البريميوم للحصول على مميزات البريميوم",
     "notifications_send_channel": "إرسال للروم",
     "notifications_content": "اكتب رسالة هنا",
+    "commands_title_description": "New to ProBot and wanna see all commands and their usages, also a little title describes it? You are in the right place!",
+    "commands_all_description": "All Commands",
+    "commands_general_description": "Useful commands every server must have!",
+    "commands_leveling_description": "Boost up your server with text and voice leveling",
+    "commands_info_description": "Want to see statistics / info about your server or users? Check these commands.",
+    "commands_moderation_description": "Power up moderation with these cool commands!",
+    "commands_music_description": "Enjoy high-quality music with more than 10+ commands to control your BEATS!",
+    "commands_premium_description": "Control your premium bot with these perks!",
     "shuffle_description": "خلط قائمة الانتظار الحالية.",
     "resume_description": "إستئناف الموسيقى الذي تمت إيقافها.",
-    "protection_bots_warning": "قد لا تنطبق هذه الحدود على البوت بسبب كيفية عملها، كن حذراً من دعوة بوت غير معروف."
+    "protection_bots_warning": "قد لا تنطبق هذه الحدود على البوت بسبب كيفية عملها، كن حذراً من دعوة بوت غير معروف.",
+    "bot_require_invite": "إختر البوت الذي تريد دعوته"
 }
