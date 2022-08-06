@@ -462,5 +462,7 @@
 	"shuffle_done": ":twisted_rightwards_arrows: **De wachtrij is gehusseld.**",
 	"search_placeholder": "Kies een nummer.",
 	"select_someone_else": ":x: Deze selectie is van iemand anders.",
-	"lock_channel_reason_description": "Reden van de vergrendeling\n"
+	"lock_channel_reason_description": "Reden van de vergrendeling\n",
+	"confirm": "Confirm",
+	"cancel": "Annuleren"
 }
