@@ -85,7 +85,7 @@
 	"daily_credits_got_description": "**:moneybag: {0}, you got :dollar: {1} daily credits!**",
 	"daily_user_not_found_description": ":rolling_eyes: **|  {0}**, korisnika nije bilo moguće pronaći.",
 	"role_specify_one_description": ":rolling_eyes: - **Molim unesite uloga name.**",
-	"role_dont_have_access_description": ":rolling_eyes: -  You don't have access to give {0}.",
+	"role_dont_have_access_description": ":rolling_eyes: - You don't have access to give {0}.",
 	"role_cant_find_description": ":rolling_eyes: - I can't find the role(s) {0}.",
 	"role_cant_find_2_description": ":rolling_eyes: - I can't find the role **{0}**.",
 	"role_couldnt_change_description": ":rolling_eyes: - I couldn't change the roles for that user. Please check my permissions and role position.",
