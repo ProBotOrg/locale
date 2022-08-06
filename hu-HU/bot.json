@@ -460,9 +460,9 @@
 	"leveling_title": "You got a new reward 🥳",
 	"shuffle_description": "Shuffle the current queue!",
 	"shuffle_done": ":twisted_rightwards_arrows: **Shuffled the queue.**",
-	"search_placeholder": "Choose a song.",
+	"search_placeholder": "Válassz egy dalt",
 	"select_someone_else": ":x: This select belong to someone else.",
-	"lock_channel_reason_description": "Reason of the lock",
-	"confirm": "Confirm",
+	"lock_channel_reason_description": "Zárás oka",
+	"confirm": "Megerősít",
 	"cancel": "Mégse"
 }
