@@ -85,7 +85,7 @@
 	"daily_credits_got_description": "**:moneybag: {0}, získal jsi :dollar: {1} denních kreditů!**",
 	"daily_user_not_found_description": ":rolling_eyes: **|  {0}**, uživatel nebyl nalezen.",
 	"role_specify_one_description": ":rolling_eyes: - ** Upřesni název jedné role **",
-	"role_dont_have_access_description": ":rolling_eyes: -  Nemůžeš darovat {0}.",
+	"role_dont_have_access_description": ":rolling_eyes: - Nemůžeš darovat {0}.",
 	"role_cant_find_description": ":rolling_eyes: - Nemohu najít roli / role {0}.",
 	"role_cant_find_2_description": ":rolling_eyes: - Nemohu nalézt roli **{0}**.",
 	"role_couldnt_change_description": ":rolling_eyes: - Tomuto uživateli jsem nemohl změnit role. Zkontroluj má oprávnění a pozici mé role.",
