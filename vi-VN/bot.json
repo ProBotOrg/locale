@@ -461,7 +461,7 @@
 	"shuffle_description": "Xáo hàng đợi hiện tại!",
 	"shuffle_done": ":twisted_rightwards_arrows: **Đã xáo trộn hàng đợi.**",
 	"search_placeholder": "Chọn một bài hát.",
-	"select_someone_else": ":x: This select belong to someone else.",
+	"select_someone_else": ":x: Có người khác đã dùng danh sách chọn này rồi.",
 	"lock_channel_reason_description": "Lý do khóa kênh",
 	"confirm": "Xác nhận",
 	"cancel": "Hủy"
