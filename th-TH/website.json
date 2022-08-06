@@ -709,7 +709,16 @@
     "premium_invite_required": "คุณต้องเชิญบอทพรีเมียม เพื่อรับฟีเจอร์พิเศษ!",
     "notifications_send_channel": "ส่งไปที่ช่อง",
     "notifications_content": "ใส่เนื้อหาที่นี่",
+    "commands_title_description": "New to ProBot and wanna see all commands and their usages, also a little title describes it? You are in the right place!",
+    "commands_all_description": "All Commands",
+    "commands_general_description": "Useful commands every server must have!",
+    "commands_leveling_description": "Boost up your server with text and voice leveling",
+    "commands_info_description": "Want to see statistics / info about your server or users? Check these commands.",
+    "commands_moderation_description": "Power up moderation with these cool commands!",
+    "commands_music_description": "Enjoy high-quality music with more than 10+ commands to control your BEATS!",
+    "commands_premium_description": "Control your premium bot with these perks!",
     "shuffle_description": "Shuffle the current queue!",
     "resume_description": "Resumes the currently paused track.",
-    "protection_bots_warning": "These limits might not apply to bots due to how they work, be careful from inviting unknown bots."
+    "protection_bots_warning": "These limits might not apply to bots due to how they work, be careful from inviting unknown bots.",
+    "bot_require_invite": "SELECT THE BOT YOU WANT TO INVITE"
 }

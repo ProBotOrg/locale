@@ -709,7 +709,16 @@
     "premium_invite_required": "Bạn cần mời bot premium vào server để có thể dùng các tính năng premium",
     "notifications_send_channel": "Gửi đến một kênh",
     "notifications_content": "Thêm nội dung ở đây",
+    "commands_title_description": "Mới dùng ProBot mà muốn xem hết các lệnh, công dụng, và chút thông tin về chúng? Bạn đến đúng nơi rồi!",
+    "commands_all_description": "Tất cả lệnh",
+    "commands_general_description": "Những lệnh hữu dụng server nào cũng cần!",
+    "commands_leveling_description": "Nâng mức hoạt động cho server với hệ thống cấp độ",
+    "commands_info_description": "Muốn xem thống kê / thông tin về server của bạn hoặc người dùng? Hãy thử những lệnh này.",
+    "commands_moderation_description": "Tăng cường sức mạnh quản lý với những lệnh này!",
+    "commands_music_description": "Tận hưởng âm nhạc chất lượng cao với hơn 10 lệnh để đảm bảo trải nghiệm âm nhạc của bạn!",
+    "commands_premium_description": "Kiểm soát bot Premium của bạn với những đặc quyền sau!",
     "shuffle_description": "Xáo hàng đợi hiện tại!",
     "resume_description": "Tiếp tục bài hát đang tạm ngừng.",
-    "protection_bots_warning": "These limits might not apply to bots due to how they work, be careful from inviting unknown bots."
+    "protection_bots_warning": "Những giới hạn này sẽ không được áp dụng cho bot, cẩn thận với việc mời những bot lạ vào server.",
+    "bot_require_invite": "CHỌN MỘT BOT MÀ BẠN MUỐN MỜI"
 }

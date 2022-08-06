@@ -709,7 +709,16 @@
     "premium_invite_required": "Você tem que convidar o bot premium para obter acesso a recursos premium",
     "notifications_send_channel": "Enviar para um canal",
     "notifications_content": "Insira o conteúdo aqui",
+    "commands_title_description": "New to ProBot and wanna see all commands and their usages, also a little title describes it? You are in the right place!",
+    "commands_all_description": "All Commands",
+    "commands_general_description": "Useful commands every server must have!",
+    "commands_leveling_description": "Boost up your server with text and voice leveling",
+    "commands_info_description": "Want to see statistics / info about your server or users? Check these commands.",
+    "commands_moderation_description": "Power up moderation with these cool commands!",
+    "commands_music_description": "Enjoy high-quality music with more than 10+ commands to control your BEATS!",
+    "commands_premium_description": "Control your premium bot with these perks!",
     "shuffle_description": "Embaralhe a fila atual!",
     "resume_description": "Retoma a faixa atualmente pausada.",
-    "protection_bots_warning": "Esses limites podem não se aplicar aos bots devido ao modo como eles funcionam, tenha cuidado ao convidar bots desconhecidos."
+    "protection_bots_warning": "Esses limites podem não se aplicar aos bots devido ao modo como eles funcionam, tenha cuidado ao convidar bots desconhecidos.",
+    "bot_require_invite": "SELECT THE BOT YOU WANT TO INVITE"
 }

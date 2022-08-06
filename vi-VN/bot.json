@@ -457,10 +457,12 @@
 	"untimeout_description": "Loại bỏ hạn chế cho người dùng",
 	"logs_timedout": "**Đã đặt hạn chế cho {0} trong {1}.**",
 	"logs_timedout_remove": "**Đã bỏ hạn chế cho {0} hoặc đã hết hạn chế.**",
-	"leveling_title": "You got a new reward 🥳",
+	"leveling_title": "Bạn vừa nhận được phần thưởng mới 🥳",
 	"shuffle_description": "Xáo hàng đợi hiện tại!",
 	"shuffle_done": ":twisted_rightwards_arrows: **Đã xáo trộn hàng đợi.**",
-	"search_placeholder": "Choose a song.",
-	"select_someone_else": ":x: This select belong to someone else.",
-	"lock_channel_reason_description": "Reason of the lock"
+	"search_placeholder": "Chọn một bài hát.",
+	"select_someone_else": ":x: Có người khác đã dùng danh sách chọn này rồi.",
+	"lock_channel_reason_description": "Lý do khóa kênh",
+	"confirm": "Xác nhận",
+	"cancel": "Hủy"
 }
