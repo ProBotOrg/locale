@@ -462,5 +462,7 @@
 	"shuffle_done": ":twisted_rightwards_arrows: **Shuffled the queue.**",
 	"search_placeholder": "Choose a song.",
 	"select_someone_else": ":x: This select belong to someone else.",
-	"lock_channel_reason_description": "Reason of the lock\n"
+	"lock_channel_reason_description": "Reason of the lock",
+	"confirm": "Confirm",
+	"cancel": "Kanselahin"
 }
