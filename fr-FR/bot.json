@@ -462,5 +462,7 @@
 	"shuffle_done": ":twisted_rightwards_arrows : **Mélange la file d'attente.**",
 	"search_placeholder": "Choisissez une chanson.",
 	"select_someone_else": ":x: Cette sélection appartient à quelqu'un d'autre.",
-	"lock_channel_reason_description": "Raison du verrouillé"
+	"lock_channel_reason_description": "Raison du verrouillé",
+	"confirm": "Confirm",
+	"cancel": "Annuler"
 }
