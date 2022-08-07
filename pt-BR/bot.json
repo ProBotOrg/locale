@@ -464,5 +464,7 @@
 	"select_someone_else": ":x: Este item selecionado pertence a outra pessoa.",
 	"lock_channel_reason_description": "Motivo do bloqueio",
 	"confirm": "Confirmar",
-	"cancel": "Cancelar"
+	"lock_already_locked": "**:x: Channel is already locked {0}.**",
+	"reset_type_description": "Select the type of the reset",
+	"reset_user_description": "The user to reset stats for."
 }
