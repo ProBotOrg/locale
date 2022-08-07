@@ -710,15 +710,15 @@
     "notifications_send_channel": "Kanala Gönder",
     "notifications_content": "Buraya Metin Ekleyin",
     "commands_title_description": "New to ProBot and wanna see all commands and their usages, also a little title describes it? You are in the right place!",
-    "commands_all_description": "All Commands",
-    "commands_general_description": "Useful commands every server must have!",
+    "commands_all_description": "Tüm Komutlar",
+    "commands_general_description": "Her sunucuda olması gereken kullanışlı komutlar!",
     "commands_leveling_description": "Boost up your server with text and voice leveling",
     "commands_info_description": "Want to see statistics / info about your server or users? Check these commands.",
     "commands_moderation_description": "Power up moderation with these cool commands!",
     "commands_music_description": "Enjoy high-quality music with more than 10+ commands to control your BEATS!",
     "commands_premium_description": "Control your premium bot with these perks!",
-    "shuffle_description": "Shuffle the current queue!",
+    "shuffle_description": "Çalma listesi sırasını karıştırır!",
     "resume_description": "Resumes the currently paused track.",
     "protection_bots_warning": "These limits might not apply to bots due to how they work, be careful from inviting unknown bots.",
-    "bot_require_invite": "SELECT THE BOT YOU WANT TO INVITE"
+    "bot_require_invite": "DAVET ETMEK İSTEDİĞİNİZ BOT'U SEÇİN"
 }
