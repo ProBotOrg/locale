@@ -464,5 +464,5 @@
 	"select_someone_else": ":x: This select belong to someone else.",
 	"lock_channel_reason_description": "Reason of the lock",
 	"confirm": "Confirm",
-	"lock_already_locked": "**:x: Channel is already locked. {0}**"
+	"lock_already_locked": "**:x: Channel is already locked {0}.**"
 }
