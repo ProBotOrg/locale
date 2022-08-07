@@ -461,7 +461,7 @@
 	"shuffle_description": "เปลี่ยนคิวในปัจจุบัน!",
 	"shuffle_done": ":twisted_rightwards_arrows: **สลับคิว**",
 	"search_placeholder": "เลือกเพลง",
-	"select_someone_else": ":x: This select belong to someone else.",
+	"select_someone_else": ":x: การเลือกนี้ถูกบุลคลอื่นใช้งานไปแล้ว",
 	"lock_channel_reason_description": "เหตุผลที่ล็อค",
 	"confirm": "ยืนยัน",
 	"cancel": "ยกเลิก"
