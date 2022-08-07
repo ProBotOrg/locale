@@ -14,7 +14,7 @@
     "blacklisted_note": "This is a one time ticket, don't waste it.",
     "aliases": "Aliases:",
     "examples": "Examples:",
-    "24/7_description": "Toggles the 24/7 mode. This makes the bot doesn't leave the voice channel until you stop it.",
+    "24/7_description": "Toggles the 24/7 mode. This makes the bot not leave the voice channel until you stop it.",
     "MODULE_SETTINGS": "MODULE SETTINGS",
     "GENERAL": "GENERAL",
     "OVERVIEW": "Overview",
