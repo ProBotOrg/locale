@@ -464,7 +464,7 @@
 	"select_someone_else": ":x: Esta selección pertenece a otra persona.",
 	"lock_channel_reason_description": "Motivo del bloqueo",
 	"confirm": "Confirmar",
-	"lock_already_locked": "**:x: Channel is already locked {0}.**",
-	"reset_type_description": "Select the type of the reset",
-	"reset_user_description": "The user to reset stats for."
+	"lock_already_locked": "**:x: El canal ya está bloqueado {0}.**",
+	"reset_type_description": "Seleccione el tipo de reinicio",
+	"reset_user_description": "El usuario para el que hay que restablecer las estadísticas."
 }
