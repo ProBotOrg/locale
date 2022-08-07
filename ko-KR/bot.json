@@ -464,5 +464,7 @@
 	"select_someone_else": ":x: This select belong to someone else.",
 	"lock_channel_reason_description": "Reason of the lock",
 	"confirm": "Confirm",
-	"cancel": "취소"
+	"lock_already_locked": "**:x: Channel is already locked {0}.**",
+	"reset_type_description": "Select the type of the reset",
+	"reset_user_description": "The user to reset stats for."
 }
