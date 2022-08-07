@@ -709,7 +709,7 @@
     "premium_invite_required": "Tienes que invitar al bot premium para tener acceso a las funciones premium",
     "notifications_send_channel": "Enviar al canal",
     "notifications_content": "Inserte el contenido aquí",
-    "commands_title_description": "¿Eres nuevo en ProBot y quieres ver todos los comandos y sus usos, también un pequeño título que lo describa? ¡Usted está en el lugar correcto!",
+    "commands_title_description": "¿Eres nuevo en ProBot y quieres ver todos los comandos y sus usos? ¡Estás en el lugar correcto!",
     "commands_all_description": "Todos los comandos",
     "commands_general_description": "¡Comandos útiles que todo servidor debe tener!",
     "commands_leveling_description": "Aumenta el nivel de tu servidor con el texto y la voz",
