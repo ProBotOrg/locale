@@ -14,7 +14,7 @@
     "blacklisted_note": "한 번만 쓸 수 있는 티켓이에요, 신중히 사용하세요.",
     "aliases": "별칭:",
     "examples": "예시:",
-    "24/7_description": "24/7 모드를 전환해요. 모드가 활성화됐을 경우에는 봇이 음성 채널을 떠나지 않아요.",
+    "24/7_description": "24/7 모드를 전환해요. 모드가 활성화된 경우에는 봇이 음성 채널을 나가지 않아요.",
     "MODULE_SETTINGS": "모듈 설정",
     "GENERAL": "일반",
     "OVERVIEW": "개요",
