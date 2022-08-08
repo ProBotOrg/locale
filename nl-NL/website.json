@@ -221,7 +221,7 @@
     "AUTOMOD_EMOJI_SPAM": "EMOJI SPAM",
     "AUTOMOD_CAPS": "GESPAMDE HOOFDLETTERS (70% > HOOFDLETTERS )",
     "AUTOMOD_IGNORED_CHANNELS": "Negeerde Kanalen:",
-    "AUTOMOD_IGNORED_ROLES": "Genegeerd rollen:",
+    "AUTOMOD_IGNORED_ROLES": "Genegeerde rollen:",
     "AUTOMOD_ONLY_IMAGES": "Alleen afbeeldingen kanalen",
     "AUTOMOD_ONLY_YOUTUBE": "Alleen YouTube-links Kanalen:",
     "SELECT_REASON": "Selecteer een reden uit de lijst",
