@@ -457,14 +457,14 @@
 	"untimeout_description": "Видалити тайм-аут у користувача",
 	"logs_timedout": "**{0} відсторонений за {1}**.",
 	"logs_timedout_remove": "**{0} відсторонення закінчено / знято.**",
-	"leveling_title": "You got a new reward 🥳",
+	"leveling_title": "Ви отрималу нову нагороду 🥳",
 	"shuffle_description": "Перемішати поточну чергу!",
 	"shuffle_done": ":twisted_rightwards_arrows: **Черга перемішана. **",
-	"search_placeholder": "Choose a song.",
-	"select_someone_else": ":x: This select belong to someone else.",
-	"lock_channel_reason_description": "Reason of the lock",
-	"confirm": "Confirm",
-	"lock_already_locked": "**:x: Channel is already locked {0}.**",
-	"reset_type_description": "Select the type of the reset",
-	"reset_user_description": "The user to reset stats for."
+	"search_placeholder": "Виберіть пісню.",
+	"select_someone_else": ":x: Цей вибір належить комусь іншому.",
+	"lock_channel_reason_description": "Причина закриття",
+	"confirm": "Підтвердити",
+	"lock_already_locked": "**:x: Канал уже закрито {0}.**",
+	"reset_type_description": "Виберіть тип скидання",
+	"reset_user_description": "Користувач, для якого необхідно скинути статистику."
 }
