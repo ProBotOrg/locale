@@ -465,6 +465,6 @@
 	"lock_channel_reason_description": "잠금 사유",
 	"confirm": "확인",
 	"lock_already_locked": "**:x: Channel is already locked {0}.**",
-	"reset_type_description": "Select the type of the reset",
+	"reset_type_description": "초기화할 유형 선택",
 	"reset_user_description": "스탯을 초기화할 멤버"
 }
