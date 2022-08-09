@@ -464,7 +464,7 @@
 	"select_someone_else": ":x: 이 선택은 다른 분에게 속해있어요.",
 	"lock_channel_reason_description": "잠금 사유",
 	"confirm": "확인",
-	"lock_already_locked": "**:x: Channel is already locked {0}.**",
+	"lock_already_locked": "**:x: {0} 채널이 이미 잠겼어요.**",
 	"reset_type_description": "초기화할 유형 선택",
 	"reset_user_description": "스탯을 초기화할 멤버"
 }
