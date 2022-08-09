@@ -411,7 +411,7 @@
     "leveling_default_levelup": "[user], atingiu o **nível [level]!** 🥳",
     "leveling_no_xp_channels": "Canais SEM GANHO DE XP",
     "leveling_note": "* Para evitar spam os utilizadores recebem uma quantidade aleatória de XP a cada minuto enquanto conversam",
-    "leveling_variables": "[level] - para imprimir o nível\n[user] - para mencionar o membro\n[user.name] - para imprimir nome do membro\n[user.tag] - para trazer a tag do membro",
+    "leveling_variables": "[level] - para mandar o nível\n[user] - para mencionar o membro\n[user.name] - para mandar o nome do membro\n[user.tag] - para dar a tag do membro",
     "leveling_add_role_reward": "Adicionar Cargo de recompensa",
     "Premium": "Premium",
     "LEADERBOARD": "Tabela de Classificação",
