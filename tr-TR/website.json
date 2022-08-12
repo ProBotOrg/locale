@@ -33,7 +33,7 @@
     "unmute_description": "Bir üyenin susturmasını kaldırır.",
     "vmute_description": "Bir üyeyi sesli kanallarda susturun, böylece konuşamazlar.",
     "unvmute_description": " Bir üyenin sesli kanallardan susturmasını kaldırır.",
-    "untimeout_description": "Bir üyeden bir zaman aşımını kaldırır.",
+    "untimeout_description": "Üyeden zaman aşımını kaldırır.",
     "move_description": "Bir üyeyi bir ses kanalına taşır.",
     "role_description": "Kullanıcılara rol ekle/kullanıcılardan rol al.",
     "warn_description": "Bir üyeyi uyarır.",
