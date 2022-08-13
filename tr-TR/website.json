@@ -1,6 +1,6 @@
 {
     "rank_description": "Kendinizin veya başka birinin sunucu rank kartını görüntüleyin.",
-    "clear_description": "Mesajları bir kanaldan temizler.",
+    "clear_description": "Bir kanaldan mesajları temizler.",
     "moveme_description": "Sizi başka bir sesli kanala taşır.",
     "id_description": "Kendinizin veya başka birinin sunucu rank kartını görüntüleyin.",
     "profile_description": "Kendinizin veya bir başkasının özelleştirilebilir kişisel global profil kartını görüntüler.",
@@ -325,7 +325,7 @@
     "login": "Giriş Yap",
     "dashboard": "Kontrol Paneli",
     "index_card1_title": "Karşılama Görselleri Tasarla",
-    "index_card1_description": "ProBot kendi kullanıcı avatarları ve kullanıcı isimleri de dahil hoşgeldin fotoğraflarını tasarlamanızı sağlar ve sizin için kullanıcılarınızı karşılar!",
+    "index_card1_description": "ProBot kullanıcının profil resmi ve ismini içeren özelleştirilebilir karşılayıcı resmi oluşturmanıza izin verir",
     "index_card2_title": "Gömülü Mesajları Kolayca Oluşturun",
     "index_card2_description": "ProBot ile yaratıcı ol ve istediğin zaman istediğin kanala embedler gönder! Göndermeden önce ön izlemesini gösteriyoruz, ve aynı embedi sonradan düzenleyebilirsiniz.",
     "index_card3_title": "Seviye Sistemi",
