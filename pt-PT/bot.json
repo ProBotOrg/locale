@@ -120,7 +120,7 @@
 	"warn_specify_description": ":rolling_eyes: - **Por favor, especifique uma razão.**",
 	"warn_been_removed_description": ":white_check_mark: **Avisos de {0} removidos.**",
 	"warn_cant_warning_description": "🔍 **Não consigo encontrar o aviso que está à procura.**",
-	"warn_specify_number_description": ":rolling_eyes: - **Especifique o número do aviso ou menção do membro ou (todos) para apagar todos os avisos.**",
+	"warn_specify_number_description": ":rolling_eyes: - **Especifique o número do aviso ou menção do membro (ou todos) para apagar todos os avisos.**",
 	"vkick_cant_permission_description": ":rolling_eyes: - Não consegui expulsar o membro. Por favor verifique as minhas permissões.",
 	"vkick_you_cant_description": ":rolling_eyes: - ** Não pode expulsar {0}. **",
 	"vkick_not_voice_description": ":rolling_eyes: - ** Membro não está num canal de voz! **",
