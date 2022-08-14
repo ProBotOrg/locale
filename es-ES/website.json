@@ -411,7 +411,7 @@
     "leveling_default_levelup": "[user], ¡has alcanzado el **nivel [level]!** 🥳",
     "leveling_no_xp_channels": "Canales que no otorgan XP",
     "leveling_note": "* Para evitar el spam los usuarios obtienen una cantidad aleatoria de xp cada minuto mientras chatean",
-    "leveling_variables": "[level] - para mostrar el nivel otorgado\n[oldLevel] - para mostrar el nivel antiguo\n[user] - para hacer ping al usuario\n[userName] - para mostrar el nombre de un usuario\n[userTag] - para mencionar el tag del usuario\n",
+    "leveling_variables": "[level] - para mostrar el nivel dado\n[user] - para hacer un ping al usuario\n[user.name] - para mostrar el nombre del usuario\n[user.tag] - para mostrar la etiqueta del usuario\n[oldLevel] - para mostrar el nivel de usuario anterior\n",
     "leveling_add_role_reward": "Añadir rol de recompensa",
     "Premium": "Premium",
     "LEADERBOARD": "Tabla de clasificaciones",
