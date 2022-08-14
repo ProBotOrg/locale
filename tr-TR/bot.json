@@ -244,7 +244,7 @@
 	"temp_create": "Geçici Kanal Oluştur",
 	"music_no_played": "Hiç müzik çalınmıyor!",
 	"music_now_playing": "**:notes: Şimdi yürütülüyor {0}....**",
-	"music_no_playing": "**:frowning2: Müzik çalınıyor.**",
+	"music_no_playing": "**:frowning2: Müzik çalmıyor.**",
 	"music_current_queue": "**:notes: Mevcut sıra | {0} girişler**",
 	"music_added_ProQueue": ":notes: **{0}** **ProQueue**'ya eklendi (`{1}`)!",
 	"music_must_listening": ":no_entry_sign: Bu komutu kullanabilmek için **{0}** içinde dinliyor olmalısınız!",
@@ -465,6 +465,6 @@
 	"lock_channel_reason_description": "Kilitleme sebebi",
 	"confirm": "Onayla",
 	"lock_already_locked": "**:x: Kanal zaten kilitlendi {0}.**",
-	"reset_type_description": "Select the type of the reset",
+	"reset_type_description": "Sıfırlama türünü seçin",
 	"reset_user_description": "İstatistikleri sıfırlanacak kullanıcı."
 }
