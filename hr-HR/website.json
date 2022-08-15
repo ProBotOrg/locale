@@ -408,7 +408,7 @@
     "leveling_current_channel": "Trenutni Kanal",
     "leveling_disabled": "Onemogućeno",
     "leveling_no_xp_roles": "NO XP Roles",
-    "leveling_default_levelup": "[user], you've reached **level [level]!** 🥳",
+    "leveling_default_levelup": "🥳 **Congratulations**, [user]!\nYou climbed from level **[oldLevel]** to **[level]**. Keep it up!",
     "leveling_no_xp_channels": "NO XP Channels",
     "leveling_note": "* To avoid spamming users get random amount of xp each minute while chatting",
     "leveling_variables": "[level] - za ispis nove razine\n[oldLevel] - za ispiš stare razini\n[user] - da spomenem korisnika\n[userName] - za ispis korisničkog imena\n[userTag] - donijeti korisničku oznaku",
