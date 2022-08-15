@@ -408,7 +408,7 @@
     "leveling_current_channel": "Current Channel",
     "leveling_disabled": "Disabled",
     "leveling_no_xp_roles": "NO XP Roles",
-    "leveling_default_levelup": "[user], you've reached **level [level]!** 🥳",
+    "leveling_default_levelup": "🥳 **Congratulations**, [user]!\nYou climbed from level **[oldLevel]** to **[level]**. Keep it up!",
     "leveling_no_xp_channels": "NO XP Channels",
     "leveling_note": "* To avoid spamming users get random amount of xp each minute while chatting",
     "leveling_variables": "[level] - to print given level\n[user] - to ping the user\n[user.username] - to print user name\n[user.tag] - to bring user tag\n[oldLevel] - to bring old user level",
