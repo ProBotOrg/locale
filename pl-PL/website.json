@@ -717,7 +717,7 @@
     "commands_moderation_description": "Zwiększ moderację dzięki tym fajnym poleceniom!",
     "commands_music_description": "Ciesz się muzyką wysokiej jakości z ponad 10+ poleceniami do kontrolowania swoich BITÓW!",
     "commands_premium_description": "Kontroluj swojego bota premium dzięki tym dodatkom!",
-    "shuffle_description": "Shuffle the current queue!",
+    "shuffle_description": "Miesza bieżącą kolejkę.",
     "resume_description": "Wznawia aktualnie wstrzymany utwór.",
     "protection_bots_warning": "Ograniczenia te mogą nie dotyczyć botów ze względu na sposób ich działania. Uważaj, aby nie zapraszać nieznanych botów.",
     "bot_require_invite": "WYBIERZ BOTA, KTÓREGO CHCESZ ZAPROSIĆ"
