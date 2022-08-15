@@ -411,7 +411,7 @@
     "leveling_default_levelup": "[user], you've reached **level [level]!** 🥳",
     "leveling_no_xp_channels": "NO XP Channels",
     "leveling_note": "* To avoid spamming users get random amount of xp each minute while chatting",
-    "leveling_variables": "[level] - to print given level\n[user] - to ping the user\n[user.name] - to print user name\n[user.tag] - to bring user tag\n[oldLevel] - to bring old user level",
+    "leveling_variables": "[level] - to print given level\n[user] - to ping the user\n[user.username] - to print user name\n[user.tag] - to bring user tag\n[oldLevel] - to bring old user level",
     "leveling_add_role_reward": "Add Role Reward",
     "Premium": "Premium",
     "LEADERBOARD": "leaderboard",

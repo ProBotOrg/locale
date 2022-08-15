@@ -45,7 +45,7 @@ module.exports.webLangs = {
   zh: { name: "中文", flag: "cn" },
   "zh-TW": { name: "繁體中文", flag: "tw" },
   ru: { name: "Pусский", flag: "ru" },
-  uk: { name: "Український", flag: "ua" },
+  uk: { name: "Українська", flag: "ua" },
   fr: { name: "Français", flag: "fr" },
   de: { name: "Deutsch", flag: "de" },
   el: { name: "Ελληνικά", flag: "gr" },
