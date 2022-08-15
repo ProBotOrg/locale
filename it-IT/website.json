@@ -408,7 +408,7 @@
     "leveling_current_channel": "Canale attuale:",
     "leveling_disabled": "Disabilitato",
     "leveling_no_xp_roles": "Ruoli Senza Xp",
-    "leveling_default_levelup": "[user], hai raggiunto **il livello [level]!** 🥳",
+    "leveling_default_levelup": "[user], hai raggiunto il **livello [level]!** 🥳",
     "leveling_no_xp_channels": "Canali Senza XP",
     "leveling_note": "* Per evitare lo spam dei messaggi gli utenti otterranno un quantitativo casuale di punti xp per ogni minuto di chatting",
     "leveling_variables": "[level] - restituisce il livello dato\n[oldLevel] - restituisce il vecchio livello\n[user] - menziona l'utente\n[userName] - restituisce il nome utente\n[userTag] - trova il tag dell'utente",
