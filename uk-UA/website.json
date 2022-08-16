@@ -216,7 +216,7 @@
     "AUTOMOD_DUPS": "ДУБЛЮВАННЯ ТЕКСТУ",
     "AUTOMOD_LINKS": "ПОСИЛАННЯ",
     "AUTOMOD_DISCORD_INVITES": "DISCORD ЗАПРОШЕННЯ",
-    "AUTOMOD_REPEATED": "ПОВТОРЕННІ ПОВІДОМЛЕННЯ",
+    "AUTOMOD_REPEATED": "ПОВІДОМЛЕННЯ, ЩО ПОВТОРЮЮТЬСЯ",
     "AUTOMOD_MASS_MENTION": "МАСОВЕ ЗВЕРНЕННЯ",
     "AUTOMOD_EMOJI_SPAM": "ЕМОДЗІ СПАМ",
     "AUTOMOD_CAPS": "СПАМ КАПС (70% > КАПС)",
