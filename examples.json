@@ -1,5 +1,5 @@
 {
-    "bot":{
+    "bot": {
         "usage_rank": "{0} (user)",
         "usage_clear": "{0} (number of messages)\n{0} bots (number of messages)\n{0} [user] (number of messages)",
         "usage_moveme": "{0} [channel or user]",
@@ -74,7 +74,7 @@
         "examples_move": "{0} {1}\n{0} {1} {2}\n{0} {1} General\n{0} all",
         "examples_lock": "{0}\n {0} #general\n{0} #general Spamming",
         "examples_unlock": "{0}\n {0} #general",
-        "examples_mute": "{0} {1} 1m Spamming\n{0} {1} 1h\n{0} {1} 1d\n{0} {1} 1w\n{0} {1} 1mo\n{0} {1} 1y",
+        "examples_mute": "{0} @Dramex 1m Spamming\n{0} {1} 1h\n{0} @Fnr 1d\n{0} @Fnr 1w\n{0} @Fnr 1mo\n{0} @Dramex 1y",
         "examples_vmute": "{0} {1} 1m annoying\n{0} {1} 1h\n{0} {1} 1d\n{0} {1} 1mo\n{0} {1} 1y",
         "examples_unmute": "{0} {1}\n{0} 157605500488384512",
         "examples_unvmute": "{0} {1}\n{0} 157605500488384512",
@@ -118,7 +118,7 @@
         "examples_untimeout": "{0} {1}\n{0} 157605500488384512",
         "examples_shuffle": "{0}"
     },
-    "website":{
+    "website": {
         "usage_removewarn": "{0} [warnID]\n{0} [user]\n{0} all",
         "usage_clear": "{0} (number of messages)\n{0} bots (number of messages)\n{0} [user] (number of messages)",
         "usage_id": "{0} (user)",
