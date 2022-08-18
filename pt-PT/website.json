@@ -408,7 +408,7 @@
     "leveling_current_channel": "Canal atual",
     "leveling_disabled": "Desabilitado",
     "leveling_no_xp_roles": "Cargos SEM GANHO de XP",
-    "leveling_default_levelup": "[user], atingiu o **nível [level]!** 🥳",
+    "leveling_default_levelup": "🥳 **Parabéns** [user]!\nSubiste do nível **[oldLevel]** para o **[level]**. Força nisso!",
     "leveling_no_xp_channels": "Canais SEM GANHO DE XP",
     "leveling_note": "* Para evitar spam os utilizadores recebem uma quantidade aleatória de XP a cada minuto enquanto conversam",
     "leveling_variables": "[level] - dá o nível\n[user] - menciona o membro\n[user.name] - dá o nome do membro\n[user.tag] - dá a tag do membro\n[oldLevel] - dá o nível anterior",
