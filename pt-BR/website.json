@@ -414,7 +414,7 @@
     "leveling_variables": "[level] - para imprimir dar nível\n[user] - para mencionar o usuário\n[user.username] - para imprimir o nome de usuário\n[user.tag] - para trazer a tag do usuário\n[oldLevel] - para trazer o nível de usuário antigo",
     "leveling_add_role_reward": "Adicionar Cargo de recompensa",
     "Premium": "Premium",
-    "LEADERBOARD": "Tabela de classificação",
+    "LEADERBOARD": "Classificação",
     "transactions_date": "Data",
     "transactions_user": "Usuário",
     "transactions_amount": "Quantidade",
