@@ -38,7 +38,7 @@
 	"color_description": "Altera as cores dos cargos",
 	"colors_description": "Lista todas as cores disponíveis.",
 	"title_description": "Altera o seu título no comando `/profile`.",
-	"reset_description": "Reseta os pontos de xp de texto/voz/convites de todos os membros.",
+	"reset_description": "Redefinir texto/voz/convites/limites pontos xp para todos ou membros específicos.",
 	"rep_description": "Recompensa alguém com um ponto de reputação. Pode apenas ser usado uma vez a cada 24 horas.",
 	"daily_description": "Dá seu salário diário.",
 	"vip_description": "Mostra informações sobre o bot premium.",
