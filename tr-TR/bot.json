@@ -215,7 +215,7 @@
 	"move_being_moved": ":white_check_mark: ** Tüm üyeler hareket ettiriliyor!**",
 	"move_more_specific": ":rolling_eyes: - ** Lütfen daha açıklayıcı olun ** ```{0} ```",
 	"move_cant_find": ":rolling_eyes: - {0}'ı **Bulamıyorum**",
-	"move_already_in": ":white_check_mark: ** {0} zaten bir ses kanalında!**",
+	"move_already_in": ":warning: ** {0} zaten bir ses kanalında!**",
 	"move_channel_full": ":rolling_eyes: - ** Bu kanal dolu! [{0}/{1}] **",
 	"move_moved_to": ":white_check_mark: ** {0} {1}'e hareket ettirildi!**",
 	"move_ins_perm": ":rolling_eyes: - ** Yetersiz İzin **",
