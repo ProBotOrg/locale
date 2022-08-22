@@ -69,7 +69,7 @@
 	"Wrong color number": "Грешен цветен номер",
 	"You should enter numbers :1234:": "You should enter numbers :1234:",
 	":rolling_eyes: - **I can't find this command.**": ":rolling_eyes: - **I can't find this command.**",
-	"examples": "Пример",
+	"examples": "Пример:",
 	"Invites": "Покани",
 	"lock_must_has_manage_channels": ":rolling_eyes: ** `Manage Channels` is required for this action.**",
 	"channel_has_been_locked": "**:lock: {0} беше каключен.**",
