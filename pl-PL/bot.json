@@ -259,7 +259,7 @@
 	"music_Resumed": ":notes: Wznowienie muzyki **{0}**.",
 	"music_must_be": ":no_entry_sign: Musi być odtwarzana muzyka!",
 	"music_player_paused": ":bulb: Odtwarzanie muzyki zostało wstrzymane! Wpisz `/resume`, aby wznowić odtwarzanie muzyki!",
-	"music_paused": ":notes: Wstrzymano **{0}**. Wpisz `/play`, aby wznowić odtwarzanie muzyki!",
+	"music_paused": ":notes: Wstrzymano **{0}**. Wpisz `/resume`, aby wznowić odtwarzanie muzyki!",
 	"music_player_stopped": ":notes: Zatrzymano odtwarzanie muzyki oraz wyczyszczono utwory znajdujące się w kolejce.",
 	"music_example_seek": ":rolling_eyes: - Przykład `/seek 2:12`",
 	"music_song_not_long": ":rolling_eyes: - Piosenka nie jest taka długa.",
