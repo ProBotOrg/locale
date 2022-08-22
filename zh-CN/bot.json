@@ -261,7 +261,7 @@
 	"music_player_paused": ":bulb: 玩家已暂停！使用 `/resume` 来继续暂停！",
 	"music_paused": ":notes: 暂停了**{0}**。输入 `/resume` 以继续！",
 	"music_player_stopped": ":notes: 已经停止，队列已被清除。",
-	"music_example_seek": ":rolling_eyes: - 示例 `#seek 2:12`",
+	"music_example_seek": ":rolling_eyes: - 示例 `/seek 2:12`",
 	"music_song_not_long": ":rolling_eyes: - 歌曲不那么长。",
 	"music_volume": ":no_entry_sign: 音量必须是0到150之间有效的整数!",
 	"music_wrong_skip": ":rolling_eyes: **错误的跳过编号**",
