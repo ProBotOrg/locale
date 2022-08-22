@@ -259,7 +259,7 @@
 	"music_Resumed": ":notes: Jatkosi **{0}**.",
 	"music_must_be": ":no_entry_sign: Täytyy soittaa musiikkia käyttääksesi sitä!",
 	"music_player_paused": ":bulb: Soitin on jo keskeytetty! Käytä `/resume` pysäyttääksesi!",
-	"music_paused": ":notes: Keskeytetty **{0}**. Kirjoita `/play` keskeytyksen poistamiseksi!",
+	"music_paused": ":notes: Keskeytetty **{0}**. Kirjoita `/resume` keskeytyksen poistamiseksi!",
 	"music_player_stopped": ":notes: Soitin on pysähtynyt ja jono on tyhjennetty.",
 	"music_example_seek": ":rolling_eyes: - Esimerkki `/seek 2:12`",
 	"music_song_not_long": ":rolling_eyes: - Kappale ei ole niin pitkä.",
