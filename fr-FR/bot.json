@@ -37,7 +37,7 @@
 	"credits_description": "Montre votre solde ou celui de quelqu'un d'autre.",
 	"color_description": "Changer la couleur d'un rôle.",
 	"colors_description": "Lister toutes les couleurs disponibles.",
-	"title_description": "Change votre titre dans la commande `/profile`",
+	"title_description": "Change votre titre dans la commande `/profile`.",
 	"reset_description": "Réinitialise les points d'XP de texte / voix / invitations pour tous les membres.",
 	"rep_description": "Récompenser quelqu'un avec un point de réputation. Ne peut être utilisé qu'une seule fois toutes les 24 heures.",
 	"daily_description": "Réclamez votre salaire quotidien.",
