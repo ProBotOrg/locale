@@ -331,7 +331,7 @@
 	"protection_permissions_removed": ":white_check_mark: **{0}** : İzinler kaldırıldı",
 	"protection_removed_from_member": ":white_check_mark: **{0}** : Üyeden kaldırıldı",
 	"protection_action": "**Eylem:**",
-	"protection_backup_saved": "☁ **Roller Bulut Yedeği kaydedildi.**",
+	"protection_backup_saved": "☁ **Rollerin Buluta Yedeği kaydedildi.**",
 	"protection_restore_backup_use": "Yedeklemeyi yenilemek için bu komutu kullanın: ```#restore {0}```",
 	"protection_from_bots": "**{0}** botlara sahiptir : {1}\n**İşlem yapıldı :slight_smile: **",
 	"protection_deleted_auto_role": "**{0} ({1}) otomatik rolü sildi**: {2}.\n**İşlem yapılıyor...**",
