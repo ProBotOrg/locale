@@ -721,13 +721,13 @@
     "resume_description": "Resumes the currently paused track.",
     "protection_bots_warning": "These limits might not apply to bots due to how they work, be careful from inviting unknown bots.",
     "bot_require_invite": "SELECT THE BOT YOU WANT TO INVITE",
-    "temp_module": "Temp Channels",
+    "temp_module": "Temporary Channels.",
     "category": "CATEGORY",
     "temp_category_description": "New temporary channels will be under this category",
     "temp_create_channel": "CREATE CHANNEL",
-    "temp_create_channel_description": "When a user joins this channel it creates a temp channel for them",
+    "temp_create_channel_description": "When a user joins this channel, it creates a temp channel for them",
     "temp_time": "TIME",
-    "temp_time_description": "The Seconds to delete the temp channel after 0 members are in it",
+    "temp_time_description": "The seconds for removing the temporary channel after 0 members are in it.",
     "temp_max": "MAX",
-    "temp_max_description": "How many channels a user can create at the same time."
+    "temp_max_description": "The number of channels a user may create at once."
 }
