@@ -717,8 +717,16 @@
     "commands_moderation_description": "نظم و مدیریت خود را با این دستورات قدرت دهید!",
     "commands_music_description": "از موسیقی با بالاترین کیفیت لذت ببرید با بیش از 10 دستور متنوع!",
     "commands_premium_description": "بات پریمیوم خود را با این ویژگی ها مدیریت کنید!",
-    "shuffle_description": "پخش تصادفی صف پخش فعلی",
+    "shuffle_description": "پخش تصادفی پلی لیست فعلی",
     "resume_description": "آهنگ فعلی متوقف شده را ادامه می دهد",
     "protection_bots_warning": "این محدودیت ها ممکن است روی بات ها اعمال نشوند بخاطر نحوه‌ای که کار می کنند، در دعوت کردن بات های ناشناس مراقب باشید.",
-    "bot_require_invite": "باتی را که می‌خواهید دعوت کنید را انتخاب کنید"
+    "bot_require_invite": "باتی را که می‌خواهید دعوت کنید را انتخاب کنید",
+    "temp_module": "Temporary Channels.",
+    "category": "CATEGORY",
+    "temp_category_description": "New temporary channels will be under this category",
+    "temp_create_channel": "CREATE CHANNEL",
+    "temp_create_channel_description": "When a user joins this channel, it creates a temp channel for them",
+    "temp_time": "Time to delete the channel in seconds",
+    "temp_max": "Max channels user can create at the same time",
+    "temp_max_description": "The number of channels a user may create at once."
 }
