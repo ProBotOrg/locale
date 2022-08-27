@@ -466,5 +466,6 @@
 	"confirm": "확인",
 	"lock_already_locked": "**:x: {0} 채널이 이미 잠겼어요.**",
 	"reset_type_description": "초기화할 유형 선택",
-	"reset_user_description": "스탯을 초기화할 멤버"
+	"reset_user_description": "스탯을 초기화할 멤버",
+	"button_someone_else": ":x: This button belongs to someone else."
 }
