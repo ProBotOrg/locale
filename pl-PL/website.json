@@ -720,5 +720,13 @@
     "shuffle_description": "Miesza bieżącą kolejkę.",
     "resume_description": "Wznawia aktualnie wstrzymany utwór.",
     "protection_bots_warning": "Ograniczenia te mogą nie dotyczyć botów ze względu na sposób ich działania. Uważaj, aby nie zapraszać nieznanych botów.",
-    "bot_require_invite": "WYBIERZ BOTA, KTÓREGO CHCESZ ZAPROSIĆ"
+    "bot_require_invite": "WYBIERZ BOTA, KTÓREGO CHCESZ ZAPROSIĆ",
+    "temp_module": "Temporary Channels.",
+    "category": "CATEGORY",
+    "temp_category_description": "New temporary channels will be under this category",
+    "temp_create_channel": "CREATE CHANNEL",
+    "temp_create_channel_description": "When a user joins this channel, it creates a temp channel for them",
+    "temp_time": "Time to delete the channel in seconds",
+    "temp_max": "Max channels user can create at the same time",
+    "temp_max_description": "The number of channels a user may create at once."
 }
