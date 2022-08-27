@@ -720,5 +720,13 @@
     "shuffle_description": "Mélangez la file d'attente actuelle !",
     "resume_description": "Reprend la piste actuellement en pause.",
     "protection_bots_warning": "Ces limites peuvent ne pas s'appliquer aux bots en raison de leur fonctionnement, faites attention à ne pas inviter des bots inconnus.",
-    "bot_require_invite": "SÉLECTIONNEZ LE BOT QUE VOUS SOUHAITEZ INVITER"
+    "bot_require_invite": "SÉLECTIONNEZ LE BOT QUE VOUS SOUHAITEZ INVITER",
+    "temp_module": "Temporary Channels.",
+    "category": "CATEGORY",
+    "temp_category_description": "New temporary channels will be under this category",
+    "temp_create_channel": "CREATE CHANNEL",
+    "temp_create_channel_description": "When a user joins this channel, it creates a temp channel for them",
+    "temp_time": "Time to delete the channel in seconds",
+    "temp_max": "Max channels user can create at the same time",
+    "temp_max_description": "The number of channels a user may create at once."
 }
