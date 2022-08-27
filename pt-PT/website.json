@@ -720,5 +720,13 @@
     "shuffle_description": "Misture a fila atual!",
     "resume_description": "Continua a faixa atualmente em pausa.",
     "protection_bots_warning": "Esses limites podem não se aplicar aos bots devido ao modo de como eles funcionam, tenha cuidado ao convidar bots desconhecidos.",
-    "bot_require_invite": "SELECIONE O BOT QUE QUER CONVIDAR"
+    "bot_require_invite": "SELECIONE O BOT QUE QUER CONVIDAR",
+    "temp_module": "Temporary Channels.",
+    "category": "CATEGORY",
+    "temp_category_description": "New temporary channels will be under this category",
+    "temp_create_channel": "CREATE CHANNEL",
+    "temp_create_channel_description": "When a user joins this channel, it creates a temp channel for them",
+    "temp_time": "Time to delete the channel in seconds",
+    "temp_max": "Max channels user can create at the same time",
+    "temp_max_description": "The number of channels a user may create at once."
 }
