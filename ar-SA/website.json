@@ -721,12 +721,12 @@
     "resume_description": "إستئناف الموسيقى الذي تمت إيقافها.",
     "protection_bots_warning": "قد لا تنطبق هذه الحدود على البوت بسبب كيفية عملها، كن حذراً من دعوة بوت غير معروف.",
     "bot_require_invite": "إختر البوت الذي تريد دعوته",
-    "temp_module": "Temporary Channels.",
-    "category": "CATEGORY",
-    "temp_category_description": "New temporary channels will be under this category",
-    "temp_create_channel": "CREATE CHANNEL",
-    "temp_create_channel_description": "When a user joins this channel, it creates a temp channel for them",
-    "temp_time": "Time to delete the channel in seconds",
-    "temp_max": "Max channels user can create at the same time",
-    "temp_max_description": "The number of channels a user may create at once."
+    "temp_module": "الرومات المؤقتة.",
+    "category": "كاتجوري",
+    "temp_category_description": "الرومات المؤقتة الجديدة ستكون تحت هذا الكاتجوري",
+    "temp_create_channel": "أنشاء روم",
+    "temp_create_channel_description": "عند دخول عضو الى هذا الروم, سيتم أنشاء روم مؤقت لهم",
+    "temp_time": "الوقت لحذف الرومات المؤقتة بالثواني",
+    "temp_max": "الحد الاقصى للرومات التي يمكن للعضو انشائها في نفس الوقت.",
+    "temp_max_description": "عدد الرومات التي يمكن للمستخدم إنشاؤها في نفس الوقت."
 }
