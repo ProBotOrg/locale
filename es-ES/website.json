@@ -720,5 +720,13 @@
     "shuffle_description": "¡Mezcla la cola actual!",
     "resume_description": "Reanuda la pista actualmente en pausa.",
     "protection_bots_warning": "Estos límites podrían no aplicarse a los bots debido a su funcionamiento, ten cuidado con invitar a bots desconocidos.",
-    "bot_require_invite": "SELECCIONA EL BOT QUE QUIERES INVITAR"
+    "bot_require_invite": "SELECCIONA EL BOT QUE QUIERES INVITAR",
+    "temp_module": "Temporary Channels.",
+    "category": "CATEGORY",
+    "temp_category_description": "New temporary channels will be under this category",
+    "temp_create_channel": "CREATE CHANNEL",
+    "temp_create_channel_description": "When a user joins this channel, it creates a temp channel for them",
+    "temp_time": "Time to delete the channel in seconds",
+    "temp_max": "Max channels user can create at the same time",
+    "temp_max_description": "The number of channels a user may create at once."
 }
