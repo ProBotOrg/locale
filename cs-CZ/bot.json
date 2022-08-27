@@ -466,5 +466,6 @@
 	"confirm": "Potvrdit",
 	"lock_already_locked": "**:x: Kanál je již uzamčen {0}.**",
 	"reset_type_description": "Vyber typ resetu",
-	"reset_user_description": "Uživatel, kterému mají být obnoveny statistiky."
+	"reset_user_description": "Uživatel, kterému mají být obnoveny statistiky.",
+	"button_someone_else": ":x: This button belongs to someone else."
 }
