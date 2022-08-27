@@ -14,7 +14,7 @@
     "blacklisted_note": "Dies ist ein 1-mal-Ticket, verschwende es nicht",
     "aliases": "Aliase:",
     "examples": "Beispiele:",
-    "24/7_description": "Schaltet den 24/7-Modus ein/aus, so dass der Bot den Sprachkanal nicht verlässt, bis du ihn stoppst.",
+    "24/7_description": "Schaltet den 24/7-Modus um, so dass der Bot den Sprachkanal nicht verlässt, bis du ihn stoppst.",
     "MODULE_SETTINGS": "MODULEINSTELLUNGEN",
     "GENERAL": "ALLGEMEIN",
     "OVERVIEW": "Übersicht",
@@ -720,5 +720,13 @@
     "shuffle_description": "Mische die aktuelle Warteschlange!",
     "resume_description": "Spielt das pausierte Lied weiter.",
     "protection_bots_warning": "Diese Grenzwerte gelten möglicherweise nicht für Bots, da sie funktionieren, seien Sie vorsichtig vor der Einladung unbekannter Bots.",
-    "bot_require_invite": "WÄHLEN SIE DEN BOT DEN SIE EINLADEN MÖCHTEN"
+    "bot_require_invite": "WÄHLEN SIE DEN BOT DEN SIE EINLADEN MÖCHTEN",
+    "temp_module": "Temporary Channels.",
+    "category": "CATEGORY",
+    "temp_category_description": "New temporary channels will be under this category",
+    "temp_create_channel": "CREATE CHANNEL",
+    "temp_create_channel_description": "When a user joins this channel, it creates a temp channel for them",
+    "temp_time": "Time to delete the channel in seconds",
+    "temp_max": "Max channels user can create at the same time",
+    "temp_max_description": "The number of channels a user may create at once."
 }
