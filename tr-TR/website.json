@@ -14,7 +14,7 @@
     "blacklisted_note": "Bu tek seferlik bir bilet, boşa harcamayın",
     "aliases": "Takma Adlar:",
     "examples": "Örnekler:",
-    "24/7_description": "24/7 modunu açar/kapar; bu, botun siz durdurana dek ses kanalından ayrılmamasını sağlar.",
+    "24/7_description": "24/7 modunu açar/kapar. Bu, botun siz durdurana kadar ses kanalından ayrılmamasını sağlar.",
     "MODULE_SETTINGS": "MODÜL AYARLARI",
     "GENERAL": "GENEL",
     "OVERVIEW": "Genel bakış",
@@ -720,5 +720,13 @@
     "shuffle_description": "Çalma listesi sırasını karıştırır!",
     "resume_description": "Durdurulmuş müziği devam ettirir.",
     "protection_bots_warning": "Bu limitler, çalışma tarzları nedeniyle botlar için geçerli olmayabilir, bilinmeyen botları davet ederken dikkatli olun.",
-    "bot_require_invite": "DAVET ETMEK İSTEDİĞİNİZ BOT'U SEÇİN"
+    "bot_require_invite": "DAVET ETMEK İSTEDİĞİNİZ BOT'U SEÇİN",
+    "temp_module": "Temporary Channels.",
+    "category": "CATEGORY",
+    "temp_category_description": "New temporary channels will be under this category",
+    "temp_create_channel": "CREATE CHANNEL",
+    "temp_create_channel_description": "When a user joins this channel, it creates a temp channel for them",
+    "temp_time": "Time to delete the channel in seconds",
+    "temp_max": "Max channels user can create at the same time",
+    "temp_max_description": "The number of channels a user may create at once."
 }
