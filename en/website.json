@@ -726,8 +726,7 @@
     "temp_category_description": "New temporary channels will be under this category",
     "temp_create_channel": "CREATE CHANNEL",
     "temp_create_channel_description": "When a user joins this channel, it creates a temp channel for them",
-    "temp_time": "TIME",
-    "temp_time_description": "The seconds for removing the temporary channel after 0 members are in it.",
-    "temp_max": "MAX",
+    "temp_time": "Time to delete the channel in seconds",
+    "temp_max": "Max channels user can create at the same time",
     "temp_max_description": "The number of channels a user may create at once."
 }
