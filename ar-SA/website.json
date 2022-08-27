@@ -720,5 +720,13 @@
     "shuffle_description": "خلط قائمة الانتظار الحالية.",
     "resume_description": "إستئناف الموسيقى الذي تمت إيقافها.",
     "protection_bots_warning": "قد لا تنطبق هذه الحدود على البوت بسبب كيفية عملها، كن حذراً من دعوة بوت غير معروف.",
-    "bot_require_invite": "إختر البوت الذي تريد دعوته"
+    "bot_require_invite": "إختر البوت الذي تريد دعوته",
+    "temp_module": "Temporary Channels.",
+    "category": "CATEGORY",
+    "temp_category_description": "New temporary channels will be under this category",
+    "temp_create_channel": "CREATE CHANNEL",
+    "temp_create_channel_description": "When a user joins this channel, it creates a temp channel for them",
+    "temp_time": "Time to delete the channel in seconds",
+    "temp_max": "Max channels user can create at the same time",
+    "temp_max_description": "The number of channels a user may create at once."
 }
