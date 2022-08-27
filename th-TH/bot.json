@@ -466,5 +466,6 @@
 	"confirm": "ยืนยัน",
 	"lock_already_locked": "**:x: Channel is already locked {0}.**",
 	"reset_type_description": "Select the type of the reset",
-	"reset_user_description": "The user to reset stats for."
+	"reset_user_description": "The user to reset stats for.",
+	"button_someone_else": ":x: This button belongs to someone else."
 }
