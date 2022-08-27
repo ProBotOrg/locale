@@ -466,5 +466,6 @@
 	"confirm": "تائید",
 	"lock_already_locked": "**:x: چنل از قبل قفل شده {0}.**",
 	"reset_type_description": "نوع ریست را انتخاب کنید.",
-	"reset_user_description": "کاربری که آمارش باید بازنشانی شوند."
+	"reset_user_description": "کاربری که آمارش باید بازنشانی شوند.",
+	"button_someone_else": ":x: This button belongs to someone else."
 }
