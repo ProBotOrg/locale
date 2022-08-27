@@ -664,7 +664,7 @@
     "billing_no_coupon": "쿠폰 코드를 추가해야 해요",
     "billing_renew": "{0}에 {1} 청구 예정",
     "billing_coupon_code": "쿠폰 코드",
-    "billing_invalid_coupon": "올바르지 않은 쿠폰 코드예요",
+    "billing_invalid_coupon": "유효하지 않은 쿠폰 코드예요",
     "apply": "적용",
     "premium_only": "프리미엄 전용",
     "premium_change_avatar": "아바타 변경",
