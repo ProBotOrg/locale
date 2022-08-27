@@ -720,5 +720,13 @@
     "shuffle_description": "Laat de huidige wachtrij zien.",
     "resume_description": "Hervat het momenteel gepauzeerde nummer.",
     "protection_bots_warning": "Deze limieten zijn mogelijk niet van toepassing op bots vanwege de manier waarop ze werken, pas op dat u onbekende bots niet uitnodigt.",
-    "bot_require_invite": "SELECTEER DE BOT DIE JE WILT UITNODIGEN"
+    "bot_require_invite": "SELECTEER DE BOT DIE JE WILT UITNODIGEN",
+    "temp_module": "Temporary Channels.",
+    "category": "CATEGORY",
+    "temp_category_description": "New temporary channels will be under this category",
+    "temp_create_channel": "CREATE CHANNEL",
+    "temp_create_channel_description": "When a user joins this channel, it creates a temp channel for them",
+    "temp_time": "Time to delete the channel in seconds",
+    "temp_max": "Max channels user can create at the same time",
+    "temp_max_description": "The number of channels a user may create at once."
 }
