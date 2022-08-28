@@ -721,13 +721,13 @@
     "resume_description": "Reprend la piste actuellement en pause.",
     "protection_bots_warning": "Ces limites peuvent ne pas s'appliquer aux bots en raison de leur fonctionnement, faites attention à ne pas inviter des bots inconnus.",
     "bot_require_invite": "SÉLECTIONNEZ LE BOT QUE VOUS SOUHAITEZ INVITER",
-    "temp_module": "Temporary Channels.",
-    "category": "CATEGORY",
-    "temp_category_description": "New temporary channels will be under this category",
-    "temp_create_channel": "CREATE CHANNEL",
-    "temp_create_channel_description": "When a user joins this channel, it creates a temp channel for them",
-    "temp_time": "Time to delete the channel in seconds",
-    "temp_max": "Max channels user can create at the same time",
-    "temp_max_description": "The number of channels a user may create at once.",
-    "temp_channel_module": "Temp Channels"
+    "temp_module": "Salons temporaires.",
+    "category": "Catégories",
+    "temp_category_description": "Les nouvelles chaînes temporaires seront dans cette catégorie",
+    "temp_create_channel": "CRÉER UN SALON",
+    "temp_create_channel_description": "Lorsqu'un utilisateur rejoint ce salon, il crée un salon temporaire pour lui",
+    "temp_time": "Temps de suppression du salon en secondes",
+    "temp_max": "Max salons que l'utilisateur peut créer en même temps",
+    "temp_max_description": "Le nombre de salon qu'un utilisateur peut créer à la fois.",
+    "temp_channel_module": "Salons temporaires"
 }
