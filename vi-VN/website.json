@@ -721,12 +721,13 @@
     "resume_description": "Tiếp tục bài hát đang tạm ngừng.",
     "protection_bots_warning": "Những giới hạn này sẽ không được áp dụng cho bot, cẩn thận với việc mời những bot lạ vào server.",
     "bot_require_invite": "CHỌN MỘT BOT MÀ BẠN MUỐN MỜI",
-    "temp_module": "Temporary Channels.",
-    "category": "CATEGORY",
-    "temp_category_description": "New temporary channels will be under this category",
-    "temp_create_channel": "CREATE CHANNEL",
-    "temp_create_channel_description": "When a user joins this channel, it creates a temp channel for them",
+    "temp_module": "Kênh tạm thời.",
+    "category": "DANH MỤC",
+    "temp_category_description": "Kênh tạm thời được tạo sẽ nằm trong danh mục kênh này",
+    "temp_create_channel": "TẠO KÊNH",
+    "temp_create_channel_description": "Khi người dùng tham gia kênh này, bot sẽ tạo kênh tạm thời cho họ",
     "temp_time": "Time to delete the channel in seconds",
     "temp_max": "Max channels user can create at the same time",
-    "temp_max_description": "The number of channels a user may create at once."
+    "temp_max_description": "The number of channels a user may create at once.",
+    "temp_channel_module": "Temp Channels"
 }
