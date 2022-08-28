@@ -726,8 +726,8 @@
     "temp_category_description": "Kênh tạm thời được tạo sẽ nằm trong danh mục kênh này",
     "temp_create_channel": "TẠO KÊNH",
     "temp_create_channel_description": "Khi người dùng tham gia kênh này, bot sẽ tạo kênh tạm thời cho họ",
-    "temp_time": "Time to delete the channel in seconds",
-    "temp_max": "Max channels user can create at the same time",
-    "temp_max_description": "The number of channels a user may create at once.",
-    "temp_channel_module": "Temp Channels"
+    "temp_time": "Thời gian xóa kênh tạm thời tính theo giây",
+    "temp_max": "Số lượng kênh tối đa mà mọi người dùng có thể tạo",
+    "temp_max_description": "Số lượng kênh mà một người dùng có thể tạo trong một lúc.",
+    "temp_channel_module": "Kênh tạm thời"
 }
