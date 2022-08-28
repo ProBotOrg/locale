@@ -142,7 +142,7 @@
 	"unmute_check_permissions_description": ":rolling_eyes: - Please check my permissions and role position.",
 	"unmute_command_require_description": ":rolling_eyes: -  ** This command requires `Administrator` permission! **",
 	"unmute_unmuting_description": "**Unmuting {0} members.**",
-	"link_must_have_description": ":rolling_eyes: - **The bot must have `Create an instant invite permission on the invite's default channel**",
+	"link_must_have_description": ":rolling_eyes: - **The bot must have `Create Invite` permission on the invite's default channel**",
 	"link_error_description": ":rolling_eyes: - **Error**",
 	"link_cant_find_description": ":rolling_eyes: - **I can't find Link default channel.**",
 	"vip_ownership_successfully_description": "** Ownership transferred successfully **",
