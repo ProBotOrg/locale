@@ -729,5 +729,5 @@
     "temp_time": "Tempo para excluir o canal em segundos",
     "temp_max": "Máximo de canais, usuário pode criar ao mesmo tempo",
     "temp_max_description": "O número de canais que um usuário pode criar de uma vez.",
-    "temp_channel_module": "Temp Channels"
+    "temp_channel_module": "Canais temporários"
 }
