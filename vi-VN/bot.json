@@ -467,5 +467,5 @@
 	"lock_already_locked": "**:x: Kênh này đã bị khoá rồi {0}.**",
 	"reset_type_description": "Chọn nhóm để đặt lại",
 	"reset_user_description": "Người dùng mà bạn muốn đặt lại điểm xp.",
-	"button_someone_else": ":x: This button belongs to someone else."
+	"button_someone_else": ":x: Có người khác đã dùng danh sách chọn này rồi."
 }
