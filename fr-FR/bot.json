@@ -467,5 +467,5 @@
 	"lock_already_locked": "**:x : la chaîne est déjà verrouillée {0}.**",
 	"reset_type_description": "Sélectionnez le type de réinitialisation",
 	"reset_user_description": "L'utilisateur pour lequel réinitialiser les statistiques.",
-	"button_someone_else": ":x: This button belongs to someone else."
+	"button_someone_else": ":x: Ce bouton appartient à quelqu'un d'autre."
 }
