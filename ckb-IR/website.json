@@ -1,6 +1,6 @@
 {
     "rank_description": "پیشاندانی پلەکەی (رانک) تۆ یان هی کەسێکی تر لە سێرڤەر",
-    "clear_description": "ڕەشکردنەوەی نامەکان لە ژوورێک",
+    "clear_description": "Cleans up channel messages.",
     "moveme_description": "ڕاکێشانی تۆ بۆ ژوورێکی دەنگی.",
     "id_description": "پیشاندانی پلەکەی (رانک) تۆ یان هی کەسێکی تر لە سێرڤەر",
     "profile_description": "بینینی پڕۆفایلی خۆت یاخود پرۆفایلی کەسێکی تر",
@@ -59,9 +59,9 @@
     "reset_description": "رێکخستنی دوبارەی نووسین/دەنگ/خاڵی ئێکسپی دەعوەتەکان بۆ هەمووی ئەندامەکان",
     "rep_description": "خەڵاتکردنی نرخی پۆینت بۆ کەسێک . تەنها یەکجار لە 24 کاتژمێر دەتوانێت بەکار بهێنرێت",
     "daily_description": "موچەی رۆژانەت بەدەست بێنە",
-    "vip_description": "پیشاندانی زانیاری دەربارەی بۆتی پرێمیومەکەت",
+    "vip_description": "Shows information about your premium bot.",
     "ping_description": "کاتی وەلامدانەۆەی بۆتەکە تاقی بکەرەوە ",
-    "temp_description": "دروستکردنی ژوری کاتی.",
+    "temp_description": "Creates a temporary channel",
     "deletebackup_description": "سڕینەوەی پاڵپشت",
     "short_description": "کورت کردنەوەی لینک",
     "roll_description": "بەردەزار.",
@@ -729,5 +729,5 @@
     "temp_time": "Time to delete the channel in seconds",
     "temp_max": "Max channels user can create at the same time",
     "temp_max_description": "The number of channels a user may create at once.",
-    "temp_channel_module": "Temp Channels"
+    "temp_channel_module": "Temporary Channels"
 }
