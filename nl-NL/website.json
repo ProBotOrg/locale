@@ -1,6 +1,6 @@
 {
     "rank_description": "Bekijk de rang van u of die van iemand anders op de server.",
-    "clear_description": "Verwijdert berichten van een kanaal.",
+    "clear_description": "Cleans up channel messages.",
     "moveme_description": "Verplaatst je naar een spraakkanaal.",
     "id_description": "Bekijk de rang van u of die van iemand anders op de server.",
     "profile_description": "Bekijk de persoonlijke globale profielkaart van iemand anders of die van jou.",
@@ -59,9 +59,9 @@
     "reset_description": "Reset tekst/spraak/uitnodigingen xp punten voor alle leden of specifieke leden.",
     "rep_description": "Beloon iemand een reputatiepunt. Kan slechts eens per 24 uur gebruikt worden.",
     "daily_description": "Haal je dagsalaris op.",
-    "vip_description": "Geeft info weer over je premium bot.",
+    "vip_description": "Shows information about your premium bot.",
     "ping_description": "Test de bots responstijd.",
-    "temp_description": "Maak een tijdelijk kanaal.",
+    "temp_description": "Creates a temporary channel",
     "deletebackup_description": "Verwijdert de back-up.",
     "short_description": "Verkort een URL.",
     "roll_description": "Rollende dobbelsteen.",
@@ -729,5 +729,5 @@
     "temp_time": "Time to delete the channel in seconds",
     "temp_max": "Max channels user can create at the same time",
     "temp_max_description": "The number of channels a user may create at once.",
-    "temp_channel_module": "Temp Channels"
+    "temp_channel_module": "Temporary Channels"
 }
