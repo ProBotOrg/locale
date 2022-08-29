@@ -1,6 +1,6 @@
 {
     "rank_description": "Lihat kartu peringkat Anda atau kartu orang lain di server ini.",
-    "clear_description": "Membersihkan pesan-pesan dari sebuah channel.",
+    "clear_description": "Cleans up channel messages.",
     "moveme_description": "Memindahmu ke channel suara yang lain.",
     "id_description": "Lihat kartu peringkat Anda atau kartu orang lain di server ini.",
     "profile_description": "Lihat kartu profil global pribadi yang dapat disesuaikan Anda atau orang lain.",
@@ -31,7 +31,7 @@
     "vkick_description": "Menendang anggota dari voice channel",
     "mute_description": "Bisukan anggota dari channel-channel teks sehingga anggota tersebut tidak dapat mengetik.",
     "unmute_description": "Membunyikan anggota.",
-    "vmute_description": "Bisukan anggota dari channel-channel suara sehingga anggota tersebut tidak dapat berbicara.",
+    "vmute_description": "Mute a member so they can't speak in voice channels.",
     "unvmute_description": "Mengaktifkan suara anggota dari channel-channel suara.",
     "untimeout_description": "Removes a timeout from a member.",
     "move_description": "Memindahkan anggota ke channel suara yang lain.",
@@ -59,9 +59,9 @@
     "reset_description": "Mengatur ulang poin pengalaman text/suara/undangan untuk seluruh member atau member spefisik.",
     "rep_description": "Beri seseorang poin reputasi. Hanya dapat digunakan sekali setiap 24 jam.",
     "daily_description": "Dapatkan gaji harianmu.",
-    "vip_description": "Menampilkan info tentang bot premium kamu.",
+    "vip_description": "Shows information about your premium bot.",
     "ping_description": "Uji waktu respon bot.",
-    "temp_description": "Membuat saluran sementara.",
+    "temp_description": "Creates a temporary channel",
     "deletebackup_description": "Menghapus cadangan.",
     "short_description": "Pendekkan alamat URL.",
     "roll_description": "mengguling dadu.",
@@ -560,7 +560,7 @@
     "index_card6_description": "Let your members have the roles they deserve by using the Probot's reaction roles!",
     "error_upload_5": "File type not supported",
     "error_upload_500": "Internal Server Error",
-    "rr_roles_limit": "Roles Limit per User",
+    "rr_roles_limit": "Roles Limit per user",
     "Not_Found_Page": "The page you're looking for can't be found.",
     "delete_this_response": "delete this response",
     "notifications": "Notifications",
@@ -729,5 +729,5 @@
     "temp_time": "Time to delete the channel in seconds",
     "temp_max": "Max channels user can create at the same time",
     "temp_max_description": "The number of channels a user may create at once.",
-    "temp_channel_module": "Temp Channels"
+    "temp_channel_module": "Temporary Channels"
 }
