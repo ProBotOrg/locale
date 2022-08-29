@@ -1,6 +1,6 @@
 {
     "rank_description": "‎.مشاهده کارت رده‌بندی سرور برای خودتان یا شخصی دیگر",
-    "clear_description": "پاک کردن پیام های کانال",
+    "clear_description": "Cleans up channel messages.",
     "moveme_description": "شما را به یک کانال صوتی منتقل می کند",
     "id_description": "‎.مشاهده کارت رده‌بندی سرور برای خودتان یا شخصی دیگر",
     "profile_description": "سفارشی سازی کارت پروفایل شخصی و کلی شما یا کس دیگری را نشان می دهد.",
@@ -59,9 +59,9 @@
     "reset_description": "تنظیم مجدد مقادیر xp متنی/صوتی/دعوت‌ها را برای همه اعضاء.",
     "rep_description": "هدیه دادن یک امتیاز شهرت به یک شخص. فقط می توان هر 24 ساعت یک بار استفاده نمود.",
     "daily_description": "دریافت حقوق روزانه شما.",
-    "vip_description": "اطلاعاتی درباره بات پریمیوم شما نشان می دهد.",
+    "vip_description": "Shows information about your premium bot.",
     "ping_description": "تست مدت زمان پاسخ دادن بات.",
-    "temp_description": "‎.ساخت یک کانال موقتی",
+    "temp_description": "Creates a temporary channel",
     "deletebackup_description": "نسخه پشتیبانی را حذف می کند.",
     "short_description": "یک آدرس اینترنتی را کوتاه می کند.",
     "roll_description": "انداختن تاس.",
@@ -729,5 +729,5 @@
     "temp_time": "Time to delete the channel in seconds",
     "temp_max": "Max channels user can create at the same time",
     "temp_max_description": "The number of channels a user may create at once.",
-    "temp_channel_module": "Temp Channels"
+    "temp_channel_module": "Temporary Channels"
 }
