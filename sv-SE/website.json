@@ -1,6 +1,6 @@
 {
     "rank_description": "Se ditt eller någon annans serverrank kort.",
-    "clear_description": "Rensar meddelanden från en kanal.",
+    "clear_description": "Cleans up channel messages.",
     "moveme_description": "Flyttar dig till en röstkanal.",
     "id_description": "Se ditt eller någon annans serverrank kort.",
     "profile_description": "Visa ditt eller någon annans anpassningsbara personliga globala profilkort.",
@@ -59,9 +59,9 @@
     "reset_description": "Återställ text/röst/inbjudningar xp-poäng för alla medlemmar.",
     "rep_description": "Tilldela någon ett reputation poäng. Kan endast användas en gång per 24 timmar.",
     "daily_description": "Få din dagliga lön.",
-    "vip_description": "Visar information om din premiumbot.",
+    "vip_description": "Shows information about your premium bot.",
     "ping_description": "Testa bottens ping.",
-    "temp_description": "Tillfälliga kanaler.",
+    "temp_description": "Creates a temporary channel",
     "deletebackup_description": "Tar bort säkerhetskopian.",
     "short_description": "Förkorta en webbadress.",
     "roll_description": "kasta tärningar.",
@@ -560,7 +560,7 @@
     "index_card6_description": "Let your members have the roles they deserve by using the Probot's reaction roles!",
     "error_upload_5": "File type not supported",
     "error_upload_500": "Internal Server Error",
-    "rr_roles_limit": "Roles Limit per User",
+    "rr_roles_limit": "Roles Limit per user",
     "Not_Found_Page": "The page you're looking for can't be found.",
     "delete_this_response": "delete this response",
     "notifications": "Notifications",
@@ -729,5 +729,5 @@
     "temp_time": "Time to delete the channel in seconds",
     "temp_max": "Max channels user can create at the same time",
     "temp_max_description": "The number of channels a user may create at once.",
-    "temp_channel_module": "Temp Channels"
+    "temp_channel_module": "Temporary Channels"
 }
