@@ -1,6 +1,6 @@
 {
     "rank_description": "Megjeleníti a tiéd, vagy egy másik felhasználó szerver rangkártyáját.",
-    "clear_description": "Töröl üzeneteket a csatornáról.",
+    "clear_description": "Cleans up channel messages.",
     "moveme_description": "Áthelyez téged egy hangcsatornába.",
     "id_description": "Megjeleníti a tiéd, vagy egy másik felhasználó szerver rangkártyáját.",
     "profile_description": "Megnézi a tiéd vagy egy másik felhasználó testreszabható személyes profilkártyáját.",
@@ -59,9 +59,9 @@
     "reset_description": "Visszaállítja a szöveg/hang/meghívó pontokat az összes felhasználónak.",
     "rep_description": "Megajándékoz valakit jóhír ponttal. 24 óránként egyszer használatos.",
     "daily_description": "Odaadja a napi fizetést.",
-    "vip_description": "Megjeleníti a prémium bot információkat.",
+    "vip_description": "Shows information about your premium bot.",
     "ping_description": "A bot visszajelzési idejének tesztelése.",
-    "temp_description": "Ideiglenes csatornák.",
+    "temp_description": "Creates a temporary channel",
     "deletebackup_description": "Törli a biztonsági mentést.",
     "short_description": "Rövidít egy URL-t.",
     "roll_description": "Eldobja a dobókockát.",
@@ -729,5 +729,5 @@
     "temp_time": "Time to delete the channel in seconds",
     "temp_max": "Max channels user can create at the same time",
     "temp_max_description": "The number of channels a user may create at once.",
-    "temp_channel_module": "Temp Channels"
+    "temp_channel_module": "Temporary Channels"
 }
