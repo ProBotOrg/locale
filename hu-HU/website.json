@@ -61,7 +61,7 @@
     "daily_description": "Odaadja a napi fizetést.",
     "vip_description": "Shows information about your premium bot.",
     "ping_description": "A bot visszajelzési idejének tesztelése.",
-    "temp_description": "Creates a temporary channel",
+    "temp_description": "Létrehoz egy ideiglenes csatornát",
     "deletebackup_description": "Törli a biztonsági mentést.",
     "short_description": "Rövidít egy URL-t.",
     "roll_description": "Eldobja a dobókockát.",
@@ -721,13 +721,13 @@
     "resume_description": "Folytatja az aktuálisan szüneteltetett zeneszámot.",
     "protection_bots_warning": "Ezek a korlátozások nem feltétlenül vonatkoznak a botokra a működésük miatt, óvakodj az ismeretlen botok meghívásától.",
     "bot_require_invite": "VÁLASSZA KI A MEGHÍVNI KÍVÁNT BOTOT",
-    "temp_module": "Temporary Channels.",
-    "category": "CATEGORY",
+    "temp_module": "Ideiglenes csatornák.",
+    "category": "KATEGÓRIA",
     "temp_category_description": "New temporary channels will be under this category",
-    "temp_create_channel": "CREATE CHANNEL",
+    "temp_create_channel": "CSATORNA LÉTREHOZÁSA",
     "temp_create_channel_description": "When a user joins this channel, it creates a temp channel for them",
     "temp_time": "Time to delete the channel in seconds",
     "temp_max": "Max channels user can create at the same time",
     "temp_max_description": "The number of channels a user may create at once.",
-    "temp_channel_module": "Temporary Channels"
+    "temp_channel_module": "Ideiglenes csatornák"
 }
