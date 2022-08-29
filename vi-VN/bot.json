@@ -126,7 +126,7 @@
 	"vkick_not_voice_description": ":rolling_eyes: - **Thành viên đó hiện không ở trong kênh voice!**",
 	"vkick_voice_kicked_description": ":white_check_mark: **Đã đá @{0} khỏi kênh voice!**",
 	"unban_couldnt_user_description": ":rolling_eyes: - Tôi không thể gỡ cấm người dùng đó. Vui lòng xem lại quyền của tôi.",
-	"unban_all_members_description": ":rolling_eyes: - **Bạn cần quyền Quản trị để gỡ cấm tất cả thành viên.**",
+	"unban_all_members_description": ":rolling_eyes: - **Cần có quyền Quản trị để gỡ cấm tất cả thành viên.**",
 	"unban_premium_only_description": "Lệnh này hiện chỉ khả dụng cho premium.",
 	"unban_members_being_description": ":white_check_mark: Đã gỡ cấm **{0}** thành viên.",
 	"unban_unbanned_description": ":white_check_mark: **Đã gỡ cấm {0}!**",
