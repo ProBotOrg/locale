@@ -1,6 +1,6 @@
 {
     "rank_description": "自分または他のメンバーのランクカードを表示",
-    "clear_description": "チャンネルのメッセージを削除",
+    "clear_description": "Cleans up channel messages.",
     "moveme_description": "音声チャンネルへ移動",
     "id_description": "自分または他のメンバーのランクカードを表示",
     "profile_description": "自分または他のメンバーの編集可能なプロフィールカードを表示",
@@ -59,9 +59,9 @@
     "reset_description": "メンバー全員のメッセージ送信数/ボイスチャット/招待数のXPポイントをリセットする",
     "rep_description": "指定したメンバーへ評判ポイントを付与します。24時間に一度しか使用することが出来ません。",
     "daily_description": "日給を取得する",
-    "vip_description": "プレミアムボットに関する情報を表示",
+    "vip_description": "Shows information about your premium bot.",
     "ping_description": "ボットの応答時間を計測する（PING）",
-    "temp_description": "一時的なチャンネルを作成する",
+    "temp_description": "Creates a temporary channel",
     "deletebackup_description": "バックアップを削除",
     "short_description": "URL短縮化",
     "roll_description": "サイコロころがし",
@@ -729,5 +729,5 @@
     "temp_time": "Time to delete the channel in seconds",
     "temp_max": "Max channels user can create at the same time",
     "temp_max_description": "The number of channels a user may create at once.",
-    "temp_channel_module": "Temp Channels"
+    "temp_channel_module": "Temporary Channels"
 }
