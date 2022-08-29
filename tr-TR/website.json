@@ -1,6 +1,6 @@
 {
     "rank_description": "Kendinizin veya başka birinin sunucu rank kartını görüntüleyin.",
-    "clear_description": "Bir kanaldan mesajları temizler.",
+    "clear_description": "Cleans up channel messages.",
     "moveme_description": "Sizi başka bir sesli kanala taşır.",
     "id_description": "Kendinizin veya başka birinin sunucu rank kartını görüntüleyin.",
     "profile_description": "Kendinizin veya bir başkasının özelleştirilebilir kişisel global profil kartını görüntüler.",
@@ -29,9 +29,9 @@
     "kick_description": "Kullanıcıyı sunucudan atar.",
     "timeout_description": "Üyeye zaman aşımı eklenir.",
     "vkick_description": "Üyeyi sesli kanaldan atar.",
-    "mute_description": "Yazılı kanallardan bir üyeyi susturun, böylece yazamazlar.",
+    "mute_description": "Bir üyeyi metin kanallarından susturun, böylece yazamasınlar.",
     "unmute_description": "Üyenin susturmasını kaldırır.",
-    "vmute_description": "Üyeyi sesli kanallarda susturduğunuzda artık konuşamazlar.",
+    "vmute_description": "Bir üyeyi sesli kanallarda susturun, böylece konuşamasınlar.",
     "unvmute_description": "Üyenin sesli kanallardaki susturmasını kaldırır.",
     "untimeout_description": "Üyeden zaman aşımını kaldırır.",
     "move_description": "Üyeyi başka bir ses kanalına taşır.",
@@ -59,9 +59,9 @@
     "reset_description": "Tüm üyeler için yazı/ses/davet xp puanlarını sıfırlar.",
     "rep_description": "Birine bir itibar puanı verin. Yalnızca 24 saatte bir kullanılabilir.",
     "daily_description": "Günlük kredinizi alın.",
-    "vip_description": "Premium botunuz hakkında bilgileri görüntüler.",
+    "vip_description": "Shows information about your premium bot.",
     "ping_description": "Botun tepki süresini test eder.",
-    "temp_description": "Geçici kanallar.",
+    "temp_description": "Creates a temporary channel",
     "deletebackup_description": "Yedeklemeyi siler.",
     "short_description": "Bir URL'yi kısaltır.",
     "roll_description": "zar atın.",
@@ -729,5 +729,5 @@
     "temp_time": "Time to delete the channel in seconds",
     "temp_max": "Max channels user can create at the same time",
     "temp_max_description": "The number of channels a user may create at once.",
-    "temp_channel_module": "Temp Channels"
+    "temp_channel_module": "Temporary Channels"
 }
