@@ -1,6 +1,6 @@
 {
     "rank_description": "Pogledaj svoju ili tuđu rank karticu.",
-    "clear_description": "Čisti poruke iz kanala.",
+    "clear_description": "Cleans up channel messages.",
     "moveme_description": "Prebacuje te u glasovni kanal.",
     "id_description": "Pogledaj svoju ili tuđu rank karticu.",
     "profile_description": "Pogledaj svoju ili tuđu prilagođenu ličnu profilnu karticu.",
@@ -47,7 +47,7 @@
     "stop_description": "Zaustavlja trenutnu pesmu i briše listu naručene muzike.",
     "vol_description": "Menja/Prikazuje trenutnu jačinu zvuka.",
     "pause_description": "Pauzira trenutno reprodukovanu numeru.",
-    "np_description": "Shows the song that the bot is currently playing",
+    "np_description": "Prikazuje koju pesmu bot trenutno reprodukuje.",
     "repeat_description": "Pali i gasi mod za ponavljanje",
     "seek_description": "Traži do određene tačke u trenutnoj numeri.",
     "restore_description": "Vraća rezervnu kopiju!",
@@ -59,9 +59,9 @@
     "reset_description": "Poništava tekst/glasovne/pozivne poene iskusnosti za sve članove.",
     "rep_description": "Nagradite nekoga poenom za reputaciju. Može se nagraditi samo jednom svakih 24 časa.",
     "daily_description": "Uzmi svoju dnevnicu.",
-    "vip_description": "Prikazuje informacije o tvom premium botu.",
+    "vip_description": "Shows information about your premium bot.",
     "ping_description": "Testira vreme odziva bota.",
-    "temp_description": "Privremeni kanali.",
+    "temp_description": "Creates a temporary channel",
     "deletebackup_description": "Briše rezervnu kopiju.",
     "short_description": "Skraćuje URL.",
     "roll_description": "bacanje kockice.",
@@ -560,7 +560,7 @@
     "index_card6_description": "Let your members have the roles they deserve by using the Probot's reaction roles!",
     "error_upload_5": "File type not supported",
     "error_upload_500": "Internal Server Error",
-    "rr_roles_limit": "Roles Limit per User",
+    "rr_roles_limit": "Roles Limit per user",
     "Not_Found_Page": "The page you're looking for can't be found.",
     "delete_this_response": "delete this response",
     "notifications": "Notifications",
@@ -729,5 +729,5 @@
     "temp_time": "Time to delete the channel in seconds",
     "temp_max": "Max channels user can create at the same time",
     "temp_max_description": "The number of channels a user may create at once.",
-    "temp_channel_module": "Temp Channels"
+    "temp_channel_module": "Temporary Channels"
 }
