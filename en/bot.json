@@ -63,7 +63,7 @@
 	"Color has been removed successfully!": "Color has been removed successfully!",
 	"Requested by": "Requested by",
 	"colors_already": ":rolling_eyes: - You already have this color.",
-	"colors_permission": ":rolling_eyes: - **The olor role should not have administrative permissions**",
+	"colors_permission": ":rolling_eyes: - **The color role should not have administrative permissions**",
 	"colors_done": "Color has been changed successfully.",
 	"I don't have permission to give you this color": "I don't have permission to give you this color",
 	"Wrong color number": "Wrong color number",
