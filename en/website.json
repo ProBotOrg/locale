@@ -1,6 +1,6 @@
 {
     "rank_description": "View your rank card or someone else's in the server.",
-    "clear_description": "Cleans messages from a channel.",
+    "clear_description": "Cleans up channel messages.",
     "moveme_description": "Moves you to another voice channel.",
     "id_description": "View your rank card or someone else's in the server.",
     "profile_description": "View your or someone else's customizable personal global profile card.",
@@ -59,7 +59,7 @@
     "reset_description": "Reset text/voice/invites xp points for all or specific members.",
     "rep_description": "Award someone a reputation point. Can only be used once every 24 hours.",
     "daily_description": "Get your daily salary.",
-    "vip_description": "Displays info about your premium bot.",
+    "vip_description": "Shows information about your premium bot.",
     "ping_description": "Test the bots response time.",
     "temp_description": "Makes a temporary channel.",
     "deletebackup_description": "Deletes the backup.",
