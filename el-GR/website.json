@@ -1,6 +1,6 @@
 {
     "rank_description": "Δείτε την κάρτα κατάταξης σας ή κάποιου άλλου στον διακομιστή.",
-    "clear_description": "Καθαρίζει τα μηνύματα από ένα κανάλι.",
+    "clear_description": "Cleans up channel messages.",
     "moveme_description": "Σας μετακινεί σε ένα άλλο κανάλι φωνής.",
     "id_description": "Δείτε την κάρτα κατάταξης σας ή κάποιου άλλου στον διακομιστή.",
     "profile_description": "Δείτε το δικό σας ή κάποιου άλλου εξατομικευμένη παγκόσμια προσωπική κάρτα προφίλ.",
@@ -31,7 +31,7 @@
     "vkick_description": "Εκδιώκει ένα μέλος από ένα κανάλι φωνής.",
     "mute_description": "Κάντε σίγαση ενός μέλους από τα κανάλια κειμένου, ώστε να μην μπορεί να στείλει μηνύματα.",
     "unmute_description": "Unmutes a member.",
-    "vmute_description": "Κάντε σίγαση ενός μέλους από τα κανάλια φωνής για να μην μπορούν να μιλήσουν.",
+    "vmute_description": "Mute a member so they can't speak in voice channels.",
     "unvmute_description": "Αφαιρεί τη σίγαση ενός μέλους από τα κανάλια φωνής.",
     "untimeout_description": "Removes a timeout from a member.",
     "move_description": "Μεταφέρει ένα μέλος σε ένα άλλο κανάλι φωνής.",
@@ -47,7 +47,7 @@
     "stop_description": "Σταματήστε το τρέχον τραγούδι και καθαρίστε ολόκληρη την ουρά μουσικής.",
     "vol_description": "Αλλάζει/Εμφανίζει την τρέχουσα ένταση.",
     "pause_description": "Πάυει το τρέχων τραγούδι.",
-    "np_description": "Shows the song that the bot is currently playing",
+    "np_description": "Δείχνει ποιο τραγούδι το bot παίζει.",
     "repeat_description": "Εναλλάζει την λειτουργία επανάληψης.",
     "seek_description": "Πηγαίνει σε ένα συγκεκριμένο σημείο του τρέχον κομματιού.",
     "restore_description": "Επαναφέρει το αντίγραφο ασφαλείας σας!",
@@ -59,9 +59,9 @@
     "reset_description": "Επαναφέρει τους πόντους xp από μηνύματα/φωνητικά μηνύματα/προσκλήσεις για όλα ή συγκεκριμένα μέλη.",
     "rep_description": "Δώστε σε κάποιον ένα πόντο φήμης. Μπορεί να χρησιμοποιηθεί μόνο μια φορά ανά 24 ώρες.",
     "daily_description": "Λάβετε τον καθημερινό σας μισθό.",
-    "vip_description": "Εμφανίζει πληροφορίες σχετικά με το premium bot σας.",
+    "vip_description": "Shows information about your premium bot.",
     "ping_description": "Ελέγχει το χρόνο απόκρισης του bot.",
-    "temp_description": "Φτιάχνει ένα προσωρινό κανάλι.",
+    "temp_description": "Creates a temporary channel",
     "deletebackup_description": "Διαγράφει το αντίγραφο ασφαλείας.",
     "short_description": "Συντομεύει μια διεύθυνση URL.",
     "roll_description": "rolling dice.",
@@ -560,7 +560,7 @@
     "index_card6_description": "Let your members have the roles they deserve by using the Probot's reaction roles!",
     "error_upload_5": "File type not supported",
     "error_upload_500": "Internal Server Error",
-    "rr_roles_limit": "Roles Limit per User",
+    "rr_roles_limit": "Roles Limit per user",
     "Not_Found_Page": "The page you're looking for can't be found.",
     "delete_this_response": "delete this response",
     "notifications": "Notifications",
@@ -729,5 +729,5 @@
     "temp_time": "Time to delete the channel in seconds",
     "temp_max": "Max channels user can create at the same time",
     "temp_max_description": "The number of channels a user may create at once.",
-    "temp_channel_module": "Temp Channels"
+    "temp_channel_module": "Temporary Channels"
 }
