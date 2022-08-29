@@ -1,6 +1,6 @@
 {
     "rank_description": "Prezrite si svoj rank alebo rank iného člena.\n",
-    "clear_description": "Vyčistí správy z kanála.",
+    "clear_description": "Cleans up channel messages.",
     "moveme_description": "Presunie vás na iný hlasový kanál.",
     "id_description": "Prezrite si svoj rank alebo rank iného člena.\n",
     "profile_description": "Prezrite si svoju osobnú globálnu profilovú kartu prispôsobiteľnú vám alebo niekoho iného.",
@@ -59,9 +59,9 @@
     "reset_description": "Obnoviť text/hlas/pozýva xp body pre všetkých členov.",
     "rep_description": "Ocení niekoho dobré meno. Môže sa používať iba raz za 24 hodín.",
     "daily_description": "Získajte svoj denný plat.\n",
-    "vip_description": "Zobrazuje informácie o vašom prémiovom botovi\n",
+    "vip_description": "Shows information about your premium bot.",
     "ping_description": "Otestujte čas odozvy botov.\n",
-    "temp_description": "Vytvorí dočasný kanály.",
+    "temp_description": "Creates a temporary channel",
     "deletebackup_description": "Odstráni zálohu.\n",
     "short_description": "Skráti webovú adresu.\n",
     "roll_description": "Hodí kockami.\n",
@@ -729,5 +729,5 @@
     "temp_time": "Time to delete the channel in seconds",
     "temp_max": "Max channels user can create at the same time",
     "temp_max_description": "The number of channels a user may create at once.",
-    "temp_channel_module": "Temp Channels"
+    "temp_channel_module": "Temporary Channels"
 }
