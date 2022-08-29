@@ -1,6 +1,6 @@
 {
     "rank_description": "ดูอันดับของคุณหรือของคนอื่นๆ ในเซิร์ฟเวอร์",
-    "clear_description": "ล้างข้อความจากช่องนี้",
+    "clear_description": "Cleans up channel messages.",
     "moveme_description": "ย้ายคุณไปยังช่องเสียงอื่น",
     "id_description": "ดูอันดับของคุณหรือของคนอื่นๆ ในเซิร์ฟเวอร์",
     "profile_description": "ดูโปรไฟล์ที่ปรับแต่งได้ของคุณหรือของคนอื่น",
@@ -59,9 +59,9 @@
     "reset_description": "รีเซ็ตคะแนนข้อความ / เสียง / คำเชิญ xp สำหรับสมาชิกทั้งหมดหรือสมาชิกบางคน",
     "rep_description": "ให้รางวัลคนที่มีชื่อเสียง สามารถใช้ได้หนึ่งครั้งในทุกๆ 24 ชั่วโมง",
     "daily_description": "รับเงินประจำวันของคุณ",
-    "vip_description": "แสดงข้อมูลเกี่ยวกับบอทพรีเมียมของคุณ",
+    "vip_description": "Shows information about your premium bot.",
     "ping_description": "ทดสอบเวลาตอบสนองของบอท",
-    "temp_description": "สร้างช่องสำหรับชั่วคราว",
+    "temp_description": "Creates a temporary channel",
     "deletebackup_description": "ลบข้อมูลสำรอง",
     "short_description": "ย่อ URL",
     "roll_description": "ทอยลูกเต๋า",
@@ -729,5 +729,5 @@
     "temp_time": "Time to delete the channel in seconds",
     "temp_max": "Max channels user can create at the same time",
     "temp_max_description": "The number of channels a user may create at once.",
-    "temp_channel_module": "Temp Channels"
+    "temp_channel_module": "Temporary Channels"
 }
