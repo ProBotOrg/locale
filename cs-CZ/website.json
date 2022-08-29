@@ -1,6 +1,6 @@
 {
     "rank_description": "Zobrazí tvou nebo něčí serverovou kartu hodnosti",
-    "clear_description": "Vymaže zprávy z kanálu.",
+    "clear_description": "Cleans up channel messages.",
     "moveme_description": "Přesune tě do hlasového kanálu.",
     "id_description": "Zobrazí tvou nebo něčí serverovou kartu hodnosti",
     "profile_description": "Zobrazí tvou nebo něčí přizpůsobitelnou osobní globální profilovou kartu.",
@@ -46,7 +46,7 @@
     "queue_description": "Zobrazí frontu aktuálních skladeb v seznamu skladeb.",
     "stop_description": "Zastaví aktuální skladbu a vyčistí celou hudební frontu.",
     "vol_description": "Změní / zobrazí aktuální hlasitost.",
-    "pause_description": "Pozastaví aktuálni skladbu.",
+    "pause_description": "Pozastaví aktuální skladbu.",
     "np_description": "Zobrazí skladbu, kterou bot momentálně přehrává",
     "repeat_description": "Přepne režim opakování.",
     "seek_description": "Vyhledá určitý bod v aktuální skladbě.",
@@ -59,9 +59,9 @@
     "reset_description": "Obnoví textové / hlasové / pozvánkové body zkušeností všem členům.",
     "rep_description": "Věnuje někomu bod reputace. Může být použito pouze jednou za 24 hodin.",
     "daily_description": "Dá ti denní výplatu.",
-    "vip_description": "Zobrazí informace o tvém prémiovém botovi.",
+    "vip_description": "Shows information about your premium bot.",
     "ping_description": "Otestuje dobu odezvy bota.",
-    "temp_description": "Dočasné kanály.",
+    "temp_description": "Creates a temporary channel",
     "deletebackup_description": "Odstraní zálohu.",
     "short_description": "Zkrátí URL.",
     "roll_description": "házím kostkou.",
@@ -729,5 +729,5 @@
     "temp_time": "Time to delete the channel in seconds",
     "temp_max": "Max channels user can create at the same time",
     "temp_max_description": "The number of channels a user may create at once.",
-    "temp_channel_module": "Temp Channels"
+    "temp_channel_module": "Temporary Channels"
 }
