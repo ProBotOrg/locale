@@ -1,6 +1,6 @@
 {
     "rank_description": "Shikoni kartën tuaj të gradës ose të dikujt tjetër në server.",
-    "clear_description": "Pastron mesazhet nga një kanal.",
+    "clear_description": "Cleans up channel messages.",
     "moveme_description": "Ju zhvendos në një kanal tjetër zanor.",
     "id_description": "Shikoni kartën tuaj të gradës ose të dikujt tjetër në server.",
     "profile_description": "Shikoni kartën e personalizimit të profilit global tuaj ose të dikujt tjetër.",
@@ -59,9 +59,9 @@
     "reset_description": "Rivendos tekstin/zërin/fton pikat xp për të gjithë ose anëtarët specifikë.",
     "rep_description": "Award someone a reputation point. Can only be used once every 24 hours.\n",
     "daily_description": "Merrni rrogën tuaj ditore.",
-    "vip_description": "Shfaq informacione rreth robotit tuaj premium.",
+    "vip_description": "Shows information about your premium bot.",
     "ping_description": "Test the bots response time.",
-    "temp_description": "Makes a temporary channel.",
+    "temp_description": "Creates a temporary channel",
     "deletebackup_description": "Deletes the backup.",
     "short_description": "Shortens a URL.",
     "roll_description": "rolling dice.",
@@ -560,7 +560,7 @@
     "index_card6_description": "Let your members have the roles they deserve by using the Probot's reaction roles!",
     "error_upload_5": "File type not supported",
     "error_upload_500": "Internal Server Error",
-    "rr_roles_limit": "Roles Limit per User",
+    "rr_roles_limit": "Roles Limit per user",
     "Not_Found_Page": "The page you're looking for can't be found.",
     "delete_this_response": "delete this response",
     "notifications": "Notifications",
@@ -729,5 +729,5 @@
     "temp_time": "Time to delete the channel in seconds",
     "temp_max": "Max channels user can create at the same time",
     "temp_max_description": "The number of channels a user may create at once.",
-    "temp_channel_module": "Temp Channels"
+    "temp_channel_module": "Temporary Channels"
 }
