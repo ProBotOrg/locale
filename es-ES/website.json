@@ -1,6 +1,6 @@
 {
     "rank_description": "Mira tu tarjeta de rango de servidor o la de otra persona.",
-    "clear_description": "Borra los mensajes de un canal.",
+    "clear_description": "Cleans up channel messages.",
     "moveme_description": "Te mueve a un canal de voz.",
     "id_description": "Mira tu tarjeta de rango de servidor o la de otra persona.",
     "profile_description": "Mira tu tarjeta de perfil personal personal o la de otra persona.",
@@ -59,9 +59,9 @@
     "reset_description": "Restablece texto/voz/invitaciones puntos de xp para todos los miembros.",
     "rep_description": "Otorga a alguien un punto de reputación. Solo se puede utilizar una vez cada 24 horas.",
     "daily_description": "Obtén tu salario diario.",
-    "vip_description": "Muestra información sobre tu bot premium.",
+    "vip_description": "Shows information about your premium bot.",
     "ping_description": "Prueba el tiempo de respuesta de los robots.",
-    "temp_description": "Canales temporales.",
+    "temp_description": "Creates a temporary channel",
     "deletebackup_description": "Elimina la copia de seguridad.",
     "short_description": "Acorta una URL.",
     "roll_description": "Tira un dado",
@@ -729,5 +729,5 @@
     "temp_time": "Time to delete the channel in seconds",
     "temp_max": "Max channels user can create at the same time",
     "temp_max_description": "The number of channels a user may create at once.",
-    "temp_channel_module": "Temp Channels"
+    "temp_channel_module": "Temporary Channels"
 }
