@@ -145,7 +145,7 @@
 	"link_must_have_description": ":rolling_eyes: - **The bot must have `Create Invite` permission on the invite's default channel**",
 	"link_error_description": ":rolling_eyes: - **Error**",
 	"link_cant_find_description": ":rolling_eyes: - **I can't find Link default channel.**",
-	"vip_ownership_successfully_description": "** Ownership has been successfully transferred. **",
+	"vip_ownership_successfully_description": "** Ownership has been transferred successfully .**",
 	"vip_mistake_description": ":rolling_eyes: - Spelling error, make sure to write `confirm`",
 	"vip_twitch_channel_description": "Specify a twitch channel URL:",
 	"vip_wrong_url_description": ":rolling_eyes: - ** Wrong URL, canceling... **",
