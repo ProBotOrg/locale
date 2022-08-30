@@ -8,7 +8,7 @@
 	"top_description": "Zobrazí nejaktivnější členy na serveru",
 	"user_description": "Zobrazí informace, jako je ID a datum připojení, o sobě nebo o jiném uživateli.",
 	"avatar_description": "Zobrazí tvůj avatar nebo avatar někoho jiného.",
-	"server_description": "Zobrazí informace o serveru",
+	"server_description": "Zobrazí informace o serveru.",
 	"roles_description": "Zobrazí seznam serverových rolí a počet členů.",
 	"ban_description": "Zabanuje člena.",
 	"unban_description": "Odbanuje člena.",
@@ -467,5 +467,5 @@
 	"lock_already_locked": "**:x: Kanál je již uzamčen {0}.**",
 	"reset_type_description": "Vyber typ resetu",
 	"reset_user_description": "Uživatel, kterému mají být obnoveny statistiky.",
-	"button_someone_else": ":x: This button belongs to someone else."
+	"button_someone_else": ":x: Toto tlačítko patří někomu jinému."
 }
