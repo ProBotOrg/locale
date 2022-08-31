@@ -480,6 +480,6 @@
 	"vip_avatar_url_description": "The image URL to set in your premium bot.",
 	"vip_transfer_description": "Transfer ownership of your premium bot to another user.",
 	"vip_transfer_user_description": "The user to whom you want to transfer your premium bot.",
-	"vip_whitelist_description": "Whitelist a user to get access to ProBot panel.",
+	"vip_whitelist_description": "Whitelist a user to allow access to the ProBot panel.",
 	"vip_whitelist_user_description": "The user to add / remove from ProBot panel."
 }
