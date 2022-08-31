@@ -471,7 +471,7 @@
 	"vip_choose_placeholder": "Select a status type.",
 	"vip_username_description": "Change the name of your premium bot.",
 	"vip_username_name_description": "The name to set in your premium bot.",
-	"vip_status_description": "Change the status of your premium bot.",
+	"vip_status_description": "Change your premium bot's status.",
 	"vip_status_status_description": "The status to set in your premium bot.",
 	"vip_move_description": "Move your premium bot to another server.",
 	"vip_move_number_description": "Your premium bot id or number.",
