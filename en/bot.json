@@ -467,7 +467,7 @@
 	"lock_already_locked": "**:x: Channel is already locked {0}.**",
 	"reset_type_description": "Select the type of the reset",
 	"reset_user_description": "The user to reset stats for.",
-  "button_someone_else": ":x: This button belongs to someone else.",
+  	"button_someone_else": ":x: This button belongs to someone else.",
 	"vip_choose_placeholder": "Choose status type.",
 	"vip_username_description": "Change the name of your premium bot.",
 	"vip_username_name_description": "The name to set in your premium bot.",
