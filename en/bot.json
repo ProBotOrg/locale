@@ -476,7 +476,7 @@
 	"vip_move_description": "Transfer your premium bot to a new server.",
 	"vip_move_number_description": "Your premium bot number or ID.",
 	"vip_restart_description": "Restart your premium bot.",
-	"vip_avatar_description": "Change the avatar of your premium bot.",
+	"vip_avatar_description": "Change your premium bot's avatar.",
 	"vip_avatar_url_description": "The image url to set in your premium bot.",
 	"vip_transfer_description": "Transfer your premium bot to another user.",
 	"vip_transfer_user_description": "The user to transfer your premium bot to.",
