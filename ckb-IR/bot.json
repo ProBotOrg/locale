@@ -6,7 +6,7 @@
 	"moveme_description": "ڕاکێشانی تۆ بۆ ژوورێکی دەنگی.",
 	"profile_description": "بینینی پڕۆفایلی خۆت یاخود پرۆفایلی کەسێکی تر",
 	"top_description": "نیشان دانی ئەندامانێک بە زۆرترین خاڵی سێرڤەر یان ئێکس پی جیهانی",
-	"user_description": "پیشاندانی زانیاری، ایدیەکەت وە کاتی هاتنە ژورەوەت، دەربارەی خۆت یان هی بەکارهێنەر",
+	"user_description": "پیشاندانی زانیاری، ئایدیەکەت وە کاتی هاتنە ژورەوەت، دەربارەی خۆت یان هی بەکارهێنەر.",
 	"avatar_description": "بەدەستهێنانی وێنەی بچوکی بەکارهێنەرەکان",
 	"server_description": "پیشاندانی زانیاری دەربارەی سێرڤەرەکە",
 	"roles_description": "پیشاندانی لیستی رۆڵەکانی سێرڤەرەکە و ژمارەی ئەندامەکانی نێوی",
@@ -221,7 +221,7 @@
 	"move_ins_perm": ":rolling_eyes: -  ** مۆڵەتی تەواوم نییە **",
 	"move_confirm": ":information_source: **ئایە دلنیایت؟ (y) بنوسە بۆ دوپاتکردنەوە **",
 	"move_cant_find_channel": ":rolling_eyes: - **ناتوانم ژووری دیاری کراو بدۆزمەوە**",
-	"color_error": ":rolling_eyes: - هەڵەیک هەیە! گەر لەناکاو ڕویداوە تکایە پەیوەندیمان پێوە بکە.",
+	"color_error": "هەڵەیک هەیە! گەر لەناکاو ڕویداوە تکایە پەیوەندیمان پێوە بکە.",
 	"time_reasons_limit": ":rolling_eyes: - ** سنوری کاتەکە بە یەکێک لەمانە دیاری بکە (h, d, w, m ,y) **",
 	"user_warn_warned": ":white_check_mark: ** {0}@ وریاکرایەوە!**",
 	"user_warn_you_are_warned": ":warning: ** تۆ وریاکرایتەوە! **",
@@ -236,7 +236,7 @@
 	"server_others_value": "**ئاستی دڵنیایی**: {0}",
 	"server_roles": ":closed_lock_with_key:  ڕۆڵەکان ({0})",
 	"server_roles_value": "بۆ بینینی هەموو ڕۆڵەکان **roles/** بەکاربێنە",
-	"temp_activated": ":white_check_mark: ** خزمەتگوزارییەکە بە سەرکەوتوویی چاڵاککرا**",
+	"temp_activated": "خزمەتگوزارییەکە بە سەرکەوتوویی چاڵاککرا",
 	"temp_need_enabled": ":rolling_eyes: - ** ژوورە کاتییەکان پێویستە چاڵاککرابن بۆ بەکارهێنان ئەم خزمەتگوزارییە، دەتوانی ئەمە بکەیت بە بەکارهێنانی `/temp on` **",
 	"temp_disabled": ":white_check_mark: ** خزمەتگوزارییەکە بە سەرکەوتووی لەکارخرا **",
 	"temp_updated": ":white_check_mark: ** خزمەتگوزارییەکە بەسەرکەوتوویی نوێکراوە **",
@@ -466,5 +466,6 @@
 	"confirm": "Confirm",
 	"lock_already_locked": "**:x: Channel is already locked {0}.**",
 	"reset_type_description": "Select the type of the reset",
-	"reset_user_description": "The user to reset stats for."
+	"reset_user_description": "The user to reset stats for.",
+	"button_someone_else": ":x: This button belongs to someone else."
 }

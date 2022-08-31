@@ -1,6 +1,6 @@
 {
     "rank_description": "Apana ya kisee aur ka server rank kaard dekhen.",
-    "clear_description": "Ek channel ke sandeshon ko saaph karata hai.",
+    "clear_description": "Cleans up channel messages.",
     "moveme_description": "Aapako ek voice channel par le jaata hai.",
     "id_description": "Apana ya kisee aur ka server rank kaard dekhen.",
     "profile_description": "aapaka ya kisee aur ka anukoolan yogy vyaktigat vaishvik profail kaard dekhen.",
@@ -59,9 +59,9 @@
     "reset_description": "सभी या चूनिंदा मेंबर के टेक्स्ट, वौइस्, इन्वितेस एक्सपी पॉइंट्स फॉर रिसेट करें .",
     "rep_description": "kisee ko pratishtha ka puraskaar dena. har 24 ghante mein ek baar hee istemaal kiya ja sakata hai.",
     "daily_description": "apana dainik vetan praapt karen.",
-    "vip_description": "aapake preemiyam bot ke baare mein jaanakaaree pradarshit karata hai.",
+    "vip_description": "Shows information about your premium bot.",
     "ping_description": "bot pratikriya samay ka pareekshan karen.",
-    "temp_description": "asthaayee chainal.",
+    "temp_description": "Creates a temporary channel",
     "deletebackup_description": "baikap hataata hai.",
     "short_description": "url ko chhota karata hai.",
     "roll_description": "ludhakata paasa.",
@@ -720,5 +720,14 @@
     "shuffle_description": "Shuffle the current queue!",
     "resume_description": "अभी चल रहे गाने को रोक देता है ",
     "protection_bots_warning": "These limits might not apply to bots due to how they work, be careful from inviting unknown bots.",
-    "bot_require_invite": "SELECT THE BOT YOU WANT TO INVITE"
+    "bot_require_invite": "SELECT THE BOT YOU WANT TO INVITE",
+    "temp_module": "Temporary Channels.",
+    "category": "CATEGORY",
+    "temp_category_description": "New temporary channels will be under this category",
+    "temp_create_channel": "CREATE CHANNEL",
+    "temp_create_channel_description": "When a user joins this channel, it creates a temp channel for them",
+    "temp_time": "Time to delete the channel in seconds",
+    "temp_max": "Max channels user can create at the same time",
+    "temp_max_description": "The number of channels a user may create at once.",
+    "temp_channel_module": "Temporary Channels"
 }

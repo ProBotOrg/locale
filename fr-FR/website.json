@@ -1,6 +1,6 @@
 {
     "rank_description": "Affichez la carte de classement de votre serveur ou celle de quelqu'un d'autre.",
-    "clear_description": "Supprime tous les messages d'un salon.",
+    "clear_description": "Cleans up channel messages.",
     "moveme_description": "Vous déplace vers un salon vocal.",
     "id_description": "Affichez la carte de classement de votre serveur ou celle de quelqu'un d'autre.",
     "profile_description": "Consultez votre carte de profil globale personnelle ou celle de quelqu'un d'autre.",
@@ -59,9 +59,9 @@
     "reset_description": "Réinitialise les points d'XP de texte / voix / invitations pour tous les membres.",
     "rep_description": "Récompenser quelqu'un avec un point de réputation. Ne peut être utilisé qu'une seule fois toutes les 24 heures.",
     "daily_description": "Réclamez votre salaire quotidien.",
-    "vip_description": "Affiche des informations à propos de votre bot prenium.",
+    "vip_description": "Shows information about your premium bot.",
     "ping_description": "Teste le temps de réponse du bot.",
-    "temp_description": "Salons temporaires.",
+    "temp_description": "Creates a temporary channel",
     "deletebackup_description": "Supprime la sauvegarde.",
     "short_description": "Raccourcit un lien URL.",
     "roll_description": "Lance les dés.",
@@ -720,5 +720,14 @@
     "shuffle_description": "Mélangez la file d'attente actuelle !",
     "resume_description": "Reprend la piste actuellement en pause.",
     "protection_bots_warning": "Ces limites peuvent ne pas s'appliquer aux bots en raison de leur fonctionnement, faites attention à ne pas inviter des bots inconnus.",
-    "bot_require_invite": "SÉLECTIONNEZ LE BOT QUE VOUS SOUHAITEZ INVITER"
+    "bot_require_invite": "SÉLECTIONNEZ LE BOT QUE VOUS SOUHAITEZ INVITER",
+    "temp_module": "Salons temporaires.",
+    "category": "Catégories",
+    "temp_category_description": "Les nouvelles chaînes temporaires seront dans cette catégorie",
+    "temp_create_channel": "CRÉER UN SALON",
+    "temp_create_channel_description": "Lorsqu'un utilisateur rejoint ce salon, il crée un salon temporaire pour lui",
+    "temp_time": "Temps de suppression du salon en secondes",
+    "temp_max": "Max salons que l'utilisateur peut créer en même temps",
+    "temp_max_description": "Le nombre de salon qu'un utilisateur peut créer à la fois.",
+    "temp_channel_module": "Salons temporaires"
 }

@@ -1,6 +1,6 @@
 {
     "rank_description": "自分または他のメンバーのランクカードを表示",
-    "clear_description": "チャンネルのメッセージを削除",
+    "clear_description": "チャンネルのメッセージをクリーンアップする",
     "moveme_description": "音声チャンネルへ移動",
     "id_description": "自分または他のメンバーのランクカードを表示",
     "profile_description": "自分または他のメンバーの編集可能なプロフィールカードを表示",
@@ -59,7 +59,7 @@
     "reset_description": "メンバー全員のメッセージ送信数/ボイスチャット/招待数のXPポイントをリセットする",
     "rep_description": "指定したメンバーへ評判ポイントを付与します。24時間に一度しか使用することが出来ません。",
     "daily_description": "日給を取得する",
-    "vip_description": "プレミアムボットに関する情報を表示",
+    "vip_description": "プレミアムボットに関する情報を表示する",
     "ping_description": "ボットの応答時間を計測する（PING）",
     "temp_description": "一時的なチャンネルを作成する",
     "deletebackup_description": "バックアップを削除",
@@ -720,5 +720,14 @@
     "shuffle_description": "Shuffle the current queue!",
     "resume_description": "Resumes the currently paused track.",
     "protection_bots_warning": "These limits might not apply to bots due to how they work, be careful from inviting unknown bots.",
-    "bot_require_invite": "SELECT THE BOT YOU WANT TO INVITE"
+    "bot_require_invite": "SELECT THE BOT YOU WANT TO INVITE",
+    "temp_module": "Temporary Channels.",
+    "category": "CATEGORY",
+    "temp_category_description": "New temporary channels will be under this category",
+    "temp_create_channel": "CREATE CHANNEL",
+    "temp_create_channel_description": "When a user joins this channel, it creates a temp channel for them",
+    "temp_time": "Time to delete the channel in seconds",
+    "temp_max": "Max channels user can create at the same time",
+    "temp_max_description": "The number of channels a user may create at once.",
+    "temp_channel_module": "Temporary Channels"
 }

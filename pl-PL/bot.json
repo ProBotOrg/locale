@@ -466,5 +466,6 @@
 	"confirm": "Potwierdź",
 	"lock_already_locked": "**:x: Kanał jest już zablokowany {0}.**",
 	"reset_type_description": "Wybierz typ resetowania",
-	"reset_user_description": "Użytkownik, którego statystyki chcesz zresetować."
+	"reset_user_description": "Użytkownik, którego statystyki chcesz zresetować.",
+	"button_someone_else": ":x: This button belongs to someone else."
 }

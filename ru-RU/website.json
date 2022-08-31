@@ -1,6 +1,6 @@
 {
     "rank_description": "Посмотреть вашу или чужую карту рейтинга сервера.",
-    "clear_description": "Удалить сообщения канала.",
+    "clear_description": "Cleans up channel messages.",
     "moveme_description": "Переместить вас в голосовой канал.",
     "id_description": "Посмотреть вашу или чужую карту рейтинга сервера.",
     "profile_description": "Посмотреть вашу или чужую настраиваемую персональную карту общедоступного профиля.",
@@ -59,9 +59,9 @@
     "reset_description": "Сбросить очки опыта (текстовый/голосовой/приглашения), для всех участников.",
     "rep_description": "Выразить свое уважение к участнику. Можно один раз в сутки.",
     "daily_description": "Получение ежедневной зарплаты.",
-    "vip_description": "Показать информацию о вашем премиум боте.",
+    "vip_description": "Shows information about your premium bot.",
     "ping_description": "Проверить время отклика бота.",
-    "temp_description": "Временные каналы.",
+    "temp_description": "Creates a temporary channel",
     "deletebackup_description": "Удалить резервную копию.",
     "short_description": "Сократить URL адрес.",
     "roll_description": "Бросить кости.",
@@ -720,5 +720,14 @@
     "shuffle_description": "Shuffle the current queue!",
     "resume_description": "Возобновляет текущую приостановленную дорожку.",
     "protection_bots_warning": "Эти ограничения могут не применяться к ботам. Из-за того, как они работают, будьте осторожны, не приглашая неизвестных ботов.",
-    "bot_require_invite": "Выберите бота, которого вы хотите пригласить"
+    "bot_require_invite": "Выберите бота, которого вы хотите пригласить",
+    "temp_module": "Temporary Channels.",
+    "category": "CATEGORY",
+    "temp_category_description": "New temporary channels will be under this category",
+    "temp_create_channel": "CREATE CHANNEL",
+    "temp_create_channel_description": "When a user joins this channel, it creates a temp channel for them",
+    "temp_time": "Time to delete the channel in seconds",
+    "temp_max": "Max channels user can create at the same time",
+    "temp_max_description": "The number of channels a user may create at once.",
+    "temp_channel_module": "Temporary Channels"
 }
