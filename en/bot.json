@@ -473,7 +473,7 @@
 	"vip_username_name_description": "The name to set in your premium bot.",
 	"vip_status_description": "Change your premium bot's status.",
 	"vip_status_status_description": "The status to be set in your premium bot.",
-	"vip_move_description": "Move your premium bot to another server.",
+	"vip_move_description": "Transfer your premium bot to a new server.",
 	"vip_move_number_description": "Your premium bot id or number.",
 	"vip_restart_description": "Restart your premium bot.",
 	"vip_avatar_description": "Change the avatar of your premium bot.",
