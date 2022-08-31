@@ -466,5 +466,6 @@
 	"confirm": "Megerősít",
 	"lock_already_locked": "**:x: A csatorna már zárolt {0}.**",
 	"reset_type_description": "Válassza ki a visszaállítás típusát",
-	"reset_user_description": "A felhasználó, akinek a statisztikáit vissza kell állítani."
+	"reset_user_description": "A felhasználó, akinek a statisztikáit vissza kell állítani.",
+	"button_someone_else": ":x: This button belongs to someone else."
 }

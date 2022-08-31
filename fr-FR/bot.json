@@ -450,8 +450,8 @@
 	"timeout_max_time": ":x : La durée du ban temporaire doit être inférieure ou égale à 28 jours.",
 	"untimeout_done": ":white_check_mark: **@{0} has been untimed out.**",
 	"untimeout_cant": ":rolling_eyes: - ** You can't untimeout @{0}. **",
-	"untimeout_missing_permission": ":rolling_eyes: - I couldn't untimeout that user. Please check my permissions and role position.",
-	"untimeout_not_timedout": ":x: Member is not timed out.",
+	"untimeout_missing_permission": ":rolling_eyes: - I couldn't untimeout that user. Please double-check my permissions and role position.",
+	"untimeout_not_timedout": ":x: The member is not timed out.",
 	"cant_bots": ":robot: Je ne peux pas effectuer cette action sur les bots.",
 	"timeout_description": "Timeout a user from sending messages, react or join voice channels.",
 	"untimeout_description": "Remove timeout from a user",
@@ -466,5 +466,6 @@
 	"confirm": "Confirmer",
 	"lock_already_locked": "**:x : la chaîne est déjà verrouillée {0}.**",
 	"reset_type_description": "Sélectionnez le type de réinitialisation",
-	"reset_user_description": "L'utilisateur pour lequel réinitialiser les statistiques."
+	"reset_user_description": "L'utilisateur pour lequel réinitialiser les statistiques.",
+	"button_someone_else": ":x: Ce bouton appartient à quelqu'un d'autre."
 }

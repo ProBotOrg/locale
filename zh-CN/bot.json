@@ -466,5 +466,6 @@
 	"confirm": "确认",
 	"lock_already_locked": "**:x: 频道已被锁定 {0}.**",
 	"reset_type_description": "选择重置的类型",
-	"reset_user_description": "要为其重置统计信息的用户。"
+	"reset_user_description": "要为其重置统计信息的用户。",
+	"button_someone_else": ":x: This button belongs to someone else."
 }

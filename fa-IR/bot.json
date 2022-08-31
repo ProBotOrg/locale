@@ -6,7 +6,7 @@
 	"moveme_description": "شما را به یک کانال صوتی منتقل می کند",
 	"profile_description": "سفارشی سازی کارت پروفایل شخصی و کلی شما یا کس دیگری را نشان می دهد.",
 	"top_description": "‎نمایش فعال ترین اعضاء در سرور",
-	"user_description": "اطلاعاتی از قبیل ID و زمان عضویت را درباره خودتان یا شخصی دیگر نمایش می دهد.",
+	"user_description": "‎.و زمان عضویت را درباره خودتان یا شخصی دیگر نمایش می دهد ID اطلاعاتی درباره",
 	"avatar_description": "تصویر پروفایل شما یا فرد دیگری را نشان می دهد.",
 	"server_description": "نشان دادن اطلاعات سرور",
 	"roles_description": "دریافت لیست از نقش های سرور و تعداد کاربران.",
@@ -466,5 +466,6 @@
 	"confirm": "تائید",
 	"lock_already_locked": "**:x: چنل از قبل قفل شده {0}.**",
 	"reset_type_description": "نوع ریست را انتخاب کنید.",
-	"reset_user_description": "کاربری که آمارش باید بازنشانی شوند."
+	"reset_user_description": "کاربری که آمارش باید بازنشانی شوند.",
+	"button_someone_else": ":x: This button belongs to someone else."
 }
