@@ -478,7 +478,7 @@
 	"vip_restart_description": "Restart your premium bot.",
 	"vip_avatar_description": "Change your premium bot's avatar.",
 	"vip_avatar_url_description": "The image URL to set in your premium bot.",
-	"vip_transfer_description": "Transfer your premium bot to another user.",
+	"vip_transfer_description": "Transfer ownership of your premium bot to another user.",
 	"vip_transfer_user_description": "The user to transfer your premium bot to.",
 	"vip_whitelist_description": "Whitelist a user to get access to ProBot panel.",
 	"vip_whitelist_user_description": "The user to add / remove from ProBot panel."
