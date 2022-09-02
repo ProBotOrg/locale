@@ -35,7 +35,7 @@
 	"seek_description": "Skips to the specified timestamp in the currently playing track.",
 	"restore_description": "Restores your backup!",
 	"credits_description": "Shows your or someone's balance or transfer credits for someone",
-	"color_description": "Changes your color in the server\n",
+	"color_description": "Changes your color in the server",
 	"colors_description": "Lists you all the available colors.",
 	"title_description": "Changes your title in `/profile` command.",
 	"reset_description": "Reset text/voice/invites/limits xp points for all or specific member.",
