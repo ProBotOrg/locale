@@ -467,5 +467,5 @@
 	"lock_already_locked": "**:x: Kanal zaten kilitlendi {0}.**",
 	"reset_type_description": "Sıfırlama türünü seçin",
 	"reset_user_description": "İstatistikleri sıfırlanacak kullanıcı.",
-	"button_someone_else": ":x: This button belongs to someone else."
+	"button_someone_else": ":x: Bu buton başkasına aittir."
 }
