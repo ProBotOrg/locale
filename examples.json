@@ -83,7 +83,7 @@
         "examples_setcolor": "{0} members #000001",
         "examples_warnings": "{0}\n{0} {1}",
         "examples_setnick": "{0} {1}\n{0} {1} new nickname",
-        "examples_play": "{0} Havana\n{0} https:\/\/www.youtube.com\/watch?v=HCjNJDNzw8Y",
+        "examples_play": "{0} Havana",
         "examples_skip": "{0}",
         "examples_search": "{0} Havana",
         "examples_queue": "{0}",
