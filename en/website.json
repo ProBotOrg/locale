@@ -729,5 +729,6 @@
     "temp_time": "Time to delete the channel in seconds",
     "temp_max": "Max channels user can create at the same time",
     "temp_max_description": "The number of channels a user may create at once.",
-    "temp_channel_module": "Temporary Channels"
+    "temp_channel_module": "Temporary Channels",
+    "rr_max_reactions" :"Max reactions!"
 }
