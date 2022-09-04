@@ -120,7 +120,7 @@
 	"warn_specify_description": ":rolling_eyes: - **Zadej důvod.**",
 	"warn_been_removed_description": ":white_check_mark: **Bylo odebráno {0} varování.**",
 	"warn_cant_warning_description": "🔍 **Nemohu najít varování, které hledáš.**",
-	"warn_specify_number_description": ":rolling_eyes: - **Zadej číslo varování nebo zmiň uživatele nebo (all) pro odstranění všech varování.**",
+	"warn_specify_number_description": ":rolling_eyes: -** Zadej číslo varování nebo zmiň uživatele nebo (all) pro odstranění všech varování.**",
 	"vkick_cant_permission_description": ":rolling_eyes: - Nemohl jsem vyhodit tohoto uživatele. Zkontroluj má oprávnění.",
 	"vkick_you_cant_description": ":rolling_eyes: - ** Nemůžeš vyhodit uživatele {0}. **",
 	"vkick_not_voice_description": ":rolling_eyes: -** Člen není v hlasovém kanálu! **",
