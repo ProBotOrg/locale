@@ -222,7 +222,7 @@
 	"move_confirm": ":information_source: ** 是否确定？键入 (y) 以确认**",
 	"move_cant_find_channel": ":rolling_eyes: - **我找不到目标频道**",
 	"color_error": ":rolling_eyes: - 背景错误，如果突然发生，请联系支持。",
-	"time_reasons_limit": ":rolling_eyes: - **时间限制必须等于其中一个 (m, h, d, w, mo, y)**",
+	"time_reasons_limit": ":rolling_eyes: - **time limit must equals one of (h, d, w, m, y)**",
 	"user_warn_warned": ":white_check_mark: **@{0} 警告！**",
 	"user_warn_you_are_warned": ":warning: **您已被警告！**",
 	"server_id": ":id: 服务器 ID:",
