@@ -224,7 +224,7 @@
 	"color_error": ":rolling_eyes: - Erro com plano de fundo. Se isso aconteceu repentinamente, por favor contate o suporte.",
 	"time_reasons_limit": ":rolling_eyes: - **o tempo limite deve ser igual a um de (h, d, w, m, a)**",
 	"user_warn_warned": ":white_check_mark: **@{0} avisado! **",
-	"user_warn_you_are_warned": ":warning: **Você foi avisado!**",
+	"user_warn_you_are_warned": ":warning: **Você foi avisado(a)!**",
 	"server_id": ":id: ID do Servidor:",
 	"server_created": ":calendar: Criado Em",
 	"server_owned": ":crown: Possuído por",
