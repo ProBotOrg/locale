@@ -480,7 +480,7 @@
 	"vip_avatar_url_description": "Premium botunuza ayarlanacak fotoğrafın bağlantısı.",
 	"vip_transfer_description": "Premium botunuzun sahipliğini başka bir üyeye aktarın.",
 	"vip_transfer_user_description": "Premium botunuzu aktarmak istediğiniz üye.",
-	"vip_whitelist_description": "Whitelist a user to allow access to the ProBot panel.",
-	"vip_whitelist_user_description": "The user to add / remove from ProBot panel.",
-	"vip_no_perms": ":x: You need administrator permission to use vip commands."
+	"vip_whitelist_description": "ProBot kontrol paneline erişime izin vermek için bir üyenizi beyaz listeye alın.",
+	"vip_whitelist_user_description": "ProBot kontrol panelinin erişimine izin verilecek / kaldırılacak üye.",
+	"vip_no_perms": ":x: Premium komutlarını kullanmak için yönetici iznine ihtiyacınız var."
 }
