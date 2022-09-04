@@ -398,7 +398,7 @@
 	"clear_FBU_description": "Kullanıcı mesajlarına göre filtreleyin.",
 	"clear_FBR_description": "Rol mesajlarına göre filtreleyin.",
 	"temp_on_description": "geçici kanalları açın.",
-	"temp_off_description": "geçici kanalları kapatın.",
+	"temp_off_description": "Geçici kanalları kapatın.",
 	"temp_time_description": "Geçici kanalları silme süresi (saniye biçiminde).",
 	"temp_seconds_description": "Ses kanalı için süre belirleyin.",
 	"temp_max_description": "Kullanıcının tek seferde oluşturabileceği geçici kanal sayısı",
