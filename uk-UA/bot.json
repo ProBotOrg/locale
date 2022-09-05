@@ -480,7 +480,7 @@
 	"vip_avatar_url_description": "Зображення URL, яке встановити вашому преміум боту.",
 	"vip_transfer_description": "Передати право власності вашим преміум ботом до іншого користувача.",
 	"vip_transfer_user_description": "Користувач, якому ви хочете передати вашого преміум бота.",
-	"vip_whitelist_description": "Whitelist a user to allow access to the ProBot panel.",
-	"vip_whitelist_user_description": "The user to add / remove from ProBot panel.",
-	"vip_no_perms": ":x: You need administrator permission to use vip commands."
+	"vip_whitelist_description": "Додати користувача до списку, хто має доступ до панелі управління ProBot.",
+	"vip_whitelist_user_description": "Користувач, якого додати / видалити з доступу до панелі управління ProBot.",
+	"vip_no_perms": ":x: Вам потрібен дозвіл адміністратора для використання vip команд."
 }
