@@ -5,7 +5,7 @@
 	"clear_description": "Bir kanaldan mesajları temizler.",
 	"moveme_description": "Sizi başka bir sesli kanala taşır.",
 	"profile_description": "Kendinizin veya bir başkasının özelleştirilebilir kişisel global profil kartını görüntüler.",
-	"top_description": "Sunucuda en çok ses ve metin puanına sahip olan üyeleri, xp sayısı ile birlikte görüntüleyin.",
+	"top_description": "Sunucudaki en aktif üyeleri görüntüler",
 	"user_description": "Kendinizin veya bir üye hakkında kimlik ve katılma tarihi gibi bilgileri gösterir.",
 	"avatar_description": "Bir üyenin avatarını görüntüleyin.",
 	"server_description": "Bir sunucu hakkındaki bilgileri gösterir",
