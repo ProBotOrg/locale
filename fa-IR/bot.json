@@ -474,13 +474,13 @@
 	"vip_status_description": "Change your premium bot's status.",
 	"vip_status_status_description": "The status to be set in your premium bot.",
 	"vip_move_description": "Transfer your premium bot to a new server.",
-	"vip_move_number_description": "Your premium bot number or ID.",
-	"vip_restart_description": "Restart your premium bot.",
+	"vip_move_number_description": "شماره یا شناسه ربات پریمیوم شما.",
+	"vip_restart_description": "ربات پریمیوم خود را مجدد راه اندازی کنید.",
 	"vip_avatar_description": "Change your premium bot's avatar.",
 	"vip_avatar_url_description": "The image URL to set in your premium bot.",
 	"vip_transfer_description": "Transfer ownership of your premium bot to another user.",
 	"vip_transfer_user_description": "The user to whom you want to transfer your premium bot.",
 	"vip_whitelist_description": "Whitelist a user to allow access to the ProBot panel.",
-	"vip_whitelist_user_description": "The user to add / remove from ProBot panel.",
-	"vip_no_perms": ":x: You need administrator permission to use vip commands."
+	"vip_whitelist_user_description": "کاربر برای افزودن / حذف از پنل پروبات.",
+	"vip_no_perms": "برای استفاده از دستورات ویژه به دسترسی مدیر نیاز دارید."
 }
