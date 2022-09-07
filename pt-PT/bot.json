@@ -467,7 +467,7 @@
 	"lock_already_locked": "**:x: Canal já está trancado {0}.**",
 	"reset_type_description": "Selecione o tipo de redefinição",
 	"reset_user_description": "O membro para redefinir as estatísticas.",
-	"button_someone_else": ":x: This button belongs to someone else.",
+	"button_someone_else": ":x:",
 	"vip_choose_placeholder": "Select a status type.",
 	"vip_username_description": "Change the name of your premium bot.",
 	"vip_username_name_description": "The name to set in your premium bot.",
