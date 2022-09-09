@@ -35,7 +35,7 @@
 	"seek_description": "트랙에 있는 특정 부분을 찾아요.",
 	"restore_description": "백업을 복원시켜요!",
 	"credits_description": "본인 또는 멤버의 잔액을 확인하거나 크레딧을 이전시켜요.",
-	"color_description": "역할의 색상을 변경해요.",
+	"color_description": "서버 내 색상을 변경해요",
 	"colors_description": "사용 가능한 색상을 보여줘요.",
 	"title_description": "`/profile` 명령어에서의 제목을 바꿔요.",
 	"reset_description": "특정 또는 모든 멤버의 채팅/음성/초대 경험치 포인트를 초기화해요.",
