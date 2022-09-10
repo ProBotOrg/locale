@@ -127,7 +127,7 @@
 	"vkick_voice_kicked_description": ":white_check_mark: **@{0} expulsou da call! **",
 	"unban_couldnt_user_description": ":rolling_eyes: - Não consegui desbanir aquele usuário. Por favor, verifique minhas permissões.",
 	"unban_all_members_description": ":rolling_eyes: - **Para desbanir todos os membros, você deve ter permissão de administrador.**",
-	"unban_premium_only_description": "Este comando para premium somente (para agora).",
+	"unban_premium_only_description": "Este comando está disponível apenas para premium.",
 	"unban_members_being_description": ":white_check_mark: **{0}** membros foram desbanidos.",
 	"unban_unbanned_description": ":white_check_mark: **{0} desbanido!**",
 	"unban_cant_find_description": ":rolling_eyes: - **Não consigo encontrar {0} na lista de banimento**",
