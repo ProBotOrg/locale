@@ -99,7 +99,7 @@
 	"ban_from_server_description": ":white_check_mark: **{0} telah di ban dari server! :airplane:**",
 	"ban_cant_description": ":rolling_eyes: - ** Kamu tidak bisa mem-ban @{0}. **",
 	"ban_missing_permission_description": ":rolling_eyes: - Saya tidak bisa mem-ban pengguna itu. Mohon cek izin dan role saya.",
-	"clear_cooldown_description": "**{0}**, Cool down (**{1}** left)",
+	"clear_cooldown_description": "**{0}**, Tunggu Dulu (**{1}** lagi) ",
 	"clear_cant_description": ":rolling_eyes: - I couldn't clear this channel. Please check my permissions.",
 	"clear_message_has": "{0} message has been deleted.",
 	"clear_messages_have": "{0} messages have been deleted.",
