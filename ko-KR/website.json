@@ -1,6 +1,6 @@
 {
     "rank_description": "나 또는 다른 멤버의 등급 카드를 표시해요.",
-    "clear_description": "채널 메시지를 정리해요",
+    "clear_description": "채널의 메시지를 정리해요.",
     "moveme_description": "다른 음성 채널로 이동해요.",
     "id_description": "나 또는 다른 멤버의 등급 카드를 표시해요.",
     "profile_description": "본인 또는 멤버의 맞춤 글로벌 프로필 카드를 보여줘요.",
