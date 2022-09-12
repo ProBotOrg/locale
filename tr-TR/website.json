@@ -729,5 +729,6 @@
     "temp_time": "Geçici kanalları silme süresi",
     "temp_max": "Üyenin aynı anda oluşturabileceği maksimum kanal sayısı",
     "temp_max_description": "Üyenin aynı anda oluşturabileceği kanal sayısı.",
-    "temp_channel_module": "Geçici Kanallar"
+    "temp_channel_module": "Geçici Kanallar",
+    "rr_max_reactions": "Max reactions reached!"
 }
