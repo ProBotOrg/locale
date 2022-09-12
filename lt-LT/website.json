@@ -47,7 +47,7 @@
     "stop_description": "Sustabdyti esamą dainą ir išvaloma visa muzikos eilė.",
     "vol_description": "Keičiamas/Rodomas esamas garso lygis.",
     "pause_description": "Sustabdomas grojamas esamas įrašas.",
-    "np_description": "Rodoma, kokią dainą botas šiuo metu leidžia.",
+    "np_description": "Shows the song that the bot is currently playing",
     "repeat_description": "Įjungia kartojimo rėžimą.",
     "seek_description": "Ieškoma tam tikro taško esamame įraše.",
     "restore_description": "Atkuria jūsų atsarginę kopiją!",
@@ -729,5 +729,6 @@
     "temp_time": "Time to delete the channel in seconds",
     "temp_max": "Max channels user can create at the same time",
     "temp_max_description": "The number of channels a user may create at once.",
-    "temp_channel_module": "Temporary Channels"
+    "temp_channel_module": "Temporary Channels",
+    "rr_max_reactions": "Max reactions reached!"
 }
