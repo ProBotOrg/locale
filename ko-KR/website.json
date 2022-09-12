@@ -729,5 +729,6 @@
     "temp_time": "임시 채널을 삭제할 시간을 지정해요 (초)",
     "temp_max": "멤버가 동시에 생성할 수 있는 임시 채널의 개수를 지정해요",
     "temp_max_description": "멤버가 동시에 생성할 수 있는 임시 채널의 개수를 지정해요",
-    "temp_channel_module": "임시 채널"
+    "temp_channel_module": "임시 채널",
+    "rr_max_reactions": "Max reactions reached!"
 }
