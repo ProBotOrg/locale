@@ -467,7 +467,6 @@
 	"lock_already_locked": "**:x: چنل از قبل قفل شده {0}.**",
 	"reset_type_description": "نوع ریست را انتخاب کنید.",
 	"reset_user_description": "کاربری که آمارش باید بازنشانی شوند.",
-	"button_someone_else": ":x: این دکمه متعلق به شخص دیگری است.",
 	"vip_choose_placeholder": "یک نوع وضعیت انتخاب کنید.",
 	"vip_username_description": "نام ربات پریمیوم خود را تغییر دهید.",
 	"vip_username_name_description": "نامی که باید در ربات پریمیوم خود تنظیم کنید.",
@@ -482,5 +481,6 @@
 	"vip_transfer_user_description": "کاربری که می خواهید ربات پریمیوم خود را به او منتقل کنید.",
 	"vip_whitelist_description": "کاربر را در لیست سفید قرار دهید تا بتواند به پنل پروبات دسترسی داشته باشد.",
 	"vip_whitelist_user_description": "کاربر برای افزودن / حذف از پنل پروبات.",
-	"vip_no_perms": ":x: برای استفاده از دستورات ویژه به دسترسی مدیر نیاز دارید."
+	"vip_no_perms": ":x: برای استفاده از دستورات ویژه به دسترسی مدیر نیاز دارید.",
+	"button_someone_else": ":x: این دکمه متعلق به شخص دیگری است."
 }
