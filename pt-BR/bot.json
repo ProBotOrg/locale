@@ -467,7 +467,6 @@
 	"lock_already_locked": "**:x: Canal já está bloqueado {0}.**",
 	"reset_type_description": "Selecione o tipo de redefinição",
 	"reset_user_description": "O usuário para redefinir as estatísticas.",
-	"button_someone_else": ":x: Este botão pertence a outra pessoa.",
 	"vip_choose_placeholder": "Selecione um tipo de status.",
 	"vip_username_description": "Altere o nome do seu bot premium.",
 	"vip_username_name_description": "O nome a ser definido em seu bot premium.",
@@ -482,5 +481,6 @@
 	"vip_transfer_user_description": "O usuário para quem você deseja transferir seu bot premium.",
 	"vip_whitelist_description": "Lista branca de um usuário para permitir o acesso ao painel do ProBot.",
 	"vip_whitelist_user_description": "O usuário para adicionar / remover painel do ProBot.",
-	"vip_no_perms": ":x: Você precisa de permissão de administrador para usar os comandos vip."
+	"vip_no_perms": ":x: Você precisa de permissão de administrador para usar os comandos vip.",
+	"button_someone_else": ":x: Este botão pertence a outra pessoa."
 }
