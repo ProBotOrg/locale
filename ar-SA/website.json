@@ -729,5 +729,6 @@
     "temp_time": "الوقت لحذف الرومات المؤقتة بالثواني",
     "temp_max": "الحد الاقصى للرومات التي يمكن للعضو انشائها في نفس الوقت.",
     "temp_max_description": "عدد الرومات التي يمكن للمستخدم إنشاؤها في نفس الوقت.",
-    "temp_channel_module": "الرومات المؤقتة"
+    "temp_channel_module": "الرومات المؤقتة",
+    "rr_max_reactions": "Max reactions reached!"
 }
