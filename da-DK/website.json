@@ -47,7 +47,7 @@
     "stop_description": "Stop den aktuelle sang og rydder hele musikkens kø.",
     "vol_description": "Ændrer/Viser den aktuelle lydstyrke.",
     "pause_description": "Genstart den aktuelle sang.",
-    "np_description": "Viser hvad der er sangen som botten i øjeblikket spiller.",
+    "np_description": "Shows the song that the bot is currently playing",
     "repeat_description": "Toggles the repeat mode.\n",
     "seek_description": "Søger til et bestemt punkt i det aktuelle spor.",
     "restore_description": "Gendanner din sikkerhedskopi!",
@@ -729,5 +729,6 @@
     "temp_time": "Time to delete the channel in seconds",
     "temp_max": "Max channels user can create at the same time",
     "temp_max_description": "The number of channels a user may create at once.",
-    "temp_channel_module": "Temporary Channels"
+    "temp_channel_module": "Temporary Channels",
+    "rr_max_reactions": "Max reactions reached!"
 }
