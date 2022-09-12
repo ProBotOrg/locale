@@ -467,7 +467,6 @@
 	"lock_already_locked": "**:x: Kênh này đã bị khoá rồi {0}.**",
 	"reset_type_description": "Chọn nhóm để đặt lại",
 	"reset_user_description": "Người dùng mà bạn muốn đặt lại điểm xp.",
-	"button_someone_else": ":x: Có người khác đã dùng danh sách chọn này rồi.",
 	"vip_choose_placeholder": "Chọn một trạng thái.",
 	"vip_username_description": "Đổi tên cho bot premium của bạn.",
 	"vip_username_name_description": "Tên bạn muốn đặt cho bot premium.",
@@ -482,5 +481,6 @@
 	"vip_transfer_user_description": "Người bạn muốn chuyển bot premium cho.",
 	"vip_whitelist_description": "Cho phép người dùng truy cập vào bảng điều khiển của ProBot.",
 	"vip_whitelist_user_description": "Người dùng để thêm / bỏ khỏi danh sách cho phép.",
-	"vip_no_perms": ":x: Bạn cần quyền quản trị để sử dụng lệnh này."
+	"vip_no_perms": ":x: Bạn cần quyền quản trị để sử dụng lệnh này.",
+	"button_someone_else": ":x: Có người khác đã dùng danh sách chọn này rồi."
 }
