@@ -479,8 +479,8 @@
 	"vip_avatar_url_description": "설정할 내 프리미엄 봇의 사진 URL",
 	"vip_transfer_description": "다른 분께 내 프리미엄 봇의 소유권을 이전해요.",
 	"vip_transfer_user_description": "내 프리미엄 봇의 소유권을 이전할 사용자",
-	"vip_whitelist_description": "Whitelist a user to allow access to the ProBot panel.",
-	"vip_whitelist_user_description": "The user to add / remove from ProBot panel.",
+	"vip_whitelist_description": "ProBot 제어판을 사용할 수 있도록 사용자를 화이트리스트해요.",
+	"vip_whitelist_user_description": "ProBot 제어판에 추가할/제거할 사용자",
 	"vip_no_perms": ":x: vip 명령어를 사용하려면 관리자 권한이 있어야 해요.",
 	"button_someone_else": ":x: 이 버튼은 다른 분께 속해있어요."
 }
