@@ -729,5 +729,6 @@
     "temp_time": "Thời gian xóa kênh tạm thời tính theo giây",
     "temp_max": "Số lượng kênh tối đa mà mọi người dùng có thể tạo",
     "temp_max_description": "Số lượng kênh mà một người dùng có thể tạo trong một lúc.",
-    "temp_channel_module": "Kênh tạm thời"
+    "temp_channel_module": "Kênh tạm thời",
+    "rr_max_reactions": "Max reactions reached!"
 }
