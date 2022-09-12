@@ -729,5 +729,6 @@
     "temp_time": "Час видалення каналу в секундах",
     "temp_max": "Максимальна кількість каналів, які користувач може створити одночасно",
     "temp_max_description": "Кількість каналів, які користувач може створити за раз.",
-    "temp_channel_module": "Тимчасові канали"
+    "temp_channel_module": "Тимчасові канали",
+    "rr_max_reactions": "Max reactions reached!"
 }
