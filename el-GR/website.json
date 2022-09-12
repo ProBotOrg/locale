@@ -47,7 +47,7 @@
     "stop_description": "Σταματήστε το τρέχον τραγούδι και καθαρίστε ολόκληρη την ουρά μουσικής.",
     "vol_description": "Αλλάζει/Εμφανίζει την τρέχουσα ένταση.",
     "pause_description": "Πάυει το τρέχων τραγούδι.",
-    "np_description": "Δείχνει ποιο τραγούδι το bot παίζει.",
+    "np_description": "Shows the song that the bot is currently playing",
     "repeat_description": "Εναλλάζει την λειτουργία επανάληψης.",
     "seek_description": "Πηγαίνει σε ένα συγκεκριμένο σημείο του τρέχον κομματιού.",
     "restore_description": "Επαναφέρει το αντίγραφο ασφαλείας σας!",
@@ -729,5 +729,6 @@
     "temp_time": "Time to delete the channel in seconds",
     "temp_max": "Max channels user can create at the same time",
     "temp_max_description": "The number of channels a user may create at once.",
-    "temp_channel_module": "Temporary Channels"
+    "temp_channel_module": "Temporary Channels",
+    "rr_max_reactions": "Max reactions reached!"
 }
