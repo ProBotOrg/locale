@@ -730,5 +730,6 @@
     "temp_max": "Üyenin aynı anda oluşturabileceği maksimum kanal sayısı",
     "temp_max_description": "Üyenin aynı anda oluşturabileceği kanal sayısı.",
     "temp_channel_module": "Geçici Kanallar",
-    "rr_max_reactions": "Maksimum tepki sayısına ulaşıldı!"
+    "rr_max_reactions": "Maksimum tepki sayısına ulaşıldı!",
+    "temp_max_users": "Default maximum number of users"
 }
