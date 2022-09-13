@@ -730,5 +730,6 @@
     "temp_max": "A felhasználó által egy időben létrehozható csatornák maximális száma",
     "temp_max_description": "A felhasználó által létrehozható csatornák száma egy időben.",
     "temp_channel_module": "Ideiglenes csatornák",
-    "rr_max_reactions": "Max reactions reached!"
+    "rr_max_reactions": "Max reactions reached!",
+    "temp_max_users": "Default maximum number of users"
 }
