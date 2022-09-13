@@ -730,5 +730,6 @@
     "temp_max": "Số lượng kênh tối đa mà mọi người dùng có thể tạo",
     "temp_max_description": "Số lượng kênh mà một người dùng có thể tạo trong một lúc.",
     "temp_channel_module": "Kênh tạm thời",
-    "rr_max_reactions": "Đã đạt tối đa lượng biểu cảm!"
+    "rr_max_reactions": "Đã đạt tối đa lượng biểu cảm!",
+    "temp_max_users": "Default maximum number of users"
 }
