@@ -730,5 +730,6 @@
     "temp_max": "멤버가 동시에 생성할 수 있는 임시 채널의 개수를 지정해요",
     "temp_max_description": "멤버가 동시에 생성할 수 있는 임시 채널의 개수를 지정해요",
     "temp_channel_module": "임시 채널",
-    "rr_max_reactions": "최대 반응 개수에 도달했어요!"
+    "rr_max_reactions": "최대 반응 개수에 도달했어요!",
+    "temp_max_users": "Default maximum number of users"
 }
