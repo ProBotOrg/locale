@@ -64,8 +64,8 @@
     "temp_description": "Створює тимчасовий канал",
     "deletebackup_description": "Видалити резервну копію.",
     "short_description": "Скоротити URL адресу.",
-    "roll_description": "Кинути кістки.",
-    "default_roll": "Кубики за замовчуванням",
+    "roll_description": "Кинути кубик.",
+    "default_roll": "Кубики по стандарту",
     "points_description": "Бали, які можуть бути видані модераторами.",
     "slowmode_description": "Увімкнення або вимкнення повільного режиму на каналі.",
     "Utility": "Загальні",
@@ -695,7 +695,7 @@
     "billing_no_expiry_date": "Будь ласка, введіть дійсну дату картки",
     "billing_no_valid_cvv": "Будь ласка, введіть правильно CVV",
     "tip": "Порада",
-    "protection_limits_tip": "Якщо у когось є більше однієї ролі, будуть застосовуватися більш високі обмеження. @everyone – це початкова роль  для всіх.",
+    "protection_limits_tip": "Якщо у когось є більше однієї ролі, будуть застосовуватися вищі обмеження. @everyone – це початкова роль для всіх.",
     "select_create": "Створити '{0}'",
     "daily_wrong_token": "Неправильний токен",
     "daily_forbidden": "Заборонено",
@@ -731,5 +731,5 @@
     "temp_max_description": "Кількість каналів, які користувач може створити за раз.",
     "temp_channel_module": "Тимчасові канали",
     "rr_max_reactions": "Досягнута максимальна кількість реакцій!",
-    "temp_max_users": "Default maximum number of users"
+    "temp_max_users": "Стандартна максимальна кількість учасників"
 }
