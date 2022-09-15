@@ -730,6 +730,6 @@
     "temp_max": "حداکثر کانال ها کاربر می تواند در همان زمان ایجاد کند",
     "temp_max_description": "تعداد کانال هایی که کاربر ممکن است به طور همزمان ایجاد کند.",
     "temp_channel_module": "کانال های موقتی.",
-    "rr_max_reactions": "Max reactions reached!",
-    "temp_max_users": "Default maximum number of users"
+    "rr_max_reactions": "به حداکثر تعداد ری‌اکشن ها رسیدید!",
+    "temp_max_users": "تعداد حداکثر کاربران پیشفرض"
 }
