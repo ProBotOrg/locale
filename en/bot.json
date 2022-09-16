@@ -491,5 +491,7 @@
 	"xp_remove_description": "Remove xp from a user",
 	"xp_remove_type_description": "The type of remove xp",
 	"xp_remove_user_description": "The user you want to remove xp from",
-	"xp_remove_xp_description": "The number of removing xp from the user."
+	"xp_remove_xp_description": "The number of removing xp from the user.",
+	"xp_invalid_type": ":x: Invalid type must be either `text` or `voice`",
+	"xp_changed_xp": "**✅ Changed xp for @{0}**"
 }
