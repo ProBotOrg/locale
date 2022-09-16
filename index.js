@@ -12,6 +12,7 @@ languages.fa = require('./fa-IR/website.json');
 languages.fi = require('./fi-FI/website.json');
 languages.fr = require('./fr-FR/website.json');
 languages.hi = require('./hi-IN/website.json');
+languages.he = require('./he-IL/website.json');
 languages.hr = require('./hr-HR/website.json');
 languages.hu = require('./hu-HU/website.json');
 languages.it = require('./it-IT/website.json');
@@ -72,7 +73,8 @@ module.exports.webLangs = {
   da: { name: "Dansk", flag: "dk" },
   fa: { name: "فارسی", flag: "ir" },
   fi: { name: "Suo̯mi", flag: "fi" },
-  hr: { name: "Hrvatski", flag: "hr" }
+  hr: { name: "Hrvatski", flag: "hr" },
+  he: { name: "עִברִית", flag: "il" }
 };
 
 
@@ -92,6 +94,7 @@ botLanguages.fi = require('./fi-FI/bot.json');
 botLanguages.fr = require('./fr-FR/bot.json');
 botLanguages.hi = require('./hi-IN/bot.json');
 botLanguages.hr = require('./hr-HR/bot.json');
+botLanguages.he = require('./he-IL/bot.json');
 botLanguages.hu = require('./hu-HU/bot.json');
 botLanguages.it = require('./it-IT/bot.json');
 botLanguages.ja = require('./ja-JP/bot.json');
