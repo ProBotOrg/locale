@@ -485,13 +485,13 @@
   	"button_someone_else": ":x: This button belongs to someone else.",
 	"xp_description": "Add / remove xp from a user.",
 	"xp_add_description": "Add xp to user.",
-	"xp_add_type_description": "The type of adding xp",
 	"xp_add_user_description": "The user you want to add xp to.",
 	"xp_add_xp_description": "The number of xp to add to the user.",
 	"xp_remove_description": "Remove xp from a user",
-	"xp_remove_type_description": "The type of remove xp",
 	"xp_remove_user_description": "The user you want to remove xp from",
 	"xp_remove_xp_description": "The number of removing xp from the user.",
-	"xp_invalid_type": ":x: Invalid type must be either `text` or `voice`",
-	"xp_changed_xp": "**✅ Changed xp for @{0}**"
+	"xp_changed_xp": "**✅ Changed xp for @{0}**",
+	"xp_select_type": "**Please select type of xp.**",
+	"xp_text_select": "Adds xp in text",
+	"xp_voice_select": "Adds xp in voice"
 }
