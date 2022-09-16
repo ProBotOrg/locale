@@ -1,6 +1,6 @@
 {
     "rank_description": "Megjeleníti a tiéd, vagy egy másik felhasználó szerver rangkártyáját.",
-    "clear_description": "Cleans up channel messages.",
+    "clear_description": "Kitakarítja az üzeneteket.",
     "moveme_description": "Áthelyez téged egy hangcsatornába.",
     "id_description": "Megjeleníti a tiéd, vagy egy másik felhasználó szerver rangkártyáját.",
     "profile_description": "Megnézi a tiéd vagy egy másik felhasználó testreszabható személyes profilkártyáját.",
@@ -59,7 +59,7 @@
     "reset_description": "Visszaállítja a szöveg/hang/meghívó pontokat az összes felhasználónak.",
     "rep_description": "Megajándékoz valakit jóhír ponttal. 24 óránként egyszer használatos.",
     "daily_description": "Odaadja a napi fizetést.",
-    "vip_description": "Shows information about your premium bot.",
+    "vip_description": "Megjeleníti az információkat a prémium botodról.",
     "ping_description": "A bot visszajelzési idejének tesztelése.",
     "temp_description": "Létrehoz egy ideiglenes csatornát",
     "deletebackup_description": "Törli a biztonsági mentést.",
@@ -723,11 +723,11 @@
     "bot_require_invite": "VÁLASSZA KI A MEGHÍVNI KÍVÁNT BOTOT",
     "temp_module": "Ideiglenes csatornák.",
     "category": "KATEGÓRIA",
-    "temp_category_description": "New temporary channels will be under this category",
+    "temp_category_description": "Új ideiglenes csatornák ezen kategória alatt lesznek megjelenítve",
     "temp_create_channel": "CSATORNA LÉTREHOZÁSA",
-    "temp_create_channel_description": "When a user joins this channel, it creates a temp channel for them",
-    "temp_time": "Time to delete the channel in seconds",
-    "temp_max": "Max channels user can create at the same time",
-    "temp_max_description": "The number of channels a user may create at once.",
+    "temp_create_channel_description": "Ha egy felhasználó csatlakozik ezen csatornához, azzal létrehoz egy külön ideiglenes csatornát számára",
+    "temp_time": "Az ideiglenes csatorna törlési ideje másodpercekben",
+    "temp_max": "A felhasználó által egy időben létrehozható csatornák maximális száma",
+    "temp_max_description": "A felhasználó által létrehozható csatornák száma egy időben.",
     "temp_channel_module": "Ideiglenes csatornák"
 }

@@ -467,5 +467,20 @@
 	"lock_already_locked": "**:x: Kanaal is al vergrendeld {0}.**",
 	"reset_type_description": "Selecteer het type van de reset",
 	"reset_user_description": "De gebruiker voor wie de statistieken opnieuw moeten worden ingesteld.",
-	"button_someone_else": ":x: This button belongs to someone else."
+	"button_someone_else": ":x: Deze selectie is van iemand anders.",
+	"vip_choose_placeholder": "Selecteer status type",
+	"vip_username_description": "Verander de naam van je premium bot.",
+	"vip_username_name_description": "De naam om in je premium bot in te stellen.",
+	"vip_status_description": "Verander de status van je premium bot.",
+	"vip_status_status_description": "De naam om in je premium bot in te stellen.",
+	"vip_move_description": "Verplaats je premium bot naar een nieuwe server.",
+	"vip_move_number_description": "Uw premium bot nummer of ID.",
+	"vip_restart_description": "Herstart je premium bot.",
+	"vip_avatar_description": "Verander de status van je premium bot.",
+	"vip_avatar_url_description": "De URL van je afbeelding om in je premium bot in te stellen.",
+	"vip_transfer_description": "Verander het eigendom van je premium bot aan een andere gebruiker.",
+	"vip_transfer_user_description": "De gebruiker aan wie u uw premium bot wilt overdragen.",
+	"vip_whitelist_description": "Whitelist een gebruiker om toegang tot het ProBot paneel te geven.",
+	"vip_whitelist_user_description": "De gebruiker om toe te voegen / te verwijderen uit het ProBot paneel.",
+	"vip_no_perms": ":x: Je hebt de beheerdersrechten nodig om vip commando's te gebruiken."
 }
