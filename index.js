@@ -35,6 +35,7 @@ languages.uk = require('./uk-UA/website.json');
 languages.vi = require('./vi-VN/website.json');
 languages.zh = require('./zh-CN/website.json');
 languages["zh-TW"] = require('./zh-TW/website.json');
+languages.tl = require('./fil-PH/website.json');
 
 module.exports = languages;
 module.exports.webLangs = {
@@ -74,7 +75,8 @@ module.exports.webLangs = {
   fa: { name: "فارسی", flag: "ir" },
   fi: { name: "Suo̯mi", flag: "fi" },
   hr: { name: "Hrvatski", flag: "hr" },
-  he: { name: "עִברִית", flag: "il" }
+  he: { name: "עִברִית", flag: "il" },
+  tl: {name: "Filipino", flag: "ph"}
 };
 
 
@@ -116,6 +118,7 @@ botLanguages.uk = require('./uk-UA/bot.json');
 botLanguages.vi = require('./vi-VN/bot.json');
 botLanguages.zh = require('./zh-CN/bot.json');
 botLanguages["zh_TW"] = require('./zh-TW/bot.json');
+botLanguages.tl = require('./fil-PH/bot.json');
 
 module.exports.botLangs = botLanguages;
 
