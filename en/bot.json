@@ -482,5 +482,14 @@
 	"vip_whitelist_description": "Whitelist a user to allow access to the ProBot panel.",
 	"vip_whitelist_user_description": "The user to add / remove from ProBot panel.",
 	"vip_no_perms": ":x: You need administrator permission to use vip commands.",
-  	"button_someone_else": ":x: This button belongs to someone else."
+  	"button_someone_else": ":x: This button belongs to someone else.",
+	"xp_description": "Add / remove xp from a user.",
+	"xp_add_description": "Add xp to user.",
+	"xp_add_type_description": "The type of adding xp",
+	"xp_add_user_description": "The user you want to add xp to.",
+	"xp_add_xp_description": "The number of xp to add to the user.",
+	"xp_remove_description": "Remove xp from a user",
+	"xp_remove_type_description": "The type of remove xp",
+	"xp_remove_user_description": "The user you want to remove xp from",
+	"xp_remove_xp_description": "The number of removing xp from the user."
 }
