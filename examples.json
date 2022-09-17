@@ -205,7 +205,7 @@
         "examples_roll": "{0}\n{0} 100",
         "examples_short": "{0} https://probot.io/This-is-A-Very-Long-Link-lol",
         "examples_points": "{0} @Dramex 1\n{0} @Dramex +1 \n{0} @Dramex -1\n{0} @Dramex 0\n{0} reset\n{0} Admin",
-        "examples_rank": "{0}\n{0} @Mohαmed\n{0} 728882410384785451",
+        "examples_rank": "{0}\n{0} @Dramex\n{0} 728882410384785451",
         "examples_removewarn": "{0} 1810\n{0} @Dramex\n{0} all",
         "examples_setlang": "{0} en",
         "examples_resume": "{0}",
