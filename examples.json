@@ -173,7 +173,7 @@
         "examples_top": "{0} day\n{0} week\n{0} month\n{0} text day \n{0} voice week 2\n{0} invites\n{0} text @members",
         "examples_user": "{0}\n{0} @Dramex\n{0} 157605500488384512",
         "examples_avatar": "{0}\n{0} server\n{0} @Dramex\n{0} 157605500488384512",
-        "examples_ban": "{0} @Mohαmed\n{0} @Dramex spamming\n{0} @Dramex 1h spamming\n{0} @Dramex 1d spamming\n{0} @Dramex 1w ",
+        "examples_ban": "{0} @Dramex\n{0} @Dramex spamming\n{0} @Dramex 1h spamming\n{0} @Dramex 1d spamming\n{0} @Dramex 1w ",
         "examples_vkick": "{0} @Dramex",
         "examples_unban": "{0} Dramex\n{0} 157605500488384512",
         "examples_kick": "{0} @Dramex\n{0} 157605500488384512",
