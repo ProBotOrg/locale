@@ -194,7 +194,7 @@
         "examples_vol": "{0}\n{0} 100",
         "examples_seek": "{0} 11:00",
         "examples_restore": "{0} BackupCode",
-        "examples_credits": "{0}\n{0} @Mohαmed\n{0} @Dramex 15000\n{0} @Dramex 15000 Hello",
+        "examples_credits": "{0}\n{0} @Dramex\n{0} @Dramex 15000\n{0} @Dramex 15000 Hello",
         "examples_color": "{0} 15",
         "examples_title": "{0} This is a Title",
         "examples_reset": "{0} text all\n{0} voice all\n{0} invites all\n{0} text @Dramex\n{0} limits @Dramex",
