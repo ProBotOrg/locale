@@ -184,7 +184,7 @@
         "examples_vmute": "{0} @Dramex 1m annoying\n{0} @Dramex 1h\n{0} @Dramex 1d\n{0} @Dramex 1mo\n{0} @Dramex 1y",
         "examples_unmute": "{0} @Dramex\n{0} 157605500488384512",
         "examples_unvmute": "{0} @Dramex\n{0} 157605500488384512",
-        "examples_role": "{0} @Mohαmed Admin\n{0} all members\n{0} bots System\n{0} humans members",
+        "examples_role": "{0} @Dramex Admin\n{0} all members\n{0} bots System\n{0} humans members",
         "examples_warn": "{0} @Mohαmed\n{0} @Dramex spamming ",
         "examples_setcolor": "{0} members #000001",
         "examples_warnings": "{0}\n{0} @Dramex",
