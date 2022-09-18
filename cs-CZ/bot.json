@@ -467,7 +467,7 @@
 	"lock_already_locked": "**:x: Kanál je již uzamčen {0}.**",
 	"reset_type_description": "Vyber typ resetu",
 	"reset_user_description": "Uživatel, kterému mají být obnoveny statistiky.",
-	"vip_choose_placeholder": "Select a status type.",
+	"vip_choose_placeholder": "Vyber typ stavu.",
 	"vip_username_description": "Change the name of your premium bot.",
 	"vip_username_name_description": "The name to set in your premium bot.",
 	"vip_status_description": "Change your premium bot's status.",
