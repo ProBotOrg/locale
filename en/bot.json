@@ -493,5 +493,6 @@
 	"setxp_changed_xp": "**✅ Changed xp for @{0}**",
 	"setxp_select_type": "**Please select type of xp.**",
 	"setxp_text_select": "Adds xp in text",
-	"setxp_voice_select": "Adds xp in voice"
+	"setxp_voice_select": "Adds xp in voice",
+	"setxp_premium": ":x: Set xp command is only available for premium subscribers."
 }
