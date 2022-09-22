@@ -483,6 +483,11 @@
 	"vip_whitelist_user_description": "The user to add / remove from ProBot panel.",
 	"vip_no_perms": ":x: You need administrator permission to use vip commands.",
   	"button_someone_else": ":x: This button belongs to someone else.",
+	"rr_module_disabled": ":x: Reaction roles module is disabled.",
 	"rr_button_cant_role": ":rolling_eyes: - I couldn't update your roles, If you're server admin please double-check my permissions.",
-	"rr_button_contact_support": ":x: - Error with buttons. If this happened in sudden please contact support."
+	"rr_no_role_select": ":x: There's no roles attached to this select menu.",
+	"rr_role_added": ":white_check_mark: Added **{0}**",
+	"rr_role_remove": ":x: Removed **{0}**",
+	"rr_role_no_change": ":x: No role has been changed.",
+	"rr_no_role_button": ":x: There's no roles attached to this button"
 }
