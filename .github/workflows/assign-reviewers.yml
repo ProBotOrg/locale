@@ -1,11 +1,10 @@
-name: "Pull Request Labeler"
+name: 'Add reviewers'
 on:
-- pull_request_target
-
-jobs:
-  triage:
-    runs-on: ubuntu-latest
-    steps:
-    - uses: actions/labeler@v3
-      with:
-        repo-token: "${{ secrets.GITHUB_TOKEN }}"
+  pull_request_target:
+    jobs:
+      triage:
+        runs-on: ubuntu-latest
+        steps:
+        - name: Automatically assign reviewers
+          if: ${{ github.event.action == 'opened' }}
+          uses: kentaro-m/auto-assign-action@v1.1.2
