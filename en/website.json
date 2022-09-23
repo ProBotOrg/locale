@@ -731,5 +731,18 @@
     "temp_max_description": "The number of channels a user may create at once.",
     "temp_channel_module": "Temporary Channels",
     "rr_max_reactions": "Max reactions reached!",
-    "temp_max_users": "Default maximum number of users"
+    "temp_max_users": "Default maximum number of users",
+    "rr_type": "Reaction Type",
+    "rr_buttons": "Buttons",
+    "rr_select_menu": "Select Menu",
+    "rr_reaction": "Reaction",
+    "rr_add_button": "Add Button",
+    "rr_button_color": "Button Color",
+    "rr_button_settings": "Settings",
+    "rr_button_description": "BUTTON EMOJI AND TEXT",
+    "rr_add_option": "Add Option",
+    "rr_select_menu_placeholder": "SELECT MENU PLACEHOLDER",
+    "rr_select_menu_label": "LABEL",
+    "rr_select_menu_description": "DESCRIPTION",
+    "rr_reaction_emoji": "Add Emoji"
 }
