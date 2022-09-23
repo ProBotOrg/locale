@@ -489,6 +489,6 @@
 	"rr_role_added": ":white_check_mark: Added **{0}**",
 	"rr_role_remove": ":x: Removed **{0}**",
 	"rr_role_no_change": ":x: No roles have been changed.",
-	"rr_no_role_button": ":x: There's no roles attached to this button",
+	"rr_no_role_button": ":x: There are no roles linked to this button.",
 	"rr_admin_role": ":x: Error in changing roles, Please make sure about selected role and role doesn have administrative permissions."
 }
