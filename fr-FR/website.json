@@ -730,6 +730,6 @@
     "temp_max": "Max salons que l'utilisateur peut créer en même temps",
     "temp_max_description": "Le nombre de salon qu'un utilisateur peut créer à la fois.",
     "temp_channel_module": "Salons temporaires",
-    "rr_max_reactions": "Max reactions reached!",
-    "temp_max_users": "Default maximum number of users"
+    "rr_max_reactions": "Max de réactions atteint !",
+    "temp_max_users": "Nombre maximal d'utilisateurs par défaut"
 }
