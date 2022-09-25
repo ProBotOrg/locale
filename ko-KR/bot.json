@@ -171,7 +171,7 @@
 	"vip_please_wait_description": "**:stopwatch: | {0}님, 다음 시간을 기다려주세요: {1}.**",
 	"vip_please_attach_description": ":rolling_eyes: **지정하거나 첨부해주세요.**",
 	"vip_please_specify_description": ":rolling_eyes: - **지정해주세요.**",
-	"vip_details_description": "**프리미엄 번호:** {0}\n**프리미엄 종료일:** {1}\n**프리미엄 가입일:** {2}",
+	"vip_details_description": "**프리미엄 번호:** {0}\n**프리미엄 종료일:** {1}\n**프리미엄을 등록한 사용자:** {2}",
 	"vip_ended_description": "종료됨",
 	"slowmode_description": "채널 내 슬로우모드를 활성화하거나 비활성화해요.",
 	"slowmode_time_description": "채널에 적용 할 슬로우모드 시간",
