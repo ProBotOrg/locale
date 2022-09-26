@@ -732,5 +732,5 @@
     "temp_channel_module": "Temporary Channels",
     "rr_max_reactions": "Max reactions reached!",
     "temp_max_users": "Default maximum number of users",
-    "announcement_halloween": "SAY BOO AND TAKE 50% OFF, USE THE COPUON #BOO"
+    "announcement_halloween": "SAY {0} AND TAKE 50% OFF, USE THE COPUON {0}"
 }
