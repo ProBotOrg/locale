@@ -12,6 +12,7 @@ languages.fa = require('./fa-IR/website.json');
 languages.fi = require('./fi-FI/website.json');
 languages.fr = require('./fr-FR/website.json');
 languages.hi = require('./hi-IN/website.json');
+languages.he = require('./he-IL/website.json');
 languages.hr = require('./hr-HR/website.json');
 languages.hu = require('./hu-HU/website.json');
 languages.it = require('./it-IT/website.json');
@@ -34,6 +35,7 @@ languages.uk = require('./uk-UA/website.json');
 languages.vi = require('./vi-VN/website.json');
 languages.zh = require('./zh-CN/website.json');
 languages["zh-TW"] = require('./zh-TW/website.json');
+languages.tl = require('./fil-PH/website.json');
 
 module.exports = languages;
 module.exports.webLangs = {
@@ -72,7 +74,9 @@ module.exports.webLangs = {
   da: { name: "Dansk", flag: "dk" },
   fa: { name: "فارسی", flag: "ir" },
   fi: { name: "Suo̯mi", flag: "fi" },
-  hr: { name: "Hrvatski", flag: "hr" }
+  hr: { name: "Hrvatski", flag: "hr" },
+  he: { name: "עִברִית", flag: "il" },
+  tl: {name: "Filipino", flag: "ph"}
 };
 
 
@@ -92,6 +96,7 @@ botLanguages.fi = require('./fi-FI/bot.json');
 botLanguages.fr = require('./fr-FR/bot.json');
 botLanguages.hi = require('./hi-IN/bot.json');
 botLanguages.hr = require('./hr-HR/bot.json');
+botLanguages.he = require('./he-IL/bot.json');
 botLanguages.hu = require('./hu-HU/bot.json');
 botLanguages.it = require('./it-IT/bot.json');
 botLanguages.ja = require('./ja-JP/bot.json');
@@ -113,6 +118,7 @@ botLanguages.uk = require('./uk-UA/bot.json');
 botLanguages.vi = require('./vi-VN/bot.json');
 botLanguages.zh = require('./zh-CN/bot.json');
 botLanguages["zh_TW"] = require('./zh-TW/bot.json');
+botLanguages.tl = require('./fil-PH/bot.json');
 
 module.exports.botLangs = botLanguages;
 
