@@ -731,5 +731,7 @@
     "temp_max_description": "Het aantal kanalen dat een gebruiker tegelijk mag maken.",
     "temp_channel_module": "Tijdelijke Kanalen",
     "rr_max_reactions": "Max reacties bereikt!",
-    "temp_max_users": "Standaard maximum aantal gebruikers"
+    "temp_max_users": "Standaard maximum aantal gebruikers",
+    "setxp_description": "Changes member xp.",
+    "announcement_halloween": "SAY {0} AND TAKE 50% OFF, USE THE COPUON {0}"
 }
