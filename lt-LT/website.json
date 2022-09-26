@@ -47,7 +47,7 @@
     "stop_description": "Sustabdyti esamą dainą ir išvaloma visa muzikos eilė.",
     "vol_description": "Keičiamas/Rodomas esamas garso lygis.",
     "pause_description": "Sustabdomas grojamas esamas įrašas.",
-    "np_description": "Shows the song that the bot is currently playing",
+    "np_description": "Shows the song that the bot is currently playing\n",
     "repeat_description": "Įjungia kartojimo rėžimą.",
     "seek_description": "Ieškoma tam tikro taško esamame įraše.",
     "restore_description": "Atkuria jūsų atsarginę kopiją!",
@@ -731,5 +731,7 @@
     "temp_max_description": "The number of channels a user may create at once.",
     "temp_channel_module": "Temporary Channels",
     "rr_max_reactions": "Max reactions reached!",
-    "temp_max_users": "Default maximum number of users"
+    "temp_max_users": "Default maximum number of users",
+    "setxp_description": "Changes member xp.",
+    "announcement_halloween": "SAY {0} AND TAKE 50% OFF, USE THE COPUON {0}"
 }
