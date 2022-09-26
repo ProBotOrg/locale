@@ -171,7 +171,7 @@
 	"vip_please_wait_description": "**:stopwatch: | {0}님, 다음 시간을 기다려주세요: {1}.**",
 	"vip_please_attach_description": ":rolling_eyes: **지정하거나 첨부해주세요.**",
 	"vip_please_specify_description": ":rolling_eyes: - **지정해주세요.**",
-	"vip_details_description": "**프리미엄 번호:** {0}\n**프리미엄 종료일:** {1}\n**프리미엄 가입일:** {2}",
+	"vip_details_description": "**프리미엄 번호:** {0}\n**프리미엄 종료일:** {1}\n**프리미엄을 등록한 사용자:** {2}",
 	"vip_ended_description": "종료됨",
 	"slowmode_description": "채널 내 슬로우모드를 활성화하거나 비활성화해요.",
 	"slowmode_time_description": "채널에 적용 할 슬로우모드 시간",
@@ -467,7 +467,6 @@
 	"lock_already_locked": "**:x: {0} 채널이 이미 잠겼어요.**",
 	"reset_type_description": "초기화할 유형 선택",
 	"reset_user_description": "스탯을 초기화할 멤버",
-	"button_someone_else": ":x: 이 버튼은 다른 분께 속해있어요.",
 	"vip_choose_placeholder": "상태 유형을 선택하세요.",
 	"vip_username_description": "내 프리미엄 봇의 이름을 변경해요.",
 	"vip_username_name_description": "설정할 내 프리미엄 봇의 이름",
@@ -480,7 +479,8 @@
 	"vip_avatar_url_description": "설정할 내 프리미엄 봇의 사진 URL",
 	"vip_transfer_description": "다른 분께 내 프리미엄 봇의 소유권을 이전해요.",
 	"vip_transfer_user_description": "내 프리미엄 봇의 소유권을 이전할 사용자",
-	"vip_whitelist_description": "Whitelist a user to allow access to the ProBot panel.",
-	"vip_whitelist_user_description": "The user to add / remove from ProBot panel.",
-	"vip_no_perms": ":x: vip 명령어를 사용하려면 관리자 권한이 있어야 해요."
+	"vip_whitelist_description": "ProBot 제어판을 사용할 수 있도록 사용자를 화이트리스트해요.",
+	"vip_whitelist_user_description": "ProBot 제어판에 추가할/제거할 사용자",
+	"vip_no_perms": ":x: vip 명령어를 사용하려면 관리자 권한이 있어야 해요.",
+	"button_someone_else": ":x: 이 버튼은 다른 분께 속해있어요."
 }

@@ -47,7 +47,7 @@
     "stop_description": "Oprește cântecul și șterge toată coada. ",
     "vol_description": "Modifică/Arată nivelul actual al volumului. ",
     "pause_description": "Pune pe pauză cântecul actual. ",
-    "np_description": "Arată ce cântec este momentan ascultat. ",
+    "np_description": "Shows the song that the bot is currently playing",
     "repeat_description": "Activează/dezactivează modul de repetare.\n",
     "seek_description": "Du-te la o poziție în cântecul actual. ",
     "restore_description": "Restabilește copia de rezervă!",
@@ -729,5 +729,7 @@
     "temp_time": "Time to delete the channel in seconds",
     "temp_max": "Max channels user can create at the same time",
     "temp_max_description": "The number of channels a user may create at once.",
-    "temp_channel_module": "Temporary Channels"
+    "temp_channel_module": "Temporary Channels",
+    "rr_max_reactions": "Max reactions reached!",
+    "temp_max_users": "Default maximum number of users"
 }

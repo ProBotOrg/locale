@@ -467,7 +467,6 @@
 	"lock_already_locked": "**:x: الروم مقفل بالفعل {0}.**",
 	"reset_type_description": "اختر نوع تصفير",
 	"reset_user_description": "المستخدم المراد إعادة تعيين إحصائيات لـه.",
-	"button_someone_else": ":x: هذا الزر ينتمي لشخص آخر.",
 	"vip_choose_placeholder": "حدد نوع الحالة.",
 	"vip_username_description": "تغيير اسم بوت البريميوم الخاص بك.",
 	"vip_username_name_description": "الأسم الذي تريدهُ لبوت البريميوم الخاص بك.",
@@ -482,5 +481,6 @@
 	"vip_transfer_user_description": "المستخدم الذي تريد نقل بوت البريميوم لهُ.",
 	"vip_whitelist_description": "السماح للمستخدم بالوصول الى لوحة تحكم بروبوت.",
 	"vip_whitelist_user_description": "الشخص المراد إضافته / إزالته من لوحة تحكم بروبوت.",
-	"vip_no_perms": ":x: تحتاج الى صلاحية Administrator لإستخدام أوامر vip."
+	"vip_no_perms": ":x: تحتاج الى صلاحية Administrator لإستخدام أوامر vip.",
+	"button_someone_else": ":x: هذا الزر ينتمي لشخص آخر."
 }

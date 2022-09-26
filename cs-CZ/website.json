@@ -729,5 +729,7 @@
     "temp_time": "Čas k odstranění kanálu v sekundách",
     "temp_max": "Maximální počet dočasných kanálů, které může uživatel najednou mít",
     "temp_max_description": "Počet kanálů, který může mít uživatel najednou vytvořený",
-    "temp_channel_module": "Dočasné kanály"
+    "temp_channel_module": "Dočasné kanály",
+    "rr_max_reactions": "Max reactions reached!",
+    "temp_max_users": "Default maximum number of users"
 }

@@ -729,5 +729,7 @@
     "temp_time": "Tijd om het tijdelijk kanaal in seconden te verwijderen.",
     "temp_max": "Max kanalen kan gebruiker op hetzelfde moment aanmaken",
     "temp_max_description": "Het aantal kanalen dat een gebruiker tegelijk mag maken.",
-    "temp_channel_module": "Tijdelijke Kanalen"
+    "temp_channel_module": "Tijdelijke Kanalen",
+    "rr_max_reactions": "Max reacties bereikt!",
+    "temp_max_users": "Standaard maximum aantal gebruikers"
 }

@@ -729,5 +729,7 @@
     "temp_time": "Temps de suppression du salon en secondes",
     "temp_max": "Max salons que l'utilisateur peut créer en même temps",
     "temp_max_description": "Le nombre de salon qu'un utilisateur peut créer à la fois.",
-    "temp_channel_module": "Salons temporaires"
+    "temp_channel_module": "Salons temporaires",
+    "rr_max_reactions": "Max de réactions atteint !",
+    "temp_max_users": "Nombre maximal d'utilisateurs par défaut"
 }

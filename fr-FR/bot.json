@@ -35,7 +35,7 @@
 	"seek_description": "Chercher à un certain endroit du morceau en cours.",
 	"restore_description": "Restaure votre sauvegarde !",
 	"credits_description": "Montre votre solde ou celui de quelqu'un d'autre.",
-	"color_description": "Changer la couleur d'un rôle.",
+	"color_description": "Changez votre couleur dans le serveur",
 	"colors_description": "Lister toutes les couleurs disponibles.",
 	"title_description": "Change votre titre dans la commande `/profile`.",
 	"reset_description": "Réinitialise les points d'XP de texte / voix / invitations pour tous les membres.",
@@ -467,7 +467,6 @@
 	"lock_already_locked": "**:x : la chaîne est déjà verrouillée {0}.**",
 	"reset_type_description": "Sélectionnez le type de réinitialisation",
 	"reset_user_description": "L'utilisateur pour lequel réinitialiser les statistiques.",
-	"button_someone_else": ":x: Ce bouton appartient à quelqu'un d'autre.",
 	"vip_choose_placeholder": "Sélectionnez un type de statut.",
 	"vip_username_description": "Modifiez le nom de votre bot premium.",
 	"vip_username_name_description": "Le nom à définir dans votre bot premium.",
@@ -482,5 +481,6 @@
 	"vip_transfer_user_description": "L'utilisateur à qui vous voulez transférer votre bot premium.",
 	"vip_whitelist_description": "Mettre en liste blanche un utilisateur pour autoriser l'accès au panneau ProBot.",
 	"vip_whitelist_user_description": "L'utilisateur à ajouter/supprimer du panneau ProBot.",
-	"vip_no_perms": ":x: Vous avez besoin d'une autorisation d'administrateur pour utiliser les commandes vip."
+	"vip_no_perms": ":x: Vous avez besoin d'une autorisation d'administrateur pour utiliser les commandes vip.",
+	"button_someone_else": ":x: Ce bouton appartient à quelqu'un d'autre."
 }

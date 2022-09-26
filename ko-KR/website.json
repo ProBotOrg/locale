@@ -1,6 +1,6 @@
 {
     "rank_description": "나 또는 다른 멤버의 등급 카드를 표시해요.",
-    "clear_description": "채널 메시지를 정리해요",
+    "clear_description": "채널의 메시지를 정리해요.",
     "moveme_description": "다른 음성 채널로 이동해요.",
     "id_description": "나 또는 다른 멤버의 등급 카드를 표시해요.",
     "profile_description": "본인 또는 멤버의 맞춤 글로벌 프로필 카드를 보여줘요.",
@@ -729,5 +729,7 @@
     "temp_time": "임시 채널을 삭제할 시간을 지정해요 (초)",
     "temp_max": "멤버가 동시에 생성할 수 있는 임시 채널의 개수를 지정해요",
     "temp_max_description": "멤버가 동시에 생성할 수 있는 임시 채널의 개수를 지정해요",
-    "temp_channel_module": "임시 채널"
+    "temp_channel_module": "임시 채널",
+    "rr_max_reactions": "최대 반응 개수에 도달했어요!",
+    "temp_max_users": "Default maximum number of users"
 }

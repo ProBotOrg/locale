@@ -467,7 +467,6 @@
 	"lock_already_locked": "**:x: Kanal zaten kilitlendi {0}.**",
 	"reset_type_description": "Sıfırlama türünü seçin",
 	"reset_user_description": "İstatistikleri sıfırlanacak kullanıcı.",
-	"button_someone_else": ":x: Bu buton başkasına aittir.",
 	"vip_choose_placeholder": "Bir Durum Seçiniz",
 	"vip_username_description": "Premium botunuzun adını değiştirin.",
 	"vip_username_name_description": "Premium botunuzda ayarlanacak isim.",
@@ -482,5 +481,6 @@
 	"vip_transfer_user_description": "Premium botunuzu aktarmak istediğiniz üye.",
 	"vip_whitelist_description": "ProBot kontrol paneline erişime izin vermek için bir üyenizi beyaz listeye alın.",
 	"vip_whitelist_user_description": "ProBot kontrol panelinin erişimine izin verilecek / kaldırılacak üye.",
-	"vip_no_perms": ":x: Premium komutlarını kullanmak için yönetici iznine ihtiyacınız var."
+	"vip_no_perms": ":x: Premium komutlarını kullanmak için yönetici iznine ihtiyacınız var.",
+	"button_someone_else": ":x: Bu buton başkasına aittir."
 }
