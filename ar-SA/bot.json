@@ -195,7 +195,7 @@
 	"rep_not_bots": "ـ **{0}**, البوتات لا تملك مرتبات! :rolling_eyes:",
 	"rep_cannot_give": "**ـ {0}, لا يمكنك أن تعطي لنفسك نقاط سمعة! ** :rolling_eyes:",
 	"rep_given": "**ـ {0} اعطى {1} نقطة سمعة!** | :up:",
-	"top_only_premium": "هذا الأمر مخصص لمشتركين البريميوم فقط لأسباب تتعلق بالأداء.",
+	"top_only_premium": "هذا الأمر متاح فقط لمشتركين البريميوم لأسباب تتعلق بالأداء.\n",
 	"top_error": "**خطأ برقم الصفحة ** {0} من {1}  :rolling_eyes:",
 	"top_cant_find_list": "لا يمكنني العثور على القائمة الأفضل",
 	"top_leaderboards": "📋 لائحة متصدرين نقاط السيرفر",
@@ -483,16 +483,16 @@
 	"vip_whitelist_user_description": "الشخص المراد إضافته / إزالته من لوحة تحكم بروبوت.",
 	"vip_no_perms": ":x: تحتاج الى صلاحية Administrator لإستخدام أوامر vip.",
 	"button_someone_else": ":x: هذا الزر ينتمي لشخص آخر.",
-	"setxp_description": "Changes member's xp",
-	"setxp_add_description": "Add xp to user.",
-	"setxp_add_user_description": "The user you want to add xp to.",
-	"setxp_add_xp_description": "The amount of xp to add to the user.",
-	"setxp_remove_description": "Remove xp from a user",
-	"setxp_remove_user_description": "The user you want to remove xp from",
-	"setxp_remove_xp_description": "The amount of xp you want to remove from the user.",
-	"setxp_changed_xp": "**✅ | XP has been updated for @{0}**",
-	"setxp_select_type": "**Please select the type of xp.**",
-	"setxp_text_select": "Adds xp to the text level",
-	"setxp_voice_select": "Adds xp to the voice level",
-	"setxp_premium": ":x: This command is only available for premium subscribers."
+	"setxp_description": "تغيير اكسبي العضو",
+	"setxp_add_description": "إضافة اكسبي لعضو.",
+	"setxp_add_user_description": "العضو الذي تريد إضافة اكسبي له.",
+	"setxp_add_xp_description": "كمية الاكسبي الذي تريد إضافتها الى العضو.",
+	"setxp_remove_description": "إزالة اكسبي من عضو",
+	"setxp_remove_user_description": "العضو الذي تريد إزالة الاكسبي منهُ",
+	"setxp_remove_xp_description": "كمية الاكسبي التي تريد إزالتها من العضو.",
+	"setxp_changed_xp": "**✅ | تم تحديث الاكسبي لـ @{0}**\n",
+	"setxp_select_type": "**يرجى أختيار نوع الاكسبي.**",
+	"setxp_text_select": "أضافة اكسبي إلى المستوى الكتابي",
+	"setxp_voice_select": "إضافة اكسبي إلى المستوى الصوتي",
+	"setxp_premium": ":x: هذا الأمر متاح فقط لمشتركين البريميوم."
 }
