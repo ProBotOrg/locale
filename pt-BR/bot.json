@@ -482,5 +482,17 @@
 	"vip_whitelist_description": "Lista branca de um usuário para permitir o acesso ao painel do ProBot.",
 	"vip_whitelist_user_description": "O usuário para adicionar / remover painel do ProBot.",
 	"vip_no_perms": ":x: Você precisa de permissão de administrador para usar os comandos vip.",
-	"button_someone_else": ":x: Este botão pertence a outra pessoa."
+	"button_someone_else": ":x: Este botão pertence a outra pessoa.",
+	"setxp_description": "Changes member's xp",
+	"setxp_add_description": "Add xp to user.",
+	"setxp_add_user_description": "The user you want to add xp to.",
+	"setxp_add_xp_description": "The amount of xp to add to the user.",
+	"setxp_remove_description": "Remove xp from a user",
+	"setxp_remove_user_description": "The user you want to remove xp from",
+	"setxp_remove_xp_description": "The amount of xp you want to remove from the user.",
+	"setxp_changed_xp": "**✅ | XP has been updated for @{0}**",
+	"setxp_select_type": "**Please select the type of xp.**",
+	"setxp_text_select": "Adds xp to the text level",
+	"setxp_voice_select": "Adds xp to the voice level",
+	"setxp_premium": ":x: This command is only available for premium subscribers."
 }

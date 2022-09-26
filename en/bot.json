@@ -482,7 +482,7 @@
 	"vip_whitelist_description": "Whitelist a user to allow access to the ProBot panel.",
 	"vip_whitelist_user_description": "The user to add / remove from ProBot panel.",
 	"vip_no_perms": ":x: You need administrator permission to use vip commands.",
-  "button_someone_else": ":x: This button belongs to someone else.",
+	"button_someone_else": ":x: This button belongs to someone else.",
 	"setxp_description": "Changes member's xp",
 	"setxp_add_description": "Add xp to user.",
 	"setxp_add_user_description": "The user you want to add xp to.",

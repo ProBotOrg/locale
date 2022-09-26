@@ -38,7 +38,7 @@
     "role_description": "Thêm/gỡ vai trò cho một thành viên.",
     "warn_description": "Cảnh cáo một thành viên.",
     "setcolor_description": "Thay đổi màu sắc của vai trò theo mã màu hex.",
-    "warnings_description": "Hiện danh sách các cảnh cáo trong server hoặc một người dùng.",
+    "warnings_description": "Hiện danh sách các cảnh cáo trong máy chủ hoặc một người dùng.",
     "setnick_description": "Thay đổi biệt danh của thành viên nào đó.",
     "play_description": "Thêm một bài hát vào hàng đợi.",
     "skip_description": "Bỏ qua bài hát đang phát.",
@@ -731,5 +731,7 @@
     "temp_max_description": "Số lượng kênh mà một người dùng có thể tạo trong một lúc.",
     "temp_channel_module": "Kênh tạm thời",
     "rr_max_reactions": "Đã đạt tối đa lượng biểu cảm!",
-    "temp_max_users": "Số lượng người dùng tối đa mặc định"
+    "temp_max_users": "Số lượng người dùng tối đa mặc định",
+    "setxp_description": "Changes member xp.",
+    "announcement_halloween": "SAY {0} AND TAKE 50% OFF, USE THE COPUON {0}"
 }

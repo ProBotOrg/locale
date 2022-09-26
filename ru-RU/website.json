@@ -731,5 +731,7 @@
     "temp_max_description": "Количество каналов, которые пользователь может создавать одновременно.",
     "temp_channel_module": "Временные каналы",
     "rr_max_reactions": "Максимальное количество реакций достигнуто!",
-    "temp_max_users": "Максимальное количество пользователей по умолчанию"
+    "temp_max_users": "Максимальное количество пользователей по умолчанию",
+    "setxp_description": "Changes member xp.",
+    "announcement_halloween": "SAY {0} AND TAKE 50% OFF, USE THE COPUON {0}"
 }

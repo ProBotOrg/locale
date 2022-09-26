@@ -47,7 +47,7 @@
     "stop_description": "Σταματήστε το τρέχον τραγούδι και καθαρίστε ολόκληρη την ουρά μουσικής.",
     "vol_description": "Αλλάζει/Εμφανίζει την τρέχουσα ένταση.",
     "pause_description": "Πάυει το τρέχων τραγούδι.",
-    "np_description": "Shows the song that the bot is currently playing",
+    "np_description": "Shows the song that the bot is currently playing\n",
     "repeat_description": "Εναλλάζει την λειτουργία επανάληψης.",
     "seek_description": "Πηγαίνει σε ένα συγκεκριμένο σημείο του τρέχον κομματιού.",
     "restore_description": "Επαναφέρει το αντίγραφο ασφαλείας σας!",
@@ -731,5 +731,7 @@
     "temp_max_description": "The number of channels a user may create at once.",
     "temp_channel_module": "Temporary Channels",
     "rr_max_reactions": "Max reactions reached!",
-    "temp_max_users": "Default maximum number of users"
+    "temp_max_users": "Default maximum number of users",
+    "setxp_description": "Changes member xp.",
+    "announcement_halloween": "SAY {0} AND TAKE 50% OFF, USE THE COPUON {0}"
 }

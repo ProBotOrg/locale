@@ -47,7 +47,7 @@
     "stop_description": "Stop den aktuelle sang og rydder hele musikkens kø.",
     "vol_description": "Ændrer/Viser den aktuelle lydstyrke.",
     "pause_description": "Genstart den aktuelle sang.",
-    "np_description": "Shows the song that the bot is currently playing",
+    "np_description": "Shows the song that the bot is currently playing\n",
     "repeat_description": "Toggles the repeat mode.\n",
     "seek_description": "Søger til et bestemt punkt i det aktuelle spor.",
     "restore_description": "Gendanner din sikkerhedskopi!",
@@ -731,5 +731,7 @@
     "temp_max_description": "The number of channels a user may create at once.",
     "temp_channel_module": "Temporary Channels",
     "rr_max_reactions": "Max reactions reached!",
-    "temp_max_users": "Default maximum number of users"
+    "temp_max_users": "Default maximum number of users",
+    "setxp_description": "Changes member xp.",
+    "announcement_halloween": "SAY {0} AND TAKE 50% OFF, USE THE COPUON {0}"
 }

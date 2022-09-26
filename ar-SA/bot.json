@@ -482,5 +482,17 @@
 	"vip_whitelist_description": "السماح للمستخدم بالوصول الى لوحة تحكم بروبوت.",
 	"vip_whitelist_user_description": "الشخص المراد إضافته / إزالته من لوحة تحكم بروبوت.",
 	"vip_no_perms": ":x: تحتاج الى صلاحية Administrator لإستخدام أوامر vip.",
-	"button_someone_else": ":x: هذا الزر ينتمي لشخص آخر."
+	"button_someone_else": ":x: هذا الزر ينتمي لشخص آخر.",
+	"setxp_description": "Changes member's xp",
+	"setxp_add_description": "Add xp to user.",
+	"setxp_add_user_description": "The user you want to add xp to.",
+	"setxp_add_xp_description": "The amount of xp to add to the user.",
+	"setxp_remove_description": "Remove xp from a user",
+	"setxp_remove_user_description": "The user you want to remove xp from",
+	"setxp_remove_xp_description": "The amount of xp you want to remove from the user.",
+	"setxp_changed_xp": "**✅ | XP has been updated for @{0}**",
+	"setxp_select_type": "**Please select the type of xp.**",
+	"setxp_text_select": "Adds xp to the text level",
+	"setxp_voice_select": "Adds xp to the voice level",
+	"setxp_premium": ":x: This command is only available for premium subscribers."
 }

@@ -731,5 +731,7 @@
     "temp_max_description": "El número de canales que un usuario puede crear a la vez.",
     "temp_channel_module": "Canales Temporales",
     "rr_max_reactions": "Se ha alcanzado el máximo de reacciones.",
-    "temp_max_users": "Número máximo de usuarios por defecto"
+    "temp_max_users": "Número máximo de usuarios por defecto",
+    "setxp_description": "Changes member xp.",
+    "announcement_halloween": "SAY {0} AND TAKE 50% OFF, USE THE COPUON {0}"
 }

@@ -731,5 +731,7 @@
     "temp_max_description": "A felhasználó által létrehozható csatornák száma egy időben.",
     "temp_channel_module": "Ideiglenes csatornák",
     "rr_max_reactions": "Maximális reakciók elérve!",
-    "temp_max_users": "Default maximum number of users"
+    "temp_max_users": "Default maximum number of users",
+    "setxp_description": "Changes member xp.",
+    "announcement_halloween": "SAY {0} AND TAKE 50% OFF, USE THE COPUON {0}"
 }
