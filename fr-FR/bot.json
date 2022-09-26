@@ -450,7 +450,7 @@
 	"timeout_max_time": ":x : La durée du ban temporaire doit être inférieure ou égale à 28 jours.",
 	"untimeout_done": ":white_check_mark: **@{0} has been untimed out.**",
 	"untimeout_cant": ":rolling_eyes: - ** You can't untimeout @{0}. **",
-	"untimeout_missing_permission": ":rolling_eyes: - I couldn't untimeout that user. Please double-check my permissions and role position.",
+	"untimeout_missing_permission": ":rolling_eyes: - Je ne peux pas exclure cet utilisateur. Veuillez vérifier mes permissions et permissions de rôle.",
 	"untimeout_not_timedout": ":x: The member is not timed out.",
 	"cant_bots": ":robot: Je ne peux pas effectuer cette action sur les bots.",
 	"timeout_description": "Timeout a user from sending messages, react or join voice channels.",
@@ -482,5 +482,17 @@
 	"vip_whitelist_description": "Mettre en liste blanche un utilisateur pour autoriser l'accès au panneau ProBot.",
 	"vip_whitelist_user_description": "L'utilisateur à ajouter/supprimer du panneau ProBot.",
 	"vip_no_perms": ":x: Vous avez besoin d'une autorisation d'administrateur pour utiliser les commandes vip.",
-	"button_someone_else": ":x: Ce bouton appartient à quelqu'un d'autre."
+	"button_someone_else": ":x: Ce bouton appartient à quelqu'un d'autre.",
+	"setxp_description": "Changes member's xp",
+	"setxp_add_description": "Add xp to user.",
+	"setxp_add_user_description": "The user you want to add xp to.",
+	"setxp_add_xp_description": "The amount of xp to add to the user.",
+	"setxp_remove_description": "Remove xp from a user",
+	"setxp_remove_user_description": "The user you want to remove xp from",
+	"setxp_remove_xp_description": "The amount of xp you want to remove from the user.",
+	"setxp_changed_xp": "**✅ | XP has been updated for @{0}**",
+	"setxp_select_type": "**Please select the type of xp.**",
+	"setxp_text_select": "Adds xp to the text level",
+	"setxp_voice_select": "Adds xp to the voice level",
+	"setxp_premium": ":x: This command is only available for premium subscribers."
 }
