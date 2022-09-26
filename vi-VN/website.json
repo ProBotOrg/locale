@@ -40,7 +40,7 @@
     "setcolor_description": "Thay đổi màu sắc của vai trò theo mã màu hex.",
     "warnings_description": "Hiện danh sách các cảnh cáo trong server hoặc một người dùng.",
     "setnick_description": "Thay đổi biệt danh của thành viên nào đó.",
-    "play_description": "Thêm một bài hát vào hàng đợi.",
+    "play_description": "Thêm một bài hát vào hàng đợi và chơi nó.",
     "skip_description": "Bỏ qua bài hát đang phát.",
     "search_description": "Tìm kiếm kết quả để phát.",
     "queue_description": "Hiển thị hàng đợi của các bản nhạc đang phát trong danh sách.",
