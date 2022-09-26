@@ -731,5 +731,6 @@
     "temp_max_description": "The number of channels a user may create at once.",
     "temp_channel_module": "Temporary Channels",
     "rr_max_reactions": "Max reactions reached!",
-    "temp_max_users": "Default maximum number of users"
+    "temp_max_users": "Default maximum number of users",
+    "announcement_halloween": "SAY BOO AND TAKE 50% OFF, USE THE COPUON #BOO"
 }
