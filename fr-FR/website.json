@@ -731,5 +731,7 @@
     "temp_max_description": "Le nombre de salon qu'un utilisateur peut créer à la fois.",
     "temp_channel_module": "Salons temporaires",
     "rr_max_reactions": "Max de réactions atteint !",
-    "temp_max_users": "Nombre maximal d'utilisateurs par défaut"
+    "temp_max_users": "Nombre maximal d'utilisateurs par défaut",
+    "setxp_description": "Changes member xp.",
+    "announcement_halloween": "SAY {0} AND TAKE 50% OFF, USE THE COPUON {0}"
 }
