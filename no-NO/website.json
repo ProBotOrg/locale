@@ -40,7 +40,7 @@
     "setcolor_description": "Changes role's color by hex codes.",
     "warnings_description": "Get the list of warnings for the server or a user.\n",
     "setnick_description": "Endrer kallenavnet til et medlem.",
-    "play_description": "Add a song to queue and plays it.\n",
+    "play_description": "Add a song to the queue and the bot plays it.",
     "skip_description": "Skip the current song.\t",
     "search_description": "Searches for results to play.",
     "queue_description": "Display the queue of the current tracks in the playlist.",
@@ -730,7 +730,7 @@
     "temp_max": "Max channels user can create at the same time",
     "temp_max_description": "The number of channels a user may create at once.",
     "temp_channel_module": "Temporary Channels",
-    "rr_max_reactions": "Max reactions reached!",
+    "rr_max_reactions": "Max reactions reached!\n",
     "temp_max_users": "Default maximum number of users",
     "setxp_description": "Changes member xp.",
     "announcement_halloween": "SAY {0} AND TAKE 50% OFF, USE THE COPUON {0}"
