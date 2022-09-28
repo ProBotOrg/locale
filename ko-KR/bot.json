@@ -489,10 +489,10 @@
 	"setxp_add_xp_description": "사용자에 추가하려는 경험치의 양",
 	"setxp_remove_description": "사용자의 경험치를 제거해요",
 	"setxp_remove_user_description": "경험치를 제거하고자 하는 사용자",
-	"setxp_remove_xp_description": "The amount of xp you want to remove from the user.",
-	"setxp_changed_xp": "**✅ | XP has been updated for @{0}**",
-	"setxp_select_type": "**Please select the type of xp.**",
-	"setxp_text_select": "Adds xp to the text level",
-	"setxp_voice_select": "Adds xp to the voice level",
-	"setxp_premium": ":x: This command is only available for premium subscribers."
+	"setxp_remove_xp_description": "사용자에서 제거하고자 하는 경험치의 양",
+	"setxp_changed_xp": "**✅ | @{0}님의 경험치가 갱신됐어요**",
+	"setxp_select_type": "**경험치 유형을 선택하세요.**",
+	"setxp_text_select": "채팅 레벨에 경험치를 추가해요",
+	"setxp_voice_select": "음성 채팅 레벨에 경험치를 추가해요",
+	"setxp_premium": ":x: 이 명령어는 프리미엄 구독자 분만 사용할 수 있어요."
 }
