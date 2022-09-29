@@ -732,6 +732,6 @@
     "temp_channel_module": "Canales Temporales",
     "rr_max_reactions": "Se ha alcanzado el máximo de reacciones.",
     "temp_max_users": "Número máximo de usuarios por defecto",
-    "setxp_description": "La cantidad de xp que quieres eliminar del usuario.",
+    "setxp_description": "Cambia el xp del miembro",
     "announcement_halloween": "DIGA {0} Y OBTENGA UN 50% DE DESCUENTO, UTILICE EL COPÓN {0}"
 }
