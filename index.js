@@ -41,7 +41,7 @@ module.exports = languages;
 module.exports.webLangs = {
   ar: { name: "العربية", flag: "sa" },
   bg: { name: "български", flag: "bg" },
-  cs: { name: "čeština", flag: "cz" },
+  cs: { name: "Čeština", flag: "cz" },
   en: { name: "English", flag: "us" },
   tr: { name: "Türkçe", flag: "tr" },
   zh: { name: "中文", flag: "cn" },
@@ -55,7 +55,7 @@ module.exports.webLangs = {
   pl: { name: "Polski", flag: "pl" },
   pt: { name: "Português", flag: "pt" },
   nl: { name: "Nederlands", flag: "nl" },
-  it: { name: "Italiana", flag: "it" },
+  it: { name: "Italiano", flag: "it" },
   es: { name: "Español", flag: "es" },
   ro: { name: "Română", flag: "ro" },
   sk: { name: "Slovák", flag: "sk" },
