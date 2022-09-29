@@ -695,7 +695,7 @@
     "billing_no_expiry_date": "Please enter a valid expiry date",
     "billing_no_valid_cvv": "Please enter a valid cvv code",
     "tip": "TIP",
-    "protection_limits_tip": If a user has multiple roles, the higher limits will apply. Everyone's default role is @everyone.",
+    "protection_limits_tip": "If a user has multiple roles, the higher limits will apply. Everyone's default role is @everyone.",
     "select_create": "Create '{0}'",
     "daily_wrong_token": "Wrong Token",
     "daily_forbidden": "Forbidden",
