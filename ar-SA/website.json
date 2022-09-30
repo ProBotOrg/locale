@@ -733,5 +733,11 @@
     "rr_max_reactions": "تم وصول الحد الأقصى للرياكشنات!",
     "temp_max_users": "الحد الأقصى لعدد المستخدمين",
     "setxp_description": "تغير اكسبي العضو",
-    "announcement_halloween": "أستخدم {0} للحصول على خصم 50%، استخدم كوبون {0}"
+    "announcement_halloween": "أستخدم {0} للحصول على خصم 50%، استخدم كوبون {0}",
+    "stats_7": "Last 7 Days",
+    "stats_14": "Last 14 Days",
+    "stats_month": "Last 1 Month",
+    "stats_3_months": "Last 3 Months (Premium)",
+    "stats_6_months": "Last 6 Months (Premium)",
+    "stats_1_year": "Last 1 Year (Premium)"
 }
