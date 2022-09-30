@@ -733,5 +733,11 @@
     "rr_max_reactions": "Máximo de reações atingidas!",
     "temp_max_users": "Número máximo padrão de usuários",
     "setxp_description": "Altera o XP do membro.",
-    "announcement_halloween": "DIGA {0} E TOQUE 50% DE DESCONTO, USE A CÓPIA {0}"
+    "announcement_halloween": "DIGA {0} E TOQUE 50% DE DESCONTO, USE A CÓPIA {0}",
+    "stats_7": "Last 7 Days",
+    "stats_14": "Last 14 Days",
+    "stats_month": "Last 1 Month",
+    "stats_3_months": "Last 3 Months (Premium)",
+    "stats_6_months": "Last 6 Months (Premium)",
+    "stats_1_year": "Last 1 Year (Premium)"
 }
