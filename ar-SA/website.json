@@ -734,10 +734,10 @@
     "temp_max_users": "الحد الأقصى لعدد المستخدمين",
     "setxp_description": "تغير اكسبي العضو",
     "announcement_halloween": "أستخدم {0} للحصول على خصم 50%، استخدم كوبون {0}",
-    "stats_7": "Last 7 Days",
-    "stats_14": "Last 14 Days",
-    "stats_month": "Last 1 Month",
-    "stats_3_months": "Last 3 Months (Premium)",
-    "stats_6_months": "Last 6 Months (Premium)",
-    "stats_1_year": "Last 1 Year (Premium)"
+    "stats_7": "آخر 7 أيام",
+    "stats_14": "آخر 14 يوم",
+    "stats_month": "آخر شهر",
+    "stats_3_months": "آخر 3 أشهر (بريميوم)",
+    "stats_6_months": "آخر 6 أشهر (بريميوم)",
+    "stats_1_year": "آخر سنة (بريميوم)"
 }
