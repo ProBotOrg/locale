@@ -733,5 +733,11 @@
     "rr_max_reactions": "Đã đạt tối đa lượng biểu cảm!",
     "temp_max_users": "Số lượng người dùng tối đa mặc định",
     "setxp_description": "Thay đổi điểm kinh nghiệm cho thành viên.",
-    "announcement_halloween": "MỪNG HALLOWEEN! SỬ DỤNG MÃ {0} ĐỂ NHẬN GIẢM GIÁ 50% CHO VIỆC MUA PREMIUM"
+    "announcement_halloween": "MỪNG HALLOWEEN! SỬ DỤNG MÃ {0} ĐỂ NHẬN GIẢM GIÁ 50% CHO VIỆC MUA PREMIUM",
+    "stats_7": "Last 7 Days",
+    "stats_14": "Last 14 Days",
+    "stats_month": "Last 1 Month",
+    "stats_3_months": "Last 3 Months (Premium)",
+    "stats_6_months": "Last 6 Months (Premium)",
+    "stats_1_year": "Last 1 Year (Premium)"
 }
