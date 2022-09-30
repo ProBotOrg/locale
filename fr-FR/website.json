@@ -732,12 +732,12 @@
     "temp_channel_module": "Salons temporaires",
     "rr_max_reactions": "Max de réactions atteint !",
     "temp_max_users": "Nombre maximal d'utilisateurs par défaut",
-    "setxp_description": "Changes member xp.",
-    "announcement_halloween": "SAY {0} AND TAKE 50% OFF, USE THE COPUON {0}",
-    "stats_7": "Last 7 Days",
-    "stats_14": "Last 14 Days",
-    "stats_month": "Last 1 Month",
-    "stats_3_months": "Last 3 Months (Premium)",
-    "stats_6_months": "Last 6 Months (Premium)",
-    "stats_1_year": "Last 1 Year (Premium)"
+    "setxp_description": "Modifie l'xp des membres.",
+    "announcement_halloween": "DITES {0} ET OBTENEZ 50 % DE RÉDUCTION, UTILISEZ LE COPUON {0}",
+    "stats_7": "Les 7 derniers jours",
+    "stats_14": "Les 14 derniers jours",
+    "stats_month": "Le mois dernier",
+    "stats_3_months": "Les 3 derniers mois (Premium)",
+    "stats_6_months": "Les 6 derniers mois (Premium)",
+    "stats_1_year": "1 an dernier (Premium)"
 }
