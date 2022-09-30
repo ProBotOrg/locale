@@ -733,5 +733,11 @@
     "rr_max_reactions": "최대 반응 개수에 도달했어요!",
     "temp_max_users": "기본 최대 사용자 수",
     "setxp_description": "멤버의 경험치를 변경해요.",
-    "announcement_halloween": "{0}을 말하고 50%를 할인 받으세요. 쿠폰 {0}을(를) 사용하세요!"
+    "announcement_halloween": "{0}을 말하고 50%를 할인 받으세요. 쿠폰 {0}을(를) 사용하세요!",
+    "stats_7": "Last 7 Days",
+    "stats_14": "Last 14 Days",
+    "stats_month": "Last 1 Month",
+    "stats_3_months": "Last 3 Months (Premium)",
+    "stats_6_months": "Last 6 Months (Premium)",
+    "stats_1_year": "Last 1 Year (Premium)"
 }
