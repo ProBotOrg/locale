@@ -125,7 +125,7 @@
 	"vkick_you_cant_description": ":rolling_eyes: - ** You can't kick {0}. **",
 	"vkick_not_voice_description": ":rolling_eyes: -  **The member is not connected to a voice channel!**",
 	"vkick_voice_kicked_description": ":white_check_mark: **@{0} kicked from the voice! **",
-	"unban_couldnt_user_description": ":rolling_eyes: - I couldn't unban that user. Please check my permissions.:rolling_eyes: - I couldn't unban that user. Please double-check my permissions.",
+	"unban_couldnt_user_description": ":rolling_eyes: - I couldn't unban that user. Please check my permissions.",
 	"unban_all_members_description": ":rolling_eyes: - **Administrator permission is required to unban all members.**",
 	"unban_premium_only_description": "This command is currently only available for premium.",
 	"unban_members_being_description": ":white_check_mark: **{0}** members are being unbanned.",

@@ -40,7 +40,7 @@
     "setcolor_description": "Cambie el color del rol por códigos hexadecimales.",
     "warnings_description": "Obtiene la lista de advertencias del servidor o de un usuario.",
     "setnick_description": "Cambia el apodo de un miembro.",
-    "play_description": "Añade una canción a la cola y la reproduce.",
+    "play_description": "Añade una canción a la cola y el bot la reproduce.",
     "skip_description": "Saltar la canción actual.",
     "search_description": "Busca en YouTube para ver los resultados.",
     "queue_description": "Muestra la cola de las pistas actuales de la lista de reproducción.",
@@ -732,6 +732,12 @@
     "temp_channel_module": "Canales Temporales",
     "rr_max_reactions": "Se ha alcanzado el máximo de reacciones.",
     "temp_max_users": "Número máximo de usuarios por defecto",
-    "setxp_description": "Changes member xp.",
-    "announcement_halloween": "SAY {0} AND TAKE 50% OFF, USE THE COPUON {0}"
+    "setxp_description": "Cambia el xp del miembro",
+    "announcement_halloween": "DIGA {0} Y OBTENGA UN 50% DE DESCUENTO, UTILICE EL COPÓN {0}",
+    "stats_7": "Last 7 Days",
+    "stats_14": "Last 14 Days",
+    "stats_month": "Last 1 Month",
+    "stats_3_months": "Last 3 Months (Premium)",
+    "stats_6_months": "Last 6 Months (Premium)",
+    "stats_1_year": "Last 1 Year (Premium)"
 }

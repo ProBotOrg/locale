@@ -725,13 +725,19 @@
     "category": "CATEGORY",
     "temp_category_description": "New temporary channels will be under this category",
     "temp_create_channel": "CREATE CHANNEL",
-    "temp_create_channel_description": "When a user joins this channel, it creates a temp channel for them",
+    "temp_create_channel_description": "When a user joins this channel, it creates a temporary channel for them.",
     "temp_time": "Time to delete the channel in seconds",
     "temp_max": "Max channels user can create at the same time",
     "temp_max_description": "The number of channels a user may create at once.",
     "temp_channel_module": "Temporary Channels",
-    "rr_max_reactions": "Max reactions reached!",
+    "rr_max_reactions": "Max reactions reached!\n",
     "temp_max_users": "Default maximum number of users",
     "setxp_description": "Changes member xp.",
-    "announcement_halloween": "SAY {0} AND TAKE 50% OFF, USE THE COPUON {0}"
+    "announcement_halloween": "SAY {0} AND TAKE 50% OFF, USE THE COPUON {0}",
+    "stats_7": "Last 7 Days",
+    "stats_14": "Last 14 Days",
+    "stats_month": "Last 1 Month",
+    "stats_3_months": "Last 3 Months (Premium)",
+    "stats_6_months": "Last 6 Months (Premium)",
+    "stats_1_year": "Last 1 Year (Premium)"
 }
