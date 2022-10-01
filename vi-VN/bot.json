@@ -467,7 +467,6 @@
 	"lock_already_locked": "**:x: Kênh này đã bị khoá rồi {0}.**",
 	"reset_type_description": "Chọn nhóm để đặt lại",
 	"reset_user_description": "Người dùng mà bạn muốn đặt lại điểm xp.",
-	"button_someone_else": ":x: Có người khác đã dùng danh sách chọn này rồi.",
 	"vip_choose_placeholder": "Chọn một trạng thái.",
 	"vip_username_description": "Đổi tên cho bot premium của bạn.",
 	"vip_username_name_description": "Tên bạn muốn đặt cho bot premium.",
@@ -482,5 +481,18 @@
 	"vip_transfer_user_description": "Người bạn muốn chuyển bot premium cho.",
 	"vip_whitelist_description": "Cho phép người dùng truy cập vào bảng điều khiển của ProBot.",
 	"vip_whitelist_user_description": "Người dùng để thêm / bỏ khỏi danh sách cho phép.",
-	"vip_no_perms": ":x: Bạn cần quyền quản trị để sử dụng lệnh này."
+	"vip_no_perms": ":x: Bạn cần quyền quản trị để sử dụng lệnh này.",
+	"button_someone_else": ":x: Có người khác đã dùng danh sách chọn này rồi.",
+	"setxp_description": "Đặt điểm kinh nghiệm cho thành viên",
+	"setxp_add_description": "Thêm điểm kinh nghiệm cho người dùng.",
+	"setxp_add_user_description": "Người dùng mà bạn muốn thêm điểm kinh nghiệm.",
+	"setxp_add_xp_description": "Số điểm kinh nghiệm để thêm cho người dùng.",
+	"setxp_remove_description": "Trừ điểm kinh nghiệm của người dùng",
+	"setxp_remove_user_description": "Người dùng bạn muốn trừ điểm kinh nghiệm",
+	"setxp_remove_xp_description": "Số điểm kinh nghiệm để trừ ra khỏi người dùng.",
+	"setxp_changed_xp": "**✅ | Đã thay đổi số điểm kinh nghiệm cho @{0}**",
+	"setxp_select_type": "**Vui lòng chọn loại điểm kinh nghiệm.**",
+	"setxp_text_select": "Thêm kinh nghiệm text",
+	"setxp_voice_select": "Thêm kinh nghiệm voice",
+	"setxp_premium": ":x: Lệnh này chỉ khả dụng cho premium."
 }

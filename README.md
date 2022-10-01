@@ -8,4 +8,4 @@
 - **⚠ For editing strings in other languages use [crowdin](https://crowdin.com/project/probot) instead.**
 
 ## Links
-- [Crowdin](https://crowdin.com/project/probot)
+- [![Crowdin](https://badges.crowdin.net/probot/localized.svg)](https://crowdin.com/project/probot)

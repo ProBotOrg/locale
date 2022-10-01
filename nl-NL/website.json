@@ -729,5 +729,15 @@
     "temp_time": "Tijd om het tijdelijk kanaal in seconden te verwijderen.",
     "temp_max": "Max kanalen kan gebruiker op hetzelfde moment aanmaken",
     "temp_max_description": "Het aantal kanalen dat een gebruiker tegelijk mag maken.",
-    "temp_channel_module": "Tijdelijke Kanalen"
+    "temp_channel_module": "Tijdelijke Kanalen",
+    "rr_max_reactions": "Max reacties bereikt!",
+    "temp_max_users": "Standaard maximum aantal gebruikers",
+    "setxp_description": "Wijzigt lid xp.",
+    "announcement_halloween": "ZEG {0} EN PAK 50% KORTING, GEBRUIK DE COUPON {0}",
+    "stats_7": "Last 7 Days",
+    "stats_14": "Last 14 Days",
+    "stats_month": "Last 1 Month",
+    "stats_3_months": "Last 3 Months (Premium)",
+    "stats_6_months": "Last 6 Months (Premium)",
+    "stats_1_year": "Last 1 Year (Premium)"
 }

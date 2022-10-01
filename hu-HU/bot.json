@@ -467,7 +467,6 @@
 	"lock_already_locked": "**:x: A csatorna már zárolt {0}.**",
 	"reset_type_description": "Válassza ki a visszaállítás típusát",
 	"reset_user_description": "A felhasználó, akinek a statisztikáit vissza kell állítani.",
-	"button_someone_else": ":x: Ez a gomb valaki másé.",
 	"vip_choose_placeholder": "Select a status type.",
 	"vip_username_description": "Change the name of your premium bot.",
 	"vip_username_name_description": "The name to set in your premium bot.",
@@ -482,5 +481,18 @@
 	"vip_transfer_user_description": "The user to whom you want to transfer your premium bot.",
 	"vip_whitelist_description": "Whitelist a user to allow access to the ProBot panel.",
 	"vip_whitelist_user_description": "The user to add / remove from ProBot panel.",
-	"vip_no_perms": ":x: You need administrator permission to use vip commands."
+	"vip_no_perms": ":x: A vip parancsok használatához adminisztrátori jogosultságra van szükség.",
+	"button_someone_else": ":x: Ez a gomb valaki másé.",
+	"setxp_description": "Changes member's xp",
+	"setxp_add_description": "Add xp to user.",
+	"setxp_add_user_description": "The user you want to add xp to.",
+	"setxp_add_xp_description": "The amount of xp to add to the user.",
+	"setxp_remove_description": "Remove xp from a user",
+	"setxp_remove_user_description": "The user you want to remove xp from",
+	"setxp_remove_xp_description": "The amount of xp you want to remove from the user.",
+	"setxp_changed_xp": "**✅ | XP has been updated for @{0}**",
+	"setxp_select_type": "**Please select the type of xp.**",
+	"setxp_text_select": "Adds xp to the text level",
+	"setxp_voice_select": "Adds xp to the voice level",
+	"setxp_premium": ":x: This command is only available for premium subscribers."
 }
