@@ -733,7 +733,7 @@
     "rr_max_reactions": "リアクション数の上限に達しました!",
     "temp_max_users": "デフォルトの最大ユーザー数",
     "setxp_description": "Changes member xp.",
-    "announcement_halloween": "SAY {0} AND TAKE 50% OFF, USE THE COPUON {0}",
+    "announcement_halloween": "SAY {0} AND GET 50% OFF, USE COUPON {0}",
     "stats_7": "Last 7 Days",
     "stats_14": "Last 14 Days",
     "stats_month": "Last 1 Month",
