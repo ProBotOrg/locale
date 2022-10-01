@@ -495,7 +495,7 @@
 	"setxp_text_select": "Adds xp to the text level",
 	"setxp_voice_select": "Adds xp to the voice level",
 	"setxp_premium": ":x: This command is only available for premium subscribers.",
-  "rr_module_disabled": ":x: Reaction roles module is disabled.",
+  	"rr_module_disabled": ":x: Reaction roles module is disabled.",
 	"rr_button_cant_role": ":rolling_eyes: - I couldn't update your roles, If you're server admin please double-check my permissions.",
 	"rr_no_role_select": ":x: There are no roles linked to this select menu.",
 	"rr_role_added": ":white_check_mark: Added **{0}**",
