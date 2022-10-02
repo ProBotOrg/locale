@@ -168,7 +168,8 @@
         "usage_timeout": "{0} [user]\n{0} [user] (time)\n{0} [user] (reason)",
         "usage_untimeout": "{0} [user]",
         "usage_shuffle": "{0}",
-        "usage_setxp": "{0} [action] [user] [xp]",
+        "usage_setxp": "{0} [user] [text/voice] [xp]",
+        "usage_setlevel": "{0} [user] [text/voice] [level]",
         "examples_clear": "{0}\n{0} 1000\n{0} bots 10\n{0} @Dramex 10",
         "examples_moveme": "{0} general\n{0} @Dramex",
         "examples_id": "{0} @Dramex",
@@ -216,6 +217,7 @@
         "examples_timeout": "{0} @Fnr\n{0} @Fnr 1h\n{0} @Fnr Spamming",
         "examples_untimeout": "{0} @Dramex\n{0} 157605500488384512",
         "examples_shuffle": "{0}",
-        "examples_setxp": "{0} add @User 500\n{0} add @User 500\n{0} remove @User 500\n{0} remove @User 500"
+        "examples_setxp": "{0} @User text 500\n{0} @User voice 500\n",
+        "examples_setlevel": "{0} @User text 100\n{0} @User voice 100\n"
     }
 }
