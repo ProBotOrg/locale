@@ -58,7 +58,8 @@
         "usage_timeout": "{0} [user]\n{0} [user] (time)\n{0} [user] (reason)",
         "usage_untimeout": "{0} [user]",
         "usage_shuffle": "{0}",
-        "usage_setxp": "{0} [action] [user] [xp]",
+        "usage_setxp": "{0} [user] [text / voice] [xp]",
+        "usage_setlevel": "{0} [user] [text / voice] [level]",
         "examples_rank": "{0}\n{0} {1}",
         "examples_clear": "{0} 1000\n{0} bots 10\n{0} {1} 10",
         "examples_moveme": "{0} general\n{0} {1}",
@@ -118,7 +119,8 @@
         "examples_timeout": "{0} {1}\n{0} {1} 1h\n{0} {1} Spamming",
         "examples_untimeout": "{0} {1}\n{0} 157605500488384512",
         "examples_shuffle": "{0}",
-        "examples_setxp": "{0} add {1} 500\n{0} add {1} 500\n{0} remove {1} 500\n{0} remove {1} 500"
+        "examples_setxp": "{0} {1} text 500\n{0} {1} voice 500\n{0} remove {1}",
+        "examples_setlevel": "{0} {1} text 100\n{0} {1} voice 100"
     },
     "website": {
         "usage_removewarn": "{0} [warnID]\n{0} [user]\n{0} all",
@@ -168,7 +170,8 @@
         "usage_timeout": "{0} [user]\n{0} [user] (time)\n{0} [user] (reason)",
         "usage_untimeout": "{0} [user]",
         "usage_shuffle": "{0}",
-        "usage_setxp": "{0} [action] [user] [xp]",
+        "usage_setxp": "{0} [user] [text / voice] [xp]",
+        "usage_setlevel": "{0} [user] [text / voice] [level]",
         "examples_clear": "{0}\n{0} 1000\n{0} bots 10\n{0} @Dramex 10",
         "examples_moveme": "{0} general\n{0} @Dramex",
         "examples_id": "{0} @Dramex",
@@ -216,6 +219,7 @@
         "examples_timeout": "{0} @Fnr\n{0} @Fnr 1h\n{0} @Fnr Spamming",
         "examples_untimeout": "{0} @Dramex\n{0} 157605500488384512",
         "examples_shuffle": "{0}",
-        "examples_setxp": "{0} add @User 500\n{0} add @User 500\n{0} remove @User 500\n{0} remove @User 500"
+        "examples_setxp": "{0} @Dramex text 500\n{0} @Dramex voice 500",
+        "examples_setlevel": "{0} @Dramex text 100\n{0}	@Dramex voice 100"
     }
 }
