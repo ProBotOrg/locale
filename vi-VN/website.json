@@ -739,5 +739,6 @@
     "stats_month": "Tháng trước",
     "stats_3_months": "3 tháng trước (Premium)",
     "stats_6_months": "6 tháng trước (Premium)",
-    "stats_1_year": "1 năm trước (Premium)"
+    "stats_1_year": "1 năm trước (Premium)",
+    "setlevel_description": "Changes member's level"
 }
