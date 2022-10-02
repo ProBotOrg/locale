@@ -495,5 +495,5 @@
 	"setlevel_type_description": "Type of level to add for",
 	"setlevel_level_description": "The level to add to the user.",
 	"setlevel_max_level": ":x: Max level to add is {0}",
-	"setxp_confirm_message": ":thinking: **Are you sure you want to add xp for {0}**"
+	"setxp_confirm_message": ":thinking: **Are you sure you want to add xp for @{0}**"
 }
