@@ -493,7 +493,7 @@
 	"setlevel_description": "Changes member's level",
 	"setlevel_user_description": "The user to whom you want to add a level",
 	"setlevel_type_description": "Level type to add",
-	"setlevel_level_description": "The level to add to the user.",
+	"setlevel_level_description": "The level to be added to the user",
 	"setlevel_max_level": ":x: Max level to add is {0}",
 	"setxp_confirm_message": ":thinking: **Are you sure you want to add xp for @{0}**"
 }
