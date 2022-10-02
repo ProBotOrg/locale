@@ -491,7 +491,7 @@
 	"setlevel_confirm_message": ":thinking: **Are you sure that you want to add a level for @{0}**?",
 	"setxp_premium": ":x: This command is only available for premium subscribers.",
 	"setlevel_description": "Changes member's level",
-	"setlevel_user_description": "The user you want to add level to.",
+	"setlevel_user_description": "The user to whom you want to add a level",
 	"setlevel_type_description": "Type of level to add for",
 	"setlevel_level_description": "The level to add to the user.",
 	"setlevel_max_level": ":x: Max level to add is {0}",
