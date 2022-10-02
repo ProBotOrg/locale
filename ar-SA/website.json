@@ -732,12 +732,13 @@
     "temp_channel_module": "الرومات المؤقتة",
     "rr_max_reactions": "تم وصول الحد الأقصى للرياكشنات!",
     "temp_max_users": "الحد الأقصى لعدد المستخدمين",
-    "setxp_description": "تغير اكسبي العضو",
+    "setxp_description": "تغيير اكسبي العضو",
     "announcement_halloween": "أستخدم {0} للحصول على خصم 50%، استخدم كوبون {0}",
     "stats_7": "آخر 7 أيام",
     "stats_14": "آخر 14 يوم",
     "stats_month": "آخر شهر",
     "stats_3_months": "آخر 3 أشهر (بريميوم)",
     "stats_6_months": "آخر 6 أشهر (بريميوم)",
-    "stats_1_year": "آخر سنة (بريميوم)"
+    "stats_1_year": "آخر سنة (بريميوم)",
+    "setlevel_description": "تغيير مستوى العضو"
 }
