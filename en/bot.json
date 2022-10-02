@@ -487,7 +487,7 @@
 	"setxp_type_description": "Type of xp either text or voice",
 	"setxp_user_description": "The user to whom you want to add xp",
 	"setxp_xp_description": "The amount of xp to add to the user.",
-	"setxp_changed_xp": "**✅ | XP has been updated for @{0}**",
+	"setxp_changed_xp": "**✅ @{0}**' XP has been updated",
 	"setlevel_confirm_message": ":thinking: **Are you sure that you want to add a level for @{0}**?",
 	"setxp_premium": ":x: This command is only available for premium subscribers.",
 	"setlevel_description": "Changes member's level",
