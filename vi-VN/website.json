@@ -732,7 +732,7 @@
     "temp_channel_module": "Kênh tạm thời",
     "rr_max_reactions": "Đã đạt tối đa lượng biểu cảm!",
     "temp_max_users": "Số lượng người dùng tối đa mặc định",
-    "setxp_description": "Thay đổi điểm kinh nghiệm cho thành viên.",
+    "setxp_description": "Đặt điểm kinh nghiệm cho thành viên.",
     "announcement_halloween": "NÓI {0} VÀ NHẬN GIẢM GIÁ 50% KHI MUA PREMIUM! DÙNG MÃ {0}",
     "stats_7": "7 ngày trước",
     "stats_14": "14 ngày trước",
@@ -740,5 +740,5 @@
     "stats_3_months": "3 tháng trước (Premium)",
     "stats_6_months": "6 tháng trước (Premium)",
     "stats_1_year": "1 năm trước (Premium)",
-    "setlevel_description": "Changes member's level"
+    "setlevel_description": "Thay đổi cấp độ của thành viên"
 }
