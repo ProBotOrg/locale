@@ -494,6 +494,6 @@
 	"setlevel_user_description": "Seviye eklemek istediğiniz üye",
 	"setlevel_type_description": "Eklenecek seviye türü",
 	"setlevel_level_description": "Üyeye eklenecek seviye",
-	"setlevel_max_level": ":x: Eklenebilecek maksimum level {0}",
+	"setlevel_max_level": ":x: Maksimum {0} level eklenebilir.",
 	"setxp_confirm_message": ":thinking: **@{0} için xp eklemek istediğinizden emin misiniz?**"
 }
