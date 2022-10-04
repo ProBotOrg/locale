@@ -733,7 +733,7 @@
     "rr_max_reactions": "Досягнута максимальна кількість реакцій!",
     "temp_max_users": "Стандартна максимальна кількість учасників",
     "setxp_description": "Changes member's xp.",
-    "announcement_halloween": "SAY {0} AND GET 50% OFF, USE COUPON {0}",
+    "announcement_halloween": "SAY {0} AND GET {1} OFF, USE COUPON {0}",
     "stats_7": "Last 7 Days",
     "stats_14": "Last 14 Days",
     "stats_month": "Last 1 Month",
