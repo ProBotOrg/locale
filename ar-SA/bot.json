@@ -493,7 +493,7 @@
 	"setlevel_description": "تعيين مستوى العضو",
 	"setlevel_user_description": "العضو الذي تريد تعيين مستوى له",
 	"setlevel_type_description": "نوع المستوى لتعيين كتابي ام الصوت",
-	"setlevel_level_description": "المستوى الذي تريد تعيينه إلى العضو",
+	"setlevel_level_description": "المستوى الذي تريد تعيينه للعضو",
 	"setlevel_max_level": ":x: المستوى الأقصى الذي يمكن تعيينه هو {0}",
 	"setxp_confirm_message": ":thinking: **هل أنت متأكد من انك تريد تعيين اكسبي لـ @{0}**"
 }
