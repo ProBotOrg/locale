@@ -135,7 +135,7 @@
 	"vmute_muted_from_description": ":white_check_mark: **@{0}님이 음성 채널에서 음소거됐어요! :zipper_mouth:**",
 	"vmute_couldnt_mute_description": ":rolling_eyes: - 이 멤버를 음소거하지 못했어요. 봇의 권한을 확인해주세요.",
 	"vmute_cant_description": ":rolling_eyes: - **@{0}님을 음소거할 수 없어요.**",
-	"setnick_changed_description": ":white_check_mark: **{0}**님의 별명이 다음으로 변경됐어요: {1} ",
+	"setnick_changed_description": ":white_check_mark: **{0}**님의 별명이 {1}으(로) 변경됐어요! ",
 	"setnick_reset_description": ":white_check_mark: **{0}**님의 별명이 초기화됐어요.",
 	"setnick_couldnt_update_description": ":rolling_eyes: - 멤버를 업데이트하지 못했어요. 봇의 권한과 역할 위치를 확인해주세요.",
 	"unmute_cant_find_description": ":rolling_eyes: - **음소거 역할을 찾지 못했어요.**",
