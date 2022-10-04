@@ -488,12 +488,12 @@
 	"setxp_user_description": "XP eklemek istediğiniz üye",
 	"setxp_xp_description": "Üyeye eklenecek xp miktarı.",
 	"setxp_changed_xp": "**✅ | @{0} için XP güncellendi**",
-	"setlevel_confirm_message": ":thinking: **@{0} için seviye eklemek istediğinizden emin misiniz?**",
+	"setlevel_confirm_message": ":thinking: **@{0} için seviye ayarlamak istediğinizden emin misiniz?**",
 	"setxp_premium": ":x: Bu komut yalnızca premium aboneler için geçerlidir.",
 	"setlevel_description": "Üyenin seviyesini değiştirir",
 	"setlevel_user_description": "Seviye eklemek istediğiniz üye",
 	"setlevel_type_description": "Eklenecek seviye türü",
 	"setlevel_level_description": "Üyeye eklenecek seviye",
 	"setlevel_max_level": ":x: Maksimum {0} level eklenebilir.",
-	"setxp_confirm_message": ":thinking: **@{0} için xp eklemek istediğinizden emin misiniz?**"
+	"setxp_confirm_message": ":thinking: **@{0} için xp ayarlamak istediğinizden emin misiniz?**"
 }
