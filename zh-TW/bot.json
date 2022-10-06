@@ -483,7 +483,7 @@
 	"vip_whitelist_user_description": "The user to add / remove from ProBot panel.",
 	"vip_no_perms": ":x: You need administrator permission to use vip commands.",
 	"button_someone_else": ":x: This button belongs to someone else.",
-	"setxp_description": "Sets the user's xp",
+	"setxp_description": "更改成員的 xp。",
 	"setxp_type_description": "Type of xp to set either text or voice",
 	"setxp_user_description": "The user for whom you want to set xp",
 	"setxp_xp_description": "The amount of xp to set to the user",
@@ -495,5 +495,6 @@
 	"setlevel_type_description": "Type of level to set either text or voice",
 	"setlevel_level_description": "The level that you want to set to a user",
 	"setlevel_max_level": ":x: The maximum level that can be set is {0}",
-	"setxp_confirm_message": ":thinking: **Are you sure you want to set xp for @{0}**"
+	"setxp_confirm_message": ":thinking: **Are you sure you want to set xp for @{0}**",
+	"warnings_page_description": "Choose a page number"
 }
