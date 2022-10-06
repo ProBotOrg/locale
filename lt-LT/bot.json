@@ -495,5 +495,6 @@
 	"setlevel_type_description": "Type of level to set either text or voice",
 	"setlevel_level_description": "The level that you want to set to a user",
 	"setlevel_max_level": ":x: The maximum level that can be set is {0}",
-	"setxp_confirm_message": ":thinking: **Are you sure you want to set xp for @{0}**"
+	"setxp_confirm_message": ":thinking: **Are you sure you want to set xp for @{0}**",
+	"warnings_page_description": "Choose a page number"
 }
