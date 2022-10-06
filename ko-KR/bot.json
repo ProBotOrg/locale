@@ -495,5 +495,6 @@
 	"setlevel_type_description": "추가할 레벨 유형",
 	"setlevel_level_description": "사용자에 추가하려는 레벨",
 	"setlevel_max_level": ":x: 추가할 수 있는 최대 레벨은 {0}이에요.",
-	"setxp_confirm_message": ":thinking: **@{0}님께 경험치를 추가하시겠어요**?"
+	"setxp_confirm_message": ":thinking: **@{0}님께 경험치를 추가하시겠어요**?",
+	"warnings_page_description": "Choose a page number"
 }
