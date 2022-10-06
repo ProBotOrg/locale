@@ -495,5 +495,6 @@
 	"setlevel_type_description": "A szint típusa, text vagy voice.",
 	"setlevel_level_description": "A beállítandó szint.",
 	"setlevel_max_level": ":x: Legfeljebb {0}. szint állítható be.",
-	"setxp_confirm_message": ":thinking: **Biztosan be szeretnéd állítani @{0} XP-jét**?"
+	"setxp_confirm_message": ":thinking: **Biztosan be szeretnéd állítani @{0} XP-jét**?",
+	"warnings_page_description": "Choose a page number"
 }
