@@ -495,5 +495,6 @@
 	"setlevel_type_description": "نوع المستوى لتعيين كتابي ام الصوت",
 	"setlevel_level_description": "المستوى الذي تريد تعيينه للعضو",
 	"setlevel_max_level": ":x: المستوى الأقصى الذي يمكن تعيينه هو {0}",
-	"setxp_confirm_message": ":thinking: **هل أنت متأكد من انك تريد تعيين اكسبي لـ @{0}**"
+	"setxp_confirm_message": ":thinking: **هل أنت متأكد من انك تريد تعيين اكسبي لـ @{0}**",
+	"warnings_page_description": "Choose a page number"
 }
