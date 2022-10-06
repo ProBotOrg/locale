@@ -732,7 +732,7 @@
     "temp_channel_module": "Временные каналы",
     "rr_max_reactions": "Максимальное количество реакций достигнуто!",
     "temp_max_users": "Максимальное количество пользователей по умолчанию",
-    "setxp_description": "Changes member's xp.",
+    "setxp_description": "Sets the user's xp",
     "announcement_halloween": "ПРОИЗНЕСИТЕ {0} И ПОЛУЧИТЕ СКИДКУ {1}, ИСПОЛЬЗУЙТЕ КУПОН {0}",
     "stats_7": "Last 7 Days",
     "stats_14": "Last 14 Days",
@@ -740,5 +740,5 @@
     "stats_3_months": "Last 3 Months (Premium)",
     "stats_6_months": "Last 6 Months (Premium)",
     "stats_1_year": "Last 1 Year (Premium)",
-    "setlevel_description": "Changes member's level"
+    "setlevel_description": "Sets the user's level"
 }
