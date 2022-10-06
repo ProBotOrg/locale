@@ -495,5 +495,6 @@
 	"setlevel_type_description": "ประเภทของ xp เพื่อตั้งค่าช่องข้อความหรือช่องเสียง",
 	"setlevel_level_description": "ผู้ใช้ที่คุณต้องการปรับเลเวล",
 	"setlevel_max_level": ":x: เลเวลสูงสุดที่สามารถตั้งค่าได้คือ {0}",
-	"setxp_confirm_message": ":thinking: **คุณแน่ใจหรือว่าต้องการตั้งค่า xp ของ @{0}**"
+	"setxp_confirm_message": ":thinking: **คุณแน่ใจหรือว่าต้องการตั้งค่า xp ของ @{0}**",
+	"warnings_page_description": "Choose a page number"
 }
