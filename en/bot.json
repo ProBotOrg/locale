@@ -480,7 +480,7 @@
 	"vip_transfer_description": "Transfer ownership of your premium bot to another user.",
 	"vip_transfer_user_description": "The user to whom you want to transfer your premium bot.",
 	"vip_whitelist_description": "Whitelist a user to allow access to the ProBot panel.",
-	"vip_whitelist_user_description": "The user you want to allow or remove access to the ProBot panel.",
+	"vip_whitelist_user_description": "The user you want to allow or remove access from the ProBot panel.",
 	"vip_no_perms": ":x: You need administrator permission to use vip commands.",
 	"button_someone_else": ":x: This button belongs to someone else.",
 	"setxp_description": "Sets the user's xp",
