@@ -733,7 +733,7 @@
     "rr_max_reactions": "Max de réactions atteint !",
     "temp_max_users": "Nombre maximal d'utilisateurs par défaut",
     "setxp_description": "Modifie l'xp des membres.",
-    "announcement_halloween": "DITES {0} ET OBTENEZ 50 % DE RÉDUCTION, UTILISEZ LE COPUON {0}",
+    "announcement_halloween": "DITES {0} ET OBTENEZ {1} DE RÉDUCTION, UTILISEZ LE COPUON {0}",
     "stats_7": "Les 7 derniers jours",
     "stats_14": "Les 14 derniers jours",
     "stats_month": "Le mois dernier",
