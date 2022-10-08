@@ -496,5 +496,5 @@
 	"setlevel_level_description": "Üyeye eklenecek seviye",
 	"setlevel_max_level": ":x: Maksimum {0} level eklenebilir.",
 	"setxp_confirm_message": ":thinking: **@{0} için xp ayarlamak istediğinizden emin misiniz?**",
-	"warnings_page_description": "Choose a page number"
+	"warnings_page_description": "Bir sayfa numarası seçin"
 }
