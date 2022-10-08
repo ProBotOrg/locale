@@ -483,7 +483,7 @@
 	"vip_whitelist_user_description": "Користувач, якого додати / видалити з доступу до панелі управління ProBot.",
 	"vip_no_perms": ":x: Вам потрібен дозвіл адміністратора для використання vip команд.",
 	"button_someone_else": ":x: Ця кнопка належить комусь іншому.",
-	"setxp_description": "Sets the user's xp",
+	"setxp_description": "Встановлює ХР користувача",
 	"setxp_type_description": "Type of xp to set either text or voice",
 	"setxp_user_description": "The user for whom you want to set xp",
 	"setxp_xp_description": "The amount of xp to set to the user",
