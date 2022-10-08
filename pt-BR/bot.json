@@ -496,5 +496,5 @@
 	"setlevel_level_description": "O nível a ser adicionado ao usuário",
 	"setlevel_max_level": ":x: O nível máximo que pode ser adicionado é {0}",
 	"setxp_confirm_message": ":thinking: **Você tem certeza de que deseja adicionar XP para @{0}**",
-	"warnings_page_description": "Choose a page number"
+	"warnings_page_description": "Escolha um número de página"
 }
