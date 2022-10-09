@@ -496,5 +496,5 @@
 	"setlevel_level_description": "ユーザーに設定したいレベル",
 	"setlevel_max_level": ":x: 設定可能な最大レベルは {0} です",
 	"setxp_confirm_message": ":thinking: **@{0} さんのXPを本当に設定してもいいんですか？**",
-	"warnings_page_description": "Choose a page number"
+	"warnings_page_description": "ページ番号を選択"
 }
