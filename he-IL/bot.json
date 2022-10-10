@@ -457,7 +457,7 @@
 	"untimeout_description": "מסיר פסק זמן ממשתמש ",
 	"logs_timedout": "** המשתמש {0} קיבל פסק זמן מכיוון ש{1}**.",
 	"logs_timedout_remove": "**פסק הזמן למשתמש {0} הוסר או נגמר**.",
-	"leveling_title": "You got a new reward 🥳",
+	"leveling_title": "You have received a level reward! 🥳",
 	"shuffle_description": "Shuffle the current queue!",
 	"shuffle_done": ":twisted_rightwards_arrows: **Shuffled the queue.**",
 	"search_placeholder": "Choose a song.",
