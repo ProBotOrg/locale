@@ -160,7 +160,7 @@
 	"vip_bans_bots_description": ":rolling_eyes: - **California Law Bans Bots From Pretending to Be Human** \n https://www.pcmag.com/news/364132/california-law-bans-bots-from-pretending-to-be-human",
 	"vip_joke_description": "**Is this some kind of joke?**",
 	"vip_confirm_description": "** :innocent: Please write `confirm`. **",
-	"vip_send_dm_description": "**:rolling_eyes: - Please allow the bot to send direct messages.**",
+	"vip_send_dm_description": "**:rolling_eyes: - I can't send you direct messages. Please enable it and try again.**",
 	"vip_previous_transfer_description": "**:rolling_eyes: - There was a previous transfer request; a new link has been sent to your DM.**\n",
 	"vip_transfer_link_description": "**:white_check_mark: You can transfer the bot using the link sent to you in the DM, but keep in mind that the link expires in 10 minutes, and you must request it again.**\n",
 	"vip_link_expired_description": "The link has expired.\n",
@@ -450,14 +450,14 @@
 	"timeout_max_time": ":x: Timeout duration must be lower or equal to 28 days.",
 	"untimeout_done": ":white_check_mark: **@{0} has been untimed out.**",
 	"untimeout_cant": ":rolling_eyes: - ** You can't untimeout @{0}. **",
-	"untimeout_missing_permission": ":rolling_eyes: - I couldn't timeout that user. Please double-check my permissions and role position.",
+	"untimeout_missing_permission": ":rolling_eyes: - I couldn't untimeout that user. Please double-check my permissions and role position.",
 	"untimeout_not_timedout": ":x: The member is not timed out.",
 	"cant_bots": ":robot: This action cannot be taken against bots.",
 	"timeout_description": "Timeout a user from sending messages, react or join voice channels.",
 	"untimeout_description": "Remove timeout from a user",
 	"logs_timedout": "**{0} has been timed out for {1}**.",
 	"logs_timedout_remove": "**{0}'s timeout has been ended / removed.**",
-	"leveling_title": "You got a new reward 🥳",
+	"leveling_title": "You have received a level reward! 🥳",
 	"shuffle_description": "Shuffle the current queue!",
 	"shuffle_done": ":twisted_rightwards_arrows: **Shuffled the queue.**",
 	"search_placeholder": "Choose a song.",
@@ -496,4 +496,6 @@
 	"setlevel_level_description": "The level that you want to set to a user",
 	"setlevel_max_level": ":x: The maximum level that can be set is {0}",
 	"setxp_confirm_message": ":thinking: **Are you sure that you want to set xp for @{0}**"
+        "setlevel_changed_level": "**✅ @{0}**'s Level has been updated",
+        "warnings_page_description": "Choose a page number"
 }

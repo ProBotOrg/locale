@@ -739,5 +739,6 @@
     "stats_month": "1 ماه گذشته",
     "stats_3_months": "3 ماه گذشته (پریمیوم)",
     "stats_6_months": "6 ماه گذشته (پریمیوم)",
-    "stats_1_year": "1 سال گذشته (پریمیوم)"
+    "stats_1_year": "1 سال گذشته (پریمیوم)",
+    "setlevel_description": "Sets the user's level"
 }
