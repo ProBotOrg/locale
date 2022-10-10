@@ -160,7 +160,7 @@
 	"vip_bans_bots_description": ":rolling_eyes: - **California Law Bans Bots From Pretending to Be Human** \n https://www.pcmag.com/news/364132/california-law-bans-bots-from-pretending-to-be-human",
 	"vip_joke_description": "**Is this some kind of joke?**",
 	"vip_confirm_description": "** :innocent: Please write `confirm`. **",
-	"vip_send_dm_description": "**:rolling_eyes: - Please allow the bot to send direct messages.**",
+	"vip_send_dm_description": "**:rolling_eyes: - I can't send you direct messages. Please enable it and try again.**",
 	"vip_previous_transfer_description": "**:rolling_eyes: - There was a previous transfer request; a new link has been sent to your DM.**\n",
 	"vip_transfer_link_description": "**:white_check_mark: You can transfer the bot using the link sent to you in the DM, but keep in mind that the link expires in 10 minutes, and you must request it again.**\n",
 	"vip_link_expired_description": "The link has expired.\n",
@@ -496,5 +496,6 @@
 	"setlevel_level_description": "The level that you want to set to a user",
 	"setlevel_max_level": ":x: The maximum level that can be set is {0}",
 	"setxp_confirm_message": ":thinking: **Are you sure you want to set xp for @{0}**",
+	"setlevel_changed_level": "**✅ @{0}**'s Level has been updated",
 	"warnings_page_description": "Choose a page number"
 }
