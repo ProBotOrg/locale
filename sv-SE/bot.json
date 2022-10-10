@@ -457,7 +457,7 @@
 	"untimeout_description": "Ta bort timeout från en användare",
 	"logs_timedout": "**{0} har fått en tidsgräns för {1}**.",
 	"logs_timedout_remove": "**{0}s timeout har avslutats / tagits bort.**",
-	"leveling_title": "You got a new reward 🥳",
+	"leveling_title": "You have received a level reward! 🥳",
 	"shuffle_description": "Shuffle the current queue!",
 	"shuffle_done": ":twisted_rightwards_arrows: **Shuffled the queue.**",
 	"search_placeholder": "Choose a song.",
