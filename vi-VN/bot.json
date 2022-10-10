@@ -496,5 +496,6 @@
 	"setlevel_level_description": "Cấp độ mà bạn muốn đặt cho người dùng",
 	"setlevel_max_level": ":x: Cấp độ tối đa có thể được đặt là {0}",
 	"setxp_confirm_message": ":thinking: **Bạn chắc là muốn thay đổi điểm kinh nghiệm cho @{0}**",
+	"setlevel_changed_level": "**✅ @{0}**'s Level has been updated",
 	"warnings_page_description": "Chọn số trang cần đến"
 }
