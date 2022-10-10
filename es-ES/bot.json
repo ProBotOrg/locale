@@ -496,5 +496,6 @@
 	"setlevel_level_description": "El nivel que desea establecer a un usuario",
 	"setlevel_max_level": ":x: El nivel máximo que se puede establecer es {0}",
 	"setxp_confirm_message": ":thinking: **Seguro que quieres establecer xp para @{0}**",
+	"setlevel_changed_level": "**✅ @{0}**'s Level has been updated",
 	"warnings_page_description": "Elija un número de página"
 }
