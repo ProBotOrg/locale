@@ -160,7 +160,7 @@
 	"vip_bans_bots_description": ":rolling_eyes: - **قانون كاليفورنيا يحظر البوت من التظاهر بأنه إنسان**\nhttps://www.pcmag.com/news/364132/california-law-bans-bots-from-pretending-to-be-human",
 	"vip_joke_description": "**هل هذا مضحك بالنسبة لك؟ **",
 	"vip_confirm_description": "**  يرجى كتابة `confirm`. **  :innocent:",
-	"vip_send_dm_description": "**:rolling_eyes: - فضلاً اسمح للبوت بإرسال رسالة بالخاص.**",
+	"vip_send_dm_description": "**:rolling_eyes: - لا أستطيع إرسال رسائل خاصه. رجاءً قم بالسماح للبوت والمحاولة مرة أخرى.**",
 	"vip_previous_transfer_description": "**:rolling_eyes: - يوجد طلب نقل سابق بالفعل؛ تم إرسال رابط جديد لك على الخاص.**",
 	"vip_transfer_link_description": "**:white_check_mark: يمكنك نقل البوت من خلال الرابط المُرسل إليك على الخاص، مع العلم أن الرابط ينتهي في 10 دقائق ويجب عليك أن تطلب الرابط مرة أخرى. **",
 	"vip_link_expired_description": "إنتهت صلاحية الرابط.",
@@ -496,6 +496,6 @@
 	"setlevel_level_description": "المستوى الذي تريد تعيينه للعضو",
 	"setlevel_max_level": ":x: المستوى الأقصى الذي يمكن تعيينه هو {0}",
 	"setxp_confirm_message": ":thinking: **هل أنت متأكد من انك تريد تعيين اكسبي لـ @{0}**",
-	"setlevel_changed_level": "**✅ @{0}**'s Level has been updated",
+	"setlevel_changed_level": "**✅ | تم تحديث المستوى لـ @{0}**",
 	"warnings_page_description": "أختر رقم الصفحة"
 }
