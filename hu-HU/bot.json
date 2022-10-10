@@ -496,5 +496,6 @@
 	"setlevel_level_description": "A beállítandó szint.",
 	"setlevel_max_level": ":x: Legfeljebb {0}. szint állítható be.",
 	"setxp_confirm_message": ":thinking: **Biztosan be szeretnéd állítani @{0} XP-jét**?",
+	"setlevel_changed_level": "**✅ @{0}**'s Level has been updated",
 	"warnings_page_description": "Choose a page number"
 }
