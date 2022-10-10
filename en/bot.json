@@ -497,5 +497,6 @@
 	"setlevel_max_level": ":x: The maximum level that can be set is {0}",
 	"setxp_confirm_message": ":thinking: **Are you sure you want to set xp for @{0}**",
         "setlevel_changed_level": "**✅ @{0}**'s Level has been updated",
-        "warnings_page_description": "Choose a page number"
+        "warnings_page_description": "Choose a page number",
+        "point_list_page_description": "Choose a page number"
 }
