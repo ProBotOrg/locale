@@ -160,7 +160,7 @@
 	"vip_bans_bots_description": ":rolling_eyes: - **カリフォルニア州では人間のフリをしたロボットの運用は禁止されています。** \n https://www.pcmag.com/news/364132/california-law-bans-bots-from-pretending-to-be-Human",
 	"vip_joke_description": "**私は嘘を付きません‥！**",
 	"vip_confirm_description": "** :innocent: `confirm`と書いて送信してください。 **",
-	"vip_send_dm_description": "**:rolling_eyes: - ボットによるダイレクトメッセージの送信を許可してください。**",
+	"vip_send_dm_description": "**:rolling_eyes: - あなたにDMを送ることができませんでした。DMの受け取りを許可してください。**",
 	"vip_previous_transfer_description": "**:rolling_eyes: - 以前の転送リクエストがあります。DMに新しいリンクが送信されました**",
 	"vip_transfer_link_description": "**:white_check_mark: DMで送信されたリンクからボットを転送できます。 リンクは10分後に期限切れになり、期限が切れてしまうとリンクを再度リクエストする必要があります。**",
 	"vip_link_expired_description": "リンクの有効期限が切れています",
@@ -496,6 +496,6 @@
 	"setlevel_level_description": "ユーザーに設定したいレベル",
 	"setlevel_max_level": ":x: 設定可能な最大レベルは {0} です",
 	"setxp_confirm_message": ":thinking: **@{0} さんのXPを本当に設定してもいいんですか？**",
-	"setlevel_changed_level": "**✅ @{0}**'s Level has been updated",
+	"setlevel_changed_level": "**✅ @{0}**さんのレベルが更新されました",
 	"warnings_page_description": "ページ番号を選択"
 }
