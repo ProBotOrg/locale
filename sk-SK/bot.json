@@ -457,7 +457,7 @@
 	"untimeout_description": "Odobrať užívateľovi pauzu",
 	"logs_timedout": "**Používateľ {0} dostal pauzu na {1}**.",
 	"logs_timedout_remove": "**Pauza používateľa {0} skončila/bola zrušená.**",
-	"leveling_title": "You got a new reward 🥳",
+	"leveling_title": "You have received a level reward! 🥳",
 	"shuffle_description": "Shuffle the current queue!",
 	"shuffle_done": ":twisted_rightwards_arrows: **Shuffled the queue.**",
 	"search_placeholder": "Choose a song.",
