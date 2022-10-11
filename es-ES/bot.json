@@ -160,7 +160,7 @@
 	"vip_bans_bots_description": ":rolling_eyes: - **La ley de California prohíbe que los bots pretendan ser humanos** \n https://www.pcmag.com/news/364132/california-law-bans-bots-from-pretending-to-be-human",
 	"vip_joke_description": "**¿Esto es algún tipo de broma?**",
 	"vip_confirm_description": "** :innocent: Por favor escribe `confirm`. **",
-	"vip_send_dm_description": "**:rolling_eyes: - Por favor, permite que el bot envíe mensajes privados.**",
+	"vip_send_dm_description": "**:rolling_eyes: - No puedo enviarte mensajes directos. Por favor, habilítalo e inténtalo de nuevo.**",
 	"vip_previous_transfer_description": "**:rolling_eyes: - Hubo una solicitud de transferencia anterior; se ha enviado un nuevo enlace a tu DM.**",
 	"vip_transfer_link_description": "**:white_check_mark: Puedes transferir el bot usando el enlace que te enviaron en el DM, pero ten en cuenta que el enlace expira en 10 minutos, y debes solicitarlo de nuevo.**",
 	"vip_link_expired_description": "El enlace ha caducado.",
@@ -457,7 +457,7 @@
 	"untimeout_description": "Eliminar el aislamiento de un usuario",
 	"logs_timedout": "**{0} se ha agotado el aislamiento para {1}**.",
 	"logs_timedout_remove": "** El aislamiento de{0}ha terminado / eliminado.**",
-	"leveling_title": "Tienes una nueva recompensa 🥳",
+	"leveling_title": "¡Has recibido una recompensa de nivel! 🥳",
 	"shuffle_description": "¡Mezcla la cola actual!",
 	"shuffle_done": ":twisted_rightwards_arrows: **La cola se reproducirá aleatoriamente.**",
 	"search_placeholder": "Elige una canción.",
@@ -496,6 +496,6 @@
 	"setlevel_level_description": "El nivel que desea establecer a un usuario",
 	"setlevel_max_level": ":x: El nivel máximo que se puede establecer es {0}",
 	"setxp_confirm_message": ":thinking: **Seguro que quieres establecer xp para @{0}**",
-	"setlevel_changed_level": "**✅ @{0}**'s Level has been updated",
+	"setlevel_changed_level": "**✅ @{0}** Su nivel ha sido actualizado",
 	"warnings_page_description": "Elija un número de página"
 }
