@@ -117,7 +117,7 @@
 	"setcolor_permission_need_description": ":rolling_eyes: ** ProBot não tem permissão nesse cargo **",
 	"warn_cant_description": ":rolling_eyes: - ** Não pode avisar @{0}. **",
 	"warn_select_description": "**Selecione uma razão:**",
-	"warn_specify_description": ":rolling_eyes: - **Por favor, especifique uma razão.**",
+	"warn_specify_description": ":rolling_eyes: - **Por favor especifique uma razão.**",
 	"warn_been_removed_description": ":white_check_mark: **Avisos de {0} removidos.**",
 	"warn_cant_warning_description": "🔍 **Não consigo encontrar o aviso que está à procura.**",
 	"warn_specify_number_description": ":rolling_eyes: - **Por favor especifique o número do aviso ou menção do membro, ou todas para apagar todos os avisos.**",
