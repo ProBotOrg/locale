@@ -498,5 +498,5 @@
 	"setxp_confirm_message": ":thinking: **Are you sure you want to set xp for @{0}**",
         "setlevel_changed_level": "**✅ @{0}**'s Level has been updated",
         "warnings_page_description": "Choose a page number",
-        "point_list_page_description": "Choose a page number"
+        "point_list_page_description": "Choose a points page number"
 }
