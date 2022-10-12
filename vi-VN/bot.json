@@ -160,7 +160,7 @@
 	"vip_bans_bots_description": ":rolling_eyes: - **Bộ Luật của Califonia về việc Cấm Bot Giả Danh Người**\n https://www.pcmag.com/news/364132/california-law-bans-bots-from-pretending-to-be-human",
 	"vip_joke_description": "**Bạn đùa tôi đấy à?**",
 	"vip_confirm_description": "**:innocent: Vui lòng nhập `confirm`.**",
-	"vip_send_dm_description": "**:rolling_eyes: - Vui lòng cho phép bot gửi tin nhắn riêng.**",
+	"vip_send_dm_description": "**:rolling_eyes: - Bot không thể gửi tin nhắn riêng cho bạn. Vui lòng kiểm tra cài đặt bảo mật và thử lại.**",
 	"vip_previous_transfer_description": "**:rolling_eyes: - Đã có một yêu cầu di chuyển trước đó; link mới đã được gửi cho bạn qua thư riêng.**",
 	"vip_transfer_link_description": "**:white_check_mark: Bạn có thể di chuyển bot qua đường link đã được gửi riêng cho bạn, link sẽ hết hạn sau 10 phút và bạn sẽ phải tạo lại link khác sau đó.**",
 	"vip_link_expired_description": "Link đã hết hạn",
@@ -457,7 +457,7 @@
 	"untimeout_description": "Loại bỏ hạn chế cho người dùng",
 	"logs_timedout": "**Đã đặt hạn chế cho {0} trong {1}.**",
 	"logs_timedout_remove": "**Đã bỏ hạn chế cho {0} hoặc đã hết hạn chế.**",
-	"leveling_title": "Bạn vừa nhận được phần thưởng mới 🥳",
+	"leveling_title": "Bạn vừa nhận được vai trò cấp mới 🥳",
 	"shuffle_description": "Xáo hàng đợi hiện tại!",
 	"shuffle_done": ":twisted_rightwards_arrows: **Đã xáo trộn hàng đợi.**",
 	"search_placeholder": "Chọn một bài hát.",
@@ -496,6 +496,6 @@
 	"setlevel_level_description": "Cấp độ mà bạn muốn đặt cho người dùng",
 	"setlevel_max_level": ":x: Cấp độ tối đa có thể được đặt là {0}",
 	"setxp_confirm_message": ":thinking: **Bạn chắc là muốn thay đổi điểm kinh nghiệm cho @{0}**",
-	"setlevel_changed_level": "**✅ @{0}**'s Level has been updated",
+	"setlevel_changed_level": "✅ | Đã thay đổi cấp độ cho **@{0}**",
 	"warnings_page_description": "Chọn số trang cần đến"
 }
