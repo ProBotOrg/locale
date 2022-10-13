@@ -740,5 +740,18 @@
     "stats_3_months": "3 เดือนล่าสุด (พรีเมี่ยม)",
     "stats_6_months": "6 เดือนล่าสุด (พรีเมี่ยม)",
     "stats_1_year": "1 ปีล่าสุด (พรีเมี่ยม)",
-    "setlevel_description": "เปลี่ยนเลเวลของสมาชิก"
+    "setlevel_description": "เปลี่ยนเลเวลของสมาชิก",
+    "rr_type": "Reaction Type",
+    "rr_buttons": "Button",
+    "rr_select_menu": "Select Menu",
+    "rr_reaction": "Reaction",
+    "rr_add_button": "Add Button",
+    "rr_button_color": "Button Color",
+    "rr_button_settings": "Settings",
+    "rr_button_description": "BUTTON EMOJI AND TEXT",
+    "rr_add_option": "Add Option",
+    "rr_select_menu_placeholder": "SELECT MENU PLACEHOLDER",
+    "rr_select_menu_label": "LABEL",
+    "rr_select_menu_description": "DESCRIPTION",
+    "rr_reaction_emoji": "Add Emoji"
 }
