@@ -507,12 +507,12 @@
 	"setxp_confirm_message": ":thinking: **هل أنت متأكد من انك تريد تعيين اكسبي لـ @{0}**",
 	"setlevel_changed_level": "**✅ | تم تحديث المستوى لـ @{0}**",
 	"warnings_page_description": "أختر رقم الصفحة",
-	"rr_module_disabled": ":x: Reaction roles module is disabled.",
+	"rr_module_disabled": ":x: قسم رولات الريأكشن معطل.",
 	"rr_button_cant_role": ":rolling_eyes: - لم أستطع تحديث الرتب الخاصة بك، إذا كنت مشرف فيرجى التحقق من صلاحياتي",
 	"rr_no_role_select": ":x: لا توجد رتب مرتبطة بقائمة الاختيار هذه.",
 	"rr_role_added": " :white_check_mark: تمت الإضافة **{0}**\n",
-	"rr_role_remove": ":x: تمت إزاله الرتبة **{0}**",
-	"rr_role_no_change": "لم يتم تغيير أي رتب.",
-	"rr_no_role_button": ":x: لا يوجد رتب محددة لهذا الزر.",
+	"rr_role_remove": ":x: تمت الإزالة **{0}**",
+	"rr_role_no_change": ":x: لم يتم تغيير أي رتب.",
+	"rr_no_role_button": ":x: لا يوجد رتب مرتبطة بهذا الزر.",
 	"rr_admin_role": ":x: خطأ في تغيير الرتب ، يرجى التأكد من أن الرتب المحددة ليس لها صلاحيات إدارية. "
 }
