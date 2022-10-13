@@ -740,5 +740,18 @@
     "stats_3_months": "최근 3개월 (프리미엄)",
     "stats_6_months": "최근 6개월 (프리미엄)",
     "stats_1_year": "최근 1년 (프리미엄)",
-    "setlevel_description": "멤버의 레벨을 변경해요"
+    "setlevel_description": "멤버의 레벨을 변경해요",
+    "rr_type": "Reaction Type",
+    "rr_buttons": "Button",
+    "rr_select_menu": "Select Menu",
+    "rr_reaction": "Reaction",
+    "rr_add_button": "Add Button",
+    "rr_button_color": "Button Color",
+    "rr_button_settings": "Settings",
+    "rr_button_description": "BUTTON EMOJI AND TEXT",
+    "rr_add_option": "Add Option",
+    "rr_select_menu_placeholder": "SELECT MENU PLACEHOLDER",
+    "rr_select_menu_label": "LABEL",
+    "rr_select_menu_description": "DESCRIPTION",
+    "rr_reaction_emoji": "Add Emoji"
 }
