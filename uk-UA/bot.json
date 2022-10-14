@@ -247,7 +247,7 @@
 	"music_no_playing": "**:frowning2: Музика не грає.**",
 	"music_current_queue": "**:notes: Поточна черга | {0} записів**",
 	"music_added_ProQueue": ":notes: **{0}** додано в **чергу** (`{1}`)!",
-	"music_must_listening": ":no_entry_sign: Вам необхідно послухати **{0}**, щоб використовувати це!",
+	"music_must_listening": ":no_entry_sign: Вам необхідно бути в каналі **{0}**, щоб використати це!",
 	"music_join_voice": ":no_entry_sign: Необхідно приєднатися до голосового каналу, щоб використувувати!",
 	"music_under_maintenance": "Музика знаходиться в обслуговуванні.",
 	"music_searching": ":watch: Пошук... (`{0}`) ",
