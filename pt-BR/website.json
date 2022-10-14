@@ -743,15 +743,15 @@
     "setlevel_description": "Altera o nível do membro",
     "rr_type": "Reaction Type",
     "rr_buttons": "Button",
-    "rr_select_menu": "Select Menu",
-    "rr_reaction": "Reaction",
-    "rr_add_button": "Add Button",
-    "rr_button_color": "Button Color",
-    "rr_button_settings": "Settings",
+    "rr_select_menu": "Selecionar Menu",
+    "rr_reaction": "Reação",
+    "rr_add_button": "Adicionar Botão",
+    "rr_button_color": "Cor do Botão",
+    "rr_button_settings": "Configuração",
     "rr_button_description": "BUTTON EMOJI AND TEXT",
     "rr_add_option": "Add Option",
     "rr_select_menu_placeholder": "SELECT MENU PLACEHOLDER",
     "rr_select_menu_label": "LABEL",
-    "rr_select_menu_description": "DESCRIPTION",
-    "rr_reaction_emoji": "Add Emoji"
+    "rr_select_menu_description": "DESCRIÇÃO",
+    "rr_reaction_emoji": "Adicionar Emoji"
 }
