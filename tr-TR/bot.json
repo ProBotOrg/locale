@@ -483,7 +483,7 @@
 	"vip_whitelist_user_description": "ProBot kontrol panelinin erişimine izin verilecek / kaldırılacak üye.",
 	"vip_no_perms": ":x: Premium komutlarını kullanmak için yönetici iznine ihtiyacınız var.",
 	"button_someone_else": ":x: Bu buton başkasına aittir.",
-	"setxp_add_description": "Add xp to user.",
+	"setxp_add_description": "Üyeye xp ekleyin.",
 	"setxp_add_user_description": "The user you want to add xp to.",
 	"setxp_add_xp_description": "The amount of xp to add to the user.",
 	"setxp_remove_description": "Remove xp from a user",
