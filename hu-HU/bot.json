@@ -510,8 +510,8 @@
 	"rr_module_disabled": ":x: Reaction roles module is disabled.",
 	"rr_button_cant_role": ":rolling_eyes: - I couldn't update your roles, If you're server admin please double-check my permissions.",
 	"rr_no_role_select": ":x: There are no roles linked to this select menu.",
-	"rr_role_added": ":white_check_mark: Added **{0}**",
-	"rr_role_remove": ":x: Removed **{0}**",
+	"rr_role_added": ":white_check_mark: Hozzáadva **{0}**",
+	"rr_role_remove": ":x: Eltávolítva **{0}**",
 	"rr_role_no_change": ":x: No roles have been changed.",
 	"rr_no_role_button": ":x: There are no roles linked to this button.",
 	"rr_admin_role": ":x: Error in changing roles, Please make sure that the selected role has no administrative permissions."
