@@ -514,5 +514,8 @@
 	"rr_role_remove": ":x: تمت الإزالة **{0}**",
 	"rr_role_no_change": ":x: لم يتم تغيير أي رتب.",
 	"rr_no_role_button": ":x: لا يوجد رتب مرتبطة بهذا الزر.",
-	"rr_admin_role": ":x: خطأ في تغيير الرتب ، يرجى التأكد من الرتب المحددة ليس لها صلاحيات إدارية. "
+	"rr_admin_role": ":x: خطأ في تغيير الرتب ، يرجى التأكد من الرتب المحددة ليس لها صلاحيات إدارية. ",
+	"rr_already_give": ":x: Error in changing roles, you already have that role",
+	"rr_already_take": ":x: Error in changing roles, you already don't have that role to remove.",
+	"point_list_page_description": "Choose a points page number"
 }
