@@ -469,7 +469,7 @@
 	"reset_user_description": "A felhasználó, akinek a statisztikáit vissza kell állítani.",
 	"vip_choose_placeholder": "Válassz egy állapottípust.",
 	"vip_username_description": "Módosítja a prémium botod nevét.",
-	"vip_username_name_description": "The name to set in your premium bot.",
+	"vip_username_name_description": "The name of your premium bot.",
 	"vip_status_description": "Átállítja a prémium botod állapotát.",
 	"vip_status_status_description": "Az állapot, amely be lesz állítva a prémium botodnak.",
 	"vip_move_description": "Áthelyezi a prémium botod egy másik szerverre.",
@@ -514,5 +514,8 @@
 	"rr_role_remove": ":x: Eltávolítva **{0}**",
 	"rr_role_no_change": ":x: No roles have been changed.",
 	"rr_no_role_button": ":x: There are no roles linked to this button.",
-	"rr_admin_role": ":x: Error in changing roles, Please make sure that the selected role has no administrative permissions."
+	"rr_admin_role": ":x: Error in changing roles, Please make sure that the selected role has no administrative permissions.",
+	"rr_already_give": ":x: Error in changing roles, you already have that role",
+	"rr_already_take": ":x: Error in changing roles, you already don't have that role to remove.",
+	"point_list_page_description": "Choose a points page number"
 }
