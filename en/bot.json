@@ -515,5 +515,7 @@
 	"rr_role_no_change": ":x: No roles have been changed.",
 	"rr_no_role_button": ":x: There are no roles linked to this button.",
 	"rr_admin_role": ":x: Error in changing roles, Please make sure that the selected role has no administrative permissions.",
+        "rr_already_give": ":x: Error in changing roles, you already have that role",
+        "rr_already_take": ":x: Error in changing roles, you already don't have that role to remove.",
         "point_list_page_description": "Choose a points page number"
 }
