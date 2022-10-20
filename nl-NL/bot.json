@@ -514,5 +514,8 @@
 	"rr_role_remove": ":x: Verwijderd **{0}**",
 	"rr_role_no_change": ":x: Er zijn geen rollen gewijzigd.",
 	"rr_no_role_button": ":x: Er zijn geen rollen gekoppeld aan deze knop.",
-	"rr_admin_role": ":x: Fout bij het wijzigen van rollen, zorg ervoor dat de geselecteerde rol geen administratieve bevoegdheden heeft."
+	"rr_admin_role": ":x: Fout bij het wijzigen van rollen, zorg ervoor dat de geselecteerde rol geen administratieve bevoegdheden heeft.",
+	"rr_already_give": ":x: Error in changing roles, you already have that role",
+	"rr_already_take": ":x: Error in changing roles, you already don't have that role to remove.",
+	"point_list_page_description": "Choose a points page number"
 }
