@@ -504,7 +504,7 @@
 	"setlevel_type_description": "Type of level to set either text or voice",
 	"setlevel_level_description": "The level that you want to set to a user",
 	"setlevel_max_level": ":x: The maximum level that can be set is {0}",
-	"setxp_confirm_message": ":thinking: **Are you sure you want to set xp for @{0}**",
+	"setxp_confirm_message": ":thinking: **Are you sure that you want to set xp for @{0}**",
 	"setlevel_changed_level": "**✅ @{0}**'s Level has been updated",
 	"warnings_page_description": "Choose a page number",
 	"rr_module_disabled": ":x: Reaction roles module is disabled.",
@@ -514,5 +514,8 @@
 	"rr_role_remove": ":x: Removed **{0}**",
 	"rr_role_no_change": ":x: No roles have been changed.",
 	"rr_no_role_button": ":x: There are no roles linked to this button.",
-	"rr_admin_role": ":x: Error in changing roles, Please make sure that the selected role has no administrative permissions."
+	"rr_admin_role": ":x: Error in changing roles, Please make sure that the selected role has no administrative permissions.",
+	"rr_already_give": ":x: Error in changing roles, you already have that role",
+	"rr_already_take": ":x: Error in changing roles, you already don't have that role to remove.",
+	"point_list_page_description": "Choose a points page number"
 }
