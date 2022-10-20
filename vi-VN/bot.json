@@ -514,5 +514,8 @@
 	"rr_role_remove": ":x: Đã bỏ **{0}**",
 	"rr_role_no_change": ":x: Không có thay đổi vai trò.",
 	"rr_no_role_button": ":x: Không có vai trò được liên kết.",
-	"rr_admin_role": ":x: Lỗi trong lúc thay đổi vai trò. Vui lòng chắc chắn rằng vai trò được liên kết không có quyền quản trị."
+	"rr_admin_role": ":x: Lỗi trong lúc thay đổi vai trò. Vui lòng chắc chắn rằng vai trò được liên kết không có quyền quản trị.",
+	"rr_already_give": ":x: Error in changing roles, you already have that role",
+	"rr_already_take": ":x: Error in changing roles, you already don't have that role to remove.",
+	"point_list_page_description": "Choose a points page number"
 }
