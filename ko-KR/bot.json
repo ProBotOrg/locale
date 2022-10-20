@@ -514,5 +514,8 @@
 	"rr_role_remove": ":x: **{0}**을(를) 제거했어요",
 	"rr_role_no_change": ":x: 어떠한 역할도 변경되지 않았어요.",
 	"rr_no_role_button": ":x: 이 버튼에 링크된 역할이 없어요.",
-	"rr_admin_role": ":x: 역할을 변경하지 못했어요. 선택한 역할에 관리자 권한이 없도록 해주세요."
+	"rr_admin_role": ":x: 역할을 변경하지 못했어요. 선택한 역할에 관리자 권한이 없도록 해주세요.",
+	"rr_already_give": ":x: Error in changing roles, you already have that role",
+	"rr_already_take": ":x: Error in changing roles, you already don't have that role to remove.",
+	"point_list_page_description": "Choose a points page number"
 }
