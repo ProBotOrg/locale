@@ -13,7 +13,7 @@
     "blacklisted_title": "Your account has been blacklisted for suspicious activity. Please solve the captcha to continue",
     "blacklisted_note": "This is a one time ticket, don't waste it.",
     "aliases": "Aliases:",
-    "examples": "Examples:",
+    "examples": "Voorbeelde:",
     "24/7_description": "Toggles the 24/7 mode. This prevents the bot from leaving the voice channel until you stop it.",
     "MODULE_SETTINGS": "MODULE SETTINGS",
     "GENERAL": "GENERAL",
