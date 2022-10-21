@@ -515,7 +515,7 @@
 	"rr_role_no_change": ":x: Nenhum cargo foi alterado.",
 	"rr_no_role_button": ":x: Não há cargos vinculados a este botão.",
 	"rr_admin_role": ":x: Erro ao alterar cargos, por favor certifique-se de que o cargo selecionado não tem permissões administrativas.",
-	"rr_already_give": ":x: Error in changing roles, you already have that role",
-	"rr_already_take": ":x: Error in changing roles, you already don't have that role to remove.",
-	"point_list_page_description": "Choose a points page number"
+	"rr_already_give": ":x: Erro ao alterar cargos, você já tem esse cargo",
+	"rr_already_take": ":x: Erro ao alterar cargos, você já não tem esse cargo para remover.",
+	"point_list_page_description": "Escolha um número da página de pontos"
 }
