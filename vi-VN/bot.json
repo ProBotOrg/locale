@@ -465,7 +465,7 @@
 	"lock_channel_reason_description": "Lý do khóa kênh",
 	"confirm": "Xác nhận",
 	"lock_already_locked": "**:x: Kênh này đã bị khoá rồi {0}.**",
-	"reset_type_description": "Chọn nhóm để đặt lại",
+	"reset_type_description": "Chọn loại để đặt lại",
 	"reset_user_description": "Người dùng mà bạn muốn đặt lại điểm xp.",
 	"vip_choose_placeholder": "Chọn một trạng thái.",
 	"vip_username_description": "Đổi tên cho bot premium của bạn.",
@@ -480,7 +480,7 @@
 	"vip_transfer_description": "Chuyển quyền sỡ hữu của bot premium cho người khác.",
 	"vip_transfer_user_description": "Người bạn muốn chuyển bot premium cho.",
 	"vip_whitelist_description": "Cho phép người dùng truy cập vào bảng điều khiển của ProBot.",
-	"vip_whitelist_user_description": "Người dùng để thêm / bỏ khỏi danh sách cho phép.",
+	"vip_whitelist_user_description": "Người dùng để thêm hoặc loại bỏ khỏi danh sách cho phép truy cập bảng điều khiển.",
 	"vip_no_perms": ":x: Bạn cần quyền quản trị để sử dụng lệnh này.",
 	"button_someone_else": ":x: Có người khác đã dùng danh sách chọn này rồi.",
 	"setxp_add_description": "Thêm điểm kinh nghiệm cho người dùng.",
@@ -515,7 +515,7 @@
 	"rr_role_no_change": ":x: Không có thay đổi vai trò.",
 	"rr_no_role_button": ":x: Không có vai trò được liên kết.",
 	"rr_admin_role": ":x: Lỗi trong lúc thay đổi vai trò. Vui lòng chắc chắn rằng vai trò được liên kết không có quyền quản trị.",
-	"rr_already_give": ":x: Error in changing roles, you already have that role",
-	"rr_already_take": ":x: Error in changing roles, you already don't have that role to remove.",
-	"point_list_page_description": "Choose a points page number"
+	"rr_already_give": ":x: Lỗi trong lúc thay đổi vai trò, bạn đã có vai trò này rồi",
+	"rr_already_take": ":x: Lỗi trong lúc thay đổi vai trò, bạn không có vai trò này để bỏ.",
+	"point_list_page_description": "Chọn số trang cần đến"
 }
