@@ -515,7 +515,7 @@
 	"rr_role_no_change": ":x: Aucun rôle n'a été modifié.",
 	"rr_no_role_button": ":x: Il n'y a aucun rôle lié à ce bouton.",
 	"rr_admin_role": ":x : Erreur lors de la modification des rôles. Veuillez vous assurer que le rôle sélectionné n'a pas d'autorisations administratives.",
-	"rr_already_give": ":x: Error in changing roles, you already have that role",
-	"rr_already_take": ":x: Error in changing roles, you already don't have that role to remove.",
-	"point_list_page_description": "Choose a points page number"
+	"rr_already_give": ":x : Erreur lors du changement de rôle, vous avez déjà ce rôle",
+	"rr_already_take": ":x: Erreur lors du changement de rôle, vous n'avez déjà pas ce rôle à supprimer.",
+	"point_list_page_description": "Choisissez un numéro de page de points"
 }
