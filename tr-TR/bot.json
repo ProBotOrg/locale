@@ -422,6 +422,7 @@
 	"all_value": "Hepsi",
 	"bots_value": "Botlar",
 	"humans_value": "İnsanlar",
+	"humans_role": "All With Role",
 	"text_value": "Metin",
 	"voice_value": "Ses",
 	"invite_value": "Davet Et",
