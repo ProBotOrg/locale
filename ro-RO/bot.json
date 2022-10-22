@@ -422,6 +422,7 @@
 	"all_value": "Toate",
 	"bots_value": "Bots",
 	"humans_value": "Humans",
+	"humans_role": "All With Role",
 	"text_value": "Text",
 	"voice_value": "Voice",
 	"invite_value": "Invită",
