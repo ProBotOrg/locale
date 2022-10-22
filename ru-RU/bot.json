@@ -422,6 +422,7 @@
 	"all_value": "Все",
 	"bots_value": "Боты",
 	"humans_value": "Люди",
+	"humans_role": "All With Role",
 	"text_value": "Текст",
 	"voice_value": "Голос",
 	"invite_value": "Пригласить",
