@@ -422,6 +422,7 @@
 	"all_value": "전체",
 	"bots_value": "봇",
 	"humans_value": "유저",
+	"humans_role": "All With Role",
 	"text_value": "텍스트",
 	"voice_value": "보이스",
 	"invite_value": "초대",
