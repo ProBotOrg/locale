@@ -422,6 +422,7 @@
 	"all_value": "All",
 	"bots_value": "Bots",
 	"humans_value": "Mennesker",
+	"humans_role": "All With Role",
 	"text_value": "Text",
 	"voice_value": "Stemme",
 	"invite_value": "Invite",
