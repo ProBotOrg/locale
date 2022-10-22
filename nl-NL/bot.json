@@ -422,7 +422,7 @@
 	"all_value": "Alles",
 	"bots_value": "Robot",
 	"humans_value": "Mensen",
-	"humans_role": "All With Role",
+	"humans_role": "Allemaal met rol",
 	"text_value": "Tekst",
 	"voice_value": "Stem",
 	"invite_value": "Uitnodigen",
@@ -516,7 +516,7 @@
 	"rr_role_no_change": ":x: Er zijn geen rollen gewijzigd.",
 	"rr_no_role_button": ":x: Er zijn geen rollen gekoppeld aan deze knop.",
 	"rr_admin_role": ":x: Fout bij het wijzigen van rollen, zorg ervoor dat de geselecteerde rol geen administratieve bevoegdheden heeft.",
-	"rr_already_give": ":x: Error in changing roles, you already have that role",
-	"rr_already_take": ":x: Error in changing roles, you already don't have that role to remove.",
-	"point_list_page_description": "Choose a points page number"
+	"rr_already_give": ":x: Fout bij het veranderen van rollen, je hebt die rol al",
+	"rr_already_take": ":x: Fout bij het wijzigen van rollen, je hebt die rol nog niet om te verwijderen.",
+	"point_list_page_description": "Kies een puntenpaginanummer"
 }
