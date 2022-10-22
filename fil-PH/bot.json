@@ -422,6 +422,7 @@
 	"all_value": "All",
 	"bots_value": "Bots",
 	"humans_value": "Humans",
+	"humans_role": "All With Role",
 	"text_value": "Teksto",
 	"voice_value": "Voice",
 	"invite_value": "Mag-anyaya",
