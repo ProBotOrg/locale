@@ -516,7 +516,7 @@
 	"rr_role_no_change": ":x: Жодні ролі не змінилися.",
 	"rr_no_role_button": ":x: З цією кнопкою не пов'язані жодні ролі.",
 	"rr_admin_role": ":x: Помилка при зміні ролі, будь ласка, переконайтеся, що обрана роль не має адміністративних прав.",
-	"rr_already_give": ":x: Error in changing roles, you already have that role",
-	"rr_already_take": ":x: Error in changing roles, you already don't have that role to remove.",
+	"rr_already_give": ":x: Error with changing **{0}** role, you already have that role.",
+	"rr_already_take": ":x: Error with changing **{0}** role, you already don't have that role to remove.",
 	"point_list_page_description": "Choose a points page number"
 }
