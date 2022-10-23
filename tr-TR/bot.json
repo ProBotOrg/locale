@@ -381,7 +381,7 @@
 	"setnick_new_description": "Yeni takma ad.",
 	"ban_user_description": "Yasaklanacak kullanıcı.",
 	"ban_time_description": "Sunucudan yasaklama süresi.",
-	"ban_reason_description": "Sunucuday yasaklama sebebi.",
+	"ban_reason_description": "Sunucudan yasaklama sebebi.",
 	"unban_user_description": "Yasağı kaldırılacak kullanıcı.",
 	"mute_type_description": "Susturma türü.",
 	"mute_user_description": "Susturulacak kullanıcı.",
