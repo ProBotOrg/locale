@@ -515,8 +515,8 @@
 	"rr_role_remove": ":x: Đã bỏ **{0}**",
 	"rr_role_no_change": ":x: Không có thay đổi vai trò.",
 	"rr_no_role_button": ":x: Không có vai trò được liên kết.",
-	"rr_admin_role": ":x: Lỗi trong lúc thay đổi vai trò. Vui lòng chắc chắn rằng vai trò được liên kết không có quyền quản trị.",
-	"rr_already_give": ":x: Lỗi trong lúc thay đổi vai trò, bạn đã có vai trò này rồi",
-	"rr_already_take": ":x: Lỗi trong lúc thay đổi vai trò, bạn không có vai trò này để bỏ.",
+	"rr_admin_role": ":x: Lỗi trong lúc thay đổi vai trò. Vui lòng chắc chắn rằng vai trò được liên kết không có quyền quản trị, và vai trò của tôi phải có vị trí cao hơn vai trò đó.",
+	"rr_already_give": ":x: Lỗi trong lúc thêm vai trò **{0}**, bạn đã có vai trò này rồi.",
+	"rr_already_take": ":x: Lỗi trong lúc bỏ vai trò **{0}**, bạn không có vai trò này để bỏ.",
 	"point_list_page_description": "Chọn số trang cần đến"
 }
