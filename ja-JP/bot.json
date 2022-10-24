@@ -473,7 +473,7 @@
 	"vip_username_name_description": "プレミアムボットに設定する名前",
 	"vip_status_description": "プレミアムボットのステータスを変更",
 	"vip_status_status_description": "プレミアムボットに設定するステータス",
-	"vip_move_description": "プレミアムボットを新しいサーバーに転送。",
+	"vip_move_description": "プレミアムボットを新しいサーバーに転送する。",
 	"vip_move_number_description": "プレミアムボットの番号またはID",
 	"vip_restart_description": "プレミアムボットを再起動",
 	"vip_avatar_description": "プレミアムボットのアバターを変更する",
@@ -505,7 +505,7 @@
 	"setlevel_type_description": "テキストまたは音声に設定するレベルの種類",
 	"setlevel_level_description": "ユーザーに設定したいレベル",
 	"setlevel_max_level": ":x: 設定可能な最大レベルは {0} です",
-	"setxp_confirm_message": ":thinking: **@{0} さんのXPを本当に設定してもいいんですか？**",
+	"setxp_confirm_message": ":thinking: **@{0} さんのXPを本当に設定してもよろしいですか？**",
 	"setlevel_changed_level": "**✅ @{0}**さんのレベルが更新されました",
 	"warnings_page_description": "ページ番号を選択",
 	"rr_module_disabled": ":x: リアクションロールモジュールが無効化されています。",
@@ -516,7 +516,7 @@
 	"rr_role_no_change": ":x: ロールは変更されていません。",
 	"rr_no_role_button": ":x: このボタンにロールがリンクされていません。",
 	"rr_admin_role": ":x: ロールの変更中にエラーが発生しました。指定したロールに**管理者権限が無いこと**を確認してください。",
-	"rr_already_give": ":x: Error with changing **{0}** role, you already have that role.",
-	"rr_already_take": ":x: Error with changing **{0}** role, you already don't have that role to remove.",
-	"point_list_page_description": "Choose a points page number"
+	"rr_already_give": ":x: **{0}** ロールの設定中にエラーが発生しました。どうやらすでにロールを持っているようです。",
+	"rr_already_take": ":x: **{0}** ロールの設定中にエラーが発生しました。そのロールを削除する権限がありません。",
+	"point_list_page_description": "ページ番号を指定"
 }
