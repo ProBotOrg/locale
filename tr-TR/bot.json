@@ -513,10 +513,10 @@
 	"rr_no_role_select": ":x: Bu seçim menüsüne bağlı rol yok.",
 	"rr_role_added": ":white_check_mark: **{0}** Eklendi",
 	"rr_role_remove": ":x: **{0}** Kaldırıldı",
-	"rr_role_no_change": ":x: Hiçbir rol değiştirilmedi.",
+	"rr_role_no_change": ":x: Rollerde herhangi bir değişiklik olmadı.",
 	"rr_no_role_button": ":x: Bu butona bağlı bir rol yok.",
-	"rr_admin_role": ":x: Roller değiştirilirken hata oluştu, Lütfen seçilen rolün yönetici izinlerine sahip olmadığından emin olun.",
-	"rr_already_give": ":x: Roller değiştirilirken hata oluştu, bu role zaten sahipsiniz",
-	"rr_already_take": ":x: Roller değiştirilirken hata oluştu, zaten kaldırılacak o role sahip değilsiniz.",
+	"rr_admin_role": ":x: Roller değiştirilirken hata, Lütfen seçilen rolün yönetici izinlerine sahip olmadığından emin olun ve rolümü seçilen rollerin üzerine taşıyın.",
+	"rr_already_give": ":x: **{0}** rolü değiştirilirken hata oluştu, bu role zaten sahipsiniz.",
+	"rr_already_take": ":x: **{0}** rolü değiştirilirken hata oluştu, zaten kaldırılacak bu role sahip değilsiniz.",
 	"point_list_page_description": "Bir puan sayfa numarası seçin"
 }
