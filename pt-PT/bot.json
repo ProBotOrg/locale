@@ -422,7 +422,7 @@
 	"all_value": "Tudo",
 	"bots_value": "Bots",
 	"humans_value": "Humanos",
-	"humans_role": "All With Role",
+	"humans_role": "Todos Com o Cargo",
 	"text_value": "Texto",
 	"voice_value": "Voz",
 	"invite_value": "Convidar",
@@ -513,10 +513,10 @@
 	"rr_no_role_select": ":x: Não há nenhum cargo ligado a este menu de seleção.",
 	"rr_role_added": ":white_check_mark: Adicionado **{0}**",
 	"rr_role_remove": ":x: Removido **{0}**",
-	"rr_role_no_change": ":x: Nenhum cargo foi alterado.",
+	"rr_role_no_change": ":x: Não houve nenhuma alteração nos cargos.",
 	"rr_no_role_button": ":x: Não há nenhum cargo vinculada a este botão.",
-	"rr_admin_role": ":x: Erro ao alterar cargos, por favor certifique-se de que o cargo selecionado não tem permissões administrativas.",
-	"rr_already_give": ":x: Erro ao alterar cargos, já tem esse cargo",
-	"rr_already_take": ":x: Erro ao alterar cargos, já não tem esse cargo para remover.",
+	"rr_admin_role": ":x: Erro ao alterar cargos, por favor certifique-se de que o cargo selecionado não tem permissões administrativas, bem como recolocar o meu cargo acima dos cargos selecionados.",
+	"rr_already_give": ":x: Erro ao alterar cargo **{0}**, já tem esse cargo",
+	"rr_already_take": ":x: Erro ao alterar o cargo **{0}**, já não tem esse cargo para remover.",
 	"point_list_page_description": "Escolha a página da lista de pontos"
 }
