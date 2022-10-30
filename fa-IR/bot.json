@@ -160,7 +160,7 @@
 	"vip_bans_bots_description": ":rolling_eyes: - **قوانین کالیفورنیا بات هایی که ادای انسان ها را در میاورند بن می کند** \n https://www.pcmag.com/news/364132/california-law-bans-bots-from-pretending-to-be-human",
 	"vip_joke_description": "**این دیگه چه مدل شوخی دهه هشتادیه؟**",
 	"vip_confirm_description": "** :innocent: لطفا `confirm` را بنویسید.**",
-	"vip_send_dm_description": "**:rolling_eyes: - لطفا به بات اجازه ارسال پیام مستقیم (DM) بدهید.**",
+	"vip_send_dm_description": "**:rolling_eyes: - من نمی‌توانم به شما مستقیماً پیام بفرستم. لطفا دریافت پیام مستقیم از افراد سرور را فعال کنید و دوباره تلاش کنید.",
 	"vip_previous_transfer_description": "**:rolling_eyes: - .ارسال شد DM از قبل یک درخواست انتقال پریمیوم وجود دارد، لینک جدیدی برای شما در**",
 	"vip_transfer_link_description": "**:white_check_mark: .به شخصی دیگر کنید، توجه داشته باشید که لینک پس از 10 دقیقه منقضی می شود و نیازمند است که شما دوباره درخواست لینک بدهید DM شما می توانید بات را با این لینک فرستاده شده از طریق**",
 	"vip_link_expired_description": "این لینک منقضی شده.",
@@ -422,6 +422,7 @@
 	"all_value": "همه",
 	"bots_value": "بات‌ها",
 	"humans_value": "انسان‌ها",
+	"humans_role": "All With Role",
 	"text_value": "متن",
 	"voice_value": "صوتی",
 	"invite_value": "دعوت",
@@ -457,7 +458,7 @@
 	"untimeout_description": "حذف تایم‌اوت اعمال شده روی یک کاربر ",
 	"logs_timedout": "**کاربر {0} برای {1} تایم‌اوت شد**.",
 	"logs_timedout_remove": "**تایم اوت {0} پاک شد/ به پایان رسید.**",
-	"leveling_title": "شما یک جایزه جدید دریافت کردید 🥳",
+	"leveling_title": "شما یک جایزه برای سطح جدید دریافت کردید 🥳",
 	"shuffle_description": "پخش تصادفی صف پخش فعلی!",
 	"shuffle_done": ":twisted_rightwards_arrows: **.پخش تصادفی صف فعال شد**",
 	"search_placeholder": "یک آهنگ را انتخاب کنید.",
@@ -483,18 +484,39 @@
 	"vip_whitelist_user_description": "کاربر برای افزودن / حذف از پنل پروبات.",
 	"vip_no_perms": ":x: برای استفاده از دستورات VIP نیازمند به دسترسی Adminstrator می باشید.",
 	"button_someone_else": ":x: این دکمه متعلق به شخص دیگری است.",
+	"setxp_add_description": "اضافه کردن xp به کاربر",
+	"setxp_add_user_description": "کاربری که میخواهید xp به ایشان اضافه شود",
+	"setxp_add_xp_description": "مقدار xp که باید به کاربر اضافه شود",
+	"setxp_remove_description": "برداشتن مقداری xp از کاربر",
+	"setxp_remove_user_description": "کاربری که میخواهید xp از ایشان کم شود",
+	"setxp_remove_xp_description": "مقدار xp که میخواهید از کاربر کم شود",
+	"setxp_select_type": "**لطفا نوع xp را انتخاب کنید.**",
+	"setxp_text_select": "افزودن xp به سطح متنی",
+	"setxp_voice_select": "افزودن xp به سطح صوتی",
 	"setxp_description": "میزان xp یک کاربر را تغییر میدهد",
-	"setxp_type_description": "Type of xp to set either text or voice",
-	"setxp_user_description": "The user for whom you want to set xp",
-	"setxp_xp_description": "The amount of xp to set to the user",
+	"setxp_type_description": "نوع xp که باید تغییر یابد حال یا متنی باشد یا صوتی",
+	"setxp_user_description": "کاربری که میخواهید برایش xp تعیین کنید",
+	"setxp_xp_description": "مقدار xp که برای کاربر باید تنظیم شود",
 	"setxp_changed_xp": "** ✅ | مقدار XP کاربر {0}@ تغییر یافت**",
-	"setlevel_confirm_message": ":thinking: **Are you sure that you want to set a level for @{0}**?",
+	"setlevel_confirm_message": ":thinking: **تنظیم کنید؟ @{0} آیا مطمعنید که میخواهید سطح تجربه را برای **",
 	"setxp_premium": ":x: این دستور فقط برای مشترکان پریمیوم دردسترس می‌باشد.",
-	"setlevel_description": "Sets the user's level",
-	"setlevel_user_description": "The user for whom you want to set level",
-	"setlevel_type_description": "Type of level to set either text or voice",
-	"setlevel_level_description": "The level that you want to set to a user",
-	"setlevel_max_level": ":x: The maximum level that can be set is {0}",
-	"setxp_confirm_message": ":thinking: **Are you sure you want to set xp for @{0}**",
-	"warnings_page_description": "Choose a page number"
+	"setlevel_description": "سطح تجربه کاربر را تنظیم می‌کند",
+	"setlevel_user_description": "کاربری که میخواهید سطح تجربه‌اش را تعیین کنید",
+	"setlevel_type_description": "نوع سطح تجربه‌ای که باید تغییر یابد حال یا متنی باشد یا صوتی",
+	"setlevel_level_description": "سطحی که میخواهید برای کاربر تعیین کنید",
+	"setlevel_max_level": ":x: حداکثر سطح قابل تنظیم {0} می‌باشد",
+	"setxp_confirm_message": ":thinking:**تغییر دهید؟ @{0} را برای xp آیا مطمعنید که میخواهید میزان**",
+	"setlevel_changed_level": "✅ سطح تجربه **{0}@** تغییر یافت",
+	"warnings_page_description": "یک شماره صفحه انتخاب کنید",
+	"rr_module_disabled": ":x: ماژول نقش های بازخوردی غیرفعال است.",
+	"rr_button_cant_role": ":rolling_eyes: - من نتوانستم نقش های شما را بروزرسانی کنم. اگر ادمین سرور هستید، لطفا دوباره دسترسی هایم را بررسی کنید.",
+	"rr_no_role_select": ":x: هیچ نقشی به این منوی انتخابی مرتبط سازی نشده.",
+	"rr_role_added": ":white_check_mark: اضافه شد **{0}**",
+	"rr_role_remove": ":x: حذف شد **{0}**",
+	"rr_role_no_change": ":x: هیچ نقشی تغییر نکرد.",
+	"rr_no_role_button": ":x: هیچ نقشی به این دکمه مرتبط سازی نشده.",
+	"rr_admin_role": ":x: خطا در تغییر دادن نقش ها، لطفا مطمئن شوید که نقش های انتخاب شده دسترسی مدیریتی نداشته باشند.",
+	"rr_already_give": ":x: Error with changing **{0}** role, you already have that role.",
+	"rr_already_take": ":x: Error with changing **{0}** role, you already don't have that role to remove.",
+	"point_list_page_description": "Choose a points page number"
 }

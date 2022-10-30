@@ -740,5 +740,18 @@
     "stats_3_months": "Elmúlt 3 hónap (Prémium)",
     "stats_6_months": "Elmúlt 6 hónap (Prémium)",
     "stats_1_year": "Elmúlt 1 év (Prémium)",
-    "setlevel_description": "Megváltoztatja a tag szintjét"
+    "setlevel_description": "Megváltoztatja a tag szintjét",
+    "rr_type": "Reaction Type",
+    "rr_buttons": "Gomb",
+    "rr_select_menu": "Select Menu",
+    "rr_reaction": "Reakció",
+    "rr_add_button": "Gomb hozzáadása",
+    "rr_button_color": "Gomb színe",
+    "rr_button_settings": "Beállítások",
+    "rr_button_description": "BUTTON EMOJI AND TEXT",
+    "rr_add_option": "Add Option",
+    "rr_select_menu_placeholder": "SELECT MENU PLACEHOLDER",
+    "rr_select_menu_label": "LABEL",
+    "rr_select_menu_description": "LEÍRÁS",
+    "rr_reaction_emoji": "Emoji hozzáadása"
 }

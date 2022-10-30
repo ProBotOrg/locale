@@ -740,5 +740,18 @@
     "stats_3_months": "Letzte 3 Monate (Premium)",
     "stats_6_months": "Letzte 6 Monate (Premium)",
     "stats_1_year": "Letztes Jahr (Premium)",
-    "setlevel_description": "Ändert das Level des Mitglieds"
+    "setlevel_description": "Ändert das Level des Mitglieds",
+    "rr_type": "Reaction Type",
+    "rr_buttons": "Button",
+    "rr_select_menu": "Select Menu",
+    "rr_reaction": "Reaktion",
+    "rr_add_button": "Add Button",
+    "rr_button_color": "Button Color",
+    "rr_button_settings": "Einstellungen",
+    "rr_button_description": "BUTTON EMOJI AND TEXT",
+    "rr_add_option": "Add Option",
+    "rr_select_menu_placeholder": "SELECT MENU PLACEHOLDER",
+    "rr_select_menu_label": "LABEL",
+    "rr_select_menu_description": "BESCHREIBUNG",
+    "rr_reaction_emoji": "Emoji hinzufügen"
 }
