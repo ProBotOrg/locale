@@ -717,7 +717,7 @@
     "commands_moderation_description": "Power up moderation with these cool commands!",
     "commands_music_description": "Enjoy high-quality music with more than 10+ commands to control your BEATS!",
     "commands_premium_description": "Control your premium bot with these perks!",
-    "shuffle_description": "Shuffle the current queue!",
+    "shuffle_description": "Blanda den aktuella könen!",
     "resume_description": "Resumes the currently paused track.",
     "protection_bots_warning": "These limits might not apply to bots due to how they work, be careful from inviting unknown bots.",
     "bot_require_invite": "SELECT THE BOT YOU WANT TO INVITE",
