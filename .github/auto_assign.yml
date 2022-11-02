@@ -2,5 +2,9 @@ addReviewers: true
 reviewers:
   - Dramex
   - FnrDev
+  
+skipKeywords:
+  - crowdin
 
 numberOfReviewers: 0
+addAssignees: author
