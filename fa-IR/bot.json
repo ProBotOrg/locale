@@ -422,7 +422,7 @@
 	"all_value": "همه",
 	"bots_value": "بات‌ها",
 	"humans_value": "انسان‌ها",
-	"humans_role": "All With Role",
+	"humans_role": "همه افراد با نقش",
 	"text_value": "متن",
 	"voice_value": "صوتی",
 	"invite_value": "دعوت",
@@ -516,7 +516,7 @@
 	"rr_role_no_change": ":x: هیچ نقشی تغییر نکرد.",
 	"rr_no_role_button": ":x: هیچ نقشی به این دکمه مرتبط سازی نشده.",
 	"rr_admin_role": ":x: خطا در تغییر دادن نقش ها، لطفا مطمئن شوید که نقش های انتخاب شده دسترسی مدیریتی نداشته باشند.",
-	"rr_already_give": ":x: Error with changing **{0}** role, you already have that role.",
-	"rr_already_take": ":x: Error with changing **{0}** role, you already don't have that role to remove.",
-	"point_list_page_description": "Choose a points page number"
+	"rr_already_give": ":x: خطا در تغییر نقش **{0}**، شما از قبل آن نقش را دارید.",
+	"rr_already_take": ":x: خطا در تغییر نقش **{0}**، شما از قبل آن نقش را نداشتید که بخواهید حذفش کنید.",
+	"point_list_page_description": "یک شماره صفحه امتیازات انتخاب کنید"
 }
