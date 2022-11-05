@@ -214,7 +214,7 @@
 	"move_not_in_voice": ":rolling_eyes: - ** dit persoon is niet in stem kanaal!",
 	"move_being_moved": ":white_check_mark: ** Alle deelnemers worden verplaatst!**",
 	"move_more_specific": ":rolling_eyes: - ** Wees alsjeblieft meer specifieke ** ```{0}```",
-	"move_cant_find": ":rolling_eyes: - **Kan niet vinden** {0}",
+	"move_cant_find": ":rolling_eyes: - **Niet gevonden,** {0}",
 	"move_already_in": ":white_check_mark: ** {0} al in het spraakkanaal! **",
 	"move_channel_full": ":white_check_mark: ** {0} al in het spraakkanaal! **",
 	"move_moved_to": ":white_check_mark: ** {0} is verplaatst naar {1}!**",
