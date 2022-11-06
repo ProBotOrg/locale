@@ -8,4 +8,4 @@ jobs:
     steps:
       - name: Automatically assign reviewers
         if: github.event.action == 'opened'
-        uses: kentaro-m/auto-assign-action@v1.2.1
+        uses: kentaro-m/auto-assign-action@v1.2.4
