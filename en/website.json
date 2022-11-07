@@ -751,7 +751,7 @@
     "rr_button_description": "BUTTON EMOJI AND TEXT",
     "rr_add_option": "Add Option",
     "rr_select_menu_placeholder": "SELECT MENU PLACEHOLDER",
-    "rr_select_menu_label": "LABEL",
+    "label": "LABEL",
     "rr_select_menu_description": "DESCRIPTION",
     "rr_reaction_emoji": "Add Emoji",
     "roles": "Roles"
