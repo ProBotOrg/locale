@@ -752,6 +752,7 @@
     "rr_add_option": "Add Option",
     "rr_select_menu_placeholder": "SELECT MENU PLACEHOLDER",
     "label": "LABEL",
+    "color": "Color",
     "rr_select_menu_description": "DESCRIPTION",
     "rr_reaction_emoji": "Add Emoji",
     "roles": "Roles",
