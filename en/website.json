@@ -762,5 +762,5 @@
     "rr_buttons_limit": "You can't add more than 5 buttons to this reaction role.",
     "rr_select_limits": "You can't add more than 5 Select Menus to this reaction role.",
     "rr_options_limit": "You can't add more than 25 options to this Select Menu.",
-    "rr_types": "Reaction role type"
+    "rr_types": "Reaction Role Type"
 }
