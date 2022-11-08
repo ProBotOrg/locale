@@ -754,5 +754,8 @@
     "label": "LABEL",
     "rr_select_menu_description": "DESCRIPTION",
     "rr_reaction_emoji": "Add Emoji",
-    "roles": "Roles"
+    "roles": "Roles",
+    "rr_error_options": "Make sure all options have a title and role/s",
+    "rr_error_buttons_label": "Make sure all buttons have a label",
+    "rr_error_reaction_emoji": "Make sure all reactions have a role/s"
 }
