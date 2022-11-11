@@ -55,7 +55,7 @@
     "support_description": "サポートサーバーへ移動する",
     "color_description": "サーバー内の自分の色を変更する",
     "colors_description": "利用可能な色",
-    "title_description": "#profile を入力してタイトルを変更します。",
+    "title_description": "#profile を入力してタイトルを変更する",
     "reset_description": "メンバー全員のメッセージ送信数/ボイスチャット/招待数のXPポイントをリセットする",
     "rep_description": "指定したメンバーへレピュテーションポイントを付与（24時間に1回限定）",
     "daily_description": "デイリーリワードを取得",
@@ -751,7 +751,15 @@
     "rr_button_description": "絵文字とテキストのボタン",
     "rr_add_option": "オプションの追加",
     "rr_select_menu_placeholder": "メニューの場所を選択",
-    "rr_select_menu_label": "ラベル",
+    "label": "LABEL",
     "rr_select_menu_description": "概要",
-    "rr_reaction_emoji": "絵文字を追加"
+    "rr_reaction_emoji": "絵文字を追加",
+    "roles": "Roles",
+    "rr_error_options": "Make sure all options have a title and role/s",
+    "rr_error_buttons_label": "Make sure all buttons have a label",
+    "rr_error_reaction_emoji": "Make sure all reactions have a role/s",
+    "rr_buttons_limit": "You can't add more than 5 buttons to this reaction role.",
+    "rr_select_limits": "You can't add more than 5 Select Menus to this reaction role.",
+    "rr_options_limit": "You can't add more than 25 options to this Select Menu.",
+    "rr_types": "Reaction Role Type"
 }
