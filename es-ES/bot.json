@@ -518,5 +518,6 @@
 	"rr_admin_role": ":x: Error con el cambio de roles, Por favor, asegúrese de que el rol seleccionado no tiene permisos administrativos, así como reubicar mi rol por encima de los roles seleccionados.",
 	"rr_already_give": ":x: Error al cambiar el rol **{0}**, ya tienes ese rol.",
 	"rr_already_take": ":x: Error al cambiar el rol **{0}**, ya no tienes ese rol para eliminar.",
-	"point_list_page_description": "Elija un número de página de puntos"
+	"point_list_page_description": "Elija un número de página de puntos",
+	"color_relocate": ":rolling_eyes: - Please move my role above the selected color role."
 }
