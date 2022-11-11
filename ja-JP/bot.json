@@ -518,5 +518,6 @@
 	"rr_admin_role": ":x: ロールの変更中にエラーが発生しました。指定したロールに**管理者権限が無いこと**を確認してください。",
 	"rr_already_give": ":x: **{0}** ロールの設定中にエラーが発生しました。どうやらすでにロールを持っているようです。",
 	"rr_already_take": ":x: **{0}** ロールの設定中にエラーが発生しました。そのロールを削除する権限がありません。",
-	"point_list_page_description": "ページ番号を指定"
+	"point_list_page_description": "ページ番号を指定",
+	"color_relocate": ":rolling_eyes: - Please move my role above the selected color role."
 }
