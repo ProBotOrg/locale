@@ -278,7 +278,7 @@
 	"reset_confirm_voice": ":thinking: **Etes-vous sûr de vouloir réinitialiser tous les points d'XP vocaux ?**",
 	"reset_confirm_invites": ":thinking: **Etes-vous sûr de vouloir réinitialiser toutes les invitations ?**",
 	"logs_responsible_moderator": "**Moderateur Responsable :**",
-	"logs_reason": "**Raison :**\n",
+	"logs_reason": "**Raison :**",
 	"logs_channel_created": ":house: **Salon créé : `{0}`**",
 	"logs_channel_deleted": ":house: **Salon supprimé : `{0}`**",
 	"logs_channel_updated": ":house: **Salon mis à jour : `{0}`**",
@@ -414,7 +414,7 @@
 	"role_pick_type_description": "Choisir un type",
 	"setcolor_role_description": "Rôle à définir la couleur pour.",
 	"timeout_user_description": "L'utilisateur à bannir temporairement",
-	"timeout_time_description": "La durée de temporisation",
+	"timeout_time_description": "La durée du ban temporaire",
 	"timeout_reason_description": "La raison du ban temporaire.",
 	"untimeout_user_description": "L'utilisateur à révoqué le bannissement temporaire",
 	"give_value": "Donner",
@@ -518,5 +518,6 @@
 	"rr_admin_role": ":x : Erreur lors de la modification des rôles. Veuillez vous assurer que le rôle sélectionné n'a pas d'autorisations administratives.",
 	"rr_already_give": ":x : Erreur lors du changement de rôle, vous avez déjà ce rôle",
 	"rr_already_take": ":x: Erreur lors du changement de rôle, vous n'avez déjà pas ce rôle à supprimer.",
-	"point_list_page_description": "Choisissez un numéro de page de points"
+	"point_list_page_description": "Choisissez un numéro de page de points",
+	"color_relocate": ":rolling_eyes: - Please move my role above the selected color role."
 }
