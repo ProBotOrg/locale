@@ -751,7 +751,15 @@
     "rr_button_description": "EMOJI PRZYCISKÓW I TEKST",
     "rr_add_option": "Dodaj opcję",
     "rr_select_menu_placeholder": "WYBIERZ ZAMIENNIK MENU",
-    "rr_select_menu_label": "ETYKIETA",
+    "label": "LABEL",
     "rr_select_menu_description": "OPIS",
-    "rr_reaction_emoji": "Dodaj emotikony"
+    "rr_reaction_emoji": "Dodaj emotikony",
+    "roles": "Roles",
+    "rr_error_options": "Make sure all options have a title and role/s",
+    "rr_error_buttons_label": "Make sure all buttons have a label",
+    "rr_error_reaction_emoji": "Make sure all reactions have a role/s",
+    "rr_buttons_limit": "You can't add more than 5 buttons to this reaction role.",
+    "rr_select_limits": "You can't add more than 5 Select Menus to this reaction role.",
+    "rr_options_limit": "You can't add more than 25 options to this Select Menu.",
+    "rr_types": "Reaction Role Type"
 }
