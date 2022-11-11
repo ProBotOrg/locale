@@ -732,7 +732,7 @@
     "temp_channel_module": "Salons temporaires",
     "rr_max_reactions": "Max de réactions atteint !",
     "temp_max_users": "Nombre maximal d'utilisateurs par défaut",
-    "setxp_description": "Modifie l'xp des membres.",
+    "setxp_description": "Définit l'xp de l'utilisateur",
     "announcement_halloween": "DITES {0} ET OBTENEZ {1} DE RÉDUCTION, UTILISEZ LE COPUON {0}",
     "stats_7": "Les 7 derniers jours",
     "stats_14": "Les 14 derniers jours",

@@ -162,7 +162,7 @@
         "usage_short": "{0} [link]",
         "usage_deletebackup": "{0} [Backup Code]",
         "usage_roll": "{0} (number)",
-        "usage_points": "`{0}` - see all points\n`{0} [user] 1` - set the points of a user\n`{0} [user] +1` - increase the points of a user\n`{0} [user] -1` - decrease the points of a user\n`{0} [user] 0` -  reset the points of a user\n`{0} reset` - resets all points\n{0} [role name] - filters the points by a role",
+        "usage_points": "{0} - see all points\n{0} [user] 1 - set the points of a user\n{0} [user] +1 - increase the points of a user\n{0} [user] -1 - decrease the points of a user\n{0} [user] 0 -  reset the points of a user\n{0} reset - resets all points\n{0} [role name] - filters the points by a role",
         "usage_rank": "{0} (user)",
         "usage_setlang": "{0} [Language Code]",
         "usage_resume": "{0}",
@@ -186,7 +186,7 @@
         "examples_move": "{0} @Dramex \n{0} @Dramex General",
         "examples_lock": "{0}\n{0} #general\n{0} #general Spamming",
         "examples_unlock": "{0}\n{0} general",
-        "examples_mute": "{0} {1} 1m Spamming\n{0} {1} 1h\n{0} {1} 1d\n{0} {1} 1w\n{0} {1} 1mo\n{0} {1} 1y",
+        "examples_mute": "{0} @Dramex 1m Spamming\n{0} @Dramex 1h\n{0} @Dramex 1d\n{0} @Dramex 1w\n{0} @Dramex 1mo\n{0} @Dramex 1y",
         "examples_vmute": "{0} @Dramex 1m annoying\n{0} @Dramex 1h\n{0} @Dramex 1d\n{0} @Dramex 1mo\n{0} @Dramex 1y",
         "examples_unmute": "{0} @Dramex\n{0} 157605500488384512",
         "examples_unvmute": "{0} @Dramex\n{0} 157605500488384512",
@@ -211,7 +211,7 @@
         "examples_roll": "{0}\n{0} 100",
         "examples_short": "{0} https://probot.io/This-is-A-Very-Long-Link-lol",
         "examples_points": "{0} @Dramex 1\n{0} @Dramex +1 \n{0} @Dramex -1\n{0} @Dramex 0\n{0} reset\n{0} Admin",
-        "examples_rank": "{0}\n{0} @Dramex\n{0} 728882410384785451",
+        "examples_rank": "{0}\n{0} @Dramex\n{0} 157605500488384512",
         "examples_removewarn": "{0} 1810\n{0} @Dramex\n{0} all",
         "examples_setlang": "{0} en",
         "examples_resume": "{0}",
@@ -219,7 +219,7 @@
         "examples_timeout": "{0} @Fnr\n{0} @Fnr 1h\n{0} @Fnr Spamming",
         "examples_untimeout": "{0} @Dramex\n{0} 157605500488384512",
         "examples_shuffle": "{0}",
-        "examples_setxp": "{0} @User text 500\n{0} @User voice 500",
-        "examples_setlevel": "{0} @User text 20\n{0} @User voice 20"
+        "examples_setxp": "{0} @Dramex text 500\n{0} @Dramex voice 500",
+        "examples_setlevel": "{0} @Dramex text 20\n{0} @Dramex voice 20"
     }
 }
