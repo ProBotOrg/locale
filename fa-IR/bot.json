@@ -518,5 +518,6 @@
 	"rr_admin_role": ":x: خطا در تغییر دادن نقش ها، لطفا مطمئن شوید که نقش های انتخاب شده دسترسی مدیریتی نداشته باشند.",
 	"rr_already_give": ":x: خطا در تغییر نقش **{0}**، شما از قبل آن نقش را دارید.",
 	"rr_already_take": ":x: خطا در تغییر نقش **{0}**، شما از قبل آن نقش را نداشتید که بخواهید حذفش کنید.",
-	"point_list_page_description": "یک شماره صفحه امتیازات انتخاب کنید"
+	"point_list_page_description": "یک شماره صفحه امتیازات انتخاب کنید",
+	"color_relocate": ":rolling_eyes: - Please move my role above the selected color role."
 }
