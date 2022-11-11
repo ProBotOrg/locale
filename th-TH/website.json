@@ -751,7 +751,15 @@
     "rr_button_description": "ปุ่มอีโมจิและข้อความ",
     "rr_add_option": "เพิ่มตัวเลือก",
     "rr_select_menu_placeholder": "SELECT MENU PLACEHOLDER",
-    "rr_select_menu_label": "LABEL",
+    "label": "LABEL",
     "rr_select_menu_description": "คำอธิบาย",
-    "rr_reaction_emoji": "เพิ่มอิโมจิ"
+    "rr_reaction_emoji": "เพิ่มอิโมจิ",
+    "roles": "Roles",
+    "rr_error_options": "Make sure all options have a title and role/s",
+    "rr_error_buttons_label": "Make sure all buttons have a label",
+    "rr_error_reaction_emoji": "Make sure all reactions have a role/s",
+    "rr_buttons_limit": "You can't add more than 5 buttons to this reaction role.",
+    "rr_select_limits": "You can't add more than 5 Select Menus to this reaction role.",
+    "rr_options_limit": "You can't add more than 25 options to this Select Menu.",
+    "rr_types": "Reaction Role Type"
 }
