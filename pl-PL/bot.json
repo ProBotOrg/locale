@@ -518,5 +518,6 @@
 	"rr_admin_role": ":x: Błąd podczas zmiany ról. Upewnij się, że wybrana rola nie ma uprawnień administracyjnych.",
 	"rr_already_give": ":x: Błąd zmiany ról, już tę rolę masz",
 	"rr_already_take": ":x: Błąd podczas zmiany ról, nie masz już tej roli do usunięcia.",
-	"point_list_page_description": "Wybierz numer strony z punktami"
+	"point_list_page_description": "Wybierz numer strony z punktami",
+	"color_relocate": ":rolling_eyes: - Please move my role above the selected color role."
 }
