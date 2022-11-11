@@ -55,7 +55,7 @@
     "support_description": "Invia il link d'invito del nostro server di supporto.",
     "color_description": "Cambia il colore del tuo nome nel server.",
     "colors_description": "Ti mostra la lista dei colori disponibili",
-    "title_description": "Modifica il tuo titolo nel comando #profilo",
+    "title_description": "Modifica il tuo titolo nel comando `#profile`.",
     "reset_description": "Resetta I punti xp di testo/voce/invito di tutti gli utenti ",
     "rep_description": "Ricompensa qualcuno con un punto reputazione. Può essere usato una sola volta ogni 24h",
     "daily_description": "Ottieni il tuo salario giornaliero",
@@ -751,7 +751,15 @@
     "rr_button_description": "BUTTON EMOJI AND TEXT",
     "rr_add_option": "Add Option",
     "rr_select_menu_placeholder": "SELECT MENU PLACEHOLDER",
-    "rr_select_menu_label": "LABEL",
+    "label": "LABEL",
     "rr_select_menu_description": "DESCRIPTION",
-    "rr_reaction_emoji": "Add Emoji"
+    "rr_reaction_emoji": "Add Emoji",
+    "roles": "Roles",
+    "rr_error_options": "Make sure all options have a title and role/s",
+    "rr_error_buttons_label": "Make sure all buttons have a label",
+    "rr_error_reaction_emoji": "Make sure all reactions have a role/s",
+    "rr_buttons_limit": "You can't add more than 5 buttons to this reaction role.",
+    "rr_select_limits": "You can't add more than 5 Select Menus to this reaction role.",
+    "rr_options_limit": "You can't add more than 25 options to this Select Menu.",
+    "rr_types": "Reaction Role Type"
 }
