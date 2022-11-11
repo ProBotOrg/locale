@@ -518,5 +518,6 @@
 	"rr_admin_role": ":x: Lütfen seçilen rolün yönetici izinlerine sahip olmadığından emin olun ve rolümü seçilen rollerin üzerine taşıyın.",
 	"rr_already_give": ":x: **{0}** rolü değiştirilirken hata oluştu, bu role zaten sahipsiniz.",
 	"rr_already_take": ":x: **{0}** rolü değiştirilirken hata oluştu, zaten kaldırılacak bu role sahip değilsiniz.",
-	"point_list_page_description": "Bir puan sayfa numarası seçin"
+	"point_list_page_description": "Bir puan sayfa numarası seçin",
+	"color_relocate": ":rolling_eyes: - Please move my role above the selected color role."
 }
