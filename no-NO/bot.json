@@ -169,8 +169,8 @@
 	"vip_select_one_description": "** Velg en: **",
 	"vip_restarting_description": ":timer: **Omstart ...**",
 	"vip_please_wait_description": "**:stopwatch: |  {0}, please wait {1}. **",
-	"vip_please_attach_description": ":rolling_eyes: - **Please specify or attach**",
-	"vip_please_specify_description": ":rolling_eyes: - **Please specify**",
+	"vip_please_attach_description": ":rolling_eyes: - **Please specify an avatar link or attach an avatar.**",
+	"vip_please_specify_description": ":rolling_eyes: - **Please specify a username.**",
 	"vip_details_description": "**Premium Number:** {0}\n**Premium ends in** {1}\n**Registered for:** {2}",
 	"vip_ended_description": "endte",
 	"slowmode_description": "Enable or disable slowmode on a channel.",
@@ -518,5 +518,6 @@
 	"rr_admin_role": ":x: Please ensure that the selected role has no administrative permissions, as well as relocate my role above the selected roles.",
 	"rr_already_give": ":x: Error with changing **{0}** role, you already have that role.",
 	"rr_already_take": ":x: Error with changing **{0}** role, you already don't have that role to remove.",
-	"point_list_page_description": "Choose a points page number"
+	"point_list_page_description": "Choose a points page number",
+	"color_relocate": ":rolling_eyes: - Please move my role above the selected color role."
 }
