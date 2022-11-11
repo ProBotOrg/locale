@@ -55,7 +55,7 @@
     "support_description": "Get our support server invite link.",
     "color_description": "Change your color on the server.",
     "colors_description": "Lists you all the available colors.",
-    "title_description": "Changes your title in the `#profile` command.",
+    "title_description": "Changes your profile title.",
     "reset_description": "Reset text/voice/invites xp points for all or specific members.",
     "rep_description": "Award someone a reputation point. Can only be used once every 24 hours.",
     "daily_description": "Get your daily salary.",
