@@ -751,7 +751,15 @@
     "rr_button_description": "КНОПКА ЕМОДЗІ ТА ТЕКСТ",
     "rr_add_option": "Додати опцію",
     "rr_select_menu_placeholder": "ВИБРАТИ ЗАПОВНЮВАЧ МЕНЮ",
-    "rr_select_menu_label": "ЗНАЧОК",
+    "label": "LABEL",
     "rr_select_menu_description": "ОПИС",
-    "rr_reaction_emoji": "Додати емодзі"
+    "rr_reaction_emoji": "Додати емодзі",
+    "roles": "Roles",
+    "rr_error_options": "Make sure all options have a title and role/s",
+    "rr_error_buttons_label": "Make sure all buttons have a label",
+    "rr_error_reaction_emoji": "Make sure all reactions have a role/s",
+    "rr_buttons_limit": "You can't add more than 5 buttons to this reaction role.",
+    "rr_select_limits": "You can't add more than 5 Select Menus to this reaction role.",
+    "rr_options_limit": "You can't add more than 25 options to this Select Menu.",
+    "rr_types": "Reaction Role Type"
 }
