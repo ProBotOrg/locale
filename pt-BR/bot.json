@@ -518,5 +518,6 @@
 	"rr_admin_role": ":x: Erro ao alterar cargos, por favor certifique-se de que o cargo selecionado não tem permissões administrativas.",
 	"rr_already_give": ":x: Erro ao alterar cargos, você já tem esse cargo",
 	"rr_already_take": ":x: Erro ao alterar cargos, você já não tem esse cargo para remover.",
-	"point_list_page_description": "Escolha um número da página de pontos"
+	"point_list_page_description": "Escolha um número da página de pontos",
+	"color_relocate": ":rolling_eyes: - Please move my role above the selected color role."
 }

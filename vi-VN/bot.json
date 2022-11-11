@@ -518,5 +518,6 @@
 	"rr_admin_role": ":x: Vui lòng chắc chắn rằng vai trò được liên kết không có quyền quản trị, và vai trò của tôi phải có vị trí cao hơn vai trò đó.",
 	"rr_already_give": ":x: Lỗi trong lúc thêm vai trò **{0}**, bạn đã có vai trò này rồi.",
 	"rr_already_take": ":x: Lỗi trong lúc bỏ vai trò **{0}**, bạn không có vai trò này để bỏ.",
-	"point_list_page_description": "Chọn số trang cần đến"
+	"point_list_page_description": "Chọn số trang cần đến",
+	"color_relocate": ":rolling_eyes: - Please move my role above the selected color role."
 }

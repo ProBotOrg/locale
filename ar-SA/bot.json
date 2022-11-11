@@ -518,5 +518,6 @@
 	"rr_admin_role": ":x: يرجى التأكد أن الرتبة المحدده ليس لها صلاحيات ادارية، وكذلك يرجى رفع رتبتي فوق الرتب المحدده.",
 	"rr_already_give": ":x: خطأ في تغيير الرتب **{0}** ، لديك هذه الرتبة بالفعل",
 	"rr_already_take": ":x: خطأ في تغيير الرتب **{0}** ، ليس لديك هذه الرتبة لإزالتها.",
-	"point_list_page_description": "اختر رقم صفحة النقاط"
+	"point_list_page_description": "اختر رقم صفحة النقاط",
+	"color_relocate": ":rolling_eyes: - Please move my role above the selected color role."
 }
