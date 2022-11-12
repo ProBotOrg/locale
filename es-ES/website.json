@@ -55,7 +55,7 @@
     "support_description": "Obtén nuestro enlace de invitación al servidor de soporte.",
     "color_description": "Cambia tu color en el servidor.",
     "colors_description": "Enumera todos los colores disponibles.",
-    "title_description": "Cambia tu título en el comando #profile.",
+    "title_description": "Cambia el título de tu perfil.",
     "reset_description": "Restablece texto/voz/invitaciones puntos de xp para todos los miembros.",
     "rep_description": "Otorga a alguien un punto de reputación. Solo se puede utilizar una vez cada 24 horas.",
     "daily_description": "Obtén tu salario diario.",
@@ -759,8 +759,8 @@
     "rr_error_options": "Asegúrese de que todas las opciones tienen un título y un rol/roles",
     "rr_error_buttons_label": "Asegúrese de que todos los botones tengan una etiqueta",
     "rr_error_reaction_emoji": "Asegúrese de que todas las reacciones tienen un rol/roles",
-    "rr_buttons_limit": "You can't add more than 5 buttons to this reaction role.",
-    "rr_select_limits": "You can't add more than 5 Select Menus to this reaction role.",
-    "rr_options_limit": "You can't add more than 25 options to this Select Menu.",
-    "rr_types": "Reaction Role Type"
+    "rr_buttons_limit": "No puedes añadir más de 5 botones a este rol de reacción.",
+    "rr_select_limits": "No puede añadir más de 5 menús de selección a este rol de reacción.",
+    "rr_options_limit": "No puede añadir más de 25 opciones a este menú de selección.",
+    "rr_types": "Tipo de rol de reacción"
 }
