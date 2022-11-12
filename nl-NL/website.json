@@ -755,6 +755,7 @@
     "rr_select_menu_description": "BESCHRIJVING",
     "rr_reaction_emoji": "Emoji toevoegen",
     "roles": "Roles",
+    "music_dj_roles_info": "DJ Roles restrict all music commands to users with the selected role/s.",
     "rr_error_options": "Make sure all options have a title and role/s",
     "rr_error_buttons_label": "Make sure all buttons have a label",
     "rr_error_reaction_emoji": "Make sure all reactions have a role/s",
