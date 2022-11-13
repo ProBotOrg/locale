@@ -169,8 +169,8 @@
 	"vip_select_one_description": "** Виберіть один варіант: **",
 	"vip_restarting_description": ":timer: **Перезапуск ...**",
 	"vip_please_wait_description": "**:stopwatch: |  {0}, будь ласка, зачекайте {1}. **",
-	"vip_please_attach_description": ":rolling_eyes: - **Будь ласка, вкажіть або прикріпіть**",
-	"vip_please_specify_description": ":rolling_eyes: - **Будь ласка, вкажіть**",
+	"vip_please_attach_description": ":rolling_eyes: - **Будь ласка, вкажіть посилання на аватар або прикріпіть аватар.**",
+	"vip_please_specify_description": ":rolling_eyes: - **Будь ласка, вкажіть ім'я.**",
 	"vip_details_description": "**Преміум номер:** {0}\n**Преміум закінчується ** {1}\n**Зареєстрований для:** {2}",
 	"vip_ended_description": "завершено",
 	"slowmode_description": "Увімкнення або вимкнення повільного режиму на каналі.",
@@ -519,5 +519,5 @@
 	"rr_already_give": ":x: Помилка при зміні ролі **{0}**, ви вже маєте цю роль.",
 	"rr_already_take": ":x: Помилка при зміні ролі **{0}**, у вас вже немає цієї ролі для видалення.",
 	"point_list_page_description": "Виберіть номер сторінки балів",
-	"color_relocate": ":rolling_eyes: - Please move my role above the selected color role."
+	"color_relocate": ":rolling_eyes: - Будь ласка, перемістіть мою роль вище обраних кольорових ролей."
 }
