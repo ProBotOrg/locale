@@ -170,7 +170,7 @@
 	"vip_restarting_description": ":timer: **Перезагрузка ...**",
 	"vip_please_wait_description": "**:stopwatch: | {0}, пожалуйста подождите {1}. **",
 	"vip_please_attach_description": ":rolling_eyes: - **Пожалуйста, укажите или прикрепите**",
-	"vip_please_specify_description": ":rolling_eyes: - **Пожалуйста уточните**",
+	"vip_please_specify_description": ":rolling_eyes: - **Пожалуйста, укажите имя пользователя.**",
 	"vip_details_description": "**Премиум Номер:** {0}\n**Премиум закончится** {1}\n**Зарегистрирован для:** {2}",
 	"vip_ended_description": "законченный ",
 	"slowmode_description": "Включить или выключить медленный режим в канале.",
