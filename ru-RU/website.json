@@ -756,11 +756,11 @@
     "rr_reaction_emoji": "Добавить эмодзи",
     "roles": "Roles",
     "music_dj_roles_info": "DJ Roles restrict all music commands to users with the selected role/s.",
-    "rr_error_options": "Make sure all options have a title and role/s",
-    "rr_error_buttons_label": "Make sure all buttons have a label",
-    "rr_error_reaction_emoji": "Make sure all reactions have a role/s",
-    "rr_buttons_limit": "You can't add more than 5 buttons to this reaction role.",
+    "rr_error_options": "Убедитесь, что все варианты имеют название и роль(и)",
+    "rr_error_buttons_label": "Убедитесь, что все кнопки имеют метку",
+    "rr_error_reaction_emoji": "Убедитесь, что все реакции имеют роль(и)",
+    "rr_buttons_limit": "Вы не можете добавить более чем 5 кнопок к этой роли по реакции.",
     "rr_select_limits": "You can't add more than 5 Select Menus to this reaction role.",
-    "rr_options_limit": "You can't add more than 25 options to this Select Menu.",
-    "rr_types": "Reaction Role Type"
+    "rr_options_limit": "Вы не можете добавить более чем 25 вариантов для этого меню выбора.",
+    "rr_types": "Тип роли за реакцию"
 }
