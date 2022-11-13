@@ -519,5 +519,5 @@
 	"rr_already_give": ":x: Ошибка при смене роли **{0}**, у вас уже есть эта роль.",
 	"rr_already_take": ":x: Ошибка при смене роли **{0}**, у вас нет этой роли для снятия.",
 	"point_list_page_description": "Выберите номер страницы очков",
-	"color_relocate": ":rolling_eyes: - Please move my role above the selected color role."
+	"color_relocate": ":rolling_eyes: - Пожалуйста, переместите мою роль выше выбранных цветовых ролей."
 }
