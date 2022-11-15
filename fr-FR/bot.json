@@ -6,7 +6,7 @@
 	"moveme_description": "Vous déplace vers un salon vocal.",
 	"profile_description": "Consultez votre carte de profil globale personnelle ou celle de quelqu'un d'autre.",
 	"top_description": "Afficher les membres avec les scores de serveur ou d'XP les plus élevés. ",
-	"user_description": "Affiche des informations, telles que l'ID et la date d'adhésion, sur vous-même ou un utilisateur.",
+	"user_description": "Affiche des informations sur vous-même ou sur un autre utilisateur, telles que l'identifiant et la date d'inscription.",
 	"avatar_description": "Affiche votre avatar ou celui de quelqu'un d'autre.",
 	"server_description": "Afficher les informations à propos d'un serveur.",
 	"roles_description": "Obtenir une liste des rôles du serveur et le nombre d'utilisateurs.",
