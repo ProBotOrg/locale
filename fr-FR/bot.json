@@ -519,5 +519,7 @@
 	"rr_already_give": ":x : Erreur lors du changement de rôle, vous avez déjà ce rôle",
 	"rr_already_take": ":x: Erreur lors du changement de rôle, vous n'avez déjà pas ce rôle à supprimer.",
 	"point_list_page_description": "Choisissez un numéro de page de points",
-	"color_relocate": ":rolling_eyes: - Veuillez déplacer mon rôle au-dessus du rôle de couleur sélectionné."
+	"color_relocate": ":rolling_eyes: - Veuillez déplacer mon rôle au-dessus du rôle de couleur sélectionné.",
+	"mute_text_description": "Mute a member from text channels so they cannot type",
+	"mute_voice_description": "Mute a member from voice channels so they cannot speak"
 }
