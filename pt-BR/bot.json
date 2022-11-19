@@ -519,5 +519,7 @@
 	"rr_already_give": ":x: Erro ao alterar cargos, você já tem esse cargo",
 	"rr_already_take": ":x: Erro ao alterar cargos, você já não tem esse cargo para remover.",
 	"point_list_page_description": "Escolha um número da página de pontos",
-	"color_relocate": ":rolling_eyes: - Por favor, mova meu cargo acima do cargo de cor selecionado."
+	"color_relocate": ":rolling_eyes: - Por favor, mova meu cargo acima do cargo de cor selecionado.",
+	"mute_text_description": "Mute a member from text channels so they cannot type",
+	"mute_voice_description": "Mute a member from voice channels so they cannot speak"
 }
