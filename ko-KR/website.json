@@ -751,10 +751,10 @@
     "rr_button_description": "버튼 이모지 및 문자",
     "rr_add_option": "옵션 추가",
     "rr_select_menu_placeholder": "선택 메뉴 자리 표시자",
-    "label": "LABEL",
+    "label": "라벨",
     "rr_select_menu_description": "설명",
     "rr_reaction_emoji": "이모지 추가",
-    "roles": "Roles",
+    "roles": "역할",
     "music_dj_roles_info": "DJ Roles restrict all music commands to users with the selected role/s.",
     "rr_error_options": "Make sure all options have a title and role/s",
     "rr_error_buttons_label": "Make sure all buttons have a label",
@@ -762,5 +762,5 @@
     "rr_buttons_limit": "You can't add more than 5 buttons to this reaction role.",
     "rr_select_limits": "You can't add more than 5 Select Menus to this reaction role.",
     "rr_options_limit": "You can't add more than 25 options to this Select Menu.",
-    "rr_types": "Reaction Role Type"
+    "rr_types": "역할 반응 유형"
 }
