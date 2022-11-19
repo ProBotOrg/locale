@@ -519,5 +519,7 @@
 	"rr_already_give": ":x: Error al cambiar el rol **{0}**, ya tienes ese rol.",
 	"rr_already_take": ":x: Error al cambiar el rol **{0}**, ya no tienes ese rol para eliminar.",
 	"point_list_page_description": "Elija un número de página de puntos",
-	"color_relocate": ":rolling_eyes: - Por favor, mueva mi rol por encima del rol de color seleccionado."
+	"color_relocate": ":rolling_eyes: - Por favor, mueva mi rol por encima del rol de color seleccionado.",
+	"mute_text_description": "Mute a member from text channels so they cannot type",
+	"mute_voice_description": "Mute a member from voice channels so they cannot speak"
 }
