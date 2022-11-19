@@ -519,5 +519,7 @@
 	"rr_already_give": ":x: Fout bij het veranderen van rollen, je hebt die rol al",
 	"rr_already_take": ":x: Fout bij het wijzigen van rollen, je hebt die rol nog niet om te verwijderen.",
 	"point_list_page_description": "Kies een puntenpaginanummer",
-	"color_relocate": ":rolling_eyes: - Verplaats alstublieft mijn rol boven de geselecteerde kleurrol."
+	"color_relocate": ":rolling_eyes: - Verplaats alstublieft mijn rol boven de geselecteerde kleurrol.",
+	"mute_text_description": "Mute a member from text channels so they cannot type",
+	"mute_voice_description": "Mute a member from voice channels so they cannot speak"
 }
