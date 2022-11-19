@@ -519,5 +519,7 @@
 	"rr_already_give": ":x: **{0}** 역할을 변경하지 못했어요. 이미 그 역할이 있어요.",
 	"rr_already_take": ":x: **{0}** 역할을 변경하지 못했어요. 제거할 역할이 없어요.",
 	"point_list_page_description": "포인트 페이지 번호를 선택하세요",
-	"color_relocate": ":rolling_eyes: - Please move my role above the selected color role."
+	"color_relocate": ":rolling_eyes: - Please move my role above the selected color role.",
+	"mute_text_description": "Mute a member from text channels so they cannot type",
+	"mute_voice_description": "Mute a member from voice channels so they cannot speak"
 }
