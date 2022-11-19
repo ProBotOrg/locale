@@ -519,5 +519,7 @@
 	"rr_already_give": ":x: **{0}** rolü değiştirilirken hata oluştu, bu role zaten sahipsiniz.",
 	"rr_already_take": ":x: **{0}** rolü değiştirilirken hata oluştu, zaten kaldırılacak bu role sahip değilsiniz.",
 	"point_list_page_description": "Bir puan sayfa numarası seçin",
-	"color_relocate": ":rolling_eyes: - Lütfen rolümü seçili renk rolünün üstüne taşıyın."
+	"color_relocate": ":rolling_eyes: - Lütfen rolümü seçili renk rolünün üstüne taşıyın.",
+	"mute_text_description": "Mute a member from text channels so they cannot type",
+	"mute_voice_description": "Mute a member from voice channels so they cannot speak"
 }
