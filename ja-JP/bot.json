@@ -519,5 +519,7 @@
 	"rr_already_give": ":x: **{0}** ロールの設定中にエラーが発生しました。どうやらすでにロールを持っているようです。",
 	"rr_already_take": ":x: **{0}** ロールの設定中にエラーが発生しました。そのロールを削除する権限がありません。",
 	"point_list_page_description": "ページ番号を指定",
-	"color_relocate": ":rolling_eyes: - Please move my role above the selected color role."
+	"color_relocate": ":rolling_eyes: - Please move my role above the selected color role.",
+	"mute_text_description": "Mute a member from text channels so they cannot type",
+	"mute_voice_description": "Mute a member from voice channels so they cannot speak"
 }
