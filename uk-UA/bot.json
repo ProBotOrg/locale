@@ -519,5 +519,7 @@
 	"rr_already_give": ":x: Помилка при зміні ролі **{0}**, ви вже маєте цю роль.",
 	"rr_already_take": ":x: Помилка при зміні ролі **{0}**, у вас вже немає цієї ролі для видалення.",
 	"point_list_page_description": "Виберіть номер сторінки балів",
-	"color_relocate": ":rolling_eyes: - Будь ласка, перемістіть мою роль вище обраних кольорових ролей."
+	"color_relocate": ":rolling_eyes: - Будь ласка, перемістіть мою роль вище обраних кольорових ролей.",
+	"mute_text_description": "Mute a member from text channels so they cannot type",
+	"mute_voice_description": "Mute a member from voice channels so they cannot speak"
 }
