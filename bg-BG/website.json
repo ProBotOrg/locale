@@ -511,7 +511,7 @@
     "reset_settings": "Reset Settings",
     "only_owner_reset_settings": "Only server owner can reset the settings",
     "add_message": "Add Message",
-    "reaction_roles": "Reaction Roles",
+    "reaction_roles": "Self-Assignable Roles",
     "rr_emoji": "Emoji Reaction",
     "rr_add_reaction": "Add Reaction",
     "mod_actions": "Mod Actions",
