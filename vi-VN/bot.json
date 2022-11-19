@@ -519,5 +519,7 @@
 	"rr_already_give": ":x: Lỗi trong lúc thêm vai trò **{0}**, bạn đã có vai trò này rồi.",
 	"rr_already_take": ":x: Lỗi trong lúc bỏ vai trò **{0}**, bạn không có vai trò này để bỏ.",
 	"point_list_page_description": "Chọn số trang cần đến",
-	"color_relocate": ":rolling_eyes: - Vui lòng chắc chắn rằng vai trò của tôi cao hơn vị trí của vai trò màu."
+	"color_relocate": ":rolling_eyes: - Vui lòng chắc chắn rằng vai trò của tôi cao hơn vị trí của vai trò màu.",
+	"mute_text_description": "Mute a member from text channels so they cannot type",
+	"mute_voice_description": "Mute a member from voice channels so they cannot speak"
 }
