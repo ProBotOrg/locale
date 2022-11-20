@@ -521,5 +521,14 @@
 	"point_list_page_description": "اختر رقم صفحة النقاط",
 	"color_relocate": ":rolling_eyes: - الرجاء رفع رتبتي فوق رتبة اللون المحدد.",
 	"mute_text_description": "منع أحد الأعضاء من الكتابة في الرومات الكتابية",
-	"mute_voice_description": "منع أحد الأعضاء من التحدث في الرومات الصوتية"
+	"mute_voice_description": "منع أحد الأعضاء من التحدث في الرومات الصوتية",
+	"vote_description": "Get the vote link and when you can vote for the bot",
+	"vote_success": "🎉 You are eligible to vote for the bot!",
+	"vote_wait_time": "😥 You can vote in **{0}**",
+	"vote_link_label": "Vote Link",
+	"vote_daily_tip": "**TIP:** You can get up to {0} credits if you claimed your daily!",
+	"daily_success": "🎉 You are eligible to receive your daily for the bot!",
+	"daily_link_label": "Get Your Daily Reward Now!",
+	"daily_wait_time": "You can claim your daily in **{0}**",
+	"daily_vote_tip": "**TIP:** You can get up to {0} credits if you vote for ProBot!"
 }
