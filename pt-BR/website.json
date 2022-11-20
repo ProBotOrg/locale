@@ -762,5 +762,6 @@
     "rr_buttons_limit": "Você não pode adicionar mais de 5 botões a este cargo de reação.",
     "rr_select_limits": "Você não pode adicionar mais de 5 menus de seleção a este cargo de reação.",
     "rr_options_limit": "Você não pode adicionar mais de 25 opções para este menu de seleção.",
-    "rr_types": "Tipo de reação de cargo"
+    "rr_types": "Tipo de reação de cargo",
+    "vote_description": "Get the vote link and when you can vote for the bot"
 }
