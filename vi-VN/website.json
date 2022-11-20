@@ -762,5 +762,6 @@
     "rr_buttons_limit": "Bạn không thể thêm nhiều hơn 5 nút cho bảng chọn vai trò này.",
     "rr_select_limits": "Bạn không thể thêm nhiều hơn 5 Bảng chọn cho bảng chọn vai trò này.",
     "rr_options_limit": "Bạn không thể thêm nhiều hơn 25 lựa chọn cho Bảng chọn này.",
-    "rr_types": "Kiểu bảng chọn vai trò"
+    "rr_types": "Kiểu bảng chọn vai trò",
+    "vote_description": "Get the vote link and when you can vote for the bot"
 }
