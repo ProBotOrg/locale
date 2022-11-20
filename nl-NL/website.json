@@ -762,5 +762,6 @@
     "rr_buttons_limit": "Je kunt niet meer dan 5 knoppen toevoegen aan deze reactierol.",
     "rr_select_limits": "Je kunt niet meer dan 5 knoppen toevoegen aan deze reactierol.",
     "rr_options_limit": "Je kunt niet meer dan 25 knoppen toevoegen aan deze reactierol.",
-    "rr_types": "Reactie Rol Type"
+    "rr_types": "Reactie Rol Type",
+    "vote_description": "Get the vote link and when you can vote for the bot"
 }
