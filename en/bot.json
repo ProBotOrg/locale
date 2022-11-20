@@ -530,7 +530,5 @@
 	"daily_success": "🎉 You are eligible to receive your daily for the bot!",
 	"daily_link_label": "Get Your Daily Reward Now!",
 	"daily_wait_time": "You can claim your daily in **{0}**",
-	"daily_vote_tip": "**TIP:** You can get up to {0} credits if you vote for ProBot!",
-	"send_as_reply": "Send as reply",
-	"ping_the_author": "Ping the author"
+	"daily_vote_tip": "**TIP:** You can get up to {0} credits if you vote for ProBot!"
 } 
