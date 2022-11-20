@@ -520,6 +520,15 @@
 	"rr_already_take": ":x: Ошибка при смене роли **{0}**, у вас нет этой роли для снятия.",
 	"point_list_page_description": "Выберите номер страницы очков",
 	"color_relocate": ":rolling_eyes: - Пожалуйста, переместите мою роль выше выбранных цветовых ролей.",
-	"mute_text_description": "Mute a member from text channels so they cannot type",
-	"mute_voice_description": "Mute a member from voice channels so they cannot speak"
+	"mute_text_description": "Запретить участнику писать в текстовых каналах",
+	"mute_voice_description": "Запретить участнику говорить в голосовых каналах",
+	"vote_description": "Get the vote link and when you can vote for the bot",
+	"vote_success": "🎉 You are eligible to vote for the bot!",
+	"vote_wait_time": "😥 You can vote in **{0}**",
+	"vote_link_label": "Vote Link",
+	"vote_daily_tip": "**TIP:** You can get up to {0} credits if you claimed your daily!",
+	"daily_success": "🎉 You are eligible to receive your daily for the bot!",
+	"daily_link_label": "Get Your Daily Reward Now!",
+	"daily_wait_time": "You can claim your daily in **{0}**",
+	"daily_vote_tip": "**TIP:** You can get up to {0} credits if you vote for ProBot!"
 }
