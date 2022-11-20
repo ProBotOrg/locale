@@ -523,7 +523,7 @@
         "mute_text_description": "Mute a member from text channels so they cannot type",
         "mute_voice_description": "Mute a member from voice channels so they cannot speak",
 	"vote_description": "Get the vote link and when you can vote for the bot",
-	"vote_success": "🎉 You are eligible to vote for the bot.",
+	"vote_success": "🎉 You are eligible to vote for the bot!",
 	"vote_wait_time": "😥 You can vote in **{0}**",
 	"vote_link_label": "Vote Link",
 	"vote_daily_tip": "**TIP:** You can get up to 3000 credits if you claimed your daily!",
