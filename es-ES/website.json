@@ -762,5 +762,6 @@
     "rr_buttons_limit": "No puedes añadir más de 5 botones a este rol de reacción.",
     "rr_select_limits": "No puede añadir más de 5 menús de selección a este rol de reacción.",
     "rr_options_limit": "No puede añadir más de 25 opciones a este menú de selección.",
-    "rr_types": "Tipo de rol de reacción"
+    "rr_types": "Tipo de rol de reacción",
+    "vote_description": "Get the vote link and when you can vote for the bot"
 }
