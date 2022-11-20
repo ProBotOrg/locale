@@ -169,8 +169,8 @@
 	"vip_select_one_description": "**Hãy chọn một:**",
 	"vip_restarting_description": ":timer: **Đang khởi động lại ...**",
 	"vip_please_wait_description": "**:stopwatch: | {0}, vui lòng đợi {1}.**",
-	"vip_please_attach_description": ":rolling_eyes: **- Vui lòng chỉ ra hoặc đính kèm.**",
-	"vip_please_specify_description": ":rolling_eyes: **- Vui lòng chỉ ra.**",
+	"vip_please_attach_description": ":rolling_eyes: **- Vui lòng kèm theo link ảnh đại diện hoặc gửi kèm theo.**",
+	"vip_please_specify_description": ":rolling_eyes: **- Vui lòng kèm thêm tên muốn đổi thành.**",
 	"vip_details_description": "**Mã số Premium:** {0}\n**Premium hết hạn trong:** {1}\n**Được đăng kí cho:** {2}",
 	"vip_ended_description": "đã kết thúc",
 	"slowmode_description": "Kích hoạt hoặc vô hiệu chế độ chậm bật cho kênh.",
@@ -519,5 +519,16 @@
 	"rr_already_give": ":x: Lỗi trong lúc thêm vai trò **{0}**, bạn đã có vai trò này rồi.",
 	"rr_already_take": ":x: Lỗi trong lúc bỏ vai trò **{0}**, bạn không có vai trò này để bỏ.",
 	"point_list_page_description": "Chọn số trang cần đến",
-	"color_relocate": ":rolling_eyes: - Please move my role above the selected color role."
+	"color_relocate": ":rolling_eyes: - Vui lòng chắc chắn rằng vai trò của tôi cao hơn vị trí của vai trò màu.",
+	"mute_text_description": "Mute a member from text channels so they cannot type",
+	"mute_voice_description": "Mute a member from voice channels so they cannot speak",
+	"vote_description": "Get the vote link and when you can vote for the bot",
+	"vote_success": "🎉 You are eligible to vote for the bot!",
+	"vote_wait_time": "😥 You can vote in **{0}**",
+	"vote_link_label": "Vote Link",
+	"vote_daily_tip": "**TIP:** You can get up to {0} credits if you claimed your daily!",
+	"daily_success": "🎉 You are eligible to receive your daily for the bot!",
+	"daily_link_label": "Get Your Daily Reward Now!",
+	"daily_wait_time": "You can claim your daily in **{0}**",
+	"daily_vote_tip": "**TIP:** You can get up to {0} credits if you vote for ProBot!"
 }
