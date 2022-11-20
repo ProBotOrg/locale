@@ -762,5 +762,6 @@
     "rr_buttons_limit": "До цієї ролі по реакції можна додати не більше 5 кнопок.",
     "rr_select_limits": "Ви не можете додати більше ніж 5 меню вибору до цієї ролі по реакції.",
     "rr_options_limit": "Ви не можете додати більше ніж 25 варіантів до цього меню вибору.",
-    "rr_types": "Тип Ролі по реакції"
+    "rr_types": "Тип Ролі по реакції",
+    "vote_description": "Get the vote link and when you can vote for the bot"
 }
