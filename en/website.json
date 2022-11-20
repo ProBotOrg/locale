@@ -766,5 +766,5 @@
     "rr_types": "Self-Assignable Role Type",
     "vote_description": "Get the vote link and when you can vote for the bot",
     "send_as_reply": "Send as reply",
-	"ping_the_author": "Ping the author"
+    "ping_the_author": "Ping the author"
 }
