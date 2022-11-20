@@ -526,7 +526,7 @@
 	"vote_success": "🎉 You are eligible to vote for the bot.",
 	"vote_wait_time": "😥 You can vote in **{0}**",
 	"vote_link_label": "Vote Link",
-	"vote_daily_tip": "**TIP:** You can get up to 3000 credits if you used daily",
+	"vote_daily_tip": "**TIP:** You can get up to 3000 credits if you claimed your daily!",
 	"daily_success": "🎉 You are eligible to receive your daily for the bot!",
 	"daily_link_label": "Get Your Daily Reward Now!",
 	"daily_wait_time": "You can claim your daily in **{0}**",
