@@ -763,7 +763,7 @@
     "rr_select_limits": "شما نمی‌توانید بیشتر از 5 منوی انتخابی به این نقش بازخوردی اضافه کنید.",
     "rr_options_limit": "شما نمی‌توانید بیشتر از 25 گزینه به این منوی انتخابی اضافه کنید.",
     "rr_types": "نوع نقش بازخوردی",
-    "vote_description": "Get the vote link and when you can vote for the bot",
-    "send_as_reply": "Send as reply",
-    "ping_the_author": "Ping the author"
+    "vote_description": "دریافت لینک و زمانی که میتوانید به بات رائ بدهید",
+    "send_as_reply": "ارسال به عنوان پاسخ",
+    "ping_the_author": "منشن کردن نویسنده"
 }
