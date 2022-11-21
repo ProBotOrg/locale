@@ -765,6 +765,6 @@
     "rr_options_limit": "You can't add more than 25 options to this Select Menu.",
     "rr_types": "Self-Assignable Role Type",
     "vote_description": "Get the vote link and when you can vote for the bot",
-    "send_as_reply": "Send as reply",
+    "send_as_reply": "Send as a reply",
     "ping_the_author": "Ping the author"
 }
