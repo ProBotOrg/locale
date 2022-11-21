@@ -764,6 +764,6 @@
     "rr_options_limit": "Você não pode adicionar mais de 25 opções para este menu de seleção.",
     "rr_types": "Tipo de reação de cargo",
     "vote_description": "Get the vote link and when you can vote for the bot",
-    "send_as_reply": "Send as reply",
+    "send_as_reply": "Send as a reply",
     "ping_the_author": "Ping the author"
 }
