@@ -763,7 +763,7 @@
     "rr_select_limits": "Bạn không thể thêm nhiều hơn 5 Bảng chọn cho bảng chọn vai trò này.",
     "rr_options_limit": "Bạn không thể thêm nhiều hơn 25 lựa chọn cho Bảng chọn này.",
     "rr_types": "Kiểu bảng chọn vai trò",
-    "vote_description": "Get the vote link and when you can vote for the bot",
-    "send_as_reply": "Send as reply",
-    "ping_the_author": "Ping the author"
+    "vote_description": "Nhận link vote cho bot và khi mà bạn có thể vote",
+    "send_as_reply": "Gửi dưới dạng trả lời",
+    "ping_the_author": "Ping người gửi"
 }
