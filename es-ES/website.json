@@ -511,7 +511,7 @@
     "reset_settings": "Restablecer los ajustes",
     "only_owner_reset_settings": "Solo el propietario del servidor puede restablecer los ajustes",
     "add_message": "Añadir mensaje",
-    "reaction_roles": "Roles de reacción",
+    "reaction_roles": "Roles Auto-Asignables",
     "rr_emoji": "Reacción de Emoji",
     "rr_add_reaction": "Añadir Reacción",
     "mod_actions": "Acciones del mod",
@@ -763,7 +763,7 @@
     "rr_select_limits": "No puede añadir más de 5 menús de selección a este rol de reacción.",
     "rr_options_limit": "No puede añadir más de 25 opciones a este menú de selección.",
     "rr_types": "Tipo de rol de reacción",
-    "vote_description": "Get the vote link and when you can vote for the bot",
-    "send_as_reply": "Send as reply",
-    "ping_the_author": "Ping the author"
+    "vote_description": "Obtenga el enlace de votación y cuando puede votar por el bot",
+    "send_as_reply": "Enviar como respuesta",
+    "ping_the_author": "Ping al author"
 }
