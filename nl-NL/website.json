@@ -764,6 +764,6 @@
     "rr_options_limit": "Je kunt niet meer dan 25 knoppen toevoegen aan deze reactierol.",
     "rr_types": "Reactie Rol Type",
     "vote_description": "Get the vote link and when you can vote for the bot",
-    "send_as_reply": "Send as reply",
+    "send_as_reply": "Send as a reply",
     "ping_the_author": "Ping the author"
 }
