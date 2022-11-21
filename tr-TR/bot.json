@@ -169,8 +169,8 @@
 	"vip_select_one_description": "** Birini seçin: **",
 	"vip_restarting_description": ":timer: **Yeniden başlatılıyor ...**",
 	"vip_please_wait_description": "**:stopwatch: | {0}, lütfen bekleyin {1}. **",
-	"vip_please_attach_description": ":rolling_eyes: - **Lütfen bir avatar linki belirtin veya avatar ekleyin**",
-	"vip_please_specify_description": ":rolling_eyes: - **Lütfen bir kullanıcı ismi belirtin**",
+	"vip_please_attach_description": ":rolling_eyes: - **Lütfen bir avatar bağlantısı belirtin veya bir avatar ekleyin.**",
+	"vip_please_specify_description": ":rolling_eyes: - **Lütfen bir kullanıcı adı belirtin.**",
 	"vip_details_description": "**Premium Numarası:** {0}\n**Premium'un sona ereceği zaman** {1}\n{2} **Adına kayıtlı** ",
 	"vip_ended_description": "sona erdi",
 	"slowmode_description": "Yavaş Mod'u bir kanalda etkinleştirir/devre dışı bırakır.",
@@ -528,7 +528,7 @@
 	"vote_link_label": "Oy Bağlantısı",
 	"vote_daily_tip": "**İPUCU:** Günlük kredinizi aldıysanız {0} krediye kadar kazanabilirsiniz!",
 	"daily_success": "🎉 You are eligible to receive your daily for the bot!",
-	"daily_link_label": "Get Your Daily Reward Now!",
-	"daily_wait_time": "You can claim your daily in **{0}**",
-	"daily_vote_tip": "**TIP:** You can get up to {0} credits if you vote for ProBot!"
+	"daily_link_label": "Günlük Kredinizi Şimdi Alın!",
+	"daily_wait_time": "Günlük Kredinizi **{0}** içinde alabilirsiniz.",
+	"daily_vote_tip": "**İPUCU:** ProBot'a oy verirseniz {0} krediye kadar kazanabilirsiniz!"
 }
