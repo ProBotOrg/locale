@@ -233,7 +233,7 @@
     "TIME_ACTIONS": "العقوبات المؤقتة",
     "WARNINGS": "التحذيرات",
     "BLACKLIST_LINKS": "الروابط الممنوعة",
-    "MATCH_THE_WHOLE_SENTENCE": "مطابقة جميع الجملة",
+    "MATCH_THE_WHOLE_SENTENCE": "لا تتطابق إذا كانت جزءًا من كلمة",
     "MESSAGES": "الرسائل",
     "TODAY_JOINS_LEFTS": "الدخول\\ المغادرة اخر 24 ساعة",
     "ONLINE_MEMBERS": "الأعضاء المتصلين",
