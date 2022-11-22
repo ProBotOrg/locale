@@ -125,7 +125,7 @@
 	"vkick_you_cant_description": ":rolling_eyes: - ** Вы не можете выгнать выгнать пользователя {0}. **",
 	"vkick_not_voice_description": ":rolling_eyes: - ** Пользователь не в голосовом канале! **",
 	"vkick_voice_kicked_description": ":white_check_mark: **@{0} выгнан из голосового канала **",
-	"unban_couldnt_user_description": ":rolling_eyes: - Я не могу разблокировать пользователя. Пожалуйста проверь мои права доступа и разрешения.",
+	"unban_couldnt_user_description": ":rolling_eyes: - Я не могу разблокировать пользователя. Пожалуйста, проверьте мои права доступа и разрешения.",
 	"unban_all_members_description": ":rolling_eyes: - **Что-бы разблокировать всех пользователей, ты должен обладать правами администратора**",
 	"unban_premium_only_description": "Эта команда только для Премиум пользователей (на данный момент).",
 	"unban_members_being_description": ":white_check_mark: **{0}** участники были разблокированы",
