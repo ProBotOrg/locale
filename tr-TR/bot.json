@@ -522,7 +522,7 @@
 	"color_relocate": ":rolling_eyes: - Lütfen rolümü seçili renk rolünün üstüne taşıyın.",
 	"mute_text_description": "Üyenin metin kanallarına yazmasını engelleyin",
 	"mute_voice_description": "Üyenin ses kanallarında konuşmasını engelleyin",
-	"vote_description": "Get the vote link and when you can vote for the bot",
+	"vote_description": "Get the vote link and see when you can vote again",
 	"vote_success": "🎉 You are eligible to vote for the bot!",
 	"vote_wait_time": "😥 **{0}** içinde oy verebilirsiniz",
 	"vote_link_label": "Oy Bağlantısı",
