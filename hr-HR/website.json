@@ -233,7 +233,7 @@
     "TIME_ACTIONS": "Time Actions",
     "WARNINGS": "Upozorenja",
     "BLACKLIST_LINKS": "Blacklist links",
-    "MATCH_THE_WHOLE_SENTENCE": "Match the exact word",
+    "MATCH_THE_WHOLE_SENTENCE": "Don't match if it is part of a word",
     "MESSAGES": "Poruke",
     "TODAY_JOINS_LEFTS": "Members joined/left last 24h",
     "ONLINE_MEMBERS": "Na mreži Članovi",
