@@ -522,7 +522,7 @@
 	"color_relocate": ":rolling_eyes: - Por favor, mova meu cargo acima do cargo de cor selecionado.",
 	"mute_text_description": "Silencia um membro de canais de texto para que não possa digitar",
 	"mute_voice_description": "Silencia um membro dos canais de voz para que não possa digitar",
-	"vote_description": "Get the vote link and when you can vote for the bot",
+	"vote_description": "Get the vote link and see when you can vote again",
 	"vote_success": "🎉 You are eligible to vote for the bot!",
 	"vote_wait_time": "😥 You can vote in **{0}**",
 	"vote_link_label": "Vote Link",
