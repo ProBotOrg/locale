@@ -771,5 +771,6 @@
     "rr_notification_notify_description": "Take member attention by replying to the user interaction.",
     "rr_notification_notify_role": "{0} является ролью для назначения",
     "rr_notification_silent": "Тихий",
-    "rr_notification_silent_description": "Self-assign without any reply!"
+    "rr_notification_silent_description": "Self-assign without any reply!",
+    "rr_validate_message": "Make sure to assign a role to each button!"
 }
