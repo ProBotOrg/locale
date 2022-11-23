@@ -763,7 +763,13 @@
     "rr_select_limits": "Je kunt niet meer dan 5 knoppen toevoegen aan deze reactierol.",
     "rr_options_limit": "Je kunt niet meer dan 25 knoppen toevoegen aan deze reactierol.",
     "rr_types": "Reactie Rol Type",
-    "vote_description": "Get the vote link and when you can vote for the bot",
+    "vote_description": "Get the vote link and see when you can vote again",
     "send_as_reply": "Send as a reply",
-    "ping_the_author": "Ping the author"
+    "ping_the_author": "Ping the author",
+    "rr_notification_type": "Notification Type",
+    "rr_notification_notify": "Notify",
+    "rr_notification_notify_description": "Take member attention by replying to the user interaction.",
+    "rr_notification_notify_role": "{0} is the role to assign.",
+    "rr_notification_silent": "Silent",
+    "rr_notification_silent_description": "Self-assign without any reply!"
 }
