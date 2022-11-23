@@ -765,11 +765,12 @@
     "rr_types": "نوع الرولات الذاتية",
     "vote_description": "احصل على رابط التصويت ومتى يمكنك التصويت للبوت",
     "send_as_reply": "إرسال كـ رد",
-    "ping_the_author": "منشن صاحب الرسالة",
+    "ping_the_author": "منشن لمرسل الرسالة",
     "rr_notification_type": "نوع الإشعار",
     "rr_notification_notify": "إشعار",
     "rr_notification_notify_description": "خذ انتباه الأعضاء عن طريق الرد عند فَعل اي اجراء من قبل العضو.",
     "rr_notification_notify_role": "{0} هي الرتبة التي يجب تعيينها",
     "rr_notification_silent": "صامت",
-    "rr_notification_silent_description": "تعيين ذاتي بدون أي رد!"
+    "rr_notification_silent_description": "تعيين ذاتي بدون أي رد!",
+    "rr_validate_message": "Make sure to assign a role to each button!"
 }
