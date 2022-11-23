@@ -115,7 +115,7 @@
 	"setcolor_hex_description": ":rolling_eyes: - 헥스 코드 길이가 3 또는 6이어야 해요.",
 	"setcolor_done_description": ":white_check_mark: **{0}님의 색상이 변경됐어요.**",
 	"setcolor_permission_need_description": ":rolling_eyes: **ProBot이 그 역할에 접근할 권한이 없어요**",
-	"warn_cant_description": ":rolling_eyes: - **@{0}님께 경고를 줄 수 없어요.**",
+	"warn_cant_description": ":rolling_eyes: - **@{0}님에게 경고를 줄 수 없어요.**",
 	"warn_select_description": "**사유를 선택하세요:**",
 	"warn_specify_description": ":rolling_eyes: - **사유를 지정해 주세요.**",
 	"warn_been_removed_description": ":white_check_mark: **경고 {0}개가 제거됐어요.**",
