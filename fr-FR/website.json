@@ -511,7 +511,7 @@
     "reset_settings": "Réinitialiser les paramètres",
     "only_owner_reset_settings": "Seul le propriétaire du serveur peut réinitialiser les paramètres",
     "add_message": "Ajouter un message",
-    "reaction_roles": "Rôles de réactions",
+    "reaction_roles": "Rôles auto-assignables",
     "rr_emoji": "Réaction de emoji",
     "rr_add_reaction": "Ajouter une réaction",
     "mod_actions": "Actions de modération",
