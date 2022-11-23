@@ -764,12 +764,13 @@
     "rr_options_limit": "Vous ne pouvez pas ajouter plus de 25 options à ce menu de sélection.",
     "rr_types": "Type de rôle de réaction",
     "vote_description": "Obtenez le lien de vote et quand vous pouvez voter pour le bot",
-    "send_as_reply": "Send as a reply",
-    "ping_the_author": "Ping the author",
-    "rr_notification_type": "Notification Type",
-    "rr_notification_notify": "Notify",
-    "rr_notification_notify_description": "Take member attention by replying to the user interaction.",
-    "rr_notification_notify_role": "{0} is the role to assign.",
-    "rr_notification_silent": "Silent",
-    "rr_notification_silent_description": "Self-assign without any reply!"
+    "send_as_reply": "Envoyer comme réponse",
+    "ping_the_author": "Pinger l'auteur",
+    "rr_notification_type": "Type de notification",
+    "rr_notification_notify": "Notifier",
+    "rr_notification_notify_description": "Attirez l'attention des membres en répondant à l'interaction de l'utilisateur.",
+    "rr_notification_notify_role": "{0} est le rôle à attribuer.",
+    "rr_notification_silent": "Silencieux",
+    "rr_notification_silent_description": "Auto-assignez sans aucune réponse!",
+    "rr_validate_message": "Make sure to assign a role to each button!"
 }
