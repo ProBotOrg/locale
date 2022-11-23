@@ -522,7 +522,7 @@
 	"color_relocate": ":rolling_eyes: - Verplaats alstublieft mijn rol boven de geselecteerde kleurrol.",
 	"mute_text_description": "Mute a member from text channels so they cannot type",
 	"mute_voice_description": "Mute a member from voice channels so they cannot speak",
-	"vote_description": "Get the vote link and when you can vote for the bot",
+	"vote_description": "Get the vote link and see when you can vote again",
 	"vote_success": "🎉 You are eligible to vote for the bot!",
 	"vote_wait_time": "😥 You can vote in **{0}**",
 	"vote_link_label": "Vote Link",

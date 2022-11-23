@@ -763,5 +763,7 @@
     "rr_select_limits": "Ви не можете додати більше ніж 5 меню вибору до цієї ролі по реакції.",
     "rr_options_limit": "Ви не можете додати більше ніж 25 варіантів до цього меню вибору.",
     "rr_types": "Тип Ролі по реакції",
-    "vote_description": "Get the vote link and when you can vote for the bot"
+    "vote_description": "Get the vote link and when you can vote for the bot",
+    "send_as_reply": "Send as a reply",
+    "ping_the_author": "Ping the author"
 }

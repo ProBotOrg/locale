@@ -763,5 +763,7 @@
     "rr_select_limits": "Vous ne pouvez pas ajouter plus de 5 menus de sélection à ce rôle de réaction.",
     "rr_options_limit": "Vous ne pouvez pas ajouter plus de 25 options à ce menu de sélection.",
     "rr_types": "Type de rôle de réaction",
-    "vote_description": "Obtenez le lien de vote et quand vous pouvez voter pour le bot"
+    "vote_description": "Obtenez le lien de vote et quand vous pouvez voter pour le bot",
+    "send_as_reply": "Send as a reply",
+    "ping_the_author": "Ping the author"
 }
