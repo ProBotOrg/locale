@@ -765,5 +765,11 @@
     "rr_types": "Type de rôle de réaction",
     "vote_description": "Obtenez le lien de vote et quand vous pouvez voter pour le bot",
     "send_as_reply": "Send as a reply",
-    "ping_the_author": "Ping the author"
+    "ping_the_author": "Ping the author",
+    "rr_notification_type": "Notification Type",
+    "rr_notification_notify": "Notify",
+    "rr_notification_notify_description": "Take member attention by replying to the user interaction.",
+    "rr_notification_notify_role": "{0} is the role to assign.",
+    "rr_notification_silent": "Silent",
+    "rr_notification_silent_description": "Self-assign without any reply!"
 }
