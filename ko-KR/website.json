@@ -759,11 +759,17 @@
     "rr_error_options": "Make sure all options have a title and role/s",
     "rr_error_buttons_label": "Make sure all buttons have a label",
     "rr_error_reaction_emoji": "Make sure all reactions have a role/s",
-    "rr_buttons_limit": "You can't add more than 5 Buttons.",
+    "rr_buttons_limit": "You can't add more than {0} Buttons.",
     "rr_select_limits": "You can't add more than 5 Select Menus.",
     "rr_options_limit": "You can't add more than 25 options to this Select Menu.",
     "rr_types": "역할 반응 유형",
-    "vote_description": "Get the vote link and when you can vote for the bot",
+    "vote_description": "Get the vote link and see when you can vote again",
     "send_as_reply": "답장으로 보내기",
-    "ping_the_author": "게시자 멘션"
+    "ping_the_author": "게시자 멘션",
+    "rr_notification_type": "Notification Type",
+    "rr_notification_notify": "Notify",
+    "rr_notification_notify_description": "Take member attention by replying to the user interaction.",
+    "rr_notification_notify_role": "{0} is the role to assign.",
+    "rr_notification_silent": "Silent",
+    "rr_notification_silent_description": "Self-assign without any reply!"
 }
