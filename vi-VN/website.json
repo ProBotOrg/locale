@@ -58,7 +58,7 @@
     "title_description": "Thay đổi tiêu đề trong `/profile` của bạn.",
     "reset_description": "Đặt lại điểm kinh nghiệm text/voice/invite của tất cả thành viên hoặc của thành viên bất kì.",
     "rep_description": "Trao thưởng điểm uy tín cho ai đó. Chỉ có thể được sử dụng mỗi 24 giờ.",
-    "daily_description": "Nhận credit hằng ngày của bạn.",
+    "daily_description": "Nhận credit hàng ngày của bạn.",
     "vip_description": "Hiển thị thông tin của bot premium của bạn.",
     "ping_description": "Kiểm tra tốc độ phản hồi của bot.",
     "temp_description": "Tạo một kênh voice tạm thời",
@@ -765,5 +765,12 @@
     "rr_types": "Kiểu bảng chọn vai trò",
     "vote_description": "Nhận link vote cho bot và khi mà bạn có thể vote",
     "send_as_reply": "Gửi dưới dạng trả lời",
-    "ping_the_author": "Ping người gửi"
+    "ping_the_author": "Ping người gửi",
+    "rr_notification_type": "Notification Type",
+    "rr_notification_notify": "Notify",
+    "rr_notification_notify_description": "Take member attention by replying to the user interaction.",
+    "rr_notification_notify_role": "{0} is the role to assign.",
+    "rr_notification_silent": "Silent",
+    "rr_notification_silent_description": "Self-assign without any reply!",
+    "rr_validate_message": "Make sure to assign a role to each button!"
 }

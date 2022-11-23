@@ -765,5 +765,12 @@
     "rr_types": "نوع نقش بازخوردی",
     "vote_description": "دریافت لینک و زمانی که میتوانید به بات رائ بدهید",
     "send_as_reply": "ارسال به عنوان پاسخ",
-    "ping_the_author": "منشن کردن نویسنده"
+    "ping_the_author": "منشن کردن نویسنده",
+    "rr_notification_type": "Notification Type",
+    "rr_notification_notify": "Notify",
+    "rr_notification_notify_description": "Take member attention by replying to the user interaction.",
+    "rr_notification_notify_role": "{0} is the role to assign.",
+    "rr_notification_silent": "Silent",
+    "rr_notification_silent_description": "Self-assign without any reply!",
+    "rr_validate_message": "Make sure to assign a role to each button!"
 }

@@ -763,7 +763,14 @@
     "rr_select_limits": "Você não pode adicionar mais de 5 menus de seleção a este cargo de reação.",
     "rr_options_limit": "Você não pode adicionar mais de 25 opções para este menu de seleção.",
     "rr_types": "Tipo de reação de cargo",
-    "vote_description": "Get the vote link and when you can vote for the bot",
+    "vote_description": "Get the vote link and see when you can vote again",
     "send_as_reply": "Send as a reply",
-    "ping_the_author": "Ping the author"
+    "ping_the_author": "Ping the author",
+    "rr_notification_type": "Notification Type",
+    "rr_notification_notify": "Notify",
+    "rr_notification_notify_description": "Take member attention by replying to the user interaction.",
+    "rr_notification_notify_role": "{0} is the role to assign.",
+    "rr_notification_silent": "Silent",
+    "rr_notification_silent_description": "Self-assign without any reply!",
+    "rr_validate_message": "Make sure to assign a role to each button!"
 }
