@@ -251,7 +251,7 @@
     "new_messages": "Nuovi messaggi",
     "join_leaves": "Entrate/Uscite",
     "overview_time": "Nelle ultime 24h",
-    "CHART_7_DAYS": "Grafici degli ultimi 7 giorni",
+    "charts_over": "Charts over",
     "PROTECTION_ACCESS": "Chi può accedere al pannello di controllo di ProBot?",
     "PROTECTION_ACCESS_ANY_ADMINISTRATOR": "Ogni membro con le autorizzazioni da Amministratore",
     "PROTECTION_ACCESS_MEMBERS": "Proprietario + Membri specifici con l'autorizzazione di amministratore",
