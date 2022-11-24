@@ -251,7 +251,7 @@
     "new_messages": "پیام های جدید",
     "join_leaves": "پیوستن/ترک کردن",
     "overview_time": "در 24 ساعت گذشته",
-    "CHART_7_DAYS": "نمودار ها در دوره 7 روز اخیر",
+    "charts_over": "Charts over",
     "PROTECTION_ACCESS": "کسانی که میتوانند به پنل تنظیمات پروبات دسترسی داشته باشند",
     "PROTECTION_ACCESS_ANY_ADMINISTRATOR": "هر عضوی که دسترسی مدیریت دارد",
     "PROTECTION_ACCESS_MEMBERS": "مالک + تعداد مشخصی از اعضاء که دسترسی مدیریتی دارند",
