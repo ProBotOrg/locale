@@ -251,7 +251,7 @@
     "new_messages": "Yeni Mesajlar",
     "join_leaves": "Katılanlar / Ayrılanlar",
     "overview_time": "Son 24 saatte",
-    "CHART_7_DAYS": "Son 7 günün grafikleri",
+    "charts_over": "Charts over",
     "PROTECTION_ACCESS": "ProBot kontrol paneline kimler erişebilir?",
     "PROTECTION_ACCESS_ANY_ADMINISTRATOR": "Admin iznine sahip tüm üyeler",
     "PROTECTION_ACCESS_MEMBERS": "Sunucu sahibi + Yönetici iznine sahip belirli üyeler",
