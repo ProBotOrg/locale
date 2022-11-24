@@ -251,7 +251,7 @@
     "new_messages": "Új üzenetek",
     "join_leaves": "Belépések/Kilépések",
     "overview_time": "az utóbbi 24 órában",
-    "CHART_7_DAYS": "Diagramok az elmúlt 7 napból",
+    "charts_over": "Charts over",
     "PROTECTION_ACCESS": "Ki férhet hozzá a ProBot irányítópulthoz?",
     "PROTECTION_ACCESS_ANY_ADMINISTRATOR": "Bárki Rendszergazda jogosultsággal",
     "PROTECTION_ACCESS_MEMBERS": "Tulaj + Megadott tagok Adminisztrátor jogokkal",
