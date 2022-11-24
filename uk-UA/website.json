@@ -251,7 +251,7 @@
     "new_messages": "Нові повідомлення",
     "join_leaves": "Зайшли / вийшли",
     "overview_time": "за останні 24 год",
-    "CHART_7_DAYS": "Графіки за останні 7 днів",
+    "charts_over": "Charts over",
     "PROTECTION_ACCESS": "Хто має доступ до панелі управління ProBot?",
     "PROTECTION_ACCESS_ANY_ADMINISTRATOR": "Будь-які учасники з дозволом адміністратора",
     "PROTECTION_ACCESS_MEMBERS": "Власник + Конкретні учасники з дозволом адміністратора",
