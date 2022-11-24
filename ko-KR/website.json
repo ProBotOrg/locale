@@ -251,7 +251,7 @@
     "new_messages": "새 메시지 수",
     "join_leaves": "참여/퇴장 수",
     "overview_time": "최근 24시간 내",
-    "CHART_7_DAYS": "7일 간의 차트",
+    "charts_over": "Charts over",
     "PROTECTION_ACCESS": "누가 ProBot 제어판에 접근할 수 있나요?",
     "PROTECTION_ACCESS_ANY_ADMINISTRATOR": "관리자 권한이 있는 누구나",
     "PROTECTION_ACCESS_MEMBERS": "서버 소유자 및 관리자 권한이 있는 특정 멤버만",
