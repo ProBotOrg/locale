@@ -251,7 +251,7 @@
     "new_messages": "New Messages",
     "join_leaves": "Joins/Leaves",
     "overview_time": "in the last 24h",
-    "CHART_7_DAYS": "Charts over the last 7 days",
+    "charts_over": "Charts over",
     "PROTECTION_ACCESS": "Tko može pristupiti ProBot upravljačkoj ploči?",
     "PROTECTION_ACCESS_ANY_ADMINISTRATOR": "Any member with Administrator permission",
     "PROTECTION_ACCESS_MEMBERS": "Owner + Specific members with Administrator permission",

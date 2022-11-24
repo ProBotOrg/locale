@@ -251,7 +251,7 @@
     "new_messages": "Nové správy",
     "join_leaves": "Pripojenia / odchody",
     "overview_time": "za posledných 24h.",
-    "CHART_7_DAYS": "Grafy za posledných 7 dní",
+    "charts_over": "Charts over",
     "PROTECTION_ACCESS": "Kto má prístup k ovládaciemu panelu ProBot?",
     "PROTECTION_ACCESS_ANY_ADMINISTRATOR": "Všetci členovia s povolením správcu\n",
     "PROTECTION_ACCESS_MEMBERS": "Vlastník + konkrétni členovia s povolením správcu",

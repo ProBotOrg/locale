@@ -251,7 +251,7 @@
     "new_messages": "New Messages",
     "join_leaves": "Joins/Leaves",
     "overview_time": "in the last 24h",
-    "CHART_7_DAYS": "Διαγράμματα των τελευταίων 7 ημερών",
+    "charts_over": "Charts over",
     "PROTECTION_ACCESS": "Ποιός έχει πρόσβαση στον πίνακα ελέγχου του ProBot;",
     "PROTECTION_ACCESS_ANY_ADMINISTRATOR": "Όλα τα μέλη με δικαίωμα Διαχειριστή",
     "PROTECTION_ACCESS_MEMBERS": "Ο κάτοχος του διακομιστή + Συγκεκριμένα μέλη με δικαιώματα Διαχειριστή",

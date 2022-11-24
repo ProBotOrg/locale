@@ -251,7 +251,7 @@
     "new_messages": "Uudet Viestit",
     "join_leaves": "Liittyminen/Poisuminen",
     "overview_time": "edellisen 24 tunnin aikana",
-    "CHART_7_DAYS": "Kaaviot viimeisten 7 päivän aikana",
+    "charts_over": "Charts over",
     "PROTECTION_ACCESS": "Kuka voi käyttää ProBotin ohjauspaneelia",
     "PROTECTION_ACCESS_ANY_ADMINISTRATOR": "Mikä tahansa jäsen, jolla on Järjestelmänvalvoja oikeus",
     "PROTECTION_ACCESS_MEMBERS": "Omistaja + tietyt jäsenet joilla on käyttöoikeus",

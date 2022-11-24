@@ -251,7 +251,7 @@
     "new_messages": "新着メッセージ数",
     "join_leaves": "参加・脱退メンバー数",
     "overview_time": "24時間以内",
-    "CHART_7_DAYS": "過去7日間の累計情報:",
+    "charts_over": "Charts over",
     "PROTECTION_ACCESS": "ProBot管理画面にアクセス可能なユーザー",
     "PROTECTION_ACCESS_ANY_ADMINISTRATOR": "管理者権限を持つメンバー",
     "PROTECTION_ACCESS_MEMBERS": "オーナーと管理者権限を持つ特定のメンバー",

@@ -251,7 +251,7 @@
     "new_messages": "Pesan Baru",
     "join_leaves": "Masuk/Keluar",
     "overview_time": "in the last 24h",
-    "CHART_7_DAYS": "Charts over the last 7 days",
+    "charts_over": "Charts over",
     "PROTECTION_ACCESS": "Who can access ProBot control panel",
     "PROTECTION_ACCESS_ANY_ADMINISTRATOR": "Any member with Administrator permission",
     "PROTECTION_ACCESS_MEMBERS": "Pemilik + Anggota tertentu dengan izin Administrator",

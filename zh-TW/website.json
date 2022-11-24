@@ -251,7 +251,7 @@
     "new_messages": "嵌入式訊息",
     "join_leaves": "加入/退出",
     "overview_time": "in the last 24h",
-    "CHART_7_DAYS": "最近7天的內的圖表",
+    "charts_over": "Charts over",
     "PROTECTION_ACCESS": "誰可以存取ProBot控制台？",
     "PROTECTION_ACCESS_ANY_ADMINISTRATOR": "任何擁有管理員權限的使用者",
     "PROTECTION_ACCESS_MEMBERS": "伺服器擁有者和已指定擁有管理員權限的成員",
