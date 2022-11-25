@@ -769,7 +769,7 @@
     "rr_notification_type": "نوع الإشعار",
     "rr_notification_notify": "إشعار",
     "rr_notification_notify_description": "خذ انتباه العضو عن طريق الرد عند فَعل اي اجراء من قبل المستخدم.",
-    "rr_notification_notify_role": "{0} هي الرتبة التي يجب تعيينها",
+    "rr_notification_notify_role": "{0} هي الرتبة التي يتم تعيينها",
     "rr_notification_silent": "صامت",
     "rr_notification_silent_description": "تعيين ذاتي بدون أي رد!",
     "rr_validate_message": "تأكد من اختيار رتبة لكل زر!"
