@@ -511,7 +511,7 @@
     "reset_settings": "Restablecer los ajustes",
     "only_owner_reset_settings": "Solo el propietario del servidor puede restablecer los ajustes",
     "add_message": "Añadir mensaje",
-    "reaction_roles": "Roles Auto-Asignables",
+    "reaction_roles": "Roles Asignables",
     "rr_emoji": "Reacción de Emoji",
     "rr_add_reaction": "Añadir Reacción",
     "mod_actions": "Acciones del mod",
@@ -771,6 +771,6 @@
     "rr_notification_notify_description": "Capte la atención de los miembros respondiendo a la interacción del usuario.",
     "rr_notification_notify_role": "{0} es el rol a asignar.",
     "rr_notification_silent": "Silencio",
-    "rr_notification_silent_description": "¡Autoasignación sin respuesta!",
+    "rr_notification_silent_description": "¡Asignación sin respuesta!",
     "rr_validate_message": "Asegúrese de asignar una función a cada botón."
 }
