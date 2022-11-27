@@ -772,5 +772,8 @@
     "rr_notification_notify_role": "{0} هي الرتبة التي يتم تعيينها",
     "rr_notification_silent": "صامت",
     "rr_notification_silent_description": "تعيين ذاتي بدون أي رد!",
-    "rr_validate_message": "تأكد من اختيار رتبة لكل زر!"
+    "rr_validate_message": "تأكد من اختيار رتبة لكل زر!",
+    "rr_option_title": "Option Title",
+    "rr_option_description": "Option Description",
+    "emoji": "Emoji"
 }
