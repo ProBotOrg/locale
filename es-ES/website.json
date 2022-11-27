@@ -772,5 +772,8 @@
     "rr_notification_notify_role": "{0} es el rol a asignar.",
     "rr_notification_silent": "Silencio",
     "rr_notification_silent_description": "¡Asignación sin respuesta!",
-    "rr_validate_message": "Asegúrese de asignar una función a cada botón."
+    "rr_validate_message": "Asegúrese de asignar una función a cada botón.",
+    "rr_option_title": "Option Title",
+    "rr_option_description": "Option Description",
+    "emoji": "Emoji"
 }
