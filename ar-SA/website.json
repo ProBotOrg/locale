@@ -773,7 +773,7 @@
     "rr_notification_silent": "صامت",
     "rr_notification_silent_description": "تعيين ذاتي بدون أي رد!",
     "rr_validate_message": "تأكد من اختيار رتبة لكل زر!",
-    "rr_option_title": "Option Title",
-    "rr_option_description": "Option Description",
-    "emoji": "Emoji"
+    "rr_option_title": "عنوان الخيار",
+    "rr_option_description": "وصف الاختيار",
+    "emoji": "ايموجي"
 }
