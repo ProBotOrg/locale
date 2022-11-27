@@ -773,7 +773,7 @@
     "rr_notification_silent": "Тихий режим",
     "rr_notification_silent_description": "Самоназначение без какого-либо ответа!",
     "rr_validate_message": "Убедитесь, что роль назначена к каждой кнопке!",
-    "rr_option_title": "Option Title",
-    "rr_option_description": "Option Description",
-    "emoji": "Emoji"
+    "rr_option_title": "Название опции",
+    "rr_option_description": "Описание опции",
+    "emoji": "Эмодзи"
 }
