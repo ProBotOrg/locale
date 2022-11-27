@@ -772,5 +772,8 @@
     "rr_notification_notify_role": "{0} est le rôle à attribuer.",
     "rr_notification_silent": "Silencieux",
     "rr_notification_silent_description": "Auto-assignez sans aucune réponse!",
-    "rr_validate_message": "Assurez-vous d'attribuer un rôle à chaque bouton !"
+    "rr_validate_message": "Assurez-vous d'attribuer un rôle à chaque bouton !",
+    "rr_option_title": "Option Title",
+    "rr_option_description": "Option Description",
+    "emoji": "Emoji"
 }
