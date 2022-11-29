@@ -251,7 +251,7 @@
     "new_messages": "Nouveaux messages",
     "join_leaves": "Arrivées/Départs",
     "overview_time": "dans les dernières 24h",
-    "charts_over": "Charts over",
+    "charts_over": "Graphiques sur",
     "PROTECTION_ACCESS": "Qui peut accéder au panneau de contrôle ProBot ?",
     "PROTECTION_ACCESS_ANY_ADMINISTRATOR": "Tout membre avec la permission administrateur",
     "PROTECTION_ACCESS_MEMBERS": "Propriétaire + Membres spécifiques avec la permission administrateur",
@@ -772,5 +772,8 @@
     "rr_notification_notify_role": "{0} est le rôle à attribuer.",
     "rr_notification_silent": "Silencieux",
     "rr_notification_silent_description": "Auto-assignez sans aucune réponse!",
-    "rr_validate_message": "Make sure to assign a role to each button!"
+    "rr_validate_message": "Assurez-vous d'attribuer un rôle à chaque bouton !",
+    "rr_option_title": "Option Title",
+    "rr_option_description": "Option Description",
+    "emoji": "Emoji"
 }

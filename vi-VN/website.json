@@ -772,5 +772,8 @@
     "rr_notification_notify_role": "{0} là vai trò được cho hay lấy đi.",
     "rr_notification_silent": "Im lặng",
     "rr_notification_silent_description": "Không thông báo khi thay đổi vai trò!",
-    "rr_validate_message": "Hãy chắc chắn rằng bạn đã gán vai trò cho mỗi nút!"
+    "rr_validate_message": "Hãy chắc chắn rằng bạn đã gán vai trò cho mỗi nút!",
+    "rr_option_title": "Tiêu đề lựa chọn",
+    "rr_option_description": "Nội dung lựa chọn",
+    "emoji": "Emoji"
 }

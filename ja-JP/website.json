@@ -772,5 +772,8 @@
     "rr_notification_notify_role": "{0} が割当可能なロールです。",
     "rr_notification_silent": "サイレント",
     "rr_notification_silent_description": "返信なしで自己割り当てします！",
-    "rr_validate_message": "各ボタンにロールを割り当ててください！"
+    "rr_validate_message": "各ボタンにロールを割り当ててください！",
+    "rr_option_title": "Option Title",
+    "rr_option_description": "Option Description",
+    "emoji": "Emoji"
 }

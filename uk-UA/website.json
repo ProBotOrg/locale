@@ -225,7 +225,7 @@
     "AUTOMOD_ONLY_IMAGES": "Канали лише для зображень:",
     "AUTOMOD_ONLY_YOUTUBE": "Канали лише для YouTube посилань:",
     "SELECT_REASON": "Виберіть причину зі списку",
-    "ID_BACKGROUNDS": "ID фонів",
+    "ID_BACKGROUNDS": "Фони для ID картки",
     "OTHERS": "Інше",
     "LOGOUT": "Вийти",
     "LOGOUT_CONFIRM": "Ви впевнені, що хочете вийти?",
@@ -245,7 +245,7 @@
     "GUILD_UPDATE_ACTION": "Дія, коли ім’я / зображення сервера змінено",
     "CREDITS_STORE": "Магазин кредитів",
     "BADGES": "Значки профілю",
-    "PROFILE_BACKGROUNDS": "Фон профілю",
+    "PROFILE_BACKGROUNDS": "Фони для профілю",
     "TOTAL_AND_ONLINE": "ВСЬОГО УЧАСНИКІВ / ОНЛАЙН",
     "DAILY_MESSAGES_COUNT": "Нові повідомлення останні 24г",
     "new_messages": "Нові повідомлення",
@@ -772,5 +772,8 @@
     "rr_notification_notify_role": "{0} - це роль, яку потрібно призначити.",
     "rr_notification_silent": "Режим тиші",
     "rr_notification_silent_description": "Призначення без відповіді!",
-    "rr_validate_message": "Обов'язково призначте роль кожній кнопці!"
+    "rr_validate_message": "Обов'язково призначте роль кожній кнопці!",
+    "rr_option_title": "Option Title",
+    "rr_option_description": "Option Description",
+    "emoji": "Emoji"
 }
