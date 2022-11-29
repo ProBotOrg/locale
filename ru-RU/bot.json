@@ -75,7 +75,7 @@
 	"channel_has_been_locked": "**:lock: {0} заблокирован.**",
 	"channel_has_been_unlocked": "**:unlock: {0} разблокирован.**",
 	"lock_description": "Отключение возможности упоминать @everyone в выбранном канале.",
-	"unlock_description": "Удаляет запрещенные для отправки сообщения от @everyone в выбранном канале.",
+	"unlock_description": "Разрешает @everyone отправлять сообщения в выбранном канале.",
 	"requested_by_embed": "По запросу {0}#{1}",
 	"cant_mute_user": ":rolling_eyes: - ** Вы не можете отключить звук пользователю @{0}. **",
 	"cant_find_member": ":rolling_eyes: - **Я не могу найти этого пользователя**",
