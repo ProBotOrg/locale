@@ -513,7 +513,7 @@
 	"rr_no_role_select": ":x: Er zijn geen rollen gekoppeld aan dit selectiemenu.",
 	"rr_no_role_button": ":x: Er zijn geen rollen gekoppeld aan deze knop.",
 	"rr_admin_role": ":x: Fout bij het wijzigen van rollen, zorg ervoor dat de geselecteerde rol geen administratieve bevoegdheden heeft.",
-	"point_list_page_description": "Kies een puntenpaginanummer",
+	"points_list_page_description": "Choose a points page number",
 	"color_relocate": ":rolling_eyes: - Verplaats alstublieft mijn rol boven de geselecteerde kleurrol.",
 	"mute_text_description": "Mute a member from text channels so they cannot type",
 	"mute_voice_description": "Mute a member from voice channels so they cannot speak",
