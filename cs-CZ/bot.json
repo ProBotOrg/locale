@@ -513,7 +513,7 @@
 	"rr_no_role_select": ":x: S tímto výběrovým menu nejsou propojeny žádné role.",
 	"rr_no_role_button": ":x: S tímto tlačítkem nejsou spojeny žádné role.\n",
 	"rr_admin_role": ":x: Zajistěte, aby vybraná role neměla žádná oprávnění správce, a také přesuňte mou roli nad vybrané role.",
-	"point_list_page_description": "Vyberte číslo stránky.",
+	"points_list_page_description": "Choose a points page number",
 	"color_relocate": "**:rolling_eyes: - Posuňte prosím mou roli, nad vybranou barevnou roli.",
 	"mute_text_description": "Ztlumí člena v textových kanálech, takže nebude moci psát.",
 	"mute_voice_description": "Ztlumí člena v hlasových kanálech, takže nebude moci mluvit.",
