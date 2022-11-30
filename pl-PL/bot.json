@@ -513,7 +513,7 @@
 	"rr_no_role_select": ":x: Z tym menu wyboru nie są powiązane żadne role.",
 	"rr_no_role_button": ":x: Z tym przyciskiem nie są powiązane żadne role.",
 	"rr_admin_role": ":x: Błąd podczas zmiany ról. Upewnij się, że wybrana rola nie ma uprawnień administracyjnych.",
-	"point_list_page_description": "Wybierz numer strony z punktami",
+	"points_list_page_description": "Choose a points page number",
 	"color_relocate": "**:rolling_eyes: - Please move my role above the selected color role.**",
 	"mute_text_description": "Mute a member from text channels so they cannot type",
 	"mute_voice_description": "Mute a member from voice channels so they cannot speak",
