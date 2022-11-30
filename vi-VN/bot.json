@@ -513,7 +513,7 @@
 	"rr_no_role_select": ":x: Không có vai trò nào được liên kết.",
 	"rr_no_role_button": ":x: Không có vai trò được liên kết.",
 	"rr_admin_role": ":x: Vui lòng chắc chắn rằng vai trò được liên kết không có quyền quản trị, và vai trò của tôi phải có vị trí cao hơn vai trò đó.",
-	"point_list_page_description": "Chọn số trang cần đến",
+	"points_list_page_description": "Choose a points page number",
 	"color_relocate": "**:rolling_eyes: - Vui lòng chắc chắn rằng vai trò của tôi cao hơn vị trí của vai trò màu.**",
 	"mute_text_description": "Khóa trò chuyện của thành viên để họ không thể nhắn tin",
 	"mute_voice_description": "Tắt tiếng của thành viên để họ không thể nói",
