@@ -513,7 +513,7 @@
 	"rr_no_role_select": ":x: Bu seçim menüsüne bağlı rol yok.",
 	"rr_no_role_button": ":x: Bu butona bağlı bir rol yok.",
 	"rr_admin_role": ":x: Lütfen seçilen rolün yönetici izinlerine sahip olmadığından emin olun ve rolümü seçilen rollerin üzerine taşıyın.",
-	"point_list_page_description": "Bir puan sayfa numarası seçin",
+	"points_list_page_description": "Choose a points page number",
 	"color_relocate": ":rolling_eyes: - Lütfen rolümü seçili renk rolünün üstüne taşıyın.",
 	"mute_text_description": "Üyenin metin kanallarına yazmasını engelleyin",
 	"mute_voice_description": "Üyenin ses kanallarında konuşmasını engelleyin",
