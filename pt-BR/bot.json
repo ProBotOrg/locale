@@ -513,7 +513,7 @@
 	"rr_no_role_select": ":x: Não há cargos vinculados a este menu de seleção.",
 	"rr_no_role_button": ":x: Não há cargos vinculados a este botão.",
 	"rr_admin_role": ":x: Erro ao alterar cargos, por favor certifique-se de que o cargo selecionado não tem permissões administrativas.",
-	"point_list_page_description": "Escolha um número da página de pontos",
+	"points_list_page_description": "Choose a points page number",
 	"color_relocate": ":rolling_eyes: - Por favor, mova meu cargo acima do cargo de cor selecionado.",
 	"mute_text_description": "Silencia um membro de canais de texto para que não possa digitar",
 	"mute_voice_description": "Silencia um membro dos canais de voz para que não possa digitar",
