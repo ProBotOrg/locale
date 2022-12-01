@@ -773,7 +773,7 @@
     "rr_notification_silent": "Режим тиші",
     "rr_notification_silent_description": "Призначення без відповіді!",
     "rr_validate_message": "Обов'язково призначте роль кожній кнопці!",
-    "rr_option_title": "Option Title",
-    "rr_option_description": "Option Description",
-    "emoji": "Emoji"
+    "rr_option_title": "Назва опції",
+    "rr_option_description": "Опис опції",
+    "emoji": "Емодзі"
 }
