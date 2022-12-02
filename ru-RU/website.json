@@ -749,7 +749,7 @@
     "rr_button_color": "Цвет кнопки",
     "rr_button_settings": "Настройки",
     "rr_button_description": "ТЕКСТ И ЭМОДЗИ ДЛЯ КНОПКИ",
-    "rr_add_option": "Добавить опцию",
+    "rr_add_option": "Добавить вариант",
     "rr_select_menu_placeholder": "ВЫБЕРИТЕ ЗАПОЛНИТЕЛЬ ДЛЯ МЕНЮ",
     "label": "МЕТКА",
     "rr_select_menu_description": "ОПИСАНИЕ",
@@ -759,7 +759,7 @@
     "rr_error_options": "Убедитесь, что все варианты имеют название и роль(и)",
     "rr_error_buttons_label": "Убедитесь, что все кнопки имеют метку",
     "rr_error_reaction_emoji": "Убедитесь, что все реакции имеют роль(и)",
-    "rr_buttons_limit": "Вы не можете добавить более чем 5 кнопок к этой роли по реакции.",
+    "rr_buttons_limit": "Вы не можете добавить более чем {0} кнопок.",
     "rr_select_limits": "Вы не можете добавить более чем 5 кнопок к этой роли по реакции.",
     "rr_options_limit": "Вы не можете добавить более чем 25 вариантов для этого меню выбора.",
     "rr_types": "Тип роли для самостоятельного назначения",
@@ -773,7 +773,7 @@
     "rr_notification_silent": "Тихий режим",
     "rr_notification_silent_description": "Самоназначение без какого-либо ответа!",
     "rr_validate_message": "Убедитесь, что роль назначена к каждой кнопке!",
-    "rr_option_title": "Название опции",
-    "rr_option_description": "Описание опции",
+    "rr_option_title": "Название варианта",
+    "rr_option_description": "Описание варианта",
     "emoji": "Эмодзи"
 }
