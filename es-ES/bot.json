@@ -513,7 +513,7 @@
 	"rr_no_role_select": ":x: No hay funciones vinculadas a este menú de selección.",
 	"rr_no_role_button": ":x: No hay funciones vinculadas a este botón.",
 	"rr_admin_role": ":x: Por favor, asegúrese de que el rol seleccionado no tiene permisos administrativos, así como de reubicar mi rol por encima de los roles seleccionados.",
-	"point_list_page_description": "Elija un número de página de puntos",
+	"points_list_page_description": "Choose a points page number",
 	"color_relocate": ":rolling_eyes: - Por favor, mueva mi rol por encima del rol de color seleccionado.",
 	"mute_text_description": "Silenciar a un miembro de los canales de texto para que no pueda escribir",
 	"mute_voice_description": "Silenciar a un miembro de los canales de voz para que no pueda hablar",

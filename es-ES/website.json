@@ -773,7 +773,7 @@
     "rr_notification_silent": "Silencio",
     "rr_notification_silent_description": "¡Asignación sin respuesta!",
     "rr_validate_message": "Asegúrese de asignar una función a cada botón.",
-    "rr_option_title": "Option Title",
-    "rr_option_description": "Option Description",
+    "rr_option_title": "Título De La Opción",
+    "rr_option_description": "Descripción De La Opción",
     "emoji": "Emoji"
 }

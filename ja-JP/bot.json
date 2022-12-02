@@ -513,7 +513,7 @@
 	"rr_no_role_select": ":x: この選択メニューにはロールがリンクされていません。",
 	"rr_no_role_button": ":x: このボタンにロールがリンクされていません。",
 	"rr_admin_role": ":x: ロールの変更中にエラーが発生しました。指定したロールに**管理者権限が無いこと**を確認してください。",
-	"point_list_page_description": "ページ番号を指定",
+	"points_list_page_description": "Choose a points page number",
 	"color_relocate": ":rolling_eyes: - ProBotを選択した色のロールより上に移動してください。",
 	"mute_text_description": "メンバーのメッセージ入力を禁止にして、見る専に制限する。",
 	"mute_voice_description": "メンバーを音声チャンネルでミュートにする",

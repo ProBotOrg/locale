@@ -773,7 +773,7 @@
     "rr_notification_silent": "サイレント",
     "rr_notification_silent_description": "返信なしで自己割り当てします！",
     "rr_validate_message": "各ボタンにロールを割り当ててください！",
-    "rr_option_title": "Option Title",
-    "rr_option_description": "Option Description",
-    "emoji": "Emoji"
+    "rr_option_title": "タイトル(任意)",
+    "rr_option_description": "説明 (任意)",
+    "emoji": "絵文字"
 }

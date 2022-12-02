@@ -773,7 +773,7 @@
     "rr_notification_silent": "Silent",
     "rr_notification_silent_description": "Self-assign without any reply!",
     "rr_validate_message": "Make sure to assign a role to each button!",
-    "rr_option_title": "Option Title",
-    "rr_option_description": "Option Description",
+    "rr_option_title": "Seçenek Başlığı",
+    "rr_option_description": "Seçenek Açıklaması",
     "emoji": "Emoji"
 }
