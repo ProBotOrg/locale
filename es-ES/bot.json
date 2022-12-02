@@ -526,6 +526,6 @@
 	"daily_link_label": "¡Obtenga su recompensa diaria ahora!",
 	"daily_wait_time": "Puedes reclamar tu recompensa diaria en **{0}**",
 	"daily_vote_tip": "**TIP:** ¡Puedes conseguir hasta {0} créditos si votas a ProBot!",
-	"unmute_text_description": "Unmutes a member from text channels",
-	"unmute_voice_description": "Unmutes a member from voice channels"
+	"unmute_text_description": "Quita el muteo a un miembro de los canales de texto",
+	"unmute_voice_description": "Quita el muteo a un miembro de los canales de voz"
 }
