@@ -481,7 +481,7 @@
     "welcomer_variable_username": "Nombre del miembro sin mencionarlo",
     "welcomer_variable_inviter": "Menciona a quien lo invito.",
     "welcomer_variable_invitername": "Nombre de quien lo invito sin mencionarlo.",
-    "welcomer_variable_membercount": "Cantidad de miembros alcanzada.",
+    "welcomer_variable_membercount": "Cantidad de miembros alcanzados.",
     "welcomer_variable_server": "Nombre del servidor.",
     "login_required": "¡Necesitas iniciar sesión para ver este contenido!",
     "login_using_discord": "Iniciar sesión usando Discord.",
