@@ -526,6 +526,6 @@
 	"daily_link_label": "Получите ваше ежедневное вознаграждение сейчас!",
 	"daily_wait_time": "Вы можете получить ваше ежедневное вознаграждение через **{0}**",
 	"daily_vote_tip": "**СОВЕТ:** Вы можете получить до {0} кредитов, если вы проголосовали за ProBot!",
-	"unmute_text_description": "Unmutes a member from text channels",
-	"unmute_voice_description": "Unmutes a member from voice channels"
+	"unmute_text_description": "Снимает мут с пользователя для текстовых каналов",
+	"unmute_voice_description": "Снимает мут с пользователя для голосовых каналов"
 }
