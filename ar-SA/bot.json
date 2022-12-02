@@ -526,6 +526,6 @@
 	"daily_link_label": "احصل على مكافأتك اليومية الآن!",
 	"daily_wait_time": "يمكنك الحصول على الراتب الخاص بك في **{0}**",
 	"daily_vote_tip": "**معلومة:** يمكنك الحصول على رصيد يصل إلى {0} إذا قمت بالتصويت لبروبوت!",
-	"unmute_text_description": "Unmutes a member from text channels",
-	"unmute_voice_description": "Unmutes a member from voice channels"
+	"unmute_text_description": "إلغاء الكتم الكتابي من العضو",
+	"unmute_voice_description": "إلغاء الكتم الصوتي من العضو"
 }
