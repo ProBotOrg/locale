@@ -508,7 +508,7 @@
 	"setxp_confirm_message": ":thinking: **هل أنت متأكد من انك تريد تعيين اكسبي جديد لـ @{0}**",
 	"setlevel_changed_level": "**✅ | تم تحديث المستوى لـ @{0}**",
 	"warnings_page_description": "أختر رقم الصفحة",
-	"rr_module_disabled": ":x: قسم الرولات القابلة للاختيار معطل.",
+	"rr_module_disabled": ":x: قسم الرولات القابلة للأخذ معطل.",
 	"rr_button_cant_role": ":rolling_eyes: - لم أستطع تحديث الرتب الخاصة بك، إذا كنت مشرف فيرجى التحقق من صلاحياتي",
 	"rr_no_role_select": ":x: لا توجد رتب مرتبطة بقائمة الاختيار هذه.",
 	"rr_no_role_button": ":x: لا يوجد رتب مرتبطة بهذا الزر.",
