@@ -525,5 +525,7 @@
 	"daily_success": "🎉 Máte nárok obdržet svůj denní příjem pro bota!",
 	"daily_link_label": "Získejte nyní svou denní odměnu !",
 	"daily_wait_time": "Svůj denní nárok můžete uplatnit v **{0}**",
-	"daily_vote_tip": "*TIP:** Hlasujete-li pro ProBot, můžete získat až {0} kreditů!"
+	"daily_vote_tip": "*TIP:** Hlasujete-li pro ProBot, můžete získat až {0} kreditů!",
+	"unmute_text_description": "Unmutes a member from text channels",
+	"unmute_voice_description": "Unmutes a member from voice channels"
 }
