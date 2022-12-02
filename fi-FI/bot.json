@@ -525,5 +525,7 @@
 	"daily_success": "🎉 Olet oikeutettu vastaanottamaan päivittäisen lunastuksen!",
 	"daily_link_label": "Hanki päivittäinen palkintosi nyt!",
 	"daily_wait_time": "Voit lunastaa päivittäisen lunastuksesi ajassa **{0}**",
-	"daily_vote_tip": "**VINKKI:** Voit saada jopa {0} krediittiä jos äänestät ProBottia!"
+	"daily_vote_tip": "**VINKKI:** Voit saada jopa {0} krediittiä jos äänestät ProBottia!",
+	"unmute_text_description": "Unmutes a member from text channels",
+	"unmute_voice_description": "Unmutes a member from voice channels"
 }
