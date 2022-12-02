@@ -525,5 +525,7 @@
 	"daily_success": "🎉 Vous êtes éligible pour recevoir votre quotidien pour le bot !",
 	"daily_link_label": "Obtenez votre récompense quotidienne maintenant !",
 	"daily_wait_time": "Vous pouvez réclamer votre quotidien en **{0}**",
-	"daily_vote_tip": "**CONSEIL :** Vous pouvez obtenir jusqu'à {0} crédits si vous votez pour ProBot !"
+	"daily_vote_tip": "**CONSEIL :** Vous pouvez obtenir jusqu'à {0} crédits si vous votez pour ProBot !",
+	"unmute_text_description": "Unmutes a member from text channels",
+	"unmute_voice_description": "Unmutes a member from voice channels"
 }
