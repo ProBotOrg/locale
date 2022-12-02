@@ -132,7 +132,7 @@
 	"unban_unbanned_description": ":white_check_mark: **{0} n'est plus banni !**",
 	"unban_cant_find_description": ":rolling_eyes: - **Je n'ai pas pu trouver {0} dans la liste des membres bannis**",
 	"vmute_main_description": "{0}, By: {1}#{2}, RAISON : {3} EXPIRE LE : {4}",
-	"vmute_muted_from_description": ":white_check_mark: **@{0} est muet ! :zipper_mouth:**\n",
+	"vmute_muted_from_description": ":white_check_mark : **@{0} coupé de la voix ! :zipper_mouth:**",
 	"vmute_couldnt_mute_description": ":rolling_eyes: - Je n'ai pas pu rendre muet cet utilisateur. Merci de vérifier mes permissions.",
 	"vmute_cant_description": ":rolling_eyes: - ** Vous ne pouvez pas rendre muet @{0}.**",
 	"setnick_changed_description": ":white_check_mark: Le surnom de **{0}** a été changé en {1} ! \n",
@@ -526,6 +526,6 @@
 	"daily_link_label": "Obtenez votre récompense quotidienne maintenant !",
 	"daily_wait_time": "Vous pouvez réclamer votre quotidien en **{0}**",
 	"daily_vote_tip": "**CONSEIL :** Vous pouvez obtenir jusqu'à {0} crédits si vous votez pour ProBot !",
-	"unmute_text_description": "Unmutes a member from text channels",
-	"unmute_voice_description": "Unmutes a member from voice channels"
+	"unmute_text_description": "Rétablit le son d'un membre des salons de texte",
+	"unmute_voice_description": "Rétablit le son d'un membre des salons vocaux"
 }
