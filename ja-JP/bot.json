@@ -525,5 +525,7 @@
 	"daily_success": "🎉 BOTからデイリーリワードをゲットする資格があります！",
 	"daily_link_label": "デイリーリワードをゲットしよう！",
 	"daily_wait_time": "**{0}** 後にまたデイリーリワードをゲットできるようになります",
-	"daily_vote_tip": "**ヒント：** ProBotに投票すると、{0} クレジットをゲットできます！"
+	"daily_vote_tip": "**ヒント：** ProBotに投票すると、{0} クレジットをゲットできます！",
+	"unmute_text_description": "Unmutes a member from text channels",
+	"unmute_voice_description": "Unmutes a member from voice channels"
 }

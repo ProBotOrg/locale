@@ -773,7 +773,7 @@
     "rr_notification_silent": "Silencieux",
     "rr_notification_silent_description": "Auto-assignez sans aucune réponse!",
     "rr_validate_message": "Assurez-vous d'attribuer un rôle à chaque bouton !",
-    "rr_option_title": "Option Title",
-    "rr_option_description": "Option Description",
-    "emoji": "Emoji"
+    "rr_option_title": "Titre de l'option",
+    "rr_option_description": "Option Description\n",
+    "emoji": "Émoji"
 }
