@@ -526,6 +526,6 @@
 	"daily_link_label": "Nhận credit hằng ngày của bạn!",
 	"daily_wait_time": "Bạn có thể nhận credit trong **{0}**",
 	"daily_vote_tip": "**MẸO:** Bạn có thể nhận đến {0} credit khi vote cho ProBot!",
-	"unmute_text_description": "Unmutes a member from text channels",
-	"unmute_voice_description": "Unmutes a member from voice channels"
+	"unmute_text_description": "Bỏ khóa trò chuyện của thành viên",
+	"unmute_voice_description": "Bỏ tắt tiếng thành viên"
 }
