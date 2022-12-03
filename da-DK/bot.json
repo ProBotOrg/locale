@@ -439,7 +439,7 @@
 	"resume_description": "Genoptager det pauserede spor.\n",
 	"setlang_description": "Sætter dit foretrukne sprog til boten.",
 	"setlang_language_description": "Sprog der skal ændres til.",
-	"unmute_description": "Unmutes a member.",
+	"unmute_description": "Slå lyden til en medlemmer.",
 	"muted_both": ":white_check_mark: **@{0} dæmpet fra både tekst og stemme! :zipper_mouth:**",
 	"slowmode_set": "Denne langsomme kanal tilstand er blevet indstillet til {0}.",
 	"slowmode_should": "Tiden skal være mindre end eller lig med {0}.",
