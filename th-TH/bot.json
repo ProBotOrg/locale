@@ -520,12 +520,12 @@
 	"vote_description": "Get the vote link and see when you can vote again",
 	"vote_success": "🎉 You are eligible to vote for the bot!",
 	"vote_wait_time": "😥 You can vote in **{0}**",
-	"vote_link_label": "Vote Link",
+	"vote_link_label": "ลิ้งโหวต",
 	"vote_daily_tip": "**TIP:** You can get up to {0} credits if you claimed your daily!",
 	"daily_success": "🎉 You are eligible to receive your daily for the bot!",
-	"daily_link_label": "Get Your Daily Reward Now!",
-	"daily_wait_time": "You can claim your daily in **{0}**",
-	"daily_vote_tip": "**TIP:** You can get up to {0} credits if you vote for ProBot!",
-	"unmute_text_description": "Unmutes a member from text channels",
-	"unmute_voice_description": "Unmutes a member from voice channels"
+	"daily_link_label": "รับรางวัลประจำวันของคุณตอนนี้!",
+	"daily_wait_time": "คุณสามารถรับรางวัลในอีก **{0}**",
+	"daily_vote_tip": "**TIP:** คุณจะได้รับมากถึง {0} เครดิต หากคุณโหวตให้ ProBot!",
+	"unmute_text_description": "เลิกปิดเสียงสมาชิกจากช่องแชท",
+	"unmute_voice_description": "เลิกปิดเสียงสมาชิกจากช่องเสียง"
 }
