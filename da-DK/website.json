@@ -1,6 +1,6 @@
 {
     "rank_description": "Se dit rangkort eller en andens i serveren.",
-    "clear_description": "Rener op kanal beskeder",
+    "clear_description": "Rengøre op kanal beskeder",
     "moveme_description": "Flytter dig til en anden stemmekanal.",
     "id_description": "Se dit rangkort eller en andens i serveren.",
     "profile_description": "Se dit eller en andens tilpasselige personlige globale profilkort.",
@@ -136,7 +136,7 @@
     "Variables": "Variabler",
     "COLORS_LIST_TITLE": "Farve liste titel",
     "COLORS_SHAPE": "Farve form",
-    "SQUIRCLE": "Squircle",
+    "SQUIRCLE": "Egern",
     "COLORS_BACKGROUND": "Billede baggrund",
     "UPLOAD": "Upload",
     "Transparent": "Gennemsigtig",
