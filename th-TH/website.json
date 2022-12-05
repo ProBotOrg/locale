@@ -754,7 +754,7 @@
     "label": "LABEL",
     "rr_select_menu_description": "คำอธิบาย",
     "rr_reaction_emoji": "เพิ่มอิโมจิ",
-    "roles": "Roles",
+    "roles": "บทบาท",
     "music_dj_roles_info": "DJ Roles restrict all music commands to users with the selected role/s.",
     "rr_error_options": "Make sure all options have a title and role/s",
     "rr_error_buttons_label": "Make sure all buttons have a label",
@@ -763,7 +763,7 @@
     "rr_select_limits": "You can't add more than 5 Select Menus.",
     "rr_options_limit": "You can't add more than 25 options to this Select Menu.",
     "rr_types": "Self-Assignable Role Type",
-    "vote_description": "Get the vote link and see when you can vote again",
+    "vote_description": "รับลิงก์โหวตและดูว่าคุณจะโหวตได้อีกครั้งเมื่อใด",
     "send_as_reply": "Send as a reply",
     "ping_the_author": "Ping the author",
     "rr_notification_type": "Notification Type",
@@ -775,5 +775,5 @@
     "rr_validate_message": "Make sure to assign a role to each button!",
     "rr_option_title": "Option Title",
     "rr_option_description": "Option Description",
-    "emoji": "Emoji"
+    "emoji": "อีโมจิ"
 }
