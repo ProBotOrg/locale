@@ -514,7 +514,7 @@
 	"rr_no_role_select": ":x: Il n'y a aucun rôle lié à ce menu de sélection.",
 	"rr_no_role_button": ":x: Il n'y a aucun rôle lié à ce bouton.",
 	"rr_admin_role": ":x : Erreur lors de la modification des rôles. Veuillez vous assurer que le rôle sélectionné n'a pas d'autorisations administratives.",
-	"points_list_page_description": "Choose a points page number",
+	"points_list_page_description": "Choisissez un numéro de page de points",
 	"color_relocate": ":rolling_eyes: - Veuillez déplacer mon rôle au-dessus du rôle de couleur sélectionné.",
 	"mute_text_description": "Désactiver un membre des salons de texte afin qu'il ne puisse pas taper",
 	"mute_voice_description": "Couper le son d'un membre des salons vocaux pour qu'il ne puisse pas parler",
