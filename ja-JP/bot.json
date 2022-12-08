@@ -426,7 +426,7 @@
 	"text_value": "テキスト",
 	"voice_value": "音声",
 	"invite_value": "招待する",
-	"limits_value": "Limits",
+	"limits_value": "制限",
 	"both_value": "両方",
 	"day_value": "日",
 	"week_value": "週間",
@@ -514,7 +514,7 @@
 	"rr_no_role_select": ":x: この選択メニューにはロールがリンクされていません。",
 	"rr_no_role_button": ":x: このボタンにロールがリンクされていません。",
 	"rr_admin_role": ":x: ロールの変更中にエラーが発生しました。指定したロールに**管理者権限が無いこと**を確認してください。",
-	"points_list_page_description": "Choose a points page number",
+	"points_list_page_description": "ポイントページ番号を選択",
 	"color_relocate": ":rolling_eyes: - ProBotを選択した色のロールより上に移動してください。",
 	"mute_text_description": "メンバーのメッセージ入力を禁止にして、見る専に制限する。",
 	"mute_voice_description": "メンバーを音声チャンネルでミュートにする",
@@ -527,6 +527,6 @@
 	"daily_link_label": "デイリーリワードをゲットしよう！",
 	"daily_wait_time": "**{0}** 後にまたデイリーリワードをゲットできるようになります",
 	"daily_vote_tip": "**ヒント：** ProBotに投票すると、{0} クレジットをゲットできます！",
-	"unmute_text_description": "Unmutes a member from text channels",
-	"unmute_voice_description": "Unmutes a member from voice channels"
+	"unmute_text_description": "テキストチャンネルでのメンバーのミュートを解除",
+	"unmute_voice_description": "ボイスチャンネルでのメンバーのミュートを解除"
 }
