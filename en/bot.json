@@ -88,7 +88,7 @@
 	"role_dont_have_access_description": ":rolling_eyes: - You don't have access to give {0}.",
 	"role_cant_find_description": ":rolling_eyes: - I can't find the role(s) {0}.",
 	"role_cant_find_2_description": ":rolling_eyes: - I can't find the role **{0}**.",
-	"role_couldnt_change_description": ":rolling_eyes: - I couldn't change the user's roles. Please double-check my permissions and role.",
+	"role_couldnt_change_description": ":rolling_eyes: - I couldn't change the user's roles. Please double-check my permissions and role position.",
 	"role_position_higher_description": ":rolling_eyes: - **{0}**'s position higher than yours.",
 	"role_changed_description": ":white_check_mark: Changed roles for {0}, **{1}**",
 	"role_must_have_permission_description": ":rolling_eyes: - **You must have Administrator permission to do this command.**",
