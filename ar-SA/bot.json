@@ -88,7 +88,7 @@
 	"role_dont_have_access_description": ":rolling_eyes: - ليس لديك الإذن لإعطاء {0}.",
 	"role_cant_find_description": "لم اتمكن من العثور على الرولات التالية {0}. :rolling_eyes:",
 	"role_cant_find_2_description": "لم أتمكن من العثور على الرتبة **{0}**. :rolling_eyes:",
-	"role_couldnt_change_description": ":rolling_eyes: -  لم استطع تغيير الرتب لهذا العضو. يرجى مراجعة صلاحياتي ورتبتي.",
+	"role_couldnt_change_description": ":rolling_eyes: - ** لم استطع تغيير الرتب لهذا العضو، يرجى مراجعة صلاحياتي وترتيب رتبتي**",
 	"role_position_higher_description": "موضع الرتبة **{0}** اعلى من رتبتك. :rolling_eyes:",
 	"role_changed_description": " تم تغيير الرولات لـ {0}, **{1}** :white_check_mark:",
 	"role_must_have_permission_description": " ** يجب أن تمتلك صلاحية Administrator حتى تقوم بهذا الإجراء**. :rolling_eyes:",
