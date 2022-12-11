@@ -414,7 +414,7 @@
 	"role_pick_type_description": "Выберите тип",
 	"setcolor_role_description": "Роль, для которой нужно установить цвет.",
 	"timeout_user_description": "Таймаут пользователя",
-	"timeout_time_description": "продолжительность таймаута",
+	"timeout_time_description": "Продолжительность тайм-аута",
 	"timeout_reason_description": "Причина заглушения.",
 	"untimeout_user_description": "Пользователь для снятия тайм-аута",
 	"give_value": "Выдать",
