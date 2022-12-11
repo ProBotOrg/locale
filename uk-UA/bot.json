@@ -88,7 +88,7 @@
 	"role_dont_have_access_description": ":rolling_eyes: - У вас немає доступу, щоб дати {0}.",
 	"role_cant_find_description": ":rolling_eyes: - Я не можу знайти роль {0}.",
 	"role_cant_find_2_description": ":rolling_eyes: - Я не можу знайти роль **{0}**.",
-	"role_couldnt_change_description": ":rolling_eyes: - Мені не вдалося змінити ролі для цього користувача. Будь ласка, перевірте мої права доступу та позицію ролі.",
+	"role_couldnt_change_description": ":rolling_eyes: - Я не зміг змінити ролі користувача. Будь ласка, перевірте мої права доступу та позицію ролі.",
 	"role_position_higher_description": ":rolling_eyes: - **{0}**  позиція вище за вашу.",
 	"role_changed_description": ":white_check_mark: Змінив роль для {0}, **{1}**",
 	"role_must_have_permission_description": ":rolling_eyes: - **Ви повинні мати права Адміністратора для виконання цієї команди.**",
