@@ -259,7 +259,7 @@
 	"music_Resumed": ":notes: Возобновлено **{0}**.",
 	"music_must_be": ":no_entry_sign: Необходимо включить музыку, чтобы этим пользоваться!",
 	"music_player_paused": ":bulb: Воспроизведение уже находится на паузе! Используйте `/resume` для снятия паузы.",
-	"music_paused": ":notes: Пауза **{0}**. Используйте `/resume` to для снятия паузы!",
+	"music_paused": ":notes: На паузе **{0}**. Используйте `/resume` для снятия паузы!",
 	"music_player_stopped": ":notes: Воспроизведение остановлено, очередь очищена.",
 	"music_example_seek": ":rolling_eyes: - Пример `/seek 2:12`",
 	"music_song_not_long": ":rolling_eyes: - Этот трек не настолько продолжительный.",
