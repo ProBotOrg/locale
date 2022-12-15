@@ -426,7 +426,7 @@
 	"text_value": "متن",
 	"voice_value": "صوتی",
 	"invite_value": "دعوت",
-	"limits_value": "Limits",
+	"limits_value": "محدودیت‌ها",
 	"both_value": "هردو",
 	"day_value": "روز",
 	"week_value": "هفته",
@@ -514,7 +514,7 @@
 	"rr_no_role_select": ":x: هیچ نقشی به این منوی انتخابی مرتبط سازی نشده.",
 	"rr_no_role_button": ":x: هیچ نقشی به این دکمه مرتبط سازی نشده.",
 	"rr_admin_role": ":x: خطا در تغییر دادن نقش ها، لطفا مطمئن شوید که نقش های انتخاب شده دسترسی مدیریتی نداشته باشند.",
-	"points_list_page_description": "Choose a points page number",
+	"points_list_page_description": "یک شماره صفحه امتیازات انتخاب کنید",
 	"color_relocate": ":rolling_eyes: - لطفا نقش من را از نقش های رنگی مورد نظر، بالاتر ببرید",
 	"mute_text_description": "عضوی را از کانال متنی بی‌صدا می کند که باعث می شود نتوانند چیزی بنویسند",
 	"mute_voice_description": "عضوی را از کانال صوتی بی‌صدا می کند که باعث می شود نتوانند صحبت کنند",
@@ -527,6 +527,6 @@
 	"daily_link_label": "همین الان جایزه روزانه خود را دریافت کنید!",
 	"daily_wait_time": "شما میتوانید جایزه روزانه خود را در **{0}** دیگر دریافت کنید",
 	"daily_vote_tip": "**نکته:** شما میتوانید تا {0} اعتبار دریافت کنید اگر به پروبات رائ بدهید!",
-	"unmute_text_description": "Unmutes a member from text channels",
-	"unmute_voice_description": "Unmutes a member from voice channels"
+	"unmute_text_description": "عضوی را از حالت سکوت کانال صوتی بیرون می‌آورد",
+	"unmute_voice_description": "عضوی را از حالت سکوت در کانال های صوتی بیرون می آورد"
 }

@@ -232,7 +232,7 @@
 	"server_members_online": "**{0}** в мережі",
 	"server_channels": ":speech_balloon: Канали ({0})",
 	"server_channels_value": "**{0}** Текстових | **{1}** Голосових\n",
-	"server_others": ":earth_africa: Інші",
+	"server_others": ":earth_africa: Інше",
 	"server_others_value": "**Рівень перевірки:** {0}",
 	"server_roles": ":closed_lock_with_key:  Ролі ({0})",
 	"server_roles_value": "Щоб побачити список з усіма ролями **/roles**",
