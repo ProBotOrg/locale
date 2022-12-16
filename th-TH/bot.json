@@ -528,5 +528,6 @@
 	"daily_wait_time": "คุณสามารถรับรางวัลในอีก **{0}**",
 	"daily_vote_tip": "**TIP:** คุณจะได้รับมากถึง {0} เครดิต หากคุณโหวตให้ ProBot!",
 	"unmute_text_description": "เลิกปิดเสียงสมาชิกจากช่องข้อความ",
-	"unmute_voice_description": "เลิกปิดเสียงสมาชิกจากช่องเสียง"
+	"unmute_voice_description": "เลิกปิดเสียงสมาชิกจากช่องเสียง",
+	"top_role_description": "Filter leaderboard for specific members with a role."
 }
