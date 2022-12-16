@@ -528,5 +528,6 @@
 	"daily_wait_time": "**{0}** 後にまたデイリーリワードをゲットできるようになります",
 	"daily_vote_tip": "**ヒント：** ProBotに投票すると、{0} クレジットをゲットできます！",
 	"unmute_text_description": "テキストチャンネルでのメンバーのミュートを解除",
-	"unmute_voice_description": "ボイスチャンネルでのメンバーのミュートを解除"
+	"unmute_voice_description": "ボイスチャンネルでのメンバーのミュートを解除",
+	"top_role_description": "Filter leaderboard for specific members with a role."
 }
