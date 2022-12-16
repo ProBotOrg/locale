@@ -528,5 +528,6 @@
 	"daily_wait_time": "يمكنك الحصول على الراتب الخاص بك في **{0}**",
 	"daily_vote_tip": "**معلومة:** يمكنك الحصول على رصيد يصل إلى {0} إذا قمت بالتصويت لبروبوت!",
 	"unmute_text_description": "إلغاء الكتم الكتابي من العضو",
-	"unmute_voice_description": "إلغاء الكتم الصوتي من العضو"
+	"unmute_voice_description": "إلغاء الكتم الصوتي من العضو",
+	"top_role_description": "Filter leaderboard for specific members with a role."
 }
