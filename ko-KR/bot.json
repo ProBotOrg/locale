@@ -528,5 +528,6 @@
 	"daily_wait_time": "**{0}** 후에 일일 보상을 받을 수 있어요",
 	"daily_vote_tip": "**참고:** ProBot을 투표하면 {0} 크레딧까지 받을 수 있어요!",
 	"unmute_text_description": "채팅 채널에서 멤버의 음소거를 해제해요",
-	"unmute_voice_description": "음성 채널에서 멤버의 음소거를 해제해요"
+	"unmute_voice_description": "음성 채널에서 멤버의 음소거를 해제해요",
+	"top_role_description": "Filter leaderboard for specific members with a role."
 }
