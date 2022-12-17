@@ -529,5 +529,5 @@
 	"daily_vote_tip": "**MẸO:** Bạn có thể nhận đến {0} credit khi vote cho ProBot!",
 	"unmute_text_description": "Bỏ khóa trò chuyện của thành viên",
 	"unmute_voice_description": "Bỏ tắt tiếng thành viên",
-	"top_role_description": "Filter leaderboard for specific members with a role."
+	"top_role_description": "Chỉ hiển thị bảng xếp hạng với người dùng có vai trò được chỉ ra."
 }
