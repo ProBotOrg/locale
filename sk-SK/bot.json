@@ -528,5 +528,6 @@
 	"daily_wait_time": "You can claim your daily in **{0}**",
 	"daily_vote_tip": "**TIP:** You can get up to {0} credits if you vote for ProBot!",
 	"unmute_text_description": "Unmutes a member from text channels",
-	"unmute_voice_description": "Unmutes a member from voice channels"
+	"unmute_voice_description": "Unmutes a member from voice channels",
+	"top_role_description": "Filter leaderboard for specific members with a role."
 }

@@ -528,5 +528,6 @@
 	"daily_wait_time": "Günlük Kredinizi **{0}** içinde alabilirsiniz.",
 	"daily_vote_tip": "**İPUCU:** ProBot'a oy verirseniz {0} krediye kadar kazanabilirsiniz!",
 	"unmute_text_description": "Metin kanallarında bir üyenin susturulmasını açar",
-	"unmute_voice_description": "Ses kanallarında bir üyenin sesini açar"
+	"unmute_voice_description": "Ses kanallarında bir üyenin sesini açar",
+	"top_role_description": "Filter leaderboard for specific members with a role."
 }

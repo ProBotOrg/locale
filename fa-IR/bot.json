@@ -528,5 +528,6 @@
 	"daily_wait_time": "شما میتوانید جایزه روزانه خود را در **{0}** دیگر دریافت کنید",
 	"daily_vote_tip": "**نکته:** شما میتوانید تا {0} اعتبار دریافت کنید اگر به پروبات رائ بدهید!",
 	"unmute_text_description": "عضوی را از حالت سکوت کانال صوتی بیرون می‌آورد",
-	"unmute_voice_description": "عضوی را از حالت سکوت در کانال های صوتی بیرون می آورد"
+	"unmute_voice_description": "عضوی را از حالت سکوت در کانال های صوتی بیرون می آورد",
+	"top_role_description": "Filter leaderboard for specific members with a role."
 }

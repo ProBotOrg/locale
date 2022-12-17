@@ -528,5 +528,6 @@
 	"daily_wait_time": "Puedes reclamar tu recompensa diaria en **{0}**",
 	"daily_vote_tip": "**TIP:** ¡Puedes conseguir hasta {0} créditos si votas a ProBot!",
 	"unmute_text_description": "Quita el muteo a un miembro de los canales de texto",
-	"unmute_voice_description": "Quita el muteo a un miembro de los canales de voz"
+	"unmute_voice_description": "Quita el muteo a un miembro de los canales de voz",
+	"top_role_description": "Filter leaderboard for specific members with a role."
 }

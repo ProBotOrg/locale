@@ -528,5 +528,6 @@
 	"daily_wait_time": "Você pode reivindicar sua diária em **{0}**",
 	"daily_vote_tip": "**DICA:** Você pode obter até {0} créditos se você votar no ProBot!",
 	"unmute_text_description": "Dessilencia um membro dos canais de texto",
-	"unmute_voice_description": "Dessilencia um membro dos canais de voz"
+	"unmute_voice_description": "Dessilencia um membro dos canais de voz",
+	"top_role_description": "Filtrar classificação de membros específicos com um cargo."
 }
