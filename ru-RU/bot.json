@@ -529,5 +529,5 @@
 	"daily_vote_tip": "**СОВЕТ:** Вы можете получить до {0} кредитов, если вы проголосовали за ProBot!",
 	"unmute_text_description": "Снимает мут с пользователя для текстовых каналов",
 	"unmute_voice_description": "Снимает мут с пользователя для голосовых каналов",
-	"top_role_description": "Filter leaderboard for specific members with a role."
+	"top_role_description": "Фильтр топа для указанных пользователей с ролью."
 }
