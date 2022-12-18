@@ -175,6 +175,7 @@
         "usage_setxp": "{0} [user] [type] [new_xp]",
         "usage_setlevel": "{0} [user] [type] [new_level]",
         "usage_vote": "{0}",
+        "usage_np": "{0}",
         "examples_clear": "{0}\n{0} 1000\n{0} bots 10\n{0} @Dramex 10",
         "examples_moveme": "{0} general\n{0} @Dramex",
         "examples_id": "{0} @Dramex",
@@ -224,6 +225,7 @@
         "examples_shuffle": "{0}",
         "examples_setxp": "{0} @Dramex text 500\n{0} @Dramex voice 500",
         "examples_setlevel": "{0} @Dramex text 20\n{0} @Dramex voice 20",
+        "examples_np": "{0}",
         "examples_vote": "{0}"
     }
 }
