@@ -529,5 +529,5 @@
 	"daily_vote_tip": "**ПОРАДА:** Ви можете отримати до {0} кредитів, якщо проголосуєте за ProBot!",
 	"unmute_text_description": "Зняти заборону писати в текстових каналах учаснику",
 	"unmute_voice_description": "Зняти заборону говорити в голосових каналах учаснику",
-	"top_role_description": "Filter leaderboard for specific members with a role."
+	"top_role_description": "Фільтрувати таблицю лідерів для конкретних учасників з певною роллю."
 }
