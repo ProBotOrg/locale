@@ -233,7 +233,7 @@
     "TIME_ACTIONS": "Время действия",
     "WARNINGS": "Предупреждения",
     "BLACKLIST_LINKS": "Черный список ссылок",
-    "MATCH_THE_WHOLE_SENTENCE": "Подберите точное слово",
+    "MATCH_THE_WHOLE_SENTENCE": "Не искать совпадение, если это часть слова",
     "MESSAGES": "Сообщений",
     "TODAY_JOINS_LEFTS": "Пришли/ушли за 24 часа",
     "ONLINE_MEMBERS": "Сейчас в сети",
