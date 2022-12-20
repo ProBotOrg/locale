@@ -775,5 +775,6 @@
     "rr_validate_message": "Her butona bir rol atadığınızdan emin olun!",
     "rr_option_title": "Seçenek Başlığı",
     "rr_option_description": "Seçenek Açıklaması",
-    "emoji": "Emoji"
+    "emoji": "Emoji",
+    "temp_invitation_validation": "You should set a default channel for the feature work"
 }
