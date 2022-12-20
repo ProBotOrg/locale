@@ -416,7 +416,7 @@
 	"timeout_user_description": "O usuário a receber o castigo",
 	"timeout_time_description": "A duração do castigo",
 	"timeout_reason_description": "O motivo do castigo.",
-	"untimeout_user_description": "O usuário a ser tirado do castigo",
+	"untimeout_user_description": "O usuário a tirar do castigo",
 	"give_value": "Dar",
 	"remove_value": "Remover",
 	"all_value": "Todos",
