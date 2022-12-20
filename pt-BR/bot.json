@@ -453,7 +453,7 @@
 	"untimeout_done": ":white_check_mark: **{0} foi tirado(a) do castigo.**",
 	"untimeout_cant": ":rolling_eyes: - ** Você não pode tirar @{0} do castigo. **",
 	"untimeout_missing_permission": ":rolling_eyes: - Eu não consegui tirar o castigo desse usuário. Por favor, verifique minhas permissões e posição do cargo.",
-	"untimeout_not_timedout": ":x: Membro não está de castigo.",
+	"untimeout_not_timedout": ":x: O membro não está de castigo.",
 	"cant_bots": ":robot: Esta ação não pode ser tomada contra os bots.",
 	"timeout_description": "Castiga um usuário de enviar mensagens, reagir ou juntar-se a canais de voz.",
 	"untimeout_description": "Remover o castigo de um usuário",
