@@ -775,5 +775,6 @@
     "rr_validate_message": "Nezapomeňte každému tlačítku přiřadit roli!",
     "rr_option_title": "Název možnosti",
     "rr_option_description": "Popis možnosti",
-    "emoji": "Emoji"
+    "emoji": "Emoji",
+    "temp_invitation_validation": "You should set a default channel for the feature work"
 }
