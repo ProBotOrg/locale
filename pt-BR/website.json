@@ -145,7 +145,7 @@
     "Disabled": "Desabilitado",
     "update_server": "Atualizar Servidor",
     "ban_member": "Membro Banido",
-    "unban_member": "Membro desbanido",
+    "unban_member": "Membro Desbanido",
     "member_joined": "Membro Novo",
     "member_left": "Membro Saiu",
     "edit_messages": "Mensagem Editada",
@@ -519,7 +519,7 @@
     "done": "concluído",
     "transactions_no_reason": "Nenhum motivo fornecido",
     "user_id": "ID do USUÁRIO",
-    "mod_bans": "Banimento",
+    "mod_bans": "Banimentos",
     "mod_mutes": "Silenciamento",
     "mod_warning": "Advertência",
     "mod_search_username": "Pesquisar com nome de usuário",
@@ -776,5 +776,5 @@
     "rr_option_title": "Título da opção",
     "rr_option_description": "Descrição da opção",
     "emoji": "Emoji",
-    "temp_invitation_validation": "You should set a default channel for the feature work"
+    "temp_invitation_validation": "Você deve definir um canal padrão para o recurso de trabalho"
 }
