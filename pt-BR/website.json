@@ -570,7 +570,7 @@
     "reddit": "Reddit",
     "command_saved_success": "{0} foi salvo com sucesso👌",
     "wildcard": "Curinga",
-    "wildcard_description": "Pesquise na mensagem sobre uma letra/palavra específica.",
+    "wildcard_description": "Pesquise na mensagem sobre uma letra/palavra específica",
     "never_mind": "Deixa pra lá",
     "do_you_really": "Você realmente deseja excluir {0}.",
     "add_field": "Adicionar campo",
