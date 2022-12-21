@@ -776,5 +776,6 @@
     "rr_option_title": "옵션 제목",
     "rr_option_description": "옵션 설명",
     "emoji": "이모지",
-    "temp_invitation_validation": "You should set a default channel for the feature work"
+    "temp_invitation_validation": "You should set a default channel for the feature work",
+    "premium_bot_activity": "BOT ACTIVITY"
 }
