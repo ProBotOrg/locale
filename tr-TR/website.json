@@ -776,5 +776,6 @@
     "rr_option_title": "Seçenek Başlığı",
     "rr_option_description": "Seçenek Açıklaması",
     "emoji": "Emoji",
-    "temp_invitation_validation": "You should set a default channel for the feature work"
+    "temp_invitation_validation": "You should set a default channel for the feature work",
+    "premium_bot_activity": "BOT ACTIVITY"
 }
