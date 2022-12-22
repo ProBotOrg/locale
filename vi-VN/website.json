@@ -776,6 +776,6 @@
     "rr_option_title": "Tiêu đề lựa chọn",
     "rr_option_description": "Nội dung lựa chọn",
     "emoji": "Emoji",
-    "temp_invitation_validation": "You should set a default channel for the feature work",
+    "temp_invitation_validation": "Bạn phải đặt một kênh mặc định thì tính năng mới hoạt động được",
     "premium_bot_activity": "BOT ACTIVITY"
 }
