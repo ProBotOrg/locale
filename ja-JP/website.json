@@ -777,5 +777,9 @@
     "rr_option_description": "説明 (任意)",
     "emoji": "絵文字",
     "temp_invitation_validation": "You should set a default channel for the feature work",
-    "premium_bot_activity": "BOT ACTIVITY"
+    "premium_bot_activity": "BOT ACTIVITY",
+    "premium_status_type": "Type",
+    "premium_status_online": "オンライン",
+    "premium_status_idle": "Idle",
+    "premium_status_dnd": "Do Not Disturb"
 }

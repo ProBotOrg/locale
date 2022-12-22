@@ -777,5 +777,9 @@
     "rr_option_description": "Опис опції",
     "emoji": "Емодзі",
     "temp_invitation_validation": "Необхідно встановити стандартний канал для роботи функції",
-    "premium_bot_activity": "СТАТУС БОТА"
+    "premium_bot_activity": "СТАТУС БОТА",
+    "premium_status_type": "Type",
+    "premium_status_online": "В мережі",
+    "premium_status_idle": "Idle",
+    "premium_status_dnd": "Do Not Disturb"
 }
