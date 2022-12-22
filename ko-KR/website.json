@@ -775,5 +775,7 @@
     "rr_validate_message": "각 버튼에 할당할 역할이 있도록 하세요!",
     "rr_option_title": "옵션 제목",
     "rr_option_description": "옵션 설명",
-    "emoji": "이모지"
+    "emoji": "이모지",
+    "temp_invitation_validation": "You should set a default channel for the feature work",
+    "premium_bot_activity": "BOT ACTIVITY"
 }

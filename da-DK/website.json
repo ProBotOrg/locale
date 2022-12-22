@@ -775,5 +775,7 @@
     "rr_validate_message": "Sørg for at tildele en rolle til hver knap!",
     "rr_option_title": "Valg titel",
     "rr_option_description": "Vang beskrivelse",
-    "emoji": "Emoji"
+    "emoji": "Emoji",
+    "temp_invitation_validation": "You should set a default channel for the feature work",
+    "premium_bot_activity": "BOT ACTIVITY"
 }

@@ -775,5 +775,7 @@
     "rr_validate_message": "Убедитесь, что роль назначена к каждой кнопке!",
     "rr_option_title": "Название варианта",
     "rr_option_description": "Описание варианта",
-    "emoji": "Эмодзи"
+    "emoji": "Эмодзи",
+    "temp_invitation_validation": "Вы должны установить канал по умолчанию для работоспособности функции",
+    "premium_bot_activity": "BOT ACTIVITY"
 }

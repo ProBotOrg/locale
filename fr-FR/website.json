@@ -775,5 +775,7 @@
     "rr_validate_message": "Assurez-vous d'attribuer un rôle à chaque bouton !",
     "rr_option_title": "Titre de l'option",
     "rr_option_description": "Option Description\n",
-    "emoji": "Émoji"
+    "emoji": "Émoji",
+    "temp_invitation_validation": "You should set a default channel for the feature work",
+    "premium_bot_activity": "BOT ACTIVITY"
 }

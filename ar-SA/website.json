@@ -775,5 +775,7 @@
     "rr_validate_message": "تأكد من اختيار رتبة لكل زر!",
     "rr_option_title": "عنوان الخيار",
     "rr_option_description": "وصف الاختيار",
-    "emoji": "ايموجي"
+    "emoji": "ايموجي",
+    "temp_invitation_validation": "يجب عليك تعيين قناة افتراضية لكي تعمل الميزة",
+    "premium_bot_activity": "حالة البوت"
 }

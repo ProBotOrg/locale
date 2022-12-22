@@ -775,5 +775,7 @@
     "rr_validate_message": "Make sure to assign a role to each button!",
     "rr_option_title": "Option Title",
     "rr_option_description": "Option Description",
-    "emoji": "อีโมจิ"
+    "emoji": "อีโมจิ",
+    "temp_invitation_validation": "You should set a default channel for the feature work",
+    "premium_bot_activity": "BOT ACTIVITY"
 }
