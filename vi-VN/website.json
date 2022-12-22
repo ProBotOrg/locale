@@ -777,5 +777,9 @@
     "rr_option_description": "Nội dung lựa chọn",
     "emoji": "Emoji",
     "temp_invitation_validation": "Bạn phải đặt một kênh mặc định thì tính năng mới hoạt động được",
-    "premium_bot_activity": "TRẠNG THÁI BOT"
+    "premium_bot_activity": "TRẠNG THÁI BOT",
+    "premium_status_type": "Type",
+    "premium_status_online": "Trực tuyến",
+    "premium_status_idle": "Idle",
+    "premium_status_dnd": "Do Not Disturb"
 }
