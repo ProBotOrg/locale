@@ -777,5 +777,9 @@
     "rr_option_description": "Option Description\n",
     "emoji": "Émoji",
     "temp_invitation_validation": "You should set a default channel for the feature work",
-    "premium_bot_activity": "BOT ACTIVITY"
+    "premium_bot_activity": "BOT ACTIVITY",
+    "premium_status_type": "Type",
+    "premium_status_online": "En ligne",
+    "premium_status_idle": "Idle",
+    "premium_status_dnd": "Do Not Disturb"
 }
