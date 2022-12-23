@@ -777,9 +777,9 @@
     "rr_option_description": "Описание варианта",
     "emoji": "Эмодзи",
     "temp_invitation_validation": "Вы должны установить канал по умолчанию для работоспособности функции",
-    "premium_bot_activity": "BOT ACTIVITY",
+    "premium_bot_activity": "АКТИВНОСТЬ БОТА",
     "premium_status_type": "Тип",
     "premium_status_online": "В сети",
-    "premium_status_idle": "Idle",
+    "premium_status_idle": "Бездействующий",
     "premium_status_dnd": "Не беспокоить"
 }
