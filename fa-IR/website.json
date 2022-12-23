@@ -776,10 +776,10 @@
     "rr_option_title": "عنوان گزینه",
     "rr_option_description": "توضیحات گزینه",
     "emoji": "ایموجی",
-    "temp_invitation_validation": "You should set a default channel for the feature work",
-    "premium_bot_activity": "BOT ACTIVITY",
-    "premium_status_type": "Type",
+    "temp_invitation_validation": "شما باید یک کانال پیشفرض را برای این ویژگی تنظیم کنید تا کار کند",
+    "premium_bot_activity": "فعالیت بات",
+    "premium_status_type": "نوع",
     "premium_status_online": "آنلاین",
-    "premium_status_idle": "Idle",
-    "premium_status_dnd": "Do Not Disturb"
+    "premium_status_idle": "بیکار",
+    "premium_status_dnd": "مزاحم نشوید"
 }
