@@ -778,8 +778,8 @@
     "emoji": "ايموجي",
     "temp_invitation_validation": "يجب عليك تعيين قناة افتراضية لكي تعمل الميزة",
     "premium_bot_activity": "نشاط البوت",
-    "premium_status_type": "Type",
+    "premium_status_type": "النوع",
     "premium_status_online": "متصل الآن",
-    "premium_status_idle": "Idle",
-    "premium_status_dnd": "Do Not Disturb"
+    "premium_status_idle": "خامل",
+    "premium_status_dnd": "عدم الإزعاج"
 }

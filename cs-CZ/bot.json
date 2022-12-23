@@ -426,7 +426,7 @@
 	"text_value": "Text",
 	"voice_value": "Hlas",
 	"invite_value": "Pozvat",
-	"limits_value": "Limits",
+	"limits_value": "Limity",
 	"both_value": "Obě",
 	"day_value": "den",
 	"week_value": "týden",
@@ -514,7 +514,7 @@
 	"rr_no_role_select": ":x: S tímto výběrovým menu nejsou propojeny žádné role.",
 	"rr_no_role_button": ":x: S tímto tlačítkem nejsou spojeny žádné role.\n",
 	"rr_admin_role": ":x: Zajistěte, aby vybraná role neměla žádná oprávnění správce, a také přesuňte mou roli nad vybrané role.",
-	"points_list_page_description": "Choose a points page number",
+	"points_list_page_description": "Vyberte číslo stránky.",
 	"color_relocate": "**:rolling_eyes: - Posuňte prosím mou roli, nad vybranou barevnou roli.",
 	"mute_text_description": "Ztlumí člena v textových kanálech, takže nebude moci psát.",
 	"mute_voice_description": "Ztlumí člena v hlasových kanálech, takže nebude moci mluvit.",
@@ -527,7 +527,7 @@
 	"daily_link_label": "Získejte nyní svou denní odměnu !",
 	"daily_wait_time": "Svůj denní nárok můžete uplatnit v **{0}**",
 	"daily_vote_tip": "*TIP:** Hlasujete-li pro ProBot, můžete získat až {0} kreditů!",
-	"unmute_text_description": "Unmutes a member from text channels",
-	"unmute_voice_description": "Unmutes a member from voice channels",
-	"top_role_description": "Filter leaderboard for specific members with a role."
+	"unmute_text_description": "Zruší umlčení člena v textovém kanálu.",
+	"unmute_voice_description": "Zruší umlčení člena z hlasového kanálu.",
+	"top_role_description": "Vyfiltrovat žebřiček pro konkrétní členy s rolí."
 }
