@@ -778,8 +778,8 @@
     "emoji": "Emoji",
     "temp_invitation_validation": "Você deve definir um canal padrão para o recurso de trabalho",
     "premium_bot_activity": "ATIVIDADE DO BOT",
-    "premium_status_type": "Type",
+    "premium_status_type": "Tipo",
     "premium_status_online": "Disponível",
-    "premium_status_idle": "Idle",
-    "premium_status_dnd": "Do Not Disturb"
+    "premium_status_idle": "Parado",
+    "premium_status_dnd": "Não perturbe"
 }
