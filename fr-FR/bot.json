@@ -530,7 +530,7 @@
 	"unmute_text_description": "Rétablit le son d'un membre des salons de texte",
 	"unmute_voice_description": "Rétablit le son d'un membre des salons vocaux",
 	"top_role_description": "Filtrer le classement pour des membres spécifiques avec un rôle.",
-	"vip_whitelist_add": ":white_check_mark: {0} have access now to ProBot panel.",
-	"vip_whitelist_remove": "✅ {0} access have been delete.",
-	"vip_whitelist_info": " 🤖 Allowed Bots:\n {0}\n👤 Users allowed to enter ProBot panel:\n{1}"
+	"vip_whitelist_add": ":white_check_mark: {0} ont maintenant accès au panneau ProBot.",
+	"vip_whitelist_remove": "✅ {0} accès ont été supprimés.",
+	"vip_whitelist_info": "🤖 Robots autorisés :\n {0}\n👤 Utilisateurs autorisés à accéder au panneau ProBot :\n{1}"
 }
