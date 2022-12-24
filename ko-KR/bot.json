@@ -529,5 +529,8 @@
 	"daily_vote_tip": "**참고:** ProBot을 투표하면 {0} 크레딧까지 받을 수 있어요!",
 	"unmute_text_description": "채팅 채널에서 멤버의 음소거를 해제해요",
 	"unmute_voice_description": "음성 채널에서 멤버의 음소거를 해제해요",
-	"top_role_description": "Filter leaderboard for specific members with a role."
+	"top_role_description": "Filter leaderboard for specific members with a role.",
+	"vip_whitelist_add": ":white_check_mark: {0} have access now to ProBot panel.",
+	"vip_whitelist_remove": "✅ {0} access have been delete.",
+	"vip_whitelist_info": " 🤖 Allowed Bots:\n {0}\n👤 Users allowed to enter ProBot panel:\n{1}"
 }
