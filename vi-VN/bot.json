@@ -529,5 +529,8 @@
 	"daily_vote_tip": "**MẸO:** Bạn có thể nhận đến {0} credit khi vote cho ProBot!",
 	"unmute_text_description": "Bỏ khóa trò chuyện của thành viên",
 	"unmute_voice_description": "Bỏ tắt tiếng thành viên",
-	"top_role_description": "Chỉ hiển thị bảng xếp hạng với người dùng có vai trò được chỉ ra."
+	"top_role_description": "Chỉ hiển thị bảng xếp hạng với người dùng có vai trò được chỉ ra.",
+	"vip_whitelist_add": ":white_check_mark: {0} have access now to ProBot panel.",
+	"vip_whitelist_remove": "✅ {0} access have been delete.",
+	"vip_whitelist_info": " 🤖 Allowed Bots:\n {0}\n👤 Users allowed to enter ProBot panel:\n{1}"
 }
