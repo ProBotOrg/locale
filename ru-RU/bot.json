@@ -529,5 +529,8 @@
 	"daily_vote_tip": "**СОВЕТ:** Вы можете получить до {0} кредитов, если вы проголосовали за ProBot!",
 	"unmute_text_description": "Снимает мут с пользователя для текстовых каналов",
 	"unmute_voice_description": "Снимает мут с пользователя для голосовых каналов",
-	"top_role_description": "Фильтр топа для указанных пользователей с ролью."
+	"top_role_description": "Фильтр топа для указанных пользователей с ролью.",
+	"vip_whitelist_add": ":white_check_mark: {0} have access now to ProBot panel.",
+	"vip_whitelist_remove": "✅ {0} access have been delete.",
+	"vip_whitelist_info": " 🤖 Allowed Bots:\n {0}\n👤 Users allowed to enter ProBot panel:\n{1}"
 }
