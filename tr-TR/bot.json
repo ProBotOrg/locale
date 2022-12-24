@@ -529,5 +529,8 @@
 	"daily_vote_tip": "**İPUCU:** ProBot'a oy verirseniz {0} krediye kadar kazanabilirsiniz!",
 	"unmute_text_description": "Metin kanallarında bir üyenin susturulmasını açar",
 	"unmute_voice_description": "Ses kanallarında bir üyenin sesini açar",
-	"top_role_description": "Filter leaderboard for specific members with a role."
+	"top_role_description": "Filter leaderboard for specific members with a role.",
+	"vip_whitelist_add": ":white_check_mark: {0} have access now to ProBot panel.",
+	"vip_whitelist_remove": "✅ {0} access have been delete.",
+	"vip_whitelist_info": " 🤖 Allowed Bots:\n {0}\n👤 Users allowed to enter ProBot panel:\n{1}"
 }
