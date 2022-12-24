@@ -529,5 +529,5 @@
 	"daily_vote_tip": "**CONSEIL :** Vous pouvez obtenir jusqu'à {0} crédits si vous votez pour ProBot !",
 	"unmute_text_description": "Rétablit le son d'un membre des salons de texte",
 	"unmute_voice_description": "Rétablit le son d'un membre des salons vocaux",
-	"top_role_description": "Filter leaderboard for specific members with a role."
+	"top_role_description": "Filtrer le classement pour des membres spécifiques avec un rôle."
 }
