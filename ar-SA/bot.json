@@ -529,5 +529,8 @@
 	"daily_vote_tip": "**معلومة:** يمكنك الحصول على رصيد يصل إلى {0} إذا قمت بالتصويت لبروبوت!",
 	"unmute_text_description": "إلغاء الكتم الكتابي من العضو",
 	"unmute_voice_description": "إلغاء الكتم الصوتي من العضو",
-	"top_role_description": "تصفية قائمة المتصدرين لأعضاء رتبة محددة."
+	"top_role_description": "تصفية قائمة المتصدرين لأعضاء رتبة محددة.",
+	"vip_whitelist_add": ":white_check_mark: {0} have access now to ProBot panel.",
+	"vip_whitelist_remove": "✅ {0} access have been delete.",
+	"vip_whitelist_info": " 🤖 Allowed Bots:\n {0}\n👤 Users allowed to enter ProBot panel:\n{1}"
 }
