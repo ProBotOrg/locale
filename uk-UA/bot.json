@@ -530,7 +530,7 @@
 	"unmute_text_description": "Зняти заборону писати в текстових каналах учаснику",
 	"unmute_voice_description": "Зняти заборону говорити в голосових каналах учаснику",
 	"top_role_description": "Фільтрувати таблицю лідерів для конкретних учасників з певною роллю.",
-	"vip_whitelist_add": ":white_check_mark: {0} have access now to ProBot panel.",
-	"vip_whitelist_remove": "✅ {0} access have been delete.",
-	"vip_whitelist_info": " 🤖 Allowed Bots:\n {0}\n👤 Users allowed to enter ProBot panel:\n{1}"
+	"vip_whitelist_add": ":white_check_mark: {0} отримав доступ до панелі управління ProBot.",
+	"vip_whitelist_remove": "✅ {0} доступ видалено",
+	"vip_whitelist_info": " 🤖 Допущені боти:\n {0}\n👤 Користувачі, які мають доступ до панелі управління ProBot:\n{1}"
 }
