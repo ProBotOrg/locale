@@ -530,7 +530,7 @@
 	"unmute_text_description": "Dessilencia um membro dos canais de texto",
 	"unmute_voice_description": "Dessilencia um membro dos canais de voz",
 	"top_role_description": "Filtrar classificação de membros específicos com um cargo.",
-	"vip_whitelist_add": ":white_check_mark: {0} have access now to ProBot panel.",
-	"vip_whitelist_remove": "✅ {0} access have been delete.",
-	"vip_whitelist_info": " 🤖 Allowed Bots:\n {0}\n👤 Users allowed to enter ProBot panel:\n{1}"
+	"vip_whitelist_add": ":white_check_mark: {0} tem acesso agora ao painel do ProBot.",
+	"vip_whitelist_remove": "✅ {0} acesso foi deletado.",
+	"vip_whitelist_info": "🤖 Botões Permitidos:\n{0}\n👤 Usuários permitidos a entrar no painel do ProBot:\n{1}"
 }
