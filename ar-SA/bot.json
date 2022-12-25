@@ -138,7 +138,7 @@
 	"setnick_changed_description": ":white_check_mark: لقد تم تغيير الاسم المستعار للعضو **{0}** الى {1}!",
 	"setnick_reset_description": ":white_check_mark: لقد تم إعادة تعيين الإسم المستعار للعضو **{0}**.",
 	"setnick_couldnt_update_description": ":rolling_eyes: - لم استطع تحديث هذا العضو. يرجى مراجعة صلاحياتي وترتيب رتبتي.",
-	"unmute_cant_find_description": ":rolling_eyes: - **لم استطع ايجاد رتبة الإسكات**",
+	"unmute_cant_find_description": ":rolling_eyes: - **لم استطع ايجاد رتبة (Muted)**",
 	"unmute_check_permissions_description": ":rolling_eyes: - يرجى التحقق من صلاحياتي وترتيب رتبتي.",
 	"unmute_command_require_description": "** هذا الأمر يتطلب صلاحية `Administrator`  ** :rolling_eyes:",
 	"unmute_unmuting_description": "** جاري الغاء الإسكات عن {0} عضو. **",
@@ -165,7 +165,7 @@
 	"vip_transfer_link_description": "**:white_check_mark: يمكنك نقل البوت من خلال الرابط المُرسل إليك على الخاص، مع العلم أن الرابط ينتهي في 10 دقائق ويجب عليك أن تطلب الرابط مرة أخرى. **",
 	"vip_link_expired_description": "إنتهت صلاحية الرابط.",
 	"vip_must_ownership_description": "**:rolling_eyes: - يجب أن تكون مالك هذا البوت.**",
-	"vip_owner_only_description": "للمالك فقط~",
+	"vip_owner_only_description": "لمالك السيرفر فقط هذا الامر 👑 .",
 	"vip_select_one_description": "** اختر واحدًا: **",
 	"vip_restarting_description": ":timer: **جارِ إعادة التشغيل ...**",
 	"vip_please_wait_description": "**:stopwatch: | {0}, فضلاً انتظر {1}. **",
