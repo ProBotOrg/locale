@@ -165,7 +165,7 @@
 	"vip_transfer_link_description": "**:white_check_mark: يمكنك نقل البوت من خلال الرابط المُرسل إليك على الخاص، مع العلم أن الرابط ينتهي في 10 دقائق ويجب عليك أن تطلب الرابط مرة أخرى. **",
 	"vip_link_expired_description": "إنتهت صلاحية الرابط.",
 	"vip_must_ownership_description": "**:rolling_eyes: - يجب أن تكون مالك هذا البوت.**",
-	"vip_owner_only_description": "يمكن استخدام هذا الأمر فقط من قبل مالك السيرفر فقط.",
+	"vip_owner_only_description": "يمكن استخدام هذا الأمر من قبل مالك السيرفر فقط.",
 	"vip_select_one_description": "** اختر واحدًا: **",
 	"vip_restarting_description": ":timer: **جارِ إعادة التشغيل ...**",
 	"vip_please_wait_description": "**:stopwatch: | {0}, يرجى الأنتظار {1}. **",
