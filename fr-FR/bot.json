@@ -529,5 +529,8 @@
 	"daily_vote_tip": "**CONSEIL :** Vous pouvez obtenir jusqu'à {0} crédits si vous votez pour ProBot !",
 	"unmute_text_description": "Rétablit le son d'un membre des salons de texte",
 	"unmute_voice_description": "Rétablit le son d'un membre des salons vocaux",
-	"top_role_description": "Filter leaderboard for specific members with a role."
+	"top_role_description": "Filtrer le classement pour des membres spécifiques avec un rôle.",
+	"vip_whitelist_add": ":white_check_mark: {0} ont maintenant accès au panneau ProBot.",
+	"vip_whitelist_remove": "✅ {0} accès ont été supprimés.",
+	"vip_whitelist_info": "🤖 Robots autorisés :\n {0}\n👤 Utilisateurs autorisés à accéder au panneau ProBot :\n{1}"
 }

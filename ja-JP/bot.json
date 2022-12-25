@@ -529,5 +529,8 @@
 	"daily_vote_tip": "**ヒント：** ProBotに投票すると、{0} クレジットをゲットできます！",
 	"unmute_text_description": "テキストチャンネルでのメンバーのミュートを解除",
 	"unmute_voice_description": "ボイスチャンネルでのメンバーのミュートを解除",
-	"top_role_description": "ロールが付与されているメンバーでリーダーボードを絞り込みします。"
+	"top_role_description": "ロールが付与されているメンバーでリーダーボードを絞り込みします。",
+	"vip_whitelist_add": ":white_check_mark: {0} have access now to ProBot panel.",
+	"vip_whitelist_remove": "✅ {0} access have been delete.",
+	"vip_whitelist_info": " 🤖 Allowed Bots:\n {0}\n👤 Users allowed to enter ProBot panel:\n{1}"
 }

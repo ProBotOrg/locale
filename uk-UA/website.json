@@ -401,7 +401,7 @@
     "leveling_text_levelup_channel": "КАНАЛ ПОВІДОМЛЕННЯ ПРО ПІДВИЩЕННЯ РІВНЯ",
     "leveling_text_level": "Текстовий рівень",
     "leveling_voice_level": "Голосовий рівень",
-    "leveling_rewarded_role": "Нагородження ролью",
+    "leveling_rewarded_role": "Нагородження роллю",
     "leveling_remove_with_higher": "Видалити після підвищення рівня",
     "leveling_DM": "ПП учаснику",
     "leveling_actions": "Дії",
@@ -670,7 +670,7 @@
     "premium_change_avatar": "Змінити аватар",
     "trigger_required": "Поле тригера є обов'язковим",
     "trigger_exists": "Тригер вже існує",
-    "role_under_position": "ProBot повинен бути з ролью вищого пріорітету",
+    "role_under_position": "ProBot повинен бути з роллю вищої позиції",
     "home": "Головна",
     "auto_responder_response_required": "Поле відповіді є обов'язковим",
     "AUTOMOD_SPAM_INFO": "Виявляти, коли користувач надсилає більше 5 повідомлень за 5 секунд.",
@@ -778,8 +778,8 @@
     "emoji": "Емодзі",
     "temp_invitation_validation": "Необхідно встановити стандартний канал для роботи функції",
     "premium_bot_activity": "СТАТУС БОТА",
-    "premium_status_type": "Type",
+    "premium_status_type": "Тип",
     "premium_status_online": "В мережі",
-    "premium_status_idle": "Idle",
-    "premium_status_dnd": "Do Not Disturb"
+    "premium_status_idle": "Відійшов",
+    "premium_status_dnd": "Не турбувати"
 }

@@ -529,5 +529,8 @@
 	"daily_vote_tip": "*TIP:** Hlasujete-li pro ProBot, můžete získat až {0} kreditů!",
 	"unmute_text_description": "Zruší umlčení člena v textovém kanálu.",
 	"unmute_voice_description": "Zruší umlčení člena z hlasového kanálu.",
-	"top_role_description": "Vyfiltrovat žebřiček pro konkrétní členy s rolí."
+	"top_role_description": "Vyfiltrovat žebřiček pro konkrétní členy s rolí.",
+	"vip_whitelist_add": ":white_check_mark: {0} have access now to ProBot panel.",
+	"vip_whitelist_remove": "✅ {0} access have been delete.",
+	"vip_whitelist_info": " 🤖 Allowed Bots:\n {0}\n👤 Users allowed to enter ProBot panel:\n{1}"
 }
