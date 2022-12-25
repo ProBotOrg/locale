@@ -109,7 +109,7 @@
 	"reset_point_done_description": ":white_check_mark: ** Statistiky byly úspěšně obnoveny. **",
 	"yes_description": "ano",
 	"setcolor_role_name_description": ":rolling_eyes: - ** Zadej název role **",
-	"setcolor_cant_find_description": ":rolling_eyes: ** Nemohu najít tuto roli ** ",
+	"setcolor_cant_find_description": ":rolling_eyes: -** Nemohu najít tuto roli ** ",
 	"setcolor_miss_permission_description": ":rolling_eyes: ** Nemáš oprávnění k této roli **",
 	"setcolor_cant_change_description": ":rolling_eyes: -  Nemohl jsem změnit tuto roli. Zkontroluj má oprávnění a pozici role.",
 	"setcolor_hex_description": ":rolling_eyes: - Délka hex barvy musí být rovna 6 nebo 3",
