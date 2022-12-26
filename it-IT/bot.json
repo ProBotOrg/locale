@@ -219,7 +219,7 @@
 	"move_channel_full": ":rolling_eyes: - ** Questo canale è pieno! ({0}/{1}) **",
 	"move_moved_to": ":white_check_mark: **{0} spostato a {1}**",
 	"move_ins_perm": ":rolling_eyes: - **permessi insufficienti**",
-	"move_confirm": ":information_source: **sei sicuro? Scrivi (y) per confermare**",
+	"move_confirm": ":information_source: ** Sei sicuro? Digita (y) per confermare**",
 	"move_cant_find_channel": ":rolling_eyes: - **non riesco a trovare il canale bersaglio**",
 	"color_error": ":rolling_eyes: - Errore con lo sfondo. Se si è verificato d'improvviso, sei pregato di contattare il supporto.",
 	"time_reasons_limit": ":rolling_eyes: - **il limite di tempo dev'esser pari a uno tra (m, h, g, s, me, a)**",
