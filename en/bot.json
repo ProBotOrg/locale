@@ -219,7 +219,7 @@
 	"move_channel_full": ":white_check_mark: ** {0} already in the voice channel!**",
 	"move_moved_to": ":white_check_mark: ** {0} moved to {1}!**",
 	"move_ins_perm": ":rolling_eyes: -  ** Insufficient Permission **",
-	"move_confirm": ":information: Are you sure that you want to move all users? type **(y)** to confirm**",
+	"move_confirm": ":information_source: Are you sure that you want to move all users? type **(y)** to confirm**",
 	"move_cant_find_channel": ":rolling_eyes: - **I can't find target channel**",
 	"color_error": ":rolling_eyes: - Error with background. If this happened in sudden please contact support.",
 	"time_reasons_limit": ":rolling_eyes: - **The time limit must be equal to one of the following: (m, h, d, w, mo, y)**\n",
