@@ -533,5 +533,5 @@
 	"vip_whitelist_add": ":white_check_mark: Đã cho phép {0} truy cập vào bảng điều khiển.",
 	"vip_whitelist_remove": "✅ Đã loại bỏ quyền truy cập của bảng điều khiển của {0}.",
 	"vip_whitelist_info": " 🤖 Bot được cho phép:\n {0}\n👤 Người dùng có quyền truy cập vào bảng điều khiển:\n{1}",
-	"move_all_description": "Moves all members to the voice channel to which you are currently connected"
+	"move_all_description": "Di chuyển tất cả người dùng từ kênh voice khác sang kênh mà bạn đang kết nối"
 }
