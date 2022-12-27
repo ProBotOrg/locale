@@ -776,10 +776,10 @@
     "rr_option_title": "Título De La Opción",
     "rr_option_description": "Descripción De La Opción",
     "emoji": "Emoji",
-    "temp_invitation_validation": "You should set a default channel for the feature work",
-    "premium_bot_activity": "BOT ACTIVITY",
-    "premium_status_type": "Type",
+    "temp_invitation_validation": "Debe establecer un canal por defecto para el trabajo de la función",
+    "premium_bot_activity": "ACTIVIDAD DEL BOT",
+    "premium_status_type": "Tipo",
     "premium_status_online": "En línea",
-    "premium_status_idle": "Idle",
-    "premium_status_dnd": "Do Not Disturb"
+    "premium_status_idle": "En Espera",
+    "premium_status_dnd": "No Molestar"
 }
