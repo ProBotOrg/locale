@@ -532,5 +532,6 @@
 	"top_role_description": "Filtrar classificação de membros específicos com um cargo.",
 	"vip_whitelist_add": ":white_check_mark: {0} tem acesso agora ao painel do ProBot.",
 	"vip_whitelist_remove": "✅ {0} acesso foi deletado.",
-	"vip_whitelist_info": "🤖 Botões Permitidos:\n{0}\n👤 Usuários permitidos a entrar no painel do ProBot:\n{1}"
+	"vip_whitelist_info": "🤖 Botões Permitidos:\n{0}\n👤 Usuários permitidos a entrar no painel do ProBot:\n{1}",
+	"move_all_description": "Moves all members to the voice channel to which you are currently connected"
 }
