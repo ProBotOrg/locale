@@ -532,5 +532,6 @@
 	"top_role_description": "Filter leaderboard for specific members with a role.",
 	"vip_whitelist_add": ":white_check_mark: از این به بعد ‎{0} به پنل سایت پروبات این سرور دسترسی دارد.",
 	"vip_whitelist_remove": "✅ دسترسی ‎{0} حذف شد.",
-	"vip_whitelist_info": " 🤖 بات های مجاز شده:\n {0}\n👤 کاربرانی که اجازه دسترسی به پنل سایت پروبات را دارند:\n{1}"
+	"vip_whitelist_info": " 🤖 بات های مجاز شده:\n {0}\n👤 کاربرانی که اجازه دسترسی به پنل سایت پروبات را دارند:\n{1}",
+	"move_all_description": "Moves all members to the voice channel to which you are currently connected"
 }
