@@ -165,7 +165,7 @@
 	"vip_transfer_link_description": "**:white_check_mark: Você pode transferir o bot usando o link que lhe foi enviado pela DM mas tenha em mente que o link expira em 10 minutos, e você deve pedi-lo novamente.**",
 	"vip_link_expired_description": "O link expirou",
 	"vip_must_ownership_description": "**:rolling_eyes: - Você deve ser o dono deste bot.**",
-	"vip_owner_only_description": "Somente Proprietário~",
+	"vip_owner_only_description": "Esse comando só pode ser usado pela propriedade do servidor.",
 	"vip_select_one_description": "** Selecione um: **",
 	"vip_restarting_description": ":timer: **Reiniciando ...**",
 	"vip_please_wait_description": "**:stopwatch: |  {0}, por favor, aguarde {1}. **",
@@ -219,7 +219,7 @@
 	"move_channel_full": ":white_check_mark: ** {0} já está no canal de voz!**",
 	"move_moved_to": ":white_check_mark: ** {0} movido para {1}!**",
 	"move_ins_perm": ":rolling_eyes: - ** Permissão insuficiente **",
-	"move_confirm": ":information_source: ** têm certeza? escreva (y) para confirmar**",
+	"move_confirm": ":information_source: Você tem certeza que deseja mover todos os usuários? Digite **(y)** para confirmar",
 	"move_cant_find_channel": ":rolling_eyes: - **Não consigo encontrar o canal de destino**",
 	"color_error": ":rolling_eyes: - Erro com fundo. Se isso aconteceu repentinamente, por favor contate o suporte.",
 	"time_reasons_limit": ":rolling_eyes: - **O limite de tempo deve ser igual a um dos seguintes: (m, h, d, w, mo, y)**",
@@ -533,5 +533,5 @@
 	"vip_whitelist_add": ":white_check_mark: {0} tem acesso agora ao painel do ProBot.",
 	"vip_whitelist_remove": "✅ {0} acesso foi deletado.",
 	"vip_whitelist_info": "🤖 Botões Permitidos:\n{0}\n👤 Usuários permitidos a entrar no painel do ProBot:\n{1}",
-	"move_all_description": "Moves all members to the voice channel to which you are currently connected"
+	"move_all_description": "Move todos os membros para o canal de voz ao qual você está conectado no momento"
 }
