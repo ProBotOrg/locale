@@ -287,7 +287,7 @@
 	"logs_unbanned": ":airplane_arriving: **{0} розблокований.**",
 	"logs_welcome_inviter": "**Запросив**",
 	"logs_welcome_invite_code": "**Код запрошення**",
-	"logs_welcome_age": "⏲** Вік акаунту:**",
+	"logs_welcome_age": "⏲** Обліковий запис створено:**",
 	"logs_joined_server": "**{0} приєднався до сервера.**",
 	"logs_member_kicked": ":wave: **{0} вигнаний.**",
 	"logs_member_left": "**{0} вийшов.**",
