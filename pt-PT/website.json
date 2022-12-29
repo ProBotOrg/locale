@@ -781,5 +781,6 @@
     "premium_status_type": "Tipo",
     "premium_status_online": "Online",
     "premium_status_idle": "Inativo",
-    "premium_status_dnd": "Não Incomodar"
+    "premium_status_dnd": "Não Incomodar",
+    "premium_bot_customization": "BOT CUSTOMIZATION"
 }
