@@ -147,7 +147,7 @@
 	"link_cant_find_description": ":rolling_eyes: - **Não consigo encontrar o canal predefinido do link.**",
 	"vip_ownership_successfully_description": "** Transferência de posse bem sucedida **",
 	"vip_mistake_description": ":rolling_eyes: - Houve um erro, certifique de que escreve `confirm`",
-	"vip_twitch_channel_description": "Especifique o link do canal da Twitch:",
+	"vip_twitch_channel_description": "Especifique o link da Twitch:",
 	"vip_wrong_url_description": ":rolling_eyes: - ** Link errado, cancelando... **",
 	"vip_changing_description": "**Alterando ...** (Isto pode levar um tempo devido a restrições do discord)",
 	"vip_done_description": ":white_check_mark: concluído",
