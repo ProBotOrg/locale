@@ -781,5 +781,6 @@
     "premium_status_type": "Type",
     "premium_status_online": "En ligne",
     "premium_status_idle": "Inactif",
-    "premium_status_dnd": "Ne pas déranger"
+    "premium_status_dnd": "Ne pas déranger",
+    "premium_bot_customization": "BOT CUSTOMIZATION"
 }
