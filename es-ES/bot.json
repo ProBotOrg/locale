@@ -529,8 +529,9 @@
 	"daily_vote_tip": "**TIP:** ¡Puedes conseguir hasta {0} créditos si votas a ProBot!",
 	"unmute_text_description": "Quita el muteo a un miembro de los canales de texto",
 	"unmute_voice_description": "Quita el muteo a un miembro de los canales de voz",
-	"top_role_description": "Filter leaderboard for specific members with a role.",
-	"vip_whitelist_add": ":white_check_mark: {0} have access now to ProBot panel.",
-	"vip_whitelist_remove": "✅ {0} access have been delete.",
-	"vip_whitelist_info": " 🤖 Allowed Bots:\n {0}\n👤 Users allowed to enter ProBot panel:\n{1}"
+	"top_role_description": "Filtrar tabla de clasificación para miembros específicos con un rol.",
+	"vip_whitelist_add": ":white_check_mark: {0} tienen acceso ahora al panel ProBot.",
+	"vip_whitelist_remove": "✅ {0} acceso han sido borrados.",
+	"vip_whitelist_info": " 🤖 Allowed Bots:\n {0}\n👤 Users allowed to enter ProBot panel:\n{1}",
+	"move_all_description": "Moves all members to the voice channel to which you are currently connected"
 }

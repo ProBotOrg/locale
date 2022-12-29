@@ -532,5 +532,6 @@
 	"top_role_description": "ロールが付与されているメンバーでリーダーボードを絞り込みします。",
 	"vip_whitelist_add": ":white_check_mark: {0} have access now to ProBot panel.",
 	"vip_whitelist_remove": "✅ {0} access have been delete.",
-	"vip_whitelist_info": " 🤖 Allowed Bots:\n {0}\n👤 Users allowed to enter ProBot panel:\n{1}"
+	"vip_whitelist_info": " 🤖 Allowed Bots:\n {0}\n👤 Users allowed to enter ProBot panel:\n{1}",
+	"move_all_description": "Moves all members to the voice channel to which you are currently connected"
 }
