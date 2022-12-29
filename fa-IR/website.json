@@ -781,5 +781,6 @@
     "premium_status_type": "نوع",
     "premium_status_online": "آنلاین",
     "premium_status_idle": "بیکار",
-    "premium_status_dnd": "مزاحم نشوید"
+    "premium_status_dnd": "مزاحم نشوید",
+    "premium_bot_customization": "BOT CUSTOMIZATION"
 }
