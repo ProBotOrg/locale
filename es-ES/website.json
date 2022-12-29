@@ -781,5 +781,6 @@
     "premium_status_type": "Tipo",
     "premium_status_online": "En línea",
     "premium_status_idle": "En Espera",
-    "premium_status_dnd": "No Molestar"
+    "premium_status_dnd": "No Molestar",
+    "premium_bot_customization": "BOT CUSTOMIZATION"
 }
