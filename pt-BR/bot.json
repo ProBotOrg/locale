@@ -78,7 +78,7 @@
 	"unlock_description": "Permita @everyone de enviar mensagens para um canal específico.",
 	"requested_by_embed": "Solicitado por {0}#{1}",
 	"cant_mute_user": ":rolling_eyes: - ** Você não pode silenciar @{0}. **",
-	"cant_find_member": ":rolling_eyes: - **Eu não consigo encontrar esse membro**",
+	"cant_find_member": ":rolling_eyes: - **Não consigo encontrar esse membro**",
 	"mute_user_muted": ":white_check_mark: **@{0} silenciado(a) do texto! :zipper_mouth:**",
 	"daily_credits_refreshes_description": "**:rolling_eyes: |  {0}, seus créditos diários são atualizados em {1}. **",
 	"daily_not_have_rank_description": ":robot: **| {0}**, bots não têm classificações!",
