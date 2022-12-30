@@ -147,7 +147,7 @@
 	"link_cant_find_description": ":rolling_eyes: - **Não consigo encontrar canal padrão de link.**",
 	"vip_ownership_successfully_description": "** A propriedade foi transferida com sucesso. **",
 	"vip_mistake_description": ":rolling_eyes: - Erro de ortografia, certifique-se de escrever `confirmar`",
-	"vip_twitch_channel_description": "Especifique um URL de canal do Twitch:",
+	"vip_twitch_channel_description": "Especifique um nome de canal da Twitch:",
 	"vip_wrong_url_description": ":rolling_eyes: - ** URL errada, cancelando... **",
 	"vip_changing_description": "**Alterando ...** (Isso pode levar um tempo devido a restrições do Discord)",
 	"vip_done_description": ":white_check_mark: concluído",
