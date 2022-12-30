@@ -147,7 +147,7 @@
 	"link_cant_find_description": ":rolling_eyes: - **Tôi không tìm thấy kênh lời mời mặc định.**",
 	"vip_ownership_successfully_description": "**Đã chuyển quyền sở hữu thành công**",
 	"vip_mistake_description": ":rolling_eyes: - Lỗi chính tả, vui lòng nhập đúng `confirm`",
-	"vip_twitch_channel_description": "Nêu ra đường dẫn của kênh Twitch:",
+	"vip_twitch_channel_description": "Cần một đường dẫn của 1 kênh Twitch",
 	"vip_wrong_url_description": ":rolling_eyes: - **Đường dẫn sai, đang hủy...**",
 	"vip_changing_description": "**Đang thay đồi...* (Việc này sẽ mất ít thời gian vì chút hạn chế của discord)",
 	"vip_done_description": ":white_check_mark: đã xong",
