@@ -533,5 +533,12 @@
 	"vip_whitelist_add": ":white_check_mark: {0} отримав доступ до панелі управління ProBot.",
 	"vip_whitelist_remove": "✅ {0} доступ видалено",
 	"vip_whitelist_info": " 🤖 Допущені боти:\n {0}\n👤 Користувачі, які мають доступ до панелі управління ProBot:\n{1}",
-	"move_all_description": "Переміщує всіх учасників в голосовий канал, до якого ви зараз під'єднані"
+	"move_all_description": "Переміщує всіх учасників в голосовий канал, до якого ви зараз під'єднані",
+	"rolekick_description": "Kicks all members with a specific role",
+	"rolekick_role_description": "Specify the role to kick all members who have it.",
+	"rolekick_exclude_description": "Exclude member's with this role from being kicked",
+	"rolekick_command_enable": ":x: You must first enable that command before you can use it. `{0}`",
+	"rolekick_started": "Started kicking members ...\nKicked role: {0}\nExcluded role: {1}",
+	"rolekick_success": "✅ Successfully kicked **{0}** members with the **{1}** role",
+	"rolekick_no_role": "There is no role that has been excluded."
 }
