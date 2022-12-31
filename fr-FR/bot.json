@@ -533,5 +533,5 @@
 	"vip_whitelist_add": ":white_check_mark: {0} ont maintenant accès au panneau ProBot.",
 	"vip_whitelist_remove": "✅ {0} accès ont été supprimés.",
 	"vip_whitelist_info": "🤖 Robots autorisés :\n {0}\n👤 Utilisateurs autorisés à accéder au panneau ProBot :\n{1}",
-	"move_all_description": "Moves all members to the voice channel to which you are currently connected"
+	"move_all_description": "Déplace tous les membres vers le salon vocal auquel vous êtes actuellement connecté"
 }
