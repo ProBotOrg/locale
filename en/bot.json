@@ -535,7 +535,7 @@
         "vip_whitelist_info": " 🤖 Allowed Bots:\n {0}\n👤 Users allowed to enter ProBot panel:\n{1}", 
         "move_all_description": "Moves all members to the voice channel to which you are currently connected",
 	"rolekick_description": "Kicks all members with a specific role",
-	"rolekick_role_description": "The role to kick all members with it",
+	"rolekick_role_description": "Specify the role to kick all members who have it.",
 	"rolekick_exclude_description": "Exclude member's with this role from being kicked",
 	"rolekick_command_enable": ":x: You need to enable this command first by using `{0}`",
 	"rolekick_started": "Started kicking members ...\nKicked role: {0}\nExcluded role: {1}",
