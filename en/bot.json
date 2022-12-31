@@ -539,6 +539,7 @@
 	"rolekick_exclude_description": "Exclude member's with this role from being kicked",
 	"rolekick_command_enable": ":x: You need to enable this command first by using `{0}`",
 	"rolekick_started": "Started kicking members ...\nKicked role: {0}\nExcluded role: {1}",
-	"rolekick_success": "✅ Successfully kicked **{0}** members in **{1}** role"
+	"rolekick_success": "✅ Successfully kicked **{0}** members in **{1}** role",
+	"rolekick_no_role": "None excluded role provided."
 	
 } 
