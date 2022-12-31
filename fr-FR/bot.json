@@ -533,5 +533,12 @@
 	"vip_whitelist_add": ":white_check_mark: {0} ont maintenant accès au panneau ProBot.",
 	"vip_whitelist_remove": "✅ {0} accès ont été supprimés.",
 	"vip_whitelist_info": "🤖 Robots autorisés :\n {0}\n👤 Utilisateurs autorisés à accéder au panneau ProBot :\n{1}",
-	"move_all_description": "Déplace tous les membres vers le salon vocal auquel vous êtes actuellement connecté"
+	"move_all_description": "Déplace tous les membres vers le salon vocal auquel vous êtes actuellement connecté",
+	"rolekick_description": "Kicks all members with a specific role",
+	"rolekick_role_description": "Specify the role to kick all members who have it.",
+	"rolekick_exclude_description": "Exclude member's with this role from being kicked",
+	"rolekick_command_enable": ":x: You must first enable that command before you can use it. `{0}`",
+	"rolekick_started": "Started kicking members ...\nKicked role: {0}\nExcluded role: {1}",
+	"rolekick_success": "✅ Successfully kicked **{0}** members with the **{1}** role",
+	"rolekick_no_role": "There is no role that has been excluded."
 }
