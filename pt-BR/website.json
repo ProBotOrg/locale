@@ -782,5 +782,7 @@
     "premium_status_online": "Disponível",
     "premium_status_idle": "Parado",
     "premium_status_dnd": "Não perturbe",
-    "premium_bot_customization": "PERSONALIZAÇÃO DO BOT"
+    "premium_bot_customization": "PERSONALIZAÇÃO DO BOT",
+    "twitch_name": "Streamer Name",
+    "twitch_link": "Stream Link"
 }
