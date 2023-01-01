@@ -782,5 +782,7 @@
     "premium_status_online": "متصل الآن",
     "premium_status_idle": "خامل",
     "premium_status_dnd": "عدم الإزعاج",
-    "premium_bot_customization": "تخصيص البوت"
+    "premium_bot_customization": "تخصيص البوت",
+    "twitch_name": "Streamer Name",
+    "twitch_link": "Stream Link"
 }
