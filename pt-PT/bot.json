@@ -147,7 +147,7 @@
 	"link_cant_find_description": ":rolling_eyes: - **Não consigo encontrar o canal predefinido do link.**",
 	"vip_ownership_successfully_description": "** Transferência de posse bem sucedida **",
 	"vip_mistake_description": ":rolling_eyes: - Houve um erro, certifique de que escreve `confirm`",
-	"vip_twitch_channel_description": "Especifique o link do canal da Twitch:",
+	"vip_twitch_channel_description": "Especifique o link da Twitch:",
 	"vip_wrong_url_description": ":rolling_eyes: - ** Link errado, cancelando... **",
 	"vip_changing_description": "**Alterando ...** (Isto pode levar um tempo devido a restrições do discord)",
 	"vip_done_description": ":white_check_mark: concluído",
@@ -533,5 +533,12 @@
 	"vip_whitelist_add": ":white_check_mark: {0} have access now to ProBot panel.",
 	"vip_whitelist_remove": "✅ {0} access have been delete.",
 	"vip_whitelist_info": " 🤖 Allowed Bots:\n {0}\n👤 Users allowed to enter ProBot panel:\n{1}",
-	"move_all_description": "Moves all members to the voice channel to which you are currently connected"
+	"move_all_description": "Moves all members to the voice channel to which you are currently connected",
+	"rolekick_description": "Kicks all members with a specific role",
+	"rolekick_role_description": "Specify the role to kick all members who have it.",
+	"rolekick_exclude_description": "Exclude member's with this role from being kicked",
+	"rolekick_command_enable": ":x: You must first enable that command before you can use it. `{0}`",
+	"rolekick_started": "Started kicking members ...\nKicked role: {0}\nExcluded role: {1}",
+	"rolekick_success": "✅ Successfully kicked **{0}** members with the **{1}** role",
+	"rolekick_no_role": "There is no role that has been excluded."
 }

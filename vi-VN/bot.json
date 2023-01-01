@@ -147,7 +147,7 @@
 	"link_cant_find_description": ":rolling_eyes: - **Tôi không tìm thấy kênh lời mời mặc định.**",
 	"vip_ownership_successfully_description": "**Đã chuyển quyền sở hữu thành công**",
 	"vip_mistake_description": ":rolling_eyes: - Lỗi chính tả, vui lòng nhập đúng `confirm`",
-	"vip_twitch_channel_description": "Nêu ra đường dẫn của kênh Twitch:",
+	"vip_twitch_channel_description": "Cần một đường dẫn của 1 kênh Twitch",
 	"vip_wrong_url_description": ":rolling_eyes: - **Đường dẫn sai, đang hủy...**",
 	"vip_changing_description": "**Đang thay đồi...* (Việc này sẽ mất ít thời gian vì chút hạn chế của discord)",
 	"vip_done_description": ":white_check_mark: đã xong",
@@ -533,5 +533,12 @@
 	"vip_whitelist_add": ":white_check_mark: Đã cho phép {0} truy cập vào bảng điều khiển.",
 	"vip_whitelist_remove": "✅ Đã loại bỏ quyền truy cập của bảng điều khiển của {0}.",
 	"vip_whitelist_info": " 🤖 Bot được cho phép:\n {0}\n👤 Người dùng có quyền truy cập vào bảng điều khiển:\n{1}",
-	"move_all_description": "Di chuyển tất cả người dùng từ kênh voice khác sang kênh mà bạn đang kết nối"
+	"move_all_description": "Di chuyển tất cả người dùng từ kênh voice khác sang kênh mà bạn đang kết nối",
+	"rolekick_description": "Kicks all members with a specific role",
+	"rolekick_role_description": "Specify the role to kick all members who have it.",
+	"rolekick_exclude_description": "Exclude member's with this role from being kicked",
+	"rolekick_command_enable": ":x: You must first enable that command before you can use it. `{0}`",
+	"rolekick_started": "Started kicking members ...\nKicked role: {0}\nExcluded role: {1}",
+	"rolekick_success": "✅ Successfully kicked **{0}** members with the **{1}** role",
+	"rolekick_no_role": "There is no role that has been excluded."
 }

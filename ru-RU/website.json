@@ -781,5 +781,6 @@
     "premium_status_type": "Тип",
     "premium_status_online": "В сети",
     "premium_status_idle": "Бездействующий",
-    "premium_status_dnd": "Не беспокоить"
+    "premium_status_dnd": "Не беспокоить",
+    "premium_bot_customization": "КАСТОМИЗАЦИЯ БОТА"
 }

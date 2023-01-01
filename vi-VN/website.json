@@ -781,5 +781,6 @@
     "premium_status_type": "Trạng thái",
     "premium_status_online": "Trực tuyến",
     "premium_status_idle": "Chờ",
-    "premium_status_dnd": "Không làm phiền"
+    "premium_status_dnd": "Không làm phiền",
+    "premium_bot_customization": "TÙY CHỈNH DIỆN MẠO BOT"
 }

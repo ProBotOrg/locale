@@ -781,5 +781,6 @@
     "premium_status_type": "Typ",
     "premium_status_online": "Online",
     "premium_status_idle": "Nečinný",
-    "premium_status_dnd": "Nerušit"
+    "premium_status_dnd": "Nerušit",
+    "premium_bot_customization": "BOT CUSTOMIZATION"
 }
