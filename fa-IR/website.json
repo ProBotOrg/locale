@@ -782,5 +782,7 @@
     "premium_status_online": "آنلاین",
     "premium_status_idle": "بیکار",
     "premium_status_dnd": "مزاحم نشوید",
-    "premium_bot_customization": "BOT CUSTOMIZATION"
+    "premium_bot_customization": "BOT CUSTOMIZATION",
+    "twitch_name": "Streamer Name",
+    "twitch_link": "Stream Link"
 }
