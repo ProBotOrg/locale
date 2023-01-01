@@ -530,7 +530,7 @@
     "no_results_found": "Ничего не найдено",
     "mod_undo_action": "Отменить действие",
     "delete": "Удалить",
-    "mod_want_delete_action": "Вы действительно хотите удалить это действие",
+    "mod_want_delete_action": "Вы действительно хотите удалить это действие?",
     "mod_edit_action_id": "Изменить действие с ID:",
     "mod_action_reason": "Причина действия:",
     "mod_punishment_end": "Наказание отменено:",
