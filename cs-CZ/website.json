@@ -782,5 +782,7 @@
     "premium_status_online": "Online",
     "premium_status_idle": "Nečinný",
     "premium_status_dnd": "Nerušit",
-    "premium_bot_customization": "BOT CUSTOMIZATION"
+    "premium_bot_customization": "BOT CUSTOMIZATION",
+    "twitch_name": "Streamer Name",
+    "twitch_link": "Stream Link"
 }
