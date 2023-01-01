@@ -784,5 +784,6 @@
     "premium_status_dnd": "Не турбувати",
     "premium_bot_customization": "КАСТОМІЗАЦІЯ БОТА",
     "twitch_name": "Streamer Name",
-    "twitch_link": "Stream Link"
+    "twitch_link": "Stream Link",
+    "twitch_message": "**{0}** is streaming now! 🎬\nCome join us now and don't miss out on the crisp moments! 🔥\n{1}"
 }
