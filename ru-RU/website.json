@@ -782,5 +782,7 @@
     "premium_status_online": "В сети",
     "premium_status_idle": "Бездействующий",
     "premium_status_dnd": "Не беспокоить",
-    "premium_bot_customization": "КАСТОМИЗАЦИЯ БОТА"
+    "premium_bot_customization": "КАСТОМИЗАЦИЯ БОТА",
+    "twitch_name": "Streamer Name",
+    "twitch_link": "Stream Link"
 }
