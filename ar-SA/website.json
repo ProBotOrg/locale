@@ -783,6 +783,7 @@
     "premium_status_idle": "خامل",
     "premium_status_dnd": "عدم الإزعاج",
     "premium_bot_customization": "تخصيص البوت",
-    "twitch_name": "Streamer Name",
-    "twitch_link": "Stream Link"
+    "twitch_name": "اسم الستريمر",
+    "twitch_link": "رابط البث",
+    "twitch_message": "**{0}** is streaming now! 🎬\nCome join us now and don't miss out on the crisp moments! 🔥\n{1}"
 }
