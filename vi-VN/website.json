@@ -784,5 +784,6 @@
     "premium_status_dnd": "Không làm phiền",
     "premium_bot_customization": "TÙY CHỈNH DIỆN MẠO BOT",
     "twitch_name": "Streamer Name",
-    "twitch_link": "Stream Link"
+    "twitch_link": "Stream Link",
+    "twitch_message": "**{0}** is streaming now! 🎬\nCome join us now and don't miss out on the crisp moments! 🔥\n{1}"
 }
