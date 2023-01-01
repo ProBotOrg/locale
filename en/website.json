@@ -783,5 +783,7 @@
     "premium_status_online": "Online", 
     "premium_status_idle": "Idle", 
     "premium_status_dnd": "Do Not Disturb", 
-    "premium_bot_customization": "BOT CUSTOMIZATION"
+    "premium_bot_customization": "BOT CUSTOMIZATION", 
+    "twitch_name": "Streamer Name",
+    "twitch_link": "Stream Link"
 }
