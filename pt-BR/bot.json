@@ -534,11 +534,11 @@
 	"vip_whitelist_remove": "✅ {0} acesso foi deletado.",
 	"vip_whitelist_info": "🤖 Botões Permitidos:\n{0}\n👤 Usuários permitidos a entrar no painel do ProBot:\n{1}",
 	"move_all_description": "Move todos os membros para o canal de voz ao qual você está conectado no momento",
-	"rolekick_description": "Kicks all members with a specific role",
-	"rolekick_role_description": "Specify the role to kick all members who have it.",
-	"rolekick_exclude_description": "Exclude member's with this role from being kicked",
-	"rolekick_command_enable": ":x: You must first enable that command before you can use it. `{0}`",
-	"rolekick_started": "Started kicking members ...\nKicked role: {0}\nExcluded role: {1}",
-	"rolekick_success": "✅ Successfully kicked **{0}** members with the **{1}** role",
-	"rolekick_no_role": "There is no role that has been excluded."
+	"rolekick_description": "Expulsa todos os membros com um cargo específico",
+	"rolekick_role_description": "Especifique o cargo para expulsar todos os membros que o tiverem.",
+	"rolekick_exclude_description": "Excluir membros com este cargo de serem expulsos",
+	"rolekick_command_enable": ":x: Você deve primeiro ativar esse comando antes de poder usá-lo. `{0}`",
+	"rolekick_started": "Começou a expulsar membros ...\nCargo expulso: {0}\nCargo excluída: {1}",
+	"rolekick_success": "✅ Expulsado com sucesso **{0}** membros com o cargo **{1}**",
+	"rolekick_no_role": "Não há nenhum cargo que tenha sido excluído."
 }

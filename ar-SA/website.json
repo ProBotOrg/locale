@@ -782,5 +782,11 @@
     "premium_status_online": "متصل الآن",
     "premium_status_idle": "خامل",
     "premium_status_dnd": "عدم الإزعاج",
-    "premium_bot_customization": "تخصيص البوت"
+    "premium_bot_customization": "تخصيص البوت",
+    "twitch_name": "اسم الستريمر",
+    "twitch_link": "رابط البث",
+    "twitch_message": "**{0}** يبث الآن! 🎬\nتعال وانضم إلينا الآن ولا تفوت في اللحظات ممتعة! 🔥\n{1}",
+    "welcome_reset_coordinates": "Reset Coordinates",
+    "welcome_reset_description": "Reset all welcome coordinates to their default settings",
+    "reset": "Reset"
 }

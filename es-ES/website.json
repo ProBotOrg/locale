@@ -402,7 +402,7 @@
     "leveling_text_level": "Nivel de texto\n",
     "leveling_voice_level": "Nivel de voz",
     "leveling_rewarded_role": "Rol de recompensa",
-    "leveling_remove_with_higher": "Eliminar si se otorga un rol superior",
+    "leveling_remove_with_higher": "Remover si obtiene una recompensa mayor",
     "leveling_DM": "Enviar un MD al miembro",
     "leveling_actions": "Acciones",
     "leveling_current_channel": "Canal actual",
@@ -782,5 +782,11 @@
     "premium_status_online": "En línea",
     "premium_status_idle": "En Espera",
     "premium_status_dnd": "No Molestar",
-    "premium_bot_customization": "BOT CUSTOMIZATION"
+    "premium_bot_customization": "PERSONALIZACIÓN DEL BOT",
+    "twitch_name": "Streamer Name",
+    "twitch_link": "Stream Link",
+    "twitch_message": "**{0}** is streaming now! 🎬\nCome join us now and don't miss out on the crisp moments! 🔥\n{1}",
+    "welcome_reset_coordinates": "Reset Coordinates",
+    "welcome_reset_description": "Reset all welcome coordinates to their default settings",
+    "reset": "Reset"
 }

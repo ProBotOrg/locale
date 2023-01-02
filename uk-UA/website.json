@@ -782,5 +782,11 @@
     "premium_status_online": "В мережі",
     "premium_status_idle": "Відійшов",
     "premium_status_dnd": "Не турбувати",
-    "premium_bot_customization": "BOT CUSTOMIZATION"
+    "premium_bot_customization": "КАСТОМІЗАЦІЯ БОТА",
+    "twitch_name": "Streamer Name",
+    "twitch_link": "Stream Link",
+    "twitch_message": "**{0}** is streaming now! 🎬\nCome join us now and don't miss out on the crisp moments! 🔥\n{1}",
+    "welcome_reset_coordinates": "Reset Coordinates",
+    "welcome_reset_description": "Reset all welcome coordinates to their default settings",
+    "reset": "Reset"
 }

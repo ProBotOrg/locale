@@ -530,7 +530,7 @@
     "no_results_found": "Ничего не найдено",
     "mod_undo_action": "Отменить действие",
     "delete": "Удалить",
-    "mod_want_delete_action": "Вы действительно хотите удалить это действие",
+    "mod_want_delete_action": "Вы действительно хотите удалить это действие?",
     "mod_edit_action_id": "Изменить действие с ID:",
     "mod_action_reason": "Причина действия:",
     "mod_punishment_end": "Наказание отменено:",
@@ -782,5 +782,11 @@
     "premium_status_online": "В сети",
     "premium_status_idle": "Бездействующий",
     "premium_status_dnd": "Не беспокоить",
-    "premium_bot_customization": "КАСТОМИЗАЦИЯ БОТА"
+    "premium_bot_customization": "КАСТОМИЗАЦИЯ БОТА",
+    "twitch_name": "Streamer Name",
+    "twitch_link": "Stream Link",
+    "twitch_message": "**{0}** is streaming now! 🎬\nCome join us now and don't miss out on the crisp moments! 🔥\n{1}",
+    "welcome_reset_coordinates": "Reset Coordinates",
+    "welcome_reset_description": "Reset all welcome coordinates to their default settings",
+    "reset": "Reset"
 }
