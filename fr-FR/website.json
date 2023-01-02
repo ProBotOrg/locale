@@ -783,10 +783,10 @@
     "premium_status_idle": "Inactif",
     "premium_status_dnd": "Ne pas déranger",
     "premium_bot_customization": "PERSONNALISATION DU BOT",
-    "twitch_name": "Streamer Name",
-    "twitch_link": "Stream Link",
-    "twitch_message": "**{0}** is streaming now! 🎬\nCome join us now and don't miss out on the crisp moments! 🔥\n{1}",
-    "welcome_reset_coordinates": "Reset Coordinates",
-    "welcome_reset_description": "Reset all welcome coordinates to their default settings",
-    "reset": "Reset"
+    "twitch_name": "Nom du diffuseur",
+    "twitch_link": "Lien de diffusion",
+    "twitch_message": "**{0}** diffuse maintenant ! 🎬\nVenez nous rejoindre maintenant et ne manquez pas les moments croustillants! 🔥\n{1}",
+    "welcome_reset_coordinates": "Réinitialiser les coordonnées",
+    "welcome_reset_description": "Réinitialiser toutes les coordonnées de bienvenue à leurs paramètres par défaut",
+    "reset": "Réinitialiser"
 }
