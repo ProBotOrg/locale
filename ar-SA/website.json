@@ -786,7 +786,7 @@
     "twitch_name": "اسم الستريمر",
     "twitch_link": "رابط البث",
     "twitch_message": "**{0}** يبث الآن! 🎬\nتعال وانضم إلينا الآن ولا تفوت في اللحظات ممتعة! 🔥\n{1}",
-    "welcome_reset_coordinates": "Reset Coordinates",
-    "welcome_reset_description": "Reset all welcome coordinates to their default settings",
-    "reset": "Reset"
+    "welcome_reset_coordinates": "إعادة تعيين الإحداثيات",
+    "welcome_reset_description": "إعادة تعيين جميع إحداثيات الترحيب إلى الإعدادات الافتراضية",
+    "reset": "إعادة تعيين"
 }
