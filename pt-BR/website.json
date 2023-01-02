@@ -785,5 +785,8 @@
     "premium_bot_customization": "PERSONALIZAÇÃO DO BOT",
     "twitch_name": "Nome do streamer",
     "twitch_link": "Link da transmissão",
-    "twitch_message": "**{0}** is streaming now! 🎬\nCome join us now and don't miss out on the crisp moments! 🔥\n{1}"
+    "twitch_message": "**{0}** is streaming now! 🎬\nCome join us now and don't miss out on the crisp moments! 🔥\n{1}",
+    "welcome_reset_coordinates": "Reset Coordinates",
+    "welcome_reset_description": "Reset all welcome coordinates to their default settings",
+    "reset": "Reset"
 }
