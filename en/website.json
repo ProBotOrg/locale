@@ -789,6 +789,5 @@
     "twitch_message": "**{0}** is streaming now! 🎬\nCome join us now and don't miss out on the crisp moments! 🔥\n{1}", 
     "welcome_reset_coordinates": "Reset Coordinates", 
     "welcome_reset_description": "Reset all welcome coordinates to their default settings", 
-    "welcome_reset_confirmation": "Do you really want to reset all welcome coordinates?", 
     "reset": "Reset"
 }
