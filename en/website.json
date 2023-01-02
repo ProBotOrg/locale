@@ -790,6 +790,5 @@
     "welcome_reset_coordinates": "Reset Coordinates", 
     "welcome_reset_description": "Reset all welcome coordinates to their default settings", 
     "welcome_reset_confirmation": "Do you really want to reset all welcome coordinates?", 
-    "welcome_reset": "Reset", 
-    "welcome_never_mind": "Never Mind"
+    "reset": "Reset"
 }
