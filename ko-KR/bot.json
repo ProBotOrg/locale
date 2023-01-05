@@ -219,7 +219,7 @@
 	"move_channel_full": ":white_check_mark: **{0}님은 이미 음성 채널에 있어요!**",
 	"move_moved_to": ":white_check_mark: **{0}님이 {1} 채널로 이동했어요!**",
 	"move_ins_perm": ":rolling_eyes: - **권한이 없어요.**",
-	"move_confirm": ":information_source: **확실한가요? (y)를 적어 확인하세요.**",
+	"move_confirm": ":information_source: 모든 사용자를 이동시키시겠어요? **(y)**를 적어 확인하세요",
 	"move_cant_find_channel": ":rolling_eyes: - **대상 채널을 찾지 못했어요.**",
 	"color_error": ":rolling_eyes: - 배경에 오류가 발생했어요. 현상이 갑작스럽게 일어났다면 문의해주세요.",
 	"time_reasons_limit": ":rolling_eyes: - **시간 한도는 다음 중 하나여야 해요. (m, h, d, w, mo, y)**",
