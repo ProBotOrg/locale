@@ -158,7 +158,7 @@
 	"vip_must_enter_description": "**:rolling_eyes: - Вы должны ввести команду, после которой следует упоминание или id пользователя, которому вы хотите передать бота.",
 	"vip_error_id_description": "**:rolling_eyes: - Ошибка в упоминании или ID пользователя**",
 	"vip_bans_bots_description": ":rolling_eyes: - **Закон Калифорнии запрещает ботам притворяться людьми** \nhttps://habr.com/ru/company/ashmanov_net/blog/425675/",
-	"vip_joke_description": "**Разве я смеюсь над вами?**",
+	"vip_joke_description": "**Это какая-то шутка?**",
 	"vip_confirm_description": "** :innocent: Пожалуйста, напишите `confirm`. **",
 	"vip_send_dm_description": "**:rolling_eyes: - Пожалуйста, разрешите боту отправлять прямые сообщения.**",
 	"vip_previous_transfer_description": "**:rolling_eyes: - Существует предыдущий запрос на трансфер, новая ссылка была отправлена в ЛС **",
