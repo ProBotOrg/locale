@@ -537,8 +537,8 @@
 	"rolekick_description": "Kickt alle Mitglieder mit einer bestimmten Rolle",
 	"rolekick_role_description": "Legen Sie die Rolle fest, um alle Mitglieder, die diese haben, zu kicken.",
 	"rolekick_exclude_description": "Mitglieder mit dieser Rolle vom Kicken ausschließen",
-	"rolekick_command_enable": ":x: You must first enable that command before you can use it. `{0}`",
-	"rolekick_started": "Started kicking members ...\nKicked role: {0}\nExcluded role: {1}",
-	"rolekick_success": "✅ Successfully kicked **{0}** members with the **{1}** role",
-	"rolekick_no_role": "There is no role that has been excluded."
+	"rolekick_command_enable": ":x: Du musst zuerst diesen Befehl aktivieren, bevor du ihn verwenden kannst. `{0}`",
+	"rolekick_started": "Starte das Kicken von Mitgliedern ...\nGekickte Rolle: {0}\nAusgeschlossene Rolle: {1}",
+	"rolekick_success": "✅ Erfolgreich **{0}** Mitglieder mit der **{1}** Rolle gekickt",
+	"rolekick_no_role": "Es gibt keine Rolle, die ausgeschlossen wurde."
 }
