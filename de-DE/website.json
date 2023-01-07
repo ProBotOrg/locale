@@ -763,7 +763,7 @@
     "rr_select_limits": "Du kannst nicht mehr als 5 Auswahlmenüs hinzufügen",
     "rr_options_limit": "Du kannst nicht mehr als 25 Optionen zum Auswahlmenü hinzufügen ",
     "rr_types": "Self-Assignable Role Type",
-    "vote_description": "Get the vote link and see when you can vote again",
+    "vote_description": "Holen Sie sich den Abstimmungslink und sehen Sie, wann Sie erneut abstimmen können",
     "send_as_reply": "Send as a reply",
     "ping_the_author": "Ping the author",
     "rr_notification_type": "Notification Type",
@@ -788,5 +788,5 @@
     "twitch_message": "**{0}** is streaming now! 🎬\nCome join us now and don't miss out on the crisp moments! 🔥\n{1}",
     "welcome_reset_coordinates": "Reset Coordinates",
     "welcome_reset_description": "Reset all welcome coordinates to their default settings",
-    "reset": "Reset"
+    "reset": "Zurücksetzen"
 }
