@@ -207,7 +207,7 @@
 	"points_title": "Poin:",
 	"points_requested": "Diminta oleh {0}",
 	"points_only_managers": ":rolling_eyes: - Poin hanya dapat dikelola oleh manajer poin.",
-	"points_done_reset": ":sparkles: **All points have been successfully reset.**",
+	"points_done_reset": ":sparkles: **Semua poin telah berhasil direset.**",
 	"points_valid_number": ":rolling_eyes: - **Please Enter a Valid Number.**\n",
 	"points_target_user": ":sparkles:  **{0}**'s points is **{1}**",
 	"points_new": ":sparkles:  **{0}** new points is **{1}**.",
