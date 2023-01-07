@@ -40,7 +40,7 @@
 	"title_description": "تغییر می دهد. `/profile` عنوان شما را در",
 	"reset_description": "تنظیم مجدد مقادیر xp متنی/صوتی/دعوت‌ها را برای همه اعضا یا عضوی خاص.",
 	"rep_description": "هدیه دادن یک امتیاز شهرت به یک شخص. فقط می توان هر 24 ساعت یک بار استفاده نمود.",
-	"daily_description": "دریافت حقوق روزانه شما.",
+	"daily_description": "لینک جایزه روزانه خود را دریافت کنید و بدانید که چگونه میتوانید دوباره آن را دریافت کنید.",
 	"vip_description": "اطلاعاتی درباره بات پریمیوم شما نشان می دهد.",
 	"ping_description": "تست مدت زمان پاسخ دادن بات.",
 	"temp_description": "‎.ساخت یک کانال موقتی",
@@ -537,8 +537,8 @@
 	"rolekick_description": "همه اعضائی که یک نقش مشخص را دارند را بیرون می‌اندازد",
 	"rolekick_role_description": "نقشی را که همه اعضاء آن باید از سرور بیرون انداخته شوند را مشخص کنید",
 	"rolekick_exclude_description": "اعضائی که این نقش را دارند و از بیرون انداخته شدن باید مستثناء شوند را مشخص کنید",
-	"rolekick_command_enable": ":x: You must first enable that command before you can use it. `{0}`",
-	"rolekick_started": "Started kicking members ...\nKicked role: {0}\nExcluded role: {1}",
-	"rolekick_success": "✅ Successfully kicked **{0}** members with the **{1}** role",
-	"rolekick_no_role": "There is no role that has been excluded."
+	"rolekick_command_enable": ":x: شما قبل از استفاده از این دستور، باید آن را فعال کنید. `{0}`",
+	"rolekick_started": "شروع بیرون انداختن اعضاء...\nنقش بیرون انداختن: {0}\nنقش مستثناء شده: {1}",
+	"rolekick_success": "✅ با موفقیت **{0}** از اعضاء با نقش **{1}** بیرون انداخته شدند",
+	"rolekick_no_role": "هیچ نقشی مستثناء نشده."
 }
