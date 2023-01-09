@@ -40,7 +40,7 @@
 	"title_description": "تغییر می دهد. `/profile` عنوان شما را در",
 	"reset_description": "تنظیم مجدد مقادیر xp متنی/صوتی/دعوت‌ها را برای همه اعضا یا عضوی خاص.",
 	"rep_description": "هدیه دادن یک امتیاز شهرت به یک شخص. فقط می توان هر 24 ساعت یک بار استفاده نمود.",
-	"daily_description": "دریافت حقوق روزانه شما.",
+	"daily_description": "لینک جایزه روزانه خود را دریافت کنید و بدانید که چگونه میتوانید دوباره آن را دریافت کنید.",
 	"vip_description": "اطلاعاتی درباره بات پریمیوم شما نشان می دهد.",
 	"ping_description": "تست مدت زمان پاسخ دادن بات.",
 	"temp_description": "‎.ساخت یک کانال موقتی",
@@ -533,12 +533,12 @@
 	"vip_whitelist_add": ":white_check_mark: از این به بعد ‎{0} به پنل سایت پروبات این سرور دسترسی دارد.",
 	"vip_whitelist_remove": "✅ دسترسی ‎{0} حذف شد.",
 	"vip_whitelist_info": " 🤖 بات های مجاز شده:\n {0}\n👤 کاربرانی که اجازه دسترسی به پنل سایت پروبات را دارند:\n{1}",
-	"move_all_description": "Moves all members to the voice channel to which you are currently connected",
-	"rolekick_description": "Kicks all members with a specific role",
-	"rolekick_role_description": "Specify the role to kick all members who have it.",
-	"rolekick_exclude_description": "Exclude member's with this role from being kicked",
-	"rolekick_command_enable": ":x: You must first enable that command before you can use it. `{0}`",
-	"rolekick_started": "Started kicking members ...\nKicked role: {0}\nExcluded role: {1}",
-	"rolekick_success": "✅ Successfully kicked **{0}** members with the **{1}** role",
-	"rolekick_no_role": "There is no role that has been excluded."
+	"move_all_description": "همه اعضاء را به کانال صوتی که شما درحال حاضر متصل هستید، منتقل می‌کند",
+	"rolekick_description": "همه اعضائی که یک نقش مشخص را دارند را بیرون می‌اندازد",
+	"rolekick_role_description": "نقشی را که همه اعضاء آن باید از سرور بیرون انداخته شوند را مشخص کنید",
+	"rolekick_exclude_description": "اعضائی که این نقش را دارند و از بیرون انداخته شدن باید مستثناء شوند را مشخص کنید",
+	"rolekick_command_enable": ":x: شما قبل از استفاده از این دستور، باید آن را فعال کنید. `{0}`",
+	"rolekick_started": "شروع بیرون انداختن اعضاء...\nنقش بیرون انداختن: {0}\nنقش مستثناء شده: {1}",
+	"rolekick_success": "✅ با موفقیت **{0}** از اعضاء با نقش **{1}** بیرون انداخته شدند",
+	"rolekick_no_role": "هیچ نقشی مستثناء نشده."
 }
