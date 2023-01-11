@@ -537,8 +537,8 @@
 	"rolekick_description": "Kicks all members with a specific role",
 	"rolekick_role_description": "Specify the role to kick all members who have it.",
 	"rolekick_exclude_description": "Exclude member's with this role from being kicked",
-	"rolekick_command_enable": ":x: You must first enable that command before you can use it. `{0}`",
-	"rolekick_started": "Started kicking members ...\nKicked role: {0}\nExcluded role: {1}",
-	"rolekick_success": "✅ Successfully kicked **{0}** members with the **{1}** role",
-	"rolekick_no_role": "There is no role that has been excluded."
+	"rolekick_command_enable": ":x: 사용하기 전 먼저 해당 명령어를 사용해야 해요. `{0}`",
+	"rolekick_started": "멤버를 추방하고 있어요...\n추방한 역할: {0}\n제외된 역할: {1}",
+	"rolekick_success": "✅ **{1}** 역할이 있는 멤버 **{0}**명을 추방했어요",
+	"rolekick_no_role": "제외된 역할이 없어요."
 }
