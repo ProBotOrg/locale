@@ -61,6 +61,7 @@
         "usage_setxp": "{0} [user] [type] [new_xp]",
         "usage_setlevel": "{0} [user] [type] [new_level]",
         "usage_vote": "{0}",
+        "usage_rolekick": "{0}",
         "examples_rank": "{0}\n{0} {1}",
         "examples_clear": "{0} 1000\n{0} bots 10\n{0} {1} 10",
         "examples_moveme": "{0} general\n{0} {1}",
@@ -122,7 +123,8 @@
         "examples_shuffle": "{0}",
         "examples_setxp": "{0} {1} text 500\n{0} {1} voice 500",
         "examples_setlevel": "{0} {1} text 20\n{0} {1} voice 20",
-        "examples_vote": "{0}"
+        "examples_vote": "{0}", 
+        "examples_rolekick": "{0}"
     },
     "website": {
         "usage_removewarn": "{0} [warnID]\n{0} [user]\n{0} all",
