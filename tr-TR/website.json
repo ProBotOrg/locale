@@ -788,5 +788,5 @@
     "twitch_message": "**{0}** şu anda yayında! 🎬\nHemen bize katılın ve canlı anları kaçırmayın! 🔥\n{1}",
     "welcome_reset_coordinates": "Reset Coordinates",
     "welcome_reset_description": "Reset all welcome coordinates to their default settings",
-    "reset": "Reset"
+    "reset": "Sıfırla"
 }
