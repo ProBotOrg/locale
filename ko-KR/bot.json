@@ -66,7 +66,7 @@
 	"colors_permission": ":rolling_eyes: - **색상 역할에는 관리자 권한이 없어야 해요.**",
 	"colors_done": "색상이 변경됐어요.",
 	"I don't have permission to give you this color": "이 색상을 줄 권한이 없어요",
-	"Wrong color number": "잘못된 색상 번호이에요",
+	"Wrong color number": "잘못된 색상 번호예요",
 	"You should enter numbers :1234:": "번호를 입력해야 해요 :1234:",
 	":rolling_eyes: - **I can't find this command.**": ":rolling_eyes: - **해당 명령어를 찾지 못했어요.**",
 	"examples": "예시:",
