@@ -786,7 +786,7 @@
     "twitch_name": "Yayıncı Adı",
     "twitch_link": "Yayın Bağlantısı",
     "twitch_message": "**{0}** şu anda yayında! 🎬\nHemen bize katılın ve canlı anları kaçırmayın! 🔥\n{1}",
-    "welcome_reset_coordinates": "Reset Coordinates",
-    "welcome_reset_description": "Reset all welcome coordinates to their default settings",
-    "reset": "Reset"
+    "welcome_reset_coordinates": "Koordinatları Sıfırla",
+    "welcome_reset_description": "Tüm karşılayıcı koordinatlarını varsayılan ayarlarına sıfırlayın",
+    "reset": "Sıfırla"
 }
