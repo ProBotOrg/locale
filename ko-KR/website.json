@@ -788,5 +788,9 @@
     "twitch_message": "**{0}**님이 방송을 시작했어요! 🎬\n빨리 오셔서 재밌는 순간을 놓치지 마세요! 🔥\n{1}",
     "welcome_reset_coordinates": "좌표 초기화",
     "welcome_reset_description": "모든 환영 인사 좌표를 기본값으로 초기화해요",
-    "reset": "초기화"
+    "reset": "초기화",
+    "add_channel": "새 채널",
+    "need_setup": "Need Setup",
+    "message": "Message",
+    "embed": "Embed"
 }
