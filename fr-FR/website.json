@@ -790,7 +790,7 @@
     "welcome_reset_description": "Réinitialiser toutes les coordonnées de bienvenue à leurs paramètres par défaut",
     "reset": "Réinitialiser",
     "add_channel": "Ajouter un Salon",
-    "need_setup": "Need Setup",
+    "need_setup": "Configuration requise",
     "message": "Message",
     "embed": "Embed"
 }
