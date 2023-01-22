@@ -788,5 +788,9 @@
     "twitch_message": "**{0}** sedang siaran sekarang! 🎬\nBergabunglah dengan kami sekarang dan jangan lewatkan momen-momen keren! 🔥",
     "welcome_reset_coordinates": "Reset Koordinat",
     "welcome_reset_description": "Setel ulang semua koordinat sambutan ke setelan default",
-    "reset": "Mengatur ulang"
+    "reset": "Mengatur ulang",
+    "add_channel": "Tambahkan Saluran",
+    "need_setup": "Need Setup",
+    "message": "Message",
+    "embed": "Embed"
 }
