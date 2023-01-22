@@ -788,5 +788,9 @@
     "twitch_message": "**{0}** is streaming now! 🎬\nCome join us now and don't miss out on the crisp moments! 🔥\n{1}",
     "welcome_reset_coordinates": "Reset Coordinates",
     "welcome_reset_description": "Reset all welcome coordinates to their default settings",
-    "reset": "Reset"
+    "reset": "Reset",
+    "add_channel": "Lisää Kanava",
+    "need_setup": "Need Setup",
+    "message": "Message",
+    "embed": "Embed"
 }
