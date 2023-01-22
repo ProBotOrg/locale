@@ -363,7 +363,7 @@
     "embed_save": "ЗБЕРЕГТИ ЗМІНИ",
     "embed_send": "НАДІСЛАТИ НОВЕ ПОВІДОМЛЕННЯ",
     "embed_edit": "РЕДАГУВАТИ",
-    "embed_delete": "ВИДАЛИТИ ПОВІДОМЛЕННЯ",
+    "embed_delete": "ВИДАЛИТИ",
     "embed_choosechannel": "Виберіть канал",
     "embed_choosemsg": "Виберіть повідомлення",
     "embed_selectone": "виберіть повідомлення або створіть його :)",
@@ -790,7 +790,7 @@
     "welcome_reset_description": "Скинути всі координати привітання до початкових налаштувань",
     "reset": "Скинути",
     "add_channel": "Додати канал",
-    "need_setup": "Need Setup",
-    "message": "Message",
+    "need_setup": "Потрібне налаштування",
+    "message": "Повідомлення",
     "embed": "Embed"
 }
