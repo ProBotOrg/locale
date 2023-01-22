@@ -788,5 +788,9 @@
     "twitch_message": "**{0}** está transmitindo agora! 🎬\nVenha juntar-se a nós agora e não perca os momentos crocantes! 🔥\n{1}",
     "welcome_reset_coordinates": "Redefinir coordenadas",
     "welcome_reset_description": "Redefinir todas as coordenadas de boas-vindas para suas configurações padrão",
-    "reset": "Redefinir"
+    "reset": "Redefinir",
+    "add_channel": "Adicionar canal",
+    "need_setup": "Need Setup",
+    "message": "Message",
+    "embed": "Embed"
 }
