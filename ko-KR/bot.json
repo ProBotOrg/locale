@@ -540,5 +540,14 @@
 	"rolekick_command_enable": ":x: 사용하기 전 먼저 해당 명령어를 사용해야 해요. `{0}`",
 	"rolekick_started": "멤버를 추방하고 있어요...\n추방한 역할: {0}\n제외된 역할: {1}",
 	"rolekick_success": "✅ **{1}** 역할이 있는 멤버 **{0}**명을 추방했어요",
-	"rolekick_no_role": "제외된 역할이 없어요."
+	"rolekick_no_role": "제외된 역할이 없어요.",
+	"channel_old_name": "**Old Name**",
+	"channel_new_name": "**New Name**",
+	"channel_old_topic": "**Old Topic**",
+	"channel_new_topic": "**New Topic**",
+	"channel_nsfw": "**NSFW**",
+	"channel_old_slowmode": "**Old Slowmode**",
+	"channel_new_slowmode": "**New Slowmode**",
+	"channel_old_bitrate": "**Old Bitrate**",
+	"channel_new_bitrate": "**New Bitrate**"
 }
