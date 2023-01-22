@@ -540,5 +540,14 @@
 	"rolekick_command_enable": ":x: Ви повинні спочатку увімкнути цю команду, перш ніж використовувати її. `{0}`",
 	"rolekick_started": "Почали вигнання учасників ...\nРоль для вигнання: {0}\nВиключна роль: {1}\n",
 	"rolekick_success": "✅ Успішно вигнано **{0}** учасників з роллю **{1}**",
-	"rolekick_no_role": "Немає жодної виключної ролі."
+	"rolekick_no_role": "Немає жодної виключної ролі.",
+	"channel_old_name": "**Old Name**",
+	"channel_new_name": "**New Name**",
+	"channel_old_topic": "**Old Topic**",
+	"channel_new_topic": "**New Topic**",
+	"channel_nsfw": "**NSFW**",
+	"channel_old_slowmode": "**Old Slowmode**",
+	"channel_new_slowmode": "**New Slowmode**",
+	"channel_old_bitrate": "**Old Bitrate**",
+	"channel_new_bitrate": "**New Bitrate**"
 }
