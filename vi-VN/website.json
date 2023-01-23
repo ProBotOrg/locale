@@ -790,7 +790,7 @@
     "welcome_reset_description": "Đặt lại vị trí các thành phần của ảnh chào mừng về nguyên bản",
     "reset": "Đặt lại",
     "add_channel": "Thêm kênh",
-    "need_setup": "Need Setup",
-    "message": "Message",
+    "need_setup": "Cần thiết lập",
+    "message": "Tin nhắn",
     "embed": "Embed"
 }
