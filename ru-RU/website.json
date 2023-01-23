@@ -790,7 +790,7 @@
     "welcome_reset_description": "Сбросить все координаты для приветственного сообщения к их изначальным настройкам",
     "reset": "Сбросить",
     "add_channel": "Добавить канал",
-    "need_setup": "Need Setup",
-    "message": "Message",
+    "need_setup": "Необходима настройка",
+    "message": "Сообщение",
     "embed": "Embed"
 }
