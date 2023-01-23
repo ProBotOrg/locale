@@ -790,7 +790,7 @@
     "welcome_reset_description": "모든 환영 인사 좌표를 기본값으로 초기화해요",
     "reset": "초기화",
     "add_channel": "새 채널",
-    "need_setup": "Need Setup",
-    "message": "Message",
-    "embed": "Embed"
+    "need_setup": "설정 필요",
+    "message": "메시지",
+    "embed": "임베드"
 }
