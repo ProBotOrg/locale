@@ -541,13 +541,13 @@
 	"rolekick_started": "Expulsão dos membros iniciada...\nCargo expulso: {0}\nCargo excluído: {1}",
 	"rolekick_success": "✅ Expulsou **{0}** membros com o cargo **{1}** com sucesso ",
 	"rolekick_no_role": "Nenhum cargo foi excluído.",
-	"channel_old_name": "**Old Name**",
-	"channel_new_name": "**New Name**",
-	"channel_old_topic": "**Old Topic**",
-	"channel_new_topic": "**New Topic**",
+	"channel_old_name": "**Antigo Nome**",
+	"channel_new_name": "**Novo Nome**",
+	"channel_old_topic": "**Antigo Tópico**",
+	"channel_new_topic": "**Novo Tópico**",
 	"channel_nsfw": "**NSFW**",
-	"channel_old_slowmode": "**Old Slowmode**",
-	"channel_new_slowmode": "**New Slowmode**",
-	"channel_old_bitrate": "**Old Bitrate**",
-	"channel_new_bitrate": "**New Bitrate**"
+	"channel_old_slowmode": "**Antigo Modo Lento**",
+	"channel_new_slowmode": "**Novo Modo Lento**",
+	"channel_old_bitrate": "**Antigo Bitrate**",
+	"channel_new_bitrate": "**Novo Bitrate**"
 }
