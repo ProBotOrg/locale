@@ -543,11 +543,11 @@
 	"rolekick_no_role": "لا يوجد رتبة استثنائية.",
 	"channel_old_name": "**الاسم القديم**",
 	"channel_new_name": "**الاسم الجديد**",
-	"channel_old_topic": "**الموضوع القديم**",
-	"channel_new_topic": "**الموضوع الجديد**",
+	"channel_old_topic": "**التوبك القديم**",
+	"channel_new_topic": "**التوبك الجديد**",
 	"channel_nsfw": "**غير آمن للعمل**",
-	"channel_old_slowmode": "**وضع البطء القديم**",
-	"channel_new_slowmode": "**وضع البطء الجديد**",
+	"channel_old_slowmode": "**سلو مود السابق**",
+	"channel_new_slowmode": "**سلو مود الجديد**",
 	"channel_old_bitrate": "**معدل البث القديم**",
 	"channel_new_bitrate": "**معدل البث الجديد**"
 }
