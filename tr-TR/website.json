@@ -790,7 +790,7 @@
     "welcome_reset_description": "Tüm karşılayıcı koordinatlarını varsayılan ayarlarına sıfırlayın",
     "reset": "Sıfırla",
     "add_channel": "Kanal Ekle",
-    "need_setup": "Need Setup",
-    "message": "Message",
-    "embed": "Embed"
+    "need_setup": "Kurulum Gerekiyor",
+    "message": "Mesaj",
+    "embed": "Gömülü"
 }
