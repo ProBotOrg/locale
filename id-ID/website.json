@@ -790,7 +790,7 @@
     "welcome_reset_description": "Setel ulang semua koordinat sambutan ke setelan default",
     "reset": "Mengatur ulang",
     "add_channel": "Tambahkan Saluran",
-    "need_setup": "Need Setup",
-    "message": "Message",
-    "embed": "Embed"
+    "need_setup": "Perlu Pengaturan",
+    "message": "Pesan",
+    "embed": "Menanamkan"
 }
