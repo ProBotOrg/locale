@@ -540,5 +540,14 @@
 	"rolekick_command_enable": ":x: Du musst zuerst diesen Befehl aktivieren, bevor du ihn verwenden kannst. `{0}`",
 	"rolekick_started": "Starte das Kicken von Mitgliedern ...\nGekickte Rolle: {0}\nAusgeschlossene Rolle: {1}",
 	"rolekick_success": "✅ Erfolgreich **{0}** Mitglieder mit der **{1}** Rolle gekickt",
-	"rolekick_no_role": "Es gibt keine Rolle, die ausgeschlossen wurde."
+	"rolekick_no_role": "Es gibt keine Rolle, die ausgeschlossen wurde.",
+	"channel_old_name": "**Old Name**",
+	"channel_new_name": "**New Name**",
+	"channel_old_topic": "**Old Topic**",
+	"channel_new_topic": "**New Topic**",
+	"channel_nsfw": "**NSFW**",
+	"channel_old_slowmode": "**Old Slowmode**",
+	"channel_new_slowmode": "**New Slowmode**",
+	"channel_old_bitrate": "**Old Bitrate**",
+	"channel_new_bitrate": "**New Bitrate**"
 }

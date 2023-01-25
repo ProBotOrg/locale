@@ -788,5 +788,9 @@
     "twitch_message": "**{0}** diffuse maintenant ! 🎬\nVenez nous rejoindre maintenant et ne manquez pas les moments croustillants! 🔥\n{1}",
     "welcome_reset_coordinates": "Réinitialiser les coordonnées",
     "welcome_reset_description": "Réinitialiser toutes les coordonnées de bienvenue à leurs paramètres par défaut",
-    "reset": "Réinitialiser"
+    "reset": "Réinitialiser",
+    "add_channel": "Ajouter un Salon",
+    "need_setup": "Configuration requise",
+    "message": "Message",
+    "embed": "Embed"
 }

@@ -540,5 +540,14 @@
 	"rolekick_command_enable": ":x: Primero debes habilitar ese comando antes de poder usarlo. `{0}`",
 	"rolekick_started": "Empezando a expulsar a los miembros ...\nRol expulsado: {0}\nRol excluido: {1}",
 	"rolekick_success": "✅ Se ha expulsado con éxito a **{0}** miembros con el rol **{1}**.",
-	"rolekick_no_role": "No se ha excluido ningún rol."
+	"rolekick_no_role": "No se ha excluido ningún rol.",
+	"channel_old_name": "**Old Name**",
+	"channel_new_name": "**New Name**",
+	"channel_old_topic": "**Old Topic**",
+	"channel_new_topic": "**New Topic**",
+	"channel_nsfw": "**NSFW**",
+	"channel_old_slowmode": "**Old Slowmode**",
+	"channel_new_slowmode": "**New Slowmode**",
+	"channel_old_bitrate": "**Old Bitrate**",
+	"channel_new_bitrate": "**New Bitrate**"
 }

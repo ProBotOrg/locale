@@ -540,5 +540,14 @@
 	"rolekick_command_enable": ":x: Você deve primeiro ativar esse comando antes de poder usá-lo. `{0}`",
 	"rolekick_started": "Começou a expulsar membros ...\nCargo expulso: {0}\nCargo excluída: {1}",
 	"rolekick_success": "✅ Expulsado com sucesso **{0}** membros com o cargo **{1}**",
-	"rolekick_no_role": "Não há nenhum cargo que tenha sido excluído."
+	"rolekick_no_role": "Não há nenhum cargo que tenha sido excluído.",
+	"channel_old_name": "**Nome antigo**",
+	"channel_new_name": "**Nome novo**",
+	"channel_old_topic": "**Tópico antigo**",
+	"channel_new_topic": "**Tópico novo**",
+	"channel_nsfw": "**NSFW**",
+	"channel_old_slowmode": "**Modo lento antigo**",
+	"channel_new_slowmode": "**Modo lento novo**",
+	"channel_old_bitrate": "Taxa de bits antiga",
+	"channel_new_bitrate": "**Taxa de bits novo**"
 }

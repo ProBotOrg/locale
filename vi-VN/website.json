@@ -788,5 +788,9 @@
     "twitch_message": "**{0}** hiện đang stream! 🎬\nCùng vào xem và tận hưởng những khoảnh khắc tuyệt vời nào! 🔥\n{1}",
     "welcome_reset_coordinates": "Đặt lại tọa độ",
     "welcome_reset_description": "Đặt lại vị trí các thành phần của ảnh chào mừng về nguyên bản",
-    "reset": "Đặt lại"
+    "reset": "Đặt lại",
+    "add_channel": "Thêm kênh",
+    "need_setup": "Cần thiết lập",
+    "message": "Tin nhắn",
+    "embed": "Embed"
 }

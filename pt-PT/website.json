@@ -788,5 +788,9 @@
     "twitch_message": "**{0}** está numa stream agora! 🎬\nVenha agora e junta-te a nós para não perder os melhores momentos! 🔥\n{1}",
     "welcome_reset_coordinates": "Repor Coordenadas",
     "welcome_reset_description": "Repor as boas-vindas para as coordenadas padrão",
-    "reset": "Repor"
+    "reset": "Repor",
+    "add_channel": "Adicionar Canal",
+    "need_setup": "Configuração Requerida",
+    "message": "Mensagem",
+    "embed": "Embed"
 }

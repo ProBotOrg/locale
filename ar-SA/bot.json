@@ -540,5 +540,14 @@
 	"rolekick_command_enable": ":x: يجب عليك أولاً تمكين هذا الأمر قبل أن تستطيع استخدامه. `{0}`",
 	"rolekick_started": "بدأ طرد الأعضاء ...\nطرد أعضاء رتبة: {0}\nرتبة استثنائية: {1}\n",
 	"rolekick_success": "✅ تم طرد **{0}** أعضاء من رتبة **{1}**",
-	"rolekick_no_role": "لا يوجد رتبة استثنائية."
+	"rolekick_no_role": "لا يوجد رتبة استثنائية.",
+	"channel_old_name": "**الاسم القديم**",
+	"channel_new_name": "**الاسم الجديد**",
+	"channel_old_topic": "**التوبك القديم**",
+	"channel_new_topic": "**التوبك الجديد**",
+	"channel_nsfw": "**غير آمن للعمل**",
+	"channel_old_slowmode": "**سلو مود السابق**",
+	"channel_new_slowmode": "**سلو مود الجديد**",
+	"channel_old_bitrate": "**معدل البث القديم**",
+	"channel_new_bitrate": "**معدل البث الجديد**"
 }

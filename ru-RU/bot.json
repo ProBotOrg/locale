@@ -540,5 +540,14 @@
 	"rolekick_command_enable": ":x: Сначала вы должны включить эту команду перед тем, как вы сможете её использовать. `{0}`",
 	"rolekick_started": "Кик участников начался …\nРоль для кика: {0}\nИсключая роль: {1}",
 	"rolekick_success": "✅ Успешно кикнуты **{0}** участников с ролью **{1}**",
-	"rolekick_no_role": "Нет роли в качестве исключения."
+	"rolekick_no_role": "Нет роли в качестве исключения.",
+	"channel_old_name": "**Старое имя**",
+	"channel_new_name": "**Новое имя**",
+	"channel_old_topic": "**Старая тема**",
+	"channel_new_topic": "**Новая тема**",
+	"channel_nsfw": "**NSFW**",
+	"channel_old_slowmode": "**Старый слоумод**",
+	"channel_new_slowmode": "**Новый слоумод**",
+	"channel_old_bitrate": "**Старый битрейт**",
+	"channel_new_bitrate": "**Новый битрейт**"
 }

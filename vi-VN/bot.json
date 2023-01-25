@@ -540,5 +540,14 @@
 	"rolekick_command_enable": ":x: Bạn cần phải kích hoạt lệnh trước khi sử dụng nó. `{0}`",
 	"rolekick_started": "Đang đá bớt người dùng...\nVai trò để đá: {0}\nVai trò ngoại trừ: {1}",
 	"rolekick_success": "✅ Đã đá **{0}** thành viên với vai trò **{1}** ra khỏi server",
-	"rolekick_no_role": "Không có vai trò ngoại trừ nào."
+	"rolekick_no_role": "Không có vai trò ngoại trừ nào.",
+	"channel_old_name": "**Tên cũ**",
+	"channel_new_name": "**Tên mới**",
+	"channel_old_topic": "**Chủ đề cũ**",
+	"channel_new_topic": "**Chủ đề mới**",
+	"channel_nsfw": "**NSFW**",
+	"channel_old_slowmode": "**Chế độ chậm cũ**",
+	"channel_new_slowmode": "**Chế độ chậm mới**",
+	"channel_old_bitrate": "**Băng tầng cũ**",
+	"channel_new_bitrate": "**Băng tầng mới**"
 }
