@@ -400,7 +400,7 @@
 	"temp_on_description": "slå midlertidige kanaler til.",
 	"temp_off_description": "slå midlertidige kanaler fra.",
 	"temp_time_description": "Tid til at slette temp kanalen i sekunder.",
-	"temp_seconds_description": "Time the voice channel.",
+	"temp_seconds_description": "Tid stemmekanalen.",
 	"temp_max_description": "Max channels user can create at the same time.",
 	"temp_max_number_description": "Max channels users can create, 0 is unlimited.",
 	"role_gives_description": "Gives a role to a user.",
