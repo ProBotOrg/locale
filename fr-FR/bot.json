@@ -541,13 +541,13 @@
 	"rolekick_started": "Commencé à virer des membres...\nRôle expulsé : {0}\nRôle exclu : {1}",
 	"rolekick_success": "✅ **{0}** membres avec le rôle **{1}** ont été expulsés avec succès",
 	"rolekick_no_role": "Aucun rôle n'a été exclu.",
-	"channel_old_name": "**Old Name**",
-	"channel_new_name": "**New Name**",
-	"channel_old_topic": "**Old Topic**",
-	"channel_new_topic": "**New Topic**",
+	"channel_old_name": "**Ancien nom**",
+	"channel_new_name": "**Nouveau nom**",
+	"channel_old_topic": "**Vieux sujet**",
+	"channel_new_topic": "**Nouveau sujet**",
 	"channel_nsfw": "**NSFW**",
-	"channel_old_slowmode": "**Old Slowmode**",
-	"channel_new_slowmode": "**New Slowmode**",
-	"channel_old_bitrate": "**Old Bitrate**",
-	"channel_new_bitrate": "**New Bitrate**"
+	"channel_old_slowmode": "**Ancien ralenti**",
+	"channel_new_slowmode": "**Nouveau ralenti**",
+	"channel_old_bitrate": "**Ancien débit**",
+	"channel_new_bitrate": "**Nouveau débit**"
 }
