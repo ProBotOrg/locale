@@ -440,7 +440,7 @@
 	"resume_description": "Reprend la piste actuellement en pause.\n",
 	"setlang_description": "Définit votre langue préférée au bot.",
 	"setlang_language_description": "Langue vers changer à.",
-	"unmute_description": "Rétablit le son d'un membre.",
+	"unmute_description": "Rétablit le micro d'un membre.",
 	"muted_both": ":white_check_mark: **@{0} a été muet à la fois du texte et de la voix! :zipper_mouth:**",
 	"slowmode_set": "Ce mode de ralentissement du salon a été réglé sur {0}.",
 	"slowmode_should": "Le temps doit être inférieur ou égal à {0}.",
