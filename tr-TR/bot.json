@@ -2,7 +2,7 @@
 	"choose_reason": "Bir sebep seçin",
 	"reason_cancel": "İptal",
 	"rank_description": "Kendinizin veya başka birinin sunucu rank kartını görüntüleyin.",
-	"clear_description": "Bir kanaldan mesajları temizler.",
+	"clear_description": "Kanaldaki mesajları temizler.",
 	"moveme_description": "Sizi başka bir sesli kanala taşır.",
 	"profile_description": "Kendinizin veya bir başkasının özelleştirilebilir kişisel global profil kartını görüntüler.",
 	"top_description": "Sunucudaki en aktif üyeleri görüntüler",
@@ -543,11 +543,11 @@
 	"rolekick_no_role": "Hariç tutulan hiçbir rol yoktur.",
 	"channel_old_name": "**Eski İsim**",
 	"channel_new_name": "**Yeni İsim**",
-	"channel_old_topic": "**Old Topic**",
-	"channel_new_topic": "**New Topic**",
+	"channel_old_topic": "**Eski Başlık**",
+	"channel_new_topic": "**Yeni Başlık**",
 	"channel_nsfw": "**NSFW**",
-	"channel_old_slowmode": "**Old Slowmode**",
-	"channel_new_slowmode": "**New Slowmode**",
-	"channel_old_bitrate": "**Old Bitrate**",
-	"channel_new_bitrate": "**New Bitrate**"
+	"channel_old_slowmode": "**Eski Yavaş Mod**",
+	"channel_new_slowmode": "**Yeni Yavaş Mod**",
+	"channel_old_bitrate": "**Eski Bit Hızı**",
+	"channel_new_bitrate": "**Yeni Bit Hızı**"
 }

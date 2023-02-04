@@ -252,7 +252,7 @@
     "join_leaves": "Вошли/Вышли",
     "overview_time": "За последние 24ч",
     "charts_over": "Статистика за",
-    "PROTECTION_ACCESS": "Кто может получить доступ к панели управления ProBot?",
+    "PROTECTION_ACCESS": "Кто может получить доступ к панели управления ProBot",
     "PROTECTION_ACCESS_ANY_ADMINISTRATOR": "Любые пользователи с правами администратора",
     "PROTECTION_ACCESS_MEMBERS": "Владелец + Конкретные пользователи с правами администратора",
     "MEMBERS": "Участники",
