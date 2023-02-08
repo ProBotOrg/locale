@@ -793,5 +793,8 @@
     "add_channel": "Add Channel", 
     "need_setup": "Need Setup", 
     "message": "Message", 
-    "embed": "Embed"
+    "embed": "Embed", 
+    "daily_onboarding_head": "Double your rewards!",
+    "daily_onboarding_text": "Build your streak and double your rewards by claiming your daily reward every day!", 
+    "daily_onboarding_got_it": "Got it"
 }
