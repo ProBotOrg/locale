@@ -790,11 +790,11 @@
     "welcome_reset_description": "إعادة تعيين جميع إحداثيات الترحيب إلى الإعدادات الافتراضية",
     "reset": "إعادة تعيين",
     "add_channel": "إضافة قناة",
-    "need_setup": "بحاجة إلى الإعداد",
-    "message": "رسالة",
-    "embed": "ايمبد",
-    "daily_onboarding_head": "Double your rewards!",
-    "daily_onboarding_text": "Build your streak and double your rewards by claiming your daily reward every day!",
-    "got_it": "Got it",
-    "daily_come_back": "Come back everyday to earn extra credits!"
+    "need_setup": "بحاجة إلى التعيين",
+    "message": "الرسالة",
+    "embed": "إيمبيد",
+    "daily_onboarding_head": "ضاعف مكافأتك!",
+    "daily_onboarding_text": "قم ببناء تقدمك و ضاعف مكافآتك بالحصول على مكافآتك اليومية كل يوم!  ",
+    "got_it": "فهمت ذلك",
+    "daily_come_back": "عد كل يوم لكسب كريديت إضافي!"
 }
