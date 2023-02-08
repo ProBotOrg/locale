@@ -792,5 +792,9 @@
     "add_channel": "Tambahkan Saluran",
     "need_setup": "Perlu Pengaturan",
     "message": "Pesan",
-    "embed": "Menanamkan"
+    "embed": "Menanamkan",
+    "daily_onboarding_head": "Double your rewards!",
+    "daily_onboarding_text": "Build your streak and double your rewards by claiming your daily reward every day!",
+    "got_it": "Got it",
+    "daily_come_back": "Come back everyday to earn extra credits!"
 }
