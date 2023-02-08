@@ -792,5 +792,9 @@
     "add_channel": "새 채널",
     "need_setup": "설정 필요",
     "message": "메시지",
-    "embed": "임베드"
+    "embed": "임베드",
+    "daily_onboarding_head": "Double your rewards!",
+    "daily_onboarding_text": "Build your streak and double your rewards by claiming your daily reward every day!",
+    "got_it": "Got it",
+    "daily_come_back": "Come back everyday to earn extra credits!"
 }
