@@ -805,7 +805,7 @@
     "twitch_embed": "ايمبد",
     "twitch_message_content": "محتوى الرسالة",
     "twitch_channel_name_required": "اسم القناة مطلوب",
-    "twitch_only_1_beta": "يسمح بقناة واحدة فقط لكل خادم في الإصدار التجريبي",
+    "twitch_only_1_beta": "يسمح بقناة تويتش واحدة فقط لكل خادم في الإصدار التجريبي",
     "required": "مطلوب",
     "easy_embed_color": "لون",
     "easy_embed_author_name": "اسم الكاتب",
