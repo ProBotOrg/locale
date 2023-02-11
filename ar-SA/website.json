@@ -800,7 +800,7 @@
     "twitch_add_channel": "إضافة قناة",
     "twitch_need_setup": "بحاجة إلى الإعداد",
     "twitch_username": "إسم المستخدم",
-    "twitch_send_to_channel": "إرسال الى روم",
+    "twitch_send_to_channel": "إرسال إلى روم",
     "twitch_content": "محتوى",
     "twitch_embed": "ايمبد",
     "twitch_message_content": "محتوى الرسالة",
@@ -815,5 +815,5 @@
     "easy_embed_add_field": "أضف حقل",
     "easy_embed_field_title": "عنوان الحقل",
     "easy_embed_field_value": "قيمة الحقل",
-    "easy_embed_footer_text": "نص الذيل"
+    "easy_embed_footer_text": "نص الفوتر"
 }
