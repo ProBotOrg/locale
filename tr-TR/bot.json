@@ -549,5 +549,6 @@
 	"channel_old_slowmode": "**Eski Yavaş Mod**",
 	"channel_new_slowmode": "**Yeni Yavaş Mod**",
 	"channel_old_bitrate": "**Eski Bit Hızı**",
-	"channel_new_bitrate": "**Yeni Bit Hızı**"
+	"channel_new_bitrate": "**Yeni Bit Hızı**",
+	"clear_FBB_description": "Filter by bots messages."
 }
