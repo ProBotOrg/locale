@@ -549,5 +549,6 @@
 	"channel_old_slowmode": "**Старий повільний режим**",
 	"channel_new_slowmode": "**Новий повільний режим**",
 	"channel_old_bitrate": "**Старий бітрейт**",
-	"channel_new_bitrate": "**Новий бітрейт**"
+	"channel_new_bitrate": "**Новий бітрейт**",
+	"clear_FBB_description": "Filter by bots messages."
 }
