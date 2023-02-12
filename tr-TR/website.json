@@ -785,7 +785,7 @@
     "premium_bot_customization": "BOT ÖZELLEŞTİRME",
     "twitch_name": "Yayıncı Adı",
     "twitch_link": "Yayın Bağlantısı",
-    "twitch_message": "**{0}** şu anda yayında! 🎬\nHemen bize katılın ve canlı anları kaçırmayın! 🔥\n{1}",
+    "twitch_message": "Mesaj",
     "welcome_reset_coordinates": "Koordinatları Sıfırla",
     "welcome_reset_description": "Tüm karşılayıcı koordinatlarını varsayılan ayarlarına sıfırlayın",
     "reset": "Sıfırla",
