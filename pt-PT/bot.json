@@ -549,5 +549,6 @@
 	"channel_old_slowmode": "**Antigo Modo Lento**",
 	"channel_new_slowmode": "**Novo Modo Lento**",
 	"channel_old_bitrate": "**Antigo Bitrate**",
-	"channel_new_bitrate": "**Novo Bitrate**"
+	"channel_new_bitrate": "**Novo Bitrate**",
+	"clear_FBB_description": "Filter by bots messages."
 }
