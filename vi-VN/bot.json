@@ -549,5 +549,6 @@
 	"channel_old_slowmode": "**Chế độ chậm cũ**",
 	"channel_new_slowmode": "**Chế độ chậm mới**",
 	"channel_old_bitrate": "**Băng tầng cũ**",
-	"channel_new_bitrate": "**Băng tầng mới**"
+	"channel_new_bitrate": "**Băng tầng mới**",
+	"clear_FBB_description": "Filter by bots messages."
 }
