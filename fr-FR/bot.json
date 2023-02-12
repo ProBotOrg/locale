@@ -549,5 +549,6 @@
 	"channel_old_slowmode": "**Ancien ralenti**",
 	"channel_new_slowmode": "**Nouveau ralenti**",
 	"channel_old_bitrate": "**Ancien débit**",
-	"channel_new_bitrate": "**Nouveau débit**"
+	"channel_new_bitrate": "**Nouveau débit**",
+	"clear_FBB_description": "Filter by bots messages."
 }

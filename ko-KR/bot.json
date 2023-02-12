@@ -549,5 +549,6 @@
 	"channel_old_slowmode": "**이전 슬로우모드 기간**",
 	"channel_new_slowmode": "**현재 슬로우모드 기간**",
 	"channel_old_bitrate": "**이전 비트레이트 값**",
-	"channel_new_bitrate": "**현재 비트레이트 값**"
+	"channel_new_bitrate": "**현재 비트레이트 값**",
+	"clear_FBB_description": "Filter by bots messages."
 }
