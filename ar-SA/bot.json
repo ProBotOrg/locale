@@ -549,5 +549,6 @@
 	"channel_old_slowmode": "**سلو مود السابق**",
 	"channel_new_slowmode": "**سلو مود الجديد**",
 	"channel_old_bitrate": "**معدل البث القديم**",
-	"channel_new_bitrate": "**معدل البث الجديد**"
+	"channel_new_bitrate": "**معدل البث الجديد**",
+	"clear_FBB_description": "Filter by bots messages."
 }
