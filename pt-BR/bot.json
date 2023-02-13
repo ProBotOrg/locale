@@ -501,5 +501,6 @@
 	"channel_new_slowmode": "**Modo lento novo**",
 	"channel_old_bitrate": "Taxa de bits antiga",
 	"channel_new_bitrate": "**Taxa de bits novo**",
-	"clear_FBB_description": "Vou"
+	"clear_FBB_description": "Vou",
+	"top_must_type": "You must select a type before you can view the page filter."
 }
