@@ -501,5 +501,6 @@
 	"channel_new_slowmode": "**New Slowmode**",
 	"channel_old_bitrate": "**Régi bitráta**",
 	"channel_new_bitrate": "**Új bitráta**",
-	"clear_FBB_description": "Filter by bots messages."
+	"clear_FBB_description": "Filter by bots messages.",
+	"top_must_type": "You must select a type before you can view the page filter."
 }
