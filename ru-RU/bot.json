@@ -501,5 +501,6 @@
 	"channel_new_slowmode": "**Новый слоумод**",
 	"channel_old_bitrate": "**Старый битрейт**",
 	"channel_new_bitrate": "**Новый битрейт**",
-	"clear_FBB_description": "Фильтровать по сообщениям ботов."
+	"clear_FBB_description": "Фильтровать по сообщениям ботов.",
+	"top_must_type": "You must select a type before you can view the page filter."
 }
