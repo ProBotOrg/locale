@@ -383,7 +383,7 @@
 	"all_value": "全部",
 	"bots_value": "機器人",
 	"humans_value": "人類",
-	"humans_role": "All With Role",
+	"humans_role": ".\n",
 	"text_value": "文字",
 	"voice_value": "語音",
 	"invite_value": "邀請",
