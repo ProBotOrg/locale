@@ -820,7 +820,7 @@
     "billing_card_details": "معلومات البطاقة",
     "billing_billing_to": "الدفع الى\n",
     "billing_postal_code": "الرمز البريدي",
-    "billing_city": "مدينة",
+    "billing_city": "المدينة",
     "continue": "متابعة",
     "back": "عودة",
     "billing_by_clicking": "بالنقر على “{0}” فإنك توافق على {1}، {2} و {3}.",
