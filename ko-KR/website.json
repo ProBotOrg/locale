@@ -815,5 +815,15 @@
     "easy_embed_add_field": "필드 추가",
     "easy_embed_field_title": "Field Title",
     "easy_embed_field_value": "Field Value",
-    "easy_embed_footer_text": "Footer Text"
+    "easy_embed_footer_text": "Footer Text",
+    "premium_renew_subscription": "Renew Subscription",
+    "billing_card_details": "Card Details",
+    "billing_billing_to": "Billing To",
+    "bulling_postal_code": "Postal Code",
+    "billing_city": "City",
+    "continue": "Continue",
+    "back": "Back",
+    "billing_by_clicking": "By clicking “{0}” you agree to {1}, {2} and {3}.",
+    "review": "Review",
+    "total": "Total"
 }
