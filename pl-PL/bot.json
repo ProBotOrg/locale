@@ -502,5 +502,5 @@
 	"channel_old_bitrate": "**Stary Bitrate**",
 	"channel_new_bitrate": "**Nowy Bitrate**",
 	"clear_FBB_description": "Filtruj według wiadomości botów.",
-	"top_must_type": "You must select a type before you can view the page filter."
+	"top_must_type": "Musisz wybrać typ, zanim będziesz mógł wyświetlić filtr strony."
 }
