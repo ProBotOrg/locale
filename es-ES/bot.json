@@ -501,6 +501,6 @@
 	"channel_new_slowmode": "**Modo Lento Nuevo**",
 	"channel_old_bitrate": "**Velocidad de Bits Antiguo**",
 	"channel_new_bitrate": "**Velocidad de Bits Nuevo**",
-	"clear_FBB_description": "Filter by bots messages.",
-	"top_must_type": "You must select a type before you can view the page filter."
+	"clear_FBB_description": "Filtrar por mensajes de bots.",
+	"top_must_type": "Debe seleccionar un tipo antes de poder ver el filtro de la página."
 }
