@@ -502,5 +502,5 @@
 	"channel_old_bitrate": "**以前のビットレート**",
 	"channel_new_bitrate": "**新しいビットレート**",
 	"clear_FBB_description": "Botメッセージで絞り込みます。",
-	"top_must_type": "You must select a type before you can view the page filter."
+	"top_must_type": "ページフィルタを表示するには、まずタイプを選択してください。"
 }
