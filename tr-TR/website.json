@@ -398,7 +398,7 @@
     "link_waittext": "** Yeni bir link istemeden önce 6 saat beklemelisiniz\n⏰[time] **",
     "leveling_title": "Seviye Sistemi",
     "leveling_levelup_message": "YAZI SEVİYE ATLAMA Mesajı",
-    "leveling_text_levelup_channel": "YAZI SEVİYE ATLAMA KANALI",
+    "leveling_text_levelup_channel": "SEVİYE ATLAMA DUYURUSU KANALI",
     "leveling_text_level": "Yazı Seviyesi",
     "leveling_voice_level": "Ses Seviyesi",
     "leveling_rewarded_role": "Ödül rol",

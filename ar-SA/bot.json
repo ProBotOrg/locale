@@ -501,5 +501,6 @@
 	"channel_new_slowmode": "**سلو مود الجديد**",
 	"channel_old_bitrate": "**معدل البث القديم**",
 	"channel_new_bitrate": "**معدل البث الجديد**",
-	"clear_FBB_description": "تصفية رسائل البوتات."
+	"clear_FBB_description": "تصفية رسائل البوتات.",
+	"top_must_type": "يجب عليك تحديد نوع قبل أن تتمكن من عرض تصفية الصفحة."
 }
