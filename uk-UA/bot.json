@@ -502,5 +502,5 @@
 	"channel_old_bitrate": "**Старий бітрейт**",
 	"channel_new_bitrate": "**Новий бітрейт**",
 	"clear_FBB_description": "Фільтрувати за повідомленнями ботів.",
-	"top_must_type": "You must select a type before you can view the page filter."
+	"top_must_type": "Перш ніж переглянути фільтр сторінок, вам потрібно вибрати тип."
 }
