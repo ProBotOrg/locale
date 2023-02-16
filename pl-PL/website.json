@@ -815,5 +815,15 @@
     "easy_embed_add_field": "Dodaj pole",
     "easy_embed_field_title": "Tytuł pola",
     "easy_embed_field_value": "Wartość pola",
-    "easy_embed_footer_text": "Tekst stopki"
+    "easy_embed_footer_text": "Tekst stopki",
+    "premium_renew_subscription": "Odnów Subskrypcję",
+    "billing_card_details": "Dane karty",
+    "billing_billing_to": "Rozliczenie Na",
+    "billing_postal_code": "Kod Pocztowy",
+    "billing_city": "Miasto",
+    "continue": "Kontynuuj",
+    "back": "Cofnij",
+    "billing_by_clicking": "Klikając \"{0}\" zgadzasz się na {1}, {2} oraz {3}.",
+    "review": "Przegląd",
+    "total": "Suma"
 }

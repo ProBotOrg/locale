@@ -815,5 +815,15 @@
     "easy_embed_add_field": "أضف حقل",
     "easy_embed_field_title": "عنوان الحقل",
     "easy_embed_field_value": "قيمة الحقل",
-    "easy_embed_footer_text": "نص الفوتر"
+    "easy_embed_footer_text": "نص الفوتر",
+    "premium_renew_subscription": "تجديد الاشتراك",
+    "billing_card_details": "معلومات البطاقة",
+    "billing_billing_to": "عنوان وصول الفواتير",
+    "billing_postal_code": "الرمز البريدي",
+    "billing_city": "المدينة",
+    "continue": "متابعة",
+    "back": "عودة",
+    "billing_by_clicking": "بالنقر على “{0}” فإنك توافق على {1}، {2} و {3}.",
+    "review": "مراجعة ",
+    "total": "الإجمالي"
 }

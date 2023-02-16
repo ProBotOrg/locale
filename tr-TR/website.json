@@ -795,7 +795,7 @@
     "embed": "Gömülü",
     "daily_onboarding_head": "Ödüllerinizi ikiye katlayın!",
     "daily_onboarding_text": "Her gün günlük kredinizi alarak seriye bağlayıp ödüllerinizi ikiye katlayın!",
-    "got_it": "Got it",
+    "got_it": "Anladım",
     "daily_come_back": "Ekstra kredi kazanmak için her gün geri gelin!",
     "twitch_add_channel": "Kanal Ekle",
     "twitch_need_setup": "Kurulum Gerekiyor",
@@ -815,5 +815,15 @@
     "easy_embed_add_field": "Alan Ekle",
     "easy_embed_field_title": "Alan Başlığı",
     "easy_embed_field_value": "Alan Değeri",
-    "easy_embed_footer_text": "Altbilgi Metni"
+    "easy_embed_footer_text": "Altbilgi Metni",
+    "premium_renew_subscription": "Aboneliği Yenile",
+    "billing_card_details": "Kart Bilgileri",
+    "billing_billing_to": "Fatura Adresi",
+    "billing_postal_code": "Posta Kodu",
+    "billing_city": "Şehir",
+    "continue": "Devam",
+    "back": "Geri",
+    "billing_by_clicking": "\"{0}\" butonuna tıklayarak {1}, {2} ve {3} koşullarını kabul etmiş olursunuz.",
+    "review": "Gözden Geçir",
+    "total": "Toplam"
 }

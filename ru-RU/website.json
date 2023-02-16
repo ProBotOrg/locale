@@ -815,5 +815,15 @@
     "easy_embed_add_field": "Добавить поле",
     "easy_embed_field_title": "Заголовок поля",
     "easy_embed_field_value": "Значение поля",
-    "easy_embed_footer_text": "Текст футера"
+    "easy_embed_footer_text": "Текст футера",
+    "premium_renew_subscription": "Продлить подписку",
+    "billing_card_details": "Данные карты",
+    "billing_billing_to": "Кому оплатить",
+    "billing_postal_code": "Почтовый индекс",
+    "billing_city": "Город",
+    "continue": "Продолжить",
+    "back": "Назад",
+    "billing_by_clicking": "Нажимая на “{0}”, вы соглашаетесь с {1}, {2} и {3}.",
+    "review": "Проверка",
+    "total": "Итого"
 }
