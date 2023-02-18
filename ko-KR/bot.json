@@ -501,6 +501,6 @@
 	"channel_new_slowmode": "**현재 슬로우모드 기간**",
 	"channel_old_bitrate": "**이전 비트레이트 값**",
 	"channel_new_bitrate": "**현재 비트레이트 값**",
-	"clear_FBB_description": "Filter by bots messages.",
-	"top_must_type": "You must select a type before you can view the page filter."
+	"clear_FBB_description": "봇이 보낸 메시지로 필터링",
+	"top_must_type": "페이지 필터를 보기 전 유형을 선택해야 해요."
 }
