@@ -818,7 +818,7 @@
     "easy_embed_footer_text": "نص الفوتر",
     "premium_renew_subscription": "تجديد الاشتراك",
     "billing_card_details": "معلومات البطاقة",
-    "billing_billing_to": "عنوان وصول الفواتير",
+    "billing_bill_to": "Bill To",
     "billing_postal_code": "الرمز البريدي",
     "billing_city": "المدينة",
     "continue": "متابعة",
