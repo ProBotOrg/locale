@@ -826,9 +826,9 @@
     "billing_by_clicking": "Clicando em “{0}” você concorda com os {1}, {2} e {3}.",
     "review": "Avaliar",
     "total": "Total",
-    "welcome_use_template": "Use Template",
-    "vat": "VAT",
-    "discount": "Discount",
-    "welcome_select_template": "Select Template",
-    "close": "Close"
+    "welcome_use_template": "Usar modelo",
+    "vat": "IVA",
+    "discount": "Desconto",
+    "welcome_select_template": "Selecionar modelo",
+    "close": "Fechar"
 }
