@@ -825,5 +825,6 @@
     "back": "Назад",
     "billing_by_clicking": "Натискаючи \"{0}\", ви погоджуєтеся з {1}, {2} і {3}.",
     "review": "Перегляд",
-    "total": "Всього"
+    "total": "Всього",
+    "welcome_use_template": "Use Template"
 }
