@@ -826,5 +826,9 @@
     "billing_by_clicking": "بالنقر على “{0}” فإنك توافق على {1}، {2} و {3}.",
     "review": "مراجعة ",
     "total": "الإجمالي",
-    "welcome_use_template": "Use Template"
+    "welcome_use_template": "قوالب جاهزة",
+    "vat": "الضريبة المضافة",
+    "discount": "الخصم",
+    "welcome_select_template": "اختيار قالب",
+    "close": "اغلاق"
 }
