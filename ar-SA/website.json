@@ -825,5 +825,6 @@
     "back": "عودة",
     "billing_by_clicking": "بالنقر على “{0}” فإنك توافق على {1}، {2} و {3}.",
     "review": "مراجعة ",
-    "total": "الإجمالي"
+    "total": "الإجمالي",
+    "welcome_use_template": "Use Template"
 }
