@@ -825,5 +825,6 @@
     "back": "Zurück",
     "billing_by_clicking": "Durch Klicken auf “{0}” erklären Sie sich mit {1}, {2} und {3} einverstanden.",
     "review": "Überprüfen",
-    "total": "Summe"
+    "total": "Summe",
+    "welcome_use_template": "Use Template"
 }

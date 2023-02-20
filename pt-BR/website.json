@@ -825,5 +825,6 @@
     "back": "Voltar",
     "billing_by_clicking": "Clicando em “{0}” você concorda com os {1}, {2} e {3}.",
     "review": "Avaliar",
-    "total": "Total"
+    "total": "Total",
+    "welcome_use_template": "Use Template"
 }

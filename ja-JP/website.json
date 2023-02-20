@@ -825,5 +825,6 @@
     "back": "もどる",
     "billing_by_clicking": "“{0}” をクリックすることで、当社の  {1} と {2} 、 {3} に同意したものとみなされます。",
     "review": "最終確認",
-    "total": "合計"
+    "total": "合計",
+    "welcome_use_template": "Use Template"
 }

@@ -825,5 +825,6 @@
     "back": "Zpět",
     "billing_by_clicking": "Kliknutím na “{0}” souhlasíte s {1}, {2} a {3}.",
     "review": "Přehled",
-    "total": "Celkem"
+    "total": "Celkem",
+    "welcome_use_template": "Use Template"
 }
