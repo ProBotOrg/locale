@@ -825,5 +825,6 @@
     "back": "Précédent",
     "billing_by_clicking": "En cliquant sur \"{0}\", vous acceptez {1}, {2} et {3}.",
     "review": "Vérification",
-    "total": "Total"
+    "total": "Total",
+    "welcome_use_template": "Use Template"
 }
