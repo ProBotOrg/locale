@@ -818,7 +818,7 @@
     "easy_embed_footer_text": "フッターテキスト",
     "premium_renew_subscription": "サブスクを更新",
     "billing_card_details": "カード詳細",
-    "billing_billing_to": "ご請求先",
+    "billing_bill_to": "Bill To",
     "billing_postal_code": "郵便番号",
     "billing_city": "市区町村",
     "continue": "次へ",

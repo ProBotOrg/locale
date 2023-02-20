@@ -818,7 +818,7 @@
     "easy_embed_footer_text": "Текст футера",
     "premium_renew_subscription": "Продлить подписку",
     "billing_card_details": "Данные карты",
-    "billing_billing_to": "Кому оплатить",
+    "billing_bill_to": "Получатель счёта",
     "billing_postal_code": "Почтовый индекс",
     "billing_city": "Город",
     "continue": "Продолжить",
