@@ -826,5 +826,9 @@
     "billing_by_clicking": "\"{0}\"을 클릭함으로써 {1}, {2}, {3}에 동의하는 것입니다.",
     "review": "검토",
     "total": "총",
-    "welcome_use_template": "Use Template"
+    "welcome_use_template": "템플릿 사용",
+    "vat": "부가가치세(VAT)",
+    "discount": "Discount",
+    "welcome_select_template": "템플릿을 선택하세요",
+    "close": "닫기"
 }
