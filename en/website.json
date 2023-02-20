@@ -830,6 +830,8 @@
     "total": "Total",
     "welcome_use_template": "Use Template",
     "vat": "VAT", 
-    "discount": "Discount"
+    "discount": "Discount",
+    "welcome_select_template": "Select Template", 
+    "close": "Close"
 
 }
