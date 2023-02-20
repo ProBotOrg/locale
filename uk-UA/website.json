@@ -826,5 +826,9 @@
     "billing_by_clicking": "Натискаючи \"{0}\", ви погоджуєтеся з {1}, {2} і {3}.",
     "review": "Перегляд",
     "total": "Всього",
-    "welcome_use_template": "Use Template"
+    "welcome_use_template": "Use Template",
+    "vat": "VAT",
+    "discount": "Discount",
+    "welcome_select_template": "Select Template",
+    "close": "Close"
 }
