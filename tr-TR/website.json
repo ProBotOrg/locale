@@ -825,5 +825,6 @@
     "back": "Geri",
     "billing_by_clicking": "\"{0}\" butonuna tıklayarak {1}, {2} ve {3} koşullarını kabul etmiş olursunuz.",
     "review": "Gözden Geçir",
-    "total": "Toplam"
+    "total": "Toplam",
+    "welcome_use_template": "Use Template"
 }
