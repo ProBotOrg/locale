@@ -825,5 +825,6 @@
     "back": "Vissza",
     "billing_by_clicking": "A “{0}” gombra kattintva elfogadod a {1}, {2} és a {3}.",
     "review": "Áttekintés",
-    "total": "Összesen"
+    "total": "Összesen",
+    "welcome_use_template": "Use Template"
 }
