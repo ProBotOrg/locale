@@ -825,5 +825,6 @@
     "back": "Cofnij",
     "billing_by_clicking": "Klikając \"{0}\" zgadzasz się na {1}, {2} oraz {3}.",
     "review": "Przegląd",
-    "total": "Suma"
+    "total": "Suma",
+    "welcome_use_template": "Use Template"
 }
