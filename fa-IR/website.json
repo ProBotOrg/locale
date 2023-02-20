@@ -826,5 +826,9 @@
     "billing_by_clicking": "با کلیک کردن بر روی \"{0}\"، شما موارد {1}، {2} و {3} را قبول کرده و به آنها پایبند هستید.",
     "review": "بازبینی",
     "total": "جمع کل",
-    "welcome_use_template": "Use Template"
+    "welcome_use_template": "Use Template",
+    "vat": "VAT",
+    "discount": "Discount",
+    "welcome_select_template": "Select Template",
+    "close": "Close"
 }
