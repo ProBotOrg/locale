@@ -818,7 +818,7 @@
     "easy_embed_footer_text": "Lábléc szöveg",
     "premium_renew_subscription": "Előfizetés megújítása",
     "billing_card_details": "Kártya adatai",
-    "billing_bill_to": "Bill To",
+    "billing_bill_to": "Számlázási cím",
     "billing_postal_code": "Irányítószám",
     "billing_city": "Város",
     "continue": "Folytatás",
@@ -826,9 +826,9 @@
     "billing_by_clicking": "A “{0}” gombra kattintva elfogadod a {1}, {2} és a {3}.",
     "review": "Áttekintés",
     "total": "Összesen",
-    "welcome_use_template": "Use Template",
-    "vat": "VAT",
-    "discount": "Discount",
-    "welcome_select_template": "Select Template",
-    "close": "Close"
+    "welcome_use_template": "Sablon használata",
+    "vat": "ÁFA",
+    "discount": "Kedvezmény",
+    "welcome_select_template": "Sablon kiválasztása",
+    "close": "Bezárás"
 }
