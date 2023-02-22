@@ -818,7 +818,7 @@
     "easy_embed_footer_text": "Texte du pied de page",
     "premium_renew_subscription": "Renouveler l'abonnement",
     "billing_card_details": "Détails de la carte",
-    "billing_bill_to": "Bill To",
+    "billing_bill_to": "Facturé à ",
     "billing_postal_code": "Code Postal",
     "billing_city": "Ville",
     "continue": "Continuer",
@@ -826,5 +826,9 @@
     "billing_by_clicking": "En cliquant sur \"{0}\", vous acceptez {1}, {2} et {3}.",
     "review": "Vérification",
     "total": "Total",
-    "welcome_use_template": "Use Template"
+    "welcome_use_template": "Utiliser un modèle",
+    "vat": "VAT",
+    "discount": "Discount",
+    "welcome_select_template": "Select Template",
+    "close": "Close"
 }

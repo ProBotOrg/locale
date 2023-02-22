@@ -826,5 +826,9 @@
     "billing_by_clicking": "Нажимая на “{0}”, вы соглашаетесь с {1}, {2} и {3}.",
     "review": "Проверка",
     "total": "Итого",
-    "welcome_use_template": "Use Template"
+    "welcome_use_template": "Использовать шаблон",
+    "vat": "НДС",
+    "discount": "Скидка",
+    "welcome_select_template": "Выбрать шаблон",
+    "close": "Закрыть"
 }

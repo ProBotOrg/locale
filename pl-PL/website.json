@@ -818,7 +818,7 @@
     "easy_embed_footer_text": "Tekst stopki",
     "premium_renew_subscription": "Odnów Subskrypcję",
     "billing_card_details": "Dane karty",
-    "billing_bill_to": "Bill To",
+    "billing_bill_to": "Rachunek na",
     "billing_postal_code": "Kod Pocztowy",
     "billing_city": "Miasto",
     "continue": "Kontynuuj",
@@ -826,5 +826,9 @@
     "billing_by_clicking": "Klikając \"{0}\" zgadzasz się na {1}, {2} oraz {3}.",
     "review": "Przegląd",
     "total": "Suma",
-    "welcome_use_template": "Use Template"
+    "welcome_use_template": "Użyj Szablonu",
+    "vat": "VAT\n",
+    "discount": "Rabat",
+    "welcome_select_template": "Wybierz Szablon",
+    "close": "Zamknij"
 }
