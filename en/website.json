@@ -442,7 +442,6 @@
     "premium_name_limit": "Name should be more than 2 characters and less than 32 characters",
     "protection_options": "Protection options:",
     "protection_delete_limits": "Delete {0} limits",
-
     "both_voice_and_text": "Both Voice & Text",
     "whitelist_urls": "WHITELIST URLS",
     "automod_mute_time": "Mute Duration",
@@ -816,5 +815,4 @@
     "discount": "Discount",
     "welcome_select_template": "Select Template", 
     "close": "Close"
-
 }
