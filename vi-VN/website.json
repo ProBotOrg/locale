@@ -818,7 +818,7 @@
     "easy_embed_footer_text": "Mục đáy",
     "premium_renew_subscription": "Gia hạn gói đăng kí",
     "billing_card_details": "Thông tin thẻ",
-    "billing_bill_to": "Bill To",
+    "billing_bill_to": "Thanh toán đến",
     "billing_postal_code": "Mã Vùng",
     "billing_city": "Thành Phố",
     "continue": "Tiếp tục",
@@ -826,9 +826,9 @@
     "billing_by_clicking": "Với việc nhấp vào \"{0}\", bạn đồng ý với {1}, {2} và {3}.",
     "review": "Xem xét",
     "total": "Tổng cộng",
-    "welcome_use_template": "Use Template",
+    "welcome_use_template": "Sử dụng mẫu sẵn có",
     "vat": "VAT",
-    "discount": "Discount",
-    "welcome_select_template": "Select Template",
-    "close": "Close"
+    "discount": "Giảm giá",
+    "welcome_select_template": "Chọn mẫu sẵn có",
+    "close": "Đóng"
 }
