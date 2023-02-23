@@ -808,5 +808,7 @@
     "vat": "ПДВ",
     "discount": "Знижка",
     "welcome_select_template": "Вибрати шаблон",
-    "close": "Закрити"
+    "close": "Закрити",
+    "store_animals": "Animals",
+    "store_footballers": "Footballers"
 }
