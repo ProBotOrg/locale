@@ -810,5 +810,7 @@
     "vat": "VAT", 
     "discount": "Discount",
     "welcome_select_template": "Select Template", 
-    "close": "Close"
+    "close": "Close",
+    "store_animals": "Animals",
+    "store_footballers": "Footballers"
 }
