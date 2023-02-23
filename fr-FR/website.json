@@ -805,8 +805,8 @@
     "review": "Vérification",
     "total": "Total",
     "welcome_use_template": "Utiliser un modèle",
-    "vat": "VAT",
-    "discount": "Discount",
-    "welcome_select_template": "Select Template",
-    "close": "Close"
+    "vat": "TVA",
+    "discount": "Remise",
+    "welcome_select_template": "Sélectionner un modèle",
+    "close": "Fermer"
 }
