@@ -394,7 +394,7 @@
 	"month_value": "Ay",
 	"setlang_description": "ProBot, seçtiğiniz dili kullanmaya başlar.",
 	"setlang_language_description": "Kendisine değiştirilecek dil.",
-	"unmute_description": "Üyenin susturmasını kaldırır.",
+	"unmute_description": "Kullanıcının susturmasını kaldırır.",
 	"muted_both": ":white_check_mark:**@{0} hem yazı hem ses kanallarından susturuldu! :zipper_mouth:**",
 	"slowmode_set": "Bu kanalın yavaş mod'u {0} olarak ayarlandı.",
 	"slowmode_should": "Süre, {0} değerinden küçük veya ona eşit olmalıdır.",
