@@ -808,5 +808,7 @@
     "vat": "KDV",
     "discount": "İndirim",
     "welcome_select_template": "Şablon Seçin",
-    "close": "Kapat"
+    "close": "Kapat",
+    "store_animals": "Animals",
+    "store_footballers": "Footballers"
 }
