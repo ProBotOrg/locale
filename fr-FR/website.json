@@ -808,5 +808,7 @@
     "vat": "TVA",
     "discount": "Remise",
     "welcome_select_template": "Sélectionner un modèle",
-    "close": "Fermer"
+    "close": "Fermer",
+    "store_animals": "Animals",
+    "store_footballers": "Footballers"
 }
