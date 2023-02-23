@@ -808,5 +808,7 @@
     "vat": "НДС",
     "discount": "Скидка",
     "welcome_select_template": "Выбрать шаблон",
-    "close": "Закрыть"
+    "close": "Закрыть",
+    "store_animals": "Animals",
+    "store_footballers": "Footballers"
 }
