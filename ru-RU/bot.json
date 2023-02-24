@@ -457,7 +457,7 @@
 	"setlevel_type_description": "Тип уровня для установки либо текста, либо голоса",
 	"setlevel_level_description": "Уровень, который вы хотите установить пользователю",
 	"setlevel_max_level": ":x: Максимальный уровень, который может быть установлен, равен {0}",
-	"setxp_confirm_message": ":thinking: **Вы серьёзно хотите установить опыт для @{0}?",
+	"setxp_confirm_message": ":thinking: **Вы серьёзно хотите установить опыт для @{0}?**",
 	"setlevel_changed_level": "✅ Опыт для **@{0}** был обновлён",
 	"warnings_page_description": "Выберите номер страницы",
 	"rr_module_disabled": ":x: Модуль «Роли самостоятельного назначения» отключён.",
