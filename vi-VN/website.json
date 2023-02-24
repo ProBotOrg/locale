@@ -296,7 +296,7 @@
     "index_feature_5_description": "Probot hỗ trợ đến hơn 30 ngôn ngữ khác nhau!",
     "index_feature_6_title": "Gần như luôn hoạt động",
     "index_feature_6_description": "Bạn không cần quá lo về việc sập nguồn, Probot sẽ luôn bên máy chủ của bạn!",
-    "why_probot_text": "Một bot đa chức năng có thể tùy chỉnh dễ dàng cho ảnh chào mừng, nhật kí chuyên sâu, lệnh xã hội, phát nhạc, quản lý và hơn thế nữa ...",
+    "why_probot_text": "Một bot toàn năng cho mọi việc, từ chào mừng thành viên, nhật kí hoạt động server đến quản lý và hơn thế nữa ...",
     "POINTS_MANAGERS": "Vai trò có thể thêm điểm (Quản lý điểm)",
     "add_server": "Mua gói",
     "invite": "Mời",
@@ -542,7 +542,7 @@
     "daily_already_claimed": "Bạn đã nhận phần thưởng rồi",
     "responder_want_delete": "Bạn thực sự muốn xóa phản hồi này?",
     "index_card6_title": "Bảng chọn vai trò",
-    "index_card6_description": "Cho phép thành viên trong server của bạn chọn vai trò mà họ muốn với tính năng Bảng chọn vai trò của Probot!",
+    "index_card6_description": "Tạo nên bảng chọn vai trò với nhiều cách khác nhau bao gồm dùng biểu cảm, nút và danh sách chọn, Probot sẽ lo việc thêm vai trò cho thành viên của bạn!",
     "error_upload_5": "Định dạng tệp không được hỗ trợ",
     "error_upload_500": "Lỗi server nội bộ",
     "rr_roles_limit": "Giới hạn vai trò cho mỗi người dùng",
@@ -808,5 +808,7 @@
     "vat": "VAT",
     "discount": "Giảm giá",
     "welcome_select_template": "Chọn mẫu sẵn có",
-    "close": "Đóng"
+    "close": "Đóng",
+    "store_animals": "Động vật",
+    "store_footballers": "Cầu thủ bóng đá"
 }

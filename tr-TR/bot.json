@@ -501,6 +501,6 @@
 	"channel_new_slowmode": "**Yeni Yavaş Mod**",
 	"channel_old_bitrate": "**Eski Bit Hızı**",
 	"channel_new_bitrate": "**Yeni Bit Hızı**",
-	"clear_FBB_description": "Filter by bots messages.",
-	"top_must_type": "You must select a type before you can view the page filter."
+	"clear_FBB_description": "Bot Mesajlarına Göre Filtrele",
+	"top_must_type": "Sayfa filtreyiciye geçmeden önce bir tür seçmelisiniz."
 }
