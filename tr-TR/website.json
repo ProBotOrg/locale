@@ -251,7 +251,7 @@
     "SAVE_CHANGES": "Değişiklikleri Kaydet",
     "MOD_UNTIL_LEAVES": "Üye sunucudan ayrılana kadar",
     "AUTO_ROLES": "Otomatik Roller",
-    "AUTO_ROLES_NOTE": "Topluluk isteğine göre, Otomatik Rol yalnızca rolün yönetici izinleri yoksa çalışır.",
+    "AUTO_ROLES_NOTE": "Discord'un kural ekranı paneli etkinleştirildiğinde yeni kullanıcıların otomatik rolü alabilmeleri için önce kuralları kabul etmeleri gerekir. Ayrıca, otomatik rol için atanan rollerin yönetici izinlerine sahip olmadığından emin olun!",
     "RECOMMANDED": "Önerilen",
     "PERMISSIONS_LIMITS": "İzin Limitleri",
     "COMMANDS_LIMITS": "Komut limitleri",
