@@ -251,7 +251,7 @@
     "SAVE_CHANGES": "Spremi Promjene",
     "MOD_UNTIL_LEAVES": "Until member leaves the server",
     "AUTO_ROLES": "Automatski Uloge",
-    "AUTO_ROLES_NOTE": "When the Discord rule-screen panel is activated, new users must accept the rules before they can receive the auto-role!",
+    "AUTO_ROLES_NOTE": "When the Discord rule-screen panel is activated, new users must accept the rules before they can receive the auto-role. Also, ensure that the assigned roles do not have administrative permissions!",
     "RECOMMANDED": "Preporučeno",
     "PERMISSIONS_LIMITS": "Permissions Limits",
     "COMMANDS_LIMITS": "Commands Limits",
