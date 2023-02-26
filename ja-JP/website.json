@@ -796,7 +796,7 @@
     "easy_embed_footer_text": "フッターテキスト",
     "premium_renew_subscription": "サブスクを更新",
     "billing_card_details": "カード詳細",
-    "billing_bill_to": "Bill To",
+    "billing_bill_to": "請求先",
     "billing_postal_code": "郵便番号",
     "billing_city": "市区町村",
     "continue": "次へ",
@@ -804,11 +804,11 @@
     "billing_by_clicking": "“{0}” をクリックすることで、当社の  {1} と {2} 、 {3} に同意したものとみなされます。",
     "review": "最終確認",
     "total": "合計",
-    "welcome_use_template": "Use Template",
-    "vat": "VAT",
-    "discount": "Discount",
-    "welcome_select_template": "Select Template",
-    "close": "Close",
-    "store_animals": "Animals",
-    "store_footballers": "Footballers"
+    "welcome_use_template": "テンプレートを使用",
+    "vat": "消費税",
+    "discount": "割引",
+    "welcome_select_template": "テンプレートを選択",
+    "close": "閉じる",
+    "store_animals": "動物",
+    "store_footballers": "サッカー選手"
 }
