@@ -251,7 +251,7 @@
     "SAVE_CHANGES": "Salvar alterações",
     "MOD_UNTIL_LEAVES": "Até que o membro saia do servidor",
     "AUTO_ROLES": "Cargos automáticos",
-    "AUTO_ROLES_NOTE": "Por solicitação da comunidade, o Cargo automático só funciona se o cargo não tiver permissões administrativas.",
+    "AUTO_ROLES_NOTE": "Quando o painel de tela padrão do Discord é ativado, novos usuários devem aceitar as regras antes de poderem receber o cargo automático. Além disso, certifique-se de que os cargos atribuídos não têm permissões administrativas!",
     "RECOMMANDED": "Recomendado",
     "PERMISSIONS_LIMITS": "Limites de Permissões",
     "COMMANDS_LIMITS": "Limites de comandos",
@@ -296,7 +296,7 @@
     "index_feature_5_description": "O ProBot agora suporta mais de 30 idiomas!",
     "index_feature_6_title": "99.99% de tempo de atividade",
     "index_feature_6_description": "Não precisa se preocupar com tempos de inatividade, o ProBot está online!",
-    "why_probot_text": "Um bot multiúso muito personalizável para Logs, imagens bem-vindas, comandos Sociais, Música, Moderação e muito mais...",
+    "why_probot_text": "Um bot multiuso muito personalizável para logs de boas vindas, comandos sociais, moderação e muito mais...",
     "POINTS_MANAGERS": "Cargos podem adicionar pontos (Gerentes de Pontos)",
     "add_server": "Adicionar Servidor",
     "invite": "Convidar",
@@ -542,7 +542,7 @@
     "daily_already_claimed": "Você já reivindicou a recompensa",
     "responder_want_delete": "Você realmente deseja excluir esta resposta?",
     "index_card6_title": "Cargos por reação",
-    "index_card6_description": "Deixe seus membros terem os cargos que merecem usando os cargos de reação do Probot!",
+    "index_card6_description": "Configure cargos exclusivas com várias opções, incluindo reações, botões e selecione menus, e deixe o Probot atribuir cargos para seus membros!",
     "error_upload_5": "Tipo de arquivo não suportado",
     "error_upload_500": "Erro interno do servidor",
     "rr_roles_limit": "Limite de cargos por usuário",
@@ -809,6 +809,6 @@
     "discount": "Desconto",
     "welcome_select_template": "Selecionar modelo",
     "close": "Fechar",
-    "store_animals": "Animals",
-    "store_footballers": "Footballers"
+    "store_animals": "Animais",
+    "store_footballers": "Futebol"
 }

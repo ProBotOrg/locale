@@ -251,7 +251,7 @@
     "SAVE_CHANGES": "Lưu thay đổi",
     "MOD_UNTIL_LEAVES": "Đến khi thành viên rời server",
     "AUTO_ROLES": "Vai trò tự động",
-    "AUTO_ROLES_NOTE": "Do ý kiến của cộng đồng, 'Vai trò tự động' chỉ hoạt động khi vai trò không có quyền quản lý.",
+    "AUTO_ROLES_NOTE": "Nếu quy tắc sàng lọc trong mục điều chỉnh của Discord được bật, người dùng mới tham gia server sẽ phải đồng ý với cửa sổ đó trước khi vai trò được trao. Cũng nên đảm bảo vai trò được trao không mang các quyền quản lý hay quản trị!",
     "RECOMMANDED": "Khuyến nghị",
     "PERMISSIONS_LIMITS": "Giới hạn quyền",
     "COMMANDS_LIMITS": "Giới hạn lệnh",
