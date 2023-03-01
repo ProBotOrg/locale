@@ -810,5 +810,10 @@
     "welcome_select_template": "اختيار قالب",
     "close": "اغلاق",
     "store_animals": "حيوانات",
-    "store_footballers": "لاعبين"
+    "store_footballers": "لاعبين",
+    "file_type": "File type must be png, jpg, jpeg",
+    "self_button_make_sure": "Make sure you have selected roles for all buttons and that they have a label",
+    "self_assignable_roles_give_notification": "Give Message",
+    "self_assignable_roles_take_notification": "Take Message",
+    "self_assignable_roles_no_notification": "No Changes"
 }
