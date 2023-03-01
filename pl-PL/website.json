@@ -749,7 +749,7 @@
     "rr_notification_notify_description": "Zwróć uwagę użytkownika, odpowiadając na jego interakcję.",
     "rr_notification_notify_role": "{0} oznacza rolę do przydzielenia.",
     "rr_notification_silent": "Cichy",
-    "rr_notification_silent_description": "Przypisz rolę bez powiadomienia!",
+    "rr_notification_silent_description": "Przypisz rolę bez żadnej odpowiedzi!",
     "rr_validate_message": "Upewnij się, że do każdego przycisku została przypisana rola/role.",
     "rr_option_title": "Tytuł opcji.",
     "rr_option_description": "Opis opcji.",
@@ -762,7 +762,7 @@
     "premium_status_dnd": "Nie przeszkadzać",
     "premium_bot_customization": "PERSONALIZACJA BOTA",
     "twitch_name": "Nick Streamera",
-    "twitch_link": "Link do Streamu",
+    "twitch_link": "Link do transmisji",
     "twitch_message": "Wiadomość",
     "welcome_reset_coordinates": "Zresetuj koordynaty",
     "welcome_reset_description": "Zresetuj wszystkie koordynaty wiadomości powitalnej do domyślnej wartości",
@@ -809,6 +809,6 @@
     "discount": "Rabat",
     "welcome_select_template": "Wybierz Szablon",
     "close": "Zamknij",
-    "store_animals": "Animals",
-    "store_footballers": "Footballers"
+    "store_animals": "Zwierzęta",
+    "store_footballers": "Piłkarze"
 }
