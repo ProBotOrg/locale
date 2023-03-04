@@ -811,8 +811,8 @@
     "close": "Закрыть",
     "store_animals": "Животные",
     "store_footballers": "Футболисты",
-    "file_type": "File type must be png, jpg, jpeg",
-    "self_button_make_sure": "Make sure you have selected roles for all buttons and that they have a label",
+    "file_type": "Формат файла должен быть png, jpg, jpeg",
+    "self_button_make_sure": "Убедитесь, что вы выбрали роли для всех кнопок и они имеют метку",
     "self_assignable_roles_give_notification": "Give Message",
     "self_assignable_roles_take_notification": "Take Message",
     "self_assignable_roles_no_notification": "No Changes Message"
