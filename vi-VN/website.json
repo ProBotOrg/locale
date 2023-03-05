@@ -810,5 +810,10 @@
     "welcome_select_template": "Chọn mẫu sẵn có",
     "close": "Đóng",
     "store_animals": "Động vật",
-    "store_footballers": "Cầu thủ bóng đá"
+    "store_footballers": "Cầu thủ bóng đá",
+    "file_type": "Định dạng ảnh phải là PNG, JPG hoặc JPEG",
+    "self_button_make_sure": "Hãy chắc chắn rằng bạn đã thêm vai trò và tên cho những nút đã tạo",
+    "self_assignable_roles_give_notification": "Tin nhắn khi thêm",
+    "self_assignable_roles_take_notification": "Tin nhắn khi gỡ vai trò",
+    "self_assignable_roles_no_notification": "Tin nhắn khi vai trò không đổi"
 }

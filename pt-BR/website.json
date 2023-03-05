@@ -810,5 +810,10 @@
     "welcome_select_template": "Selecionar modelo",
     "close": "Fechar",
     "store_animals": "Animais",
-    "store_footballers": "Futebol"
+    "store_footballers": "Futebol",
+    "file_type": "Tipo de arquivo deve ser png, jpg, jpeg",
+    "self_button_make_sure": "Certifique-se de ter selecionado cargos para todos os botões e de ter um rótulo",
+    "self_assignable_roles_give_notification": "Dar mensagem",
+    "self_assignable_roles_take_notification": "Pegar mensagem",
+    "self_assignable_roles_no_notification": "Nenhuma alteração da mensagem"
 }

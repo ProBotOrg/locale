@@ -810,5 +810,10 @@
     "welcome_select_template": "Şablon Seçin",
     "close": "Kapat",
     "store_animals": "Hayvanlar",
-    "store_footballers": "Futbolcular"
+    "store_footballers": "Futbolcular",
+    "file_type": "Dosya türü png,jpg,jpeg olmalıdır",
+    "self_button_make_sure": "Tüm butonlar için rol seçtiğinizden ve bunların etiketi olduğundan emin olun.",
+    "self_assignable_roles_give_notification": "Mesaj Ver",
+    "self_assignable_roles_take_notification": "Mesaj Al",
+    "self_assignable_roles_no_notification": "Değişiklik Yok Mesajı"
 }
