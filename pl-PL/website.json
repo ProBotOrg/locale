@@ -811,9 +811,9 @@
     "close": "Zamknij",
     "store_animals": "Zwierzęta",
     "store_footballers": "Piłkarze",
-    "file_type": "File type must be png, jpg, jpeg",
-    "self_button_make_sure": "Make sure you have selected roles for all buttons and that they have a label",
-    "self_assignable_roles_give_notification": "Give Message",
-    "self_assignable_roles_take_notification": "Take Message",
-    "self_assignable_roles_no_notification": "No Changes Message"
+    "file_type": "Plik musi być w formacje PNG, JPG lub JPEG.",
+    "self_button_make_sure": "Upewnij się, że wybrałeś role dla każdego przycisku oraz że mają nazwy.",
+    "self_assignable_roles_give_notification": "Wiadomość nadania roli",
+    "self_assignable_roles_take_notification": "Wiadomość odebrania roli",
+    "self_assignable_roles_no_notification": "Wiadomość o braku zmian w rolach"
 }
