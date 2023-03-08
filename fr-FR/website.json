@@ -808,13 +808,13 @@
     "self_assignable_roles_give_notification": "Donner un message",
     "self_assignable_roles_take_notification": "Recevoir un message",
     "self_assignable_roles_no_notification": "Aucun message de modification",
-    "powered_by_discord": "Message scanning powered by {0}",
+    "powered_by_discord": "Analyse des messages alimentée par {0}",
     "discord_automod": "Discord AutoMod",
-    "choose_the_response": "Choose The Response",
-    "block_message": "Block Message",
-    "block_message_description": "Block messages containing these words from being posted",
-    "mute_member_description": "Block the memeber from sending messages for specific time",
-    "timeout_member": "Timeout Member",
+    "choose_the_response": "Choisissez la réponse",
+    "block_message": "Bloquer le message",
+    "block_message_description": "Bloquer les messages contenant ces mots d'être postés",
+    "mute_member_description": "Empêcher le memeber d'envoyer des messages pour une heure spécifique",
+    "timeout_member": "Membres Exclus",
     "mute_member": "Membre Muet",
-    "timeout_member_description": "Block the memeber from sending messages, react to messages, join voice channels"
+    "timeout_member_description": "Empêcher le memeber d'envoyer des messages, de réagir aux messages, de rejoindre les salons vocaux"
 }
