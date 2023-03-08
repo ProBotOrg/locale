@@ -354,7 +354,7 @@
     "embed_choosemsg": "Выберите сообщение",
     "embed_selectone": "выберите сообщение или создайте новое :)",
     "embed_compose": "Создать",
-    "embed_embedname": "EMBED НАЗВАНИЕ",
+    "embed_embedname": "НАЗВАНИЕ EMBED",
     "upload_image": "Загрузить изображение",
     "insertorupload": "Вставьте URL-адрес или загрузите изображение",
     "protection_autorole_removeall": "Удалить все административные разрешения, когда Автороль удалена (Это защитит вас при очистке участников Discord)",
