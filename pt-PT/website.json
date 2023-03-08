@@ -807,5 +807,14 @@
     "self_button_make_sure": "Certifique-se de ter selecionado cargos para todos os botões e de que têm uma descrição",
     "self_assignable_roles_give_notification": "Mensagem de Atribuir",
     "self_assignable_roles_take_notification": "Mensagem de Retirar",
-    "self_assignable_roles_no_notification": "Mensagem sem alterações"
+    "self_assignable_roles_no_notification": "Mensagem sem alterações",
+    "powered_by_discord": "Message scanning powered by {0}",
+    "discord_automod": "Discord AutoMod",
+    "choose_the_response": "Choose The Response",
+    "block_message": "Block Message",
+    "block_message_description": "Block messages containing these words from being posted",
+    "mute_member_description": "Block the memeber from sending messages for specific time",
+    "timeout_member": "Timeout Member",
+    "mute_member": "Mutar Membro",
+    "timeout_member_description": "Block the memeber from sending messages, react to messages, join voice channels"
 }
