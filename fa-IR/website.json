@@ -807,5 +807,14 @@
     "self_button_make_sure": "مطمئن شوید که شما برای همه دکمه هایی که یک عنوان دارند، نقشی انتخاب کرده باشید",
     "self_assignable_roles_give_notification": "پیام دریافت",
     "self_assignable_roles_take_notification": "پیام گرفتن",
-    "self_assignable_roles_no_notification": "پیام بدون تغییر"
+    "self_assignable_roles_no_notification": "پیام بدون تغییر",
+    "powered_by_discord": "Message scanning powered by {0}",
+    "discord_automod": "Discord AutoMod",
+    "choose_the_response": "Choose The Response",
+    "block_message": "Block Message",
+    "block_message_description": "Block messages containing these words from being posted",
+    "mute_member_description": "Block the memeber from sending messages for specific time",
+    "timeout_member": "Timeout Member",
+    "mute_member": "ساکت کردن کاربر",
+    "timeout_member_description": "Block the memeber from sending messages, react to messages, join voice channels"
 }
