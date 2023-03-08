@@ -807,5 +807,14 @@
     "self_button_make_sure": "Переконайтеся, що ви вибрали ролі для всіх кнопок і що вони мають назву",
     "self_assignable_roles_give_notification": "Повідомлення видачі",
     "self_assignable_roles_take_notification": "Повідомлення забирання",
-    "self_assignable_roles_no_notification": "Повідомлення про відсутність змін"
+    "self_assignable_roles_no_notification": "Повідомлення про відсутність змін",
+    "powered_by_discord": "Message scanning powered by {0}",
+    "discord_automod": "Discord AutoMod",
+    "choose_the_response": "Choose The Response",
+    "block_message": "Block Message",
+    "block_message_description": "Block messages containing these words from being posted",
+    "mute_member_description": "Block the memeber from sending messages for specific time",
+    "timeout_member": "Timeout Member",
+    "mute_member": "Приглушити учасника",
+    "timeout_member_description": "Block the memeber from sending messages, react to messages, join voice channels"
 }
