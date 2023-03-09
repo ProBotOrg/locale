@@ -817,5 +817,6 @@
     "timeout_member": "Hạn chết thành viên",
     "mute_member": "Tắt tiếng thành viên",
     "timeout_member_description": "Hạn chế người dùng và không cho phép họ gửi tin, dùng biểu cảm và tham gia kênh voice",
-    "edit_rule": "Edit Rule"
+    "edit_rule": "Edit Rule",
+    "timeout_duration": "Timeout duration"
 }
