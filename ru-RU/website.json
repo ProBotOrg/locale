@@ -808,13 +808,13 @@
     "self_assignable_roles_give_notification": "Сообщение выдавания",
     "self_assignable_roles_take_notification": "Сообщение забирания",
     "self_assignable_roles_no_notification": "Сообщение, когда нет изменений",
-    "powered_by_discord": "Message scanning powered by {0}",
-    "discord_automod": "Discord AutoMod",
-    "choose_the_response": "Choose The Response",
-    "block_message": "Block Message",
+    "powered_by_discord": "Сканирование сообщений основано на {0}",
+    "discord_automod": "Автомод Discord",
+    "choose_the_response": "Выберите действие",
+    "block_message": "Блокировать сообщение",
     "block_message_description": "Block messages containing these words from being posted",
     "mute_member_description": "Block the memeber from sending messages for specific time",
-    "timeout_member": "Timeout Member",
+    "timeout_member": "Выдать тайм-аут участнику",
     "mute_member": "Заглушить участника",
     "timeout_member_description": "Block the memeber from sending messages, react to messages, join voice channels"
 }
