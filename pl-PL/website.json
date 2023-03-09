@@ -817,5 +817,6 @@
     "timeout_member": "Wycisz Użytkownika",
     "mute_member": "Wycisz członka",
     "timeout_member_description": "Blokuje użytkownikowi możliwość wysyłania wiadomości, reagowania oraz dołączania na kanały głosowe.",
-    "edit_rule": "Edit Rule"
+    "edit_rule": "Edit Rule",
+    "timeout_duration": "Timeout duration"
 }
