@@ -203,11 +203,11 @@
     "AUTOMOD_BADWORDS": "ПЛОХИЕ СЛОВА",
     "AUTOMOD_DUPS": "ДУБЛИРОВАННЫЙ ТЕКСТ",
     "AUTOMOD_LINKS": "ССЫЛКИ",
-    "AUTOMOD_DISCORD_INVITES": "DISCORD ПРИГЛАШЕНИЯ",
+    "AUTOMOD_DISCORD_INVITES": "DISCORD-ПРИГЛАШЕНИЯ",
     "AUTOMOD_REPEATED": "ПОВТОРНЫЕ СООБЩЕНИЯ",
     "AUTOMOD_MASS_MENTION": "МАССОВЫЕ УПОМИНАНИЯ",
     "AUTOMOD_EMOJI_SPAM": "СПАМ EMOJI",
-    "AUTOMOD_CAPS": "СПАМ (70% > ПРОПИСНЫЕ БУКВЫ)",
+    "AUTOMOD_CAPS": "СПАМ КАПСОМ (70% > КАПС)",
     "AUTOMOD_IGNORED_CHANNELS": "Игнорируемые каналы",
     "AUTOMOD_IGNORED_ROLES": "Игнорируемые роли",
     "AUTOMOD_ONLY_IMAGES": "Канал только для изображений",
@@ -812,9 +812,9 @@
     "discord_automod": "Автомод Discord",
     "choose_the_response": "Выберите действие",
     "block_message": "Блокировать сообщение",
-    "block_message_description": "Block messages containing these words from being posted",
-    "mute_member_description": "Block the memeber from sending messages for specific time",
+    "block_message_description": "Блокировать сообщения, содержащие эти слова",
+    "mute_member_description": "Заблокировать участника от отправки сообщений на указанное время",
     "timeout_member": "Выдать тайм-аут участнику",
-    "mute_member": "Заглушить участника",
-    "timeout_member_description": "Block the memeber from sending messages, react to messages, join voice channels"
+    "mute_member": "Замутить участника",
+    "timeout_member_description": "Заблокировать участника от отправки сообщений, реагирования на сообщения, присоединения к голосовым каналам"
 }
