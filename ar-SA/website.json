@@ -810,7 +810,7 @@
     "self_assignable_roles_no_notification": "لا يوجد تغيرات",
     "powered_by_discord": "فحص الرسائل مدعوم من قبل {0}",
     "discord_automod": "ديسكورد اوتومود",
-    "choose_the_response": "اختر الاجراء",
+    "choose_the_response": "حدد الاجراء",
     "block_message": "حظر الرسالة",
     "block_message_description": "منع الرسائل التي تحتوي على هذه الكلمات من ارسالها",
     "mute_member_description": "منع العضو من ارسال رسائل لوقت محدد",
