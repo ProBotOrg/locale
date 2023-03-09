@@ -816,5 +816,6 @@
     "mute_member_description": "Block the memeber from sending messages for specific time",
     "timeout_member": "Timeout Member",
     "mute_member": "Mutar Membro",
-    "timeout_member_description": "Block the memeber from sending messages, react to messages, join voice channels"
+    "timeout_member_description": "Block the memeber from sending messages, react to messages, join voice channels",
+    "edit_rule": "Edit Rule"
 }
