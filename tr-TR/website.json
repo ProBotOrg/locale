@@ -808,13 +808,13 @@
     "self_assignable_roles_give_notification": "Mesaj Ver",
     "self_assignable_roles_take_notification": "Mesaj Al",
     "self_assignable_roles_no_notification": "Değişiklik Yok Mesajı",
-    "powered_by_discord": "Message scanning powered by {0}",
-    "discord_automod": "Discord AutoMod",
-    "choose_the_response": "Choose The Response",
-    "block_message": "Block Message",
-    "block_message_description": "Block messages containing these words from being posted",
-    "mute_member_description": "Block the memeber from sending messages for specific time",
-    "timeout_member": "Timeout Member",
+    "powered_by_discord": "{0} Tarafından Mesaj Tarama Desteği",
+    "discord_automod": "Discord Otomatik Moderasyon",
+    "choose_the_response": "Yanıtı Seç",
+    "block_message": "Mesajı Engelle",
+    "block_message_description": "Bu kelimeleri içeren mesajların gönderilmesini engelle",
+    "mute_member_description": "Belirli bir süre üyenin mesaj göndermesini engelle",
+    "timeout_member": "Zaman Aşımı Uygula",
     "mute_member": "Üyeyi Sustur",
-    "timeout_member_description": "Block the memeber from sending messages, react to messages, join voice channels"
+    "timeout_member_description": "Üyenin mesaj göndermesini,tepki vermesini, ses kanallarına katılmasını engelle"
 }
