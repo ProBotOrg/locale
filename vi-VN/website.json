@@ -808,13 +808,13 @@
     "self_assignable_roles_give_notification": "Tin nhắn khi thêm",
     "self_assignable_roles_take_notification": "Tin nhắn khi gỡ vai trò",
     "self_assignable_roles_no_notification": "Tin nhắn khi vai trò không đổi",
-    "powered_by_discord": "Message scanning powered by {0}",
-    "discord_automod": "Discord AutoMod",
-    "choose_the_response": "Choose The Response",
-    "block_message": "Block Message",
-    "block_message_description": "Block messages containing these words from being posted",
-    "mute_member_description": "Block the memeber from sending messages for specific time",
-    "timeout_member": "Timeout Member",
+    "powered_by_discord": "Hoạt động nhờ {0}",
+    "discord_automod": "hệ thống AutoMod của Discord",
+    "choose_the_response": "Chọn hành động",
+    "block_message": "Chặn tin nhắn",
+    "block_message_description": "Chặn việc các tin nhắn có chứa các từ ngữ trên được gửi đi",
+    "mute_member_description": "Chặn khả năng gửi tin nhắn của thành viên trong một thời gian",
+    "timeout_member": "Hạn chết thành viên",
     "mute_member": "Tắt tiếng thành viên",
-    "timeout_member_description": "Block the memeber from sending messages, react to messages, join voice channels"
+    "timeout_member_description": "Hạn chế người dùng và không cho phép họ gửi tin, dùng biểu cảm và tham gia kênh voice"
 }
