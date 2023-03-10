@@ -818,5 +818,7 @@
     "mute_member": "Замутить участника",
     "timeout_member_description": "Заблокировать участника от отправки сообщений, реагирования на сообщения, присоединения к голосовым каналам",
     "edit_rule": "Редактировать правило",
-    "timeout_duration": "Продолжительность тайм-аута"
+    "timeout_duration": "Продолжительность тайм-аута",
+    "allow_certain_message": "Allow certain roles or channels (optional)",
+    "excluded_from_filter_rules": "Member with the Admin and Manager Server permissions are always excluded from filter rules"
 }
