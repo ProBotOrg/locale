@@ -817,6 +817,6 @@
     "timeout_member": "Membres Exclus",
     "mute_member": "Membre Muet",
     "timeout_member_description": "Empêcher le memeber d'envoyer des messages, de réagir aux messages, de rejoindre les salons vocaux",
-    "edit_rule": "Edit Rule",
-    "timeout_duration": "Timeout duration"
+    "edit_rule": "Modifier la règle",
+    "timeout_duration": "La durée de l'exclusion."
 }
