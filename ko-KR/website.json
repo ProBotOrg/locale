@@ -818,5 +818,7 @@
     "mute_member": "멤버 음소거하기",
     "timeout_member_description": "멤버가 채팅을 보내거나 반응하거나, 음성 채널에 접속할 수 없도록 차단해요",
     "edit_rule": "규칙 편집",
-    "timeout_duration": "타임아웃 기간"
+    "timeout_duration": "타임아웃 기간",
+    "allow_certain_message": "Allow certain roles or channels (optional)",
+    "excluded_from_filter_rules": "Member with the Admin and Manager Server permissions are always excluded from filter rules"
 }
