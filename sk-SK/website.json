@@ -816,6 +816,7 @@
     "mute_member_description": "Block the memeber from sending messages for specific time",
     "timeout_member": "Timeout Member",
     "mute_member": "Stlmiť Člena",
-    "timeout_member_description": "Block the memeber from sending messages, react to messages, join voice channels",
-    "edit_rule": "Edit Rule"
+    "timeout_member_description": "Block the member from sending messages, react to messages, join voice channels",
+    "edit_rule": "Edit Rule",
+    "timeout_duration": "Timeout duration"
 }

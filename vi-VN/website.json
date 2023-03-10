@@ -814,8 +814,9 @@
     "block_message": "Chặn tin nhắn",
     "block_message_description": "Chặn việc các tin nhắn có chứa các từ ngữ trên được gửi đi",
     "mute_member_description": "Chặn khả năng gửi tin nhắn của thành viên trong một thời gian",
-    "timeout_member": "Hạn chết thành viên",
+    "timeout_member": "Hạn chế thành viên",
     "mute_member": "Tắt tiếng thành viên",
     "timeout_member_description": "Hạn chế người dùng và không cho phép họ gửi tin, dùng biểu cảm và tham gia kênh voice",
-    "edit_rule": "Edit Rule"
+    "edit_rule": "Tùy chỉnh quy tắc",
+    "timeout_duration": "Thời gian hạn chế"
 }
