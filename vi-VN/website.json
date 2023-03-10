@@ -818,5 +818,7 @@
     "mute_member": "Tắt tiếng thành viên",
     "timeout_member_description": "Hạn chế người dùng và không cho phép họ gửi tin, dùng biểu cảm và tham gia kênh voice",
     "edit_rule": "Tùy chỉnh quy tắc",
-    "timeout_duration": "Thời gian hạn chế"
+    "timeout_duration": "Thời gian hạn chế",
+    "allow_certain_message": "Allow certain roles or channels (optional)",
+    "excluded_from_filter_rules": "Member with the Admin and Manager Server permissions are always excluded from filter rules"
 }
