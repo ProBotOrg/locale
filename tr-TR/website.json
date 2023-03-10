@@ -817,6 +817,6 @@
     "timeout_member": "Zaman Aşımı Uygula",
     "mute_member": "Üyeyi Sustur",
     "timeout_member_description": "Üyenin mesaj göndermesini,tepki vermesini, ses kanallarına katılmasını engelle",
-    "edit_rule": "Edit Rule",
-    "timeout_duration": "Timeout duration"
+    "edit_rule": "Kuralı Düzenle",
+    "timeout_duration": "Zaman Aşımı Süresi"
 }
