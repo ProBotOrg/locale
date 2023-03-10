@@ -818,5 +818,5 @@
     "mute_member": "اسكات العضو",
     "timeout_member_description": "يمنع العضو من ارسال الرسائل، استخدام الرياكشن، دخول الرومات الصوتية",
     "edit_rule": "تعديل القاعدة",
-    "timeout_duration": "Timeout duration"
+    "timeout_duration": "مدة الوقت المستقطع"
 }
