@@ -818,5 +818,7 @@
     "mute_member": "اسكات العضو",
     "timeout_member_description": "يمنع العضو من ارسال الرسائل، استخدام الرياكشن، دخول الرومات الصوتية",
     "edit_rule": "تعديل القاعدة",
-    "timeout_duration": "مدة الوقت المستقطع"
+    "timeout_duration": "مدة الوقت المستقطع",
+    "allow_certain_message": "Allow certain roles or channels (optional)",
+    "excluded_from_filter_rules": "Member with the Admin and Manager Server permissions are always excluded from filter rules"
 }
