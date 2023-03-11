@@ -820,5 +820,5 @@
     "edit_rule": "Tùy chỉnh quy tắc",
     "timeout_duration": "Thời gian hạn chế",
     "allow_certain_message": "Allow certain roles or channels (optional)",
-    "excluded_from_filter_rules": "Member with the Admin and Manager Server permissions are always excluded from filter rules"
+    "excluded_from_filter_rules": "Members with Administrator or Manage Server permissions are always excluded from filter rules"
 }
