@@ -170,7 +170,7 @@
     "link_wait_message": "Сообщение, отправляемое на сервер во время ожидания",
     "link_disable_wait": "Отключить время ожидания",
     "link_invite_permission": "Любой с разрешением 'Создание приглашения'",
-    "link_auto_delete": "Автоматическое удаление Пользовательского сообщения и сообщение бота через 5 секунд",
+    "link_auto_delete": "Авто-удаление сообщения пользователя и бота через 5 секунд",
     "channel": "Канал",
     "hidden_channels": "Скрытые каналы",
     "no_bots": "Без ботов",
@@ -819,6 +819,6 @@
     "timeout_member_description": "Заблокировать участника от отправки сообщений, реагирования на сообщения, присоединения к голосовым каналам",
     "edit_rule": "Редактировать правило",
     "timeout_duration": "Продолжительность тайм-аута",
-    "allow_certain_message": "Allow certain roles or channels (optional)",
-    "excluded_from_filter_rules": "Member with the Admin and Manager Server permissions are always excluded from filter rules"
+    "allow_certain_message": "Разрешить определенные роли или каналы (необязательно)",
+    "excluded_from_filter_rules": "Участник с правами Администратора и Управления сервером всегда исключается из фильтров "
 }
