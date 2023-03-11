@@ -818,5 +818,7 @@
     "mute_member": "Приглушити учасника",
     "timeout_member_description": "Заборонити користувачеві надсилати повідомлення, відповідати на повідомлення, приєднуватися до голосових каналів",
     "edit_rule": "Редагувати правило",
-    "timeout_duration": "Тривалість тайм-ауту"
+    "timeout_duration": "Тривалість тайм-ауту",
+    "allow_certain_message": "Allow certain roles or channels (optional)",
+    "excluded_from_filter_rules": "Member with the Admin and Manager Server permissions are always excluded from filter rules"
 }

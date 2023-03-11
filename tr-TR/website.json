@@ -818,5 +818,7 @@
     "mute_member": "Üyeyi Sustur",
     "timeout_member_description": "Üyenin mesaj göndermesini,tepki vermesini, ses kanallarına katılmasını engelle",
     "edit_rule": "Kuralı Düzenle",
-    "timeout_duration": "Zaman Aşımı Süresi"
+    "timeout_duration": "Zaman Aşımı Süresi",
+    "allow_certain_message": "Allow certain roles or channels (optional)",
+    "excluded_from_filter_rules": "Member with the Admin and Manager Server permissions are always excluded from filter rules"
 }

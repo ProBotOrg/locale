@@ -804,10 +804,10 @@
     "store_animals": "동물",
     "store_footballers": "Footballers",
     "file_type": "파일 형식이 png, jpg, jpeg여야 해요",
-    "self_button_make_sure": "Make sure you have selected roles for all buttons and that they have a label",
+    "self_button_make_sure": "모든 버튼에 선택한 역할과 라벨이 있도록 하세요",
     "self_assignable_roles_give_notification": "부여 메시지",
     "self_assignable_roles_take_notification": "회수 메시지",
-    "self_assignable_roles_no_notification": "No Changes Message",
+    "self_assignable_roles_no_notification": "동일 메시지",
     "powered_by_discord": "{0}가 제공하는 메시지 스캔",
     "discord_automod": "Discord AutoMod",
     "choose_the_response": "응답을 고르세요",
@@ -818,5 +818,7 @@
     "mute_member": "멤버 음소거하기",
     "timeout_member_description": "멤버가 채팅을 보내거나 반응하거나, 음성 채널에 접속할 수 없도록 차단해요",
     "edit_rule": "규칙 편집",
-    "timeout_duration": "타임아웃 기간"
+    "timeout_duration": "타임아웃 기간",
+    "allow_certain_message": "특정 역할이나 채널 허용 (선택)",
+    "excluded_from_filter_rules": "관리자와 서버 관리 권한이 있는 멤버는 필터 규칙에서 항상 제외돼요"
 }

@@ -818,5 +818,7 @@
     "mute_member": "Membre Muet",
     "timeout_member_description": "Empêcher le memeber d'envoyer des messages, de réagir aux messages, de rejoindre les salons vocaux",
     "edit_rule": "Modifier la règle",
-    "timeout_duration": "La durée de l'exclusion."
+    "timeout_duration": "La durée de l'exclusion.",
+    "allow_certain_message": "Allow certain roles or channels (optional)",
+    "excluded_from_filter_rules": "Member with the Admin and Manager Server permissions are always excluded from filter rules"
 }

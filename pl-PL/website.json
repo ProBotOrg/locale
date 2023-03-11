@@ -818,5 +818,7 @@
     "mute_member": "Wycisz członka",
     "timeout_member_description": "Blokuje użytkownikowi możliwość wysyłania wiadomości, reagowania oraz dołączania na kanały głosowe.",
     "edit_rule": "Edit Rule",
-    "timeout_duration": "Timeout duration"
+    "timeout_duration": "Timeout duration",
+    "allow_certain_message": "Allow certain roles or channels (optional)",
+    "excluded_from_filter_rules": "Member with the Admin and Manager Server permissions are always excluded from filter rules"
 }

@@ -813,10 +813,12 @@
     "choose_the_response": "Escolha uma resposta",
     "block_message": "Bloquear mensagem",
     "block_message_description": "Bloquear mensagens que contenham estas palavras de serem publicadas",
-    "mute_member_description": "Bloquear o memeber de enviar mensagens para um horário específico",
+    "mute_member_description": "Bloquear o membro de enviar mensagens para um horário específico",
     "timeout_member": "Membro de castigo",
     "mute_member": "Silenciar Membro",
     "timeout_member_description": "Bloquear o membro de enviar mensagens, reagir a mensagens, juntar-se a canais de voz",
     "edit_rule": "Editar regra",
-    "timeout_duration": "Duração do castigo"
+    "timeout_duration": "Duração do castigo",
+    "allow_certain_message": "Allow certain roles or channels (optional)",
+    "excluded_from_filter_rules": "Member with the Admin and Manager Server permissions are always excluded from filter rules"
 }
