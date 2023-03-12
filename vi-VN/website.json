@@ -819,6 +819,6 @@
     "timeout_member_description": "Hạn chế người dùng và không cho phép họ gửi tin, dùng biểu cảm và tham gia kênh voice",
     "edit_rule": "Tùy chỉnh quy tắc",
     "timeout_duration": "Thời gian hạn chế",
-    "allow_certain_message": "Allow certain roles or channels (optional)",
-    "excluded_from_filter_rules": "Members with Administrator or Manage Server permissions are always excluded from filter rules"
+    "allow_certain_message": "Bỏ qua vai trò hoặc kênh chỉ định (không bắt buộc)",
+    "excluded_from_filter_rules": "Thành viên với quyền Quản trị và quyền quản lý server sẽ luôn bị bỏ qua bởi hệ thống quản lý tự động"
 }
