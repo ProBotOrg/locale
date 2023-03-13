@@ -819,6 +819,6 @@
     "timeout_member_description": "Заборонити користувачеві надсилати повідомлення, відповідати на повідомлення, приєднуватися до голосових каналів",
     "edit_rule": "Редагувати правило",
     "timeout_duration": "Тривалість тайм-ауту",
-    "allow_certain_message": "Allow certain roles or channels (optional)",
-    "excluded_from_filter_rules": "Members with Administrator or Manage Server permissions are always excluded from filter rules"
+    "allow_certain_message": "Дозволити певні ролі або канали (необов'язково)",
+    "excluded_from_filter_rules": "Користувачі з правами Адміністратора або Керування сервером завжди виключаються з правил фільтрації"
 }
