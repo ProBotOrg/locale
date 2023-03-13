@@ -819,6 +819,6 @@
     "timeout_member_description": "Bloquear o membro de enviar mensagens, reagir a mensagens, juntar-se a canais de voz",
     "edit_rule": "Editar regra",
     "timeout_duration": "Duração do castigo",
-    "allow_certain_message": "Allow certain roles or channels (optional)",
-    "excluded_from_filter_rules": "Members with Administrator or Manage Server permissions are always excluded from filter rules"
+    "allow_certain_message": "Permitir certos cargos ou canais (opcional)",
+    "excluded_from_filter_rules": "Membros com permissões de Administrador ou Gerenciar Servidor são sempre excluídos das regras de filtro"
 }

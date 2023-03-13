@@ -819,6 +819,6 @@
     "timeout_member_description": "Blokuje użytkownikowi możliwość wysyłania wiadomości, reagowania oraz dołączania na kanały głosowe.",
     "edit_rule": "Edytuj Regułę",
     "timeout_duration": "Czas trwania przerwy",
-    "allow_certain_message": "Allow certain roles or channels (optional)",
-    "excluded_from_filter_rules": "Members with Administrator or Manage Server permissions are always excluded from filter rules"
+    "allow_certain_message": "Zezwalaj określonym rolom lub na określonych kanałach (opcjonalne)",
+    "excluded_from_filter_rules": "Użytkownicy z uprawnieniami Administratora lub do Zarządzania Serwerem zawsze będę wykluczeni z filtrowania"
 }

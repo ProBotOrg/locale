@@ -819,6 +819,6 @@
     "timeout_member_description": "Üyenin mesaj göndermesini,tepki vermesini, ses kanallarına katılmasını engelle",
     "edit_rule": "Kuralı Düzenle",
     "timeout_duration": "Zaman Aşımı Süresi",
-    "allow_certain_message": "Allow certain roles or channels (optional)",
-    "excluded_from_filter_rules": "Members with Administrator or Manage Server permissions are always excluded from filter rules"
+    "allow_certain_message": "Belirli rollere veya kanallara izin ver (isteğe bağlı)",
+    "excluded_from_filter_rules": "Yönetici veya Sunucuyu Yönet izinlerine sahip üyeler her zaman filtre kurallarının dışında tutulur"
 }
