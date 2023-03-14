@@ -198,7 +198,7 @@
     "KICK_THE_BOT": "Botu kov",
     "BOTS_HINT": "Bu, sunucunuzu bilinmeyen botlardan koruyacaktır.",
     "WHITELIST_BOTS": "Beyaz liste botları",
-    "DELETE_WITH_MESSAGE_DELETION": "Mesaj silme ile Otomatik-Sil",
+    "DELETE_WITH_MESSAGE_DELETION": "Komut mesajı silinince botun mesajı da sil",
     "AUTOMOD_SPAM": "SPAM (5 mesaj/5sn)",
     "AUTOMOD_BADWORDS": "UYGUNSUZ KELİMELER",
     "AUTOMOD_DUPS": "ÇOĞALTILMIŞ METİN",
