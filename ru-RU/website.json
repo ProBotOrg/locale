@@ -398,7 +398,7 @@
     "leveling_no_xp_channels": "Каналы без получения XP",
     "leveling_note": "* Во избежание спама пользователи получают случайное количество опыта каждую минуту во время беседы",
     "leveling_variables": "[level] - достигнутый уровень\n[user] - упоминание пользователя\n[user.username] - имя пользователя\n[user.tag] - тег пользователя\n[oldLevel] - старый уровень",
-    "leveling_add_role_reward": "Добавить роль за награду",
+    "leveling_add_role_reward": "Добавить награду ролью",
     "Premium": "Премиум",
     "LEADERBOARD": "таблица лидеров",
     "transactions_date": "Дата",
