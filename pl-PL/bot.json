@@ -200,7 +200,7 @@
 	"points_done_reset": ":sparkles: **Wszystkie punkty zostały pomyślnie zresetowane.**",
 	"points_valid_number": ":rolling_eyes: - **Użyj poprawnej liczby.**",
 	"points_target_user": ":sparkles: Punkty **{0}**': **{1}**",
-	"points_new": ":sparkles: **{0}** otrzymał **{1}** pkt.",
+	"points_new": ":sparkles: **{0}** ma teraz **{1}** pkt.",
 	"move_not_in_voice": ":rolling_eyes: - ** Nie jesteś na kanale głosowym! **",
 	"move_being_moved": ":white_check_mark: ** Wszyscy członkowie zostali przeniesieni!**",
 	"move_more_specific": ":rolling_eyes: -  **Sprecyzuj** ```{0} ```",
