@@ -1,6 +1,6 @@
 {
 	"choose_reason": "Choose a reason",
-	"reason_cancel": "Cancel",
+	"reason_cancel": "Atcelt",
 	"rank_description": "View your rank card or someone else's in the server.",
 	"clear_description": "Cleans messages from a channel.",
 	"moveme_description": "Moves you to another voice channel.",
@@ -380,7 +380,7 @@
 	"untimeout_user_description": "The user to untimeout",
 	"give_value": "Give",
 	"remove_value": "Remove",
-	"all_value": "All",
+	"all_value": "Viss",
 	"bots_value": "Bots",
 	"humans_value": "Humans",
 	"humans_role": "All With Role",
