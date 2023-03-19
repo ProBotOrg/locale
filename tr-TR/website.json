@@ -259,7 +259,7 @@
     "CHANNELS_LIMIT_HINT": "Bu sınırlama, kanal oluşturma/güncelleme/silme işlemleri için geçerli olacaktır.",
     "ROLE_LIMIT_HINT": "Bu sınırlama, rol oluşturma/güncelleme/silme eylemleri için geçerli olacaktır.",
     "REQUIRES_SETUP": "Bu sunucu kurulum gerektiriyor.",
-    "CONTINUE_TO_DISCORD": "Discorda Devam Et",
+    "CONTINUE_TO_DISCORD": "Discord'a Ekle",
     "kick_member": "Üye Atıldı",
     "color": "Renk",
     "enable": "Etkinleştir",
