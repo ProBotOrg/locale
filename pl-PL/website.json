@@ -812,7 +812,7 @@
     "discord_automod": "Discord AutoMod",
     "choose_the_response": "Wybierz Odpowiedź",
     "block_message": "Blokuje Wiadomość",
-    "block_message_description": "Blokuje przed wysłaniem wiadomości zawierające podane słowa.",
+    "block_message_description": "Blokuje wiadomość przed wysłaniem.",
     "mute_member_description": "Blokuje użytkownikowi możliwość wysyłania wiadomości na określony czas.",
     "timeout_member": "Wycisz Użytkownika",
     "mute_member": "Wycisz członka",
