@@ -395,7 +395,7 @@
 	"setlang_description": "Устанавливает ваш предпочитаемый язык для бота.",
 	"setlang_language_description": "Язык, на который следует перейти.",
 	"unmute_description": "Снимает мут с участника.",
-	"muted_both": ":white_check_mark: **@{0} заглушен в текстовых и голосовых каналах! :zipper_mouth:**",
+	"muted_both": ":white_check_mark: **@{0} был выдан мут в текстовых и голосовых каналах! :zipper_mouth:**",
 	"slowmode_set": "Медленный режим для этого канала был установлен на {0}.",
 	"slowmode_should": "Время должно быть меньше или равно {0}.",
 	"slowmode_is": "Медленный режим этого канала {0}.",
