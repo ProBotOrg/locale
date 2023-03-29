@@ -205,7 +205,7 @@
     "AUTOMOD_LINKS": "ССЫЛКИ",
     "AUTOMOD_DISCORD_INVITES": "DISCORD-ПРИГЛАШЕНИЯ",
     "AUTOMOD_REPEATED": "ПОВТОРНЫЕ СООБЩЕНИЯ",
-    "AUTOMOD_MASS_MENTION": "МАССОВЫЕ УПОМИНАНИЯ",
+    "AUTOMOD_MASS_MENTION": "МАССОВОЕ УПОМИНАНИЕ",
     "AUTOMOD_EMOJI_SPAM": "СПАМ EMOJI",
     "AUTOMOD_CAPS": "СПАМ КАПСОМ (70% > КАПС)",
     "AUTOMOD_IGNORED_CHANNELS": "Игнорируемые каналы",
