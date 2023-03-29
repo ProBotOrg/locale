@@ -84,7 +84,7 @@
     "MONTHS": "Ay",
     "Reasons": "Nedenler",
     "AUTO_INVOCATION": "Komut çağırma mesajını otomatik sil",
-    "AUTO_DELETE_REPLY": "Bot yanıt mesajlarını 5 saniye sonra otomatik sil",
+    "AUTO_DELETE_REPLY": "Botun yanıt mesajlarını 5 saniye sonra otomatik sil",
     "SAVE_SETTINGS": "Ayarları Kaydet",
     "DAY": "Gün",
     "NONE": "Hiçbiri",
