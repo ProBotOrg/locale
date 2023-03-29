@@ -244,7 +244,7 @@
     "PROTECTION_ACCESS_ANY_ADMINISTRATOR": "Admin iznine sahip tüm üyeler",
     "PROTECTION_ACCESS_MEMBERS": "Sunucu sahibi + Yönetici iznine sahip belirli üyeler",
     "MEMBERS": "Üyeler",
-    "PROTECTION_ONLY_OWNER": "Koruma özelliklerini sunucunu sahibiyle sınırlayın",
+    "PROTECTION_ONLY_OWNER": "Koruma özelliklerini sadece sunucu sahibine sınırlayın",
     "UNSAVED_CONFIRM": "Dikkat - değişiklikleri kaydetmediniz!",
     "cancel": "İptal",
     "save": "Kaydet",
