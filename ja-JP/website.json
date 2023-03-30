@@ -820,5 +820,5 @@
     "edit_rule": "ルールの編集",
     "timeout_duration": "タイムアウト期間",
     "allow_certain_message": "特定のロールまたはチャンネルを許可します (オプション)",
-    "excluded_from_filter_rules": "管理者またはサーバーの権限を持つメンバーは、常にフィルタールールから除外されます"
+    "excluded_from_filter_rules": "管理者またはサーバー管理の権限を持つメンバーは、常にフィルタールールから除外されます"
 }
