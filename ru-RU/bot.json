@@ -89,7 +89,7 @@
 	"ban_from_server_description": ":white_check_mark: **{0} Заблокирован на сервере! :airplane:**",
 	"ban_cant_description": ":rolling_eyes: - ** Вы не можете заблокировать @{0}. **",
 	"ban_missing_permission_description": ":rolling_eyes: - Я не могу забанить этого пользователя. Пожалуйста, перепроверьте мои права и позицию роли.",
-	"clear_cooldown_description": "**{0}**, остынь (осталось времени: **{1}**)",
+	"clear_cooldown_description": "**{0}**, остынь (осталось **{1}**)",
 	"clear_cant_description": ":rolling_eyes: - Я не могу очистить этот канал. Пожалуйста проверь мои права доступа.",
 	"clear_message_has": "{0} сообщение было удалено.",
 	"clear_messages_have": "{0} сообщений было удалено.",
