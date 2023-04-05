@@ -820,5 +820,7 @@
     "edit_rule": "Modifier la règle",
     "timeout_duration": "Durée du timeout",
     "allow_certain_message": "Autoriser certains rôles ou salons (facultatif)",
-    "excluded_from_filter_rules": "Les membres disposant d'autorisations d'administrateur ou de gestion de serveur sont toujours exclus des règles de filtrage"
+    "excluded_from_filter_rules": "Les membres disposant d'autorisations d'administrateur ou de gestion de serveur sont toujours exclus des règles de filtrage",
+    "mod_roles_tooltip": "Users with mod roles will have access to all moderation section commands",
+    "auto_role_bots": "AUTO ROLES FOR BOTS"
 }
