@@ -820,5 +820,7 @@
     "edit_rule": "Редактиране на Правило",
     "timeout_duration": "Продължителност на Таймаута",
     "allow_certain_message": "Разрешаване на определени роли или канали (по избор)",
-    "excluded_from_filter_rules": "Членовете с администраторски разрешения или разрешения за управление на сървър винаги се изключват от правилата за филтриране"
+    "excluded_from_filter_rules": "Членовете с администраторски разрешения или разрешения за управление на сървър винаги се изключват от правилата за филтриране",
+    "mod_roles_tooltip": "Users with mod roles will have access to all moderation section commands",
+    "auto_role_bots": "AUTO ROLES FOR BOTS"
 }
