@@ -820,5 +820,7 @@
     "edit_rule": "ویرایش قانون",
     "timeout_duration": "مدت زمان تایم‌اوت",
     "allow_certain_message": "اجازه دادن به بعضی نقش ها و کانال ها (اختیاری)",
-    "excluded_from_filter_rules": "اعضاء با دسترسی Administrator یا Manage Server همیشه از این قوانین فیلتر مستثناء می‌شوند."
+    "excluded_from_filter_rules": "اعضاء با دسترسی Administrator یا Manage Server همیشه از این قوانین فیلتر مستثناء می‌شوند.",
+    "mod_roles_tooltip": "Users with mod roles will have access to all moderation section commands",
+    "auto_role_bots": "AUTO ROLES FOR BOTS"
 }
