@@ -820,5 +820,7 @@
     "edit_rule": "Sunting Aturan",
     "timeout_duration": "Durasi waktu habis",
     "allow_certain_message": "Izinkan peran atau saluran tertentu (opsional)",
-    "excluded_from_filter_rules": "Anggota dengan izin Administrator atau Kelola Server selalu dikecualikan dari aturan filter"
+    "excluded_from_filter_rules": "Anggota dengan izin Administrator atau Kelola Server selalu dikecualikan dari aturan filter",
+    "mod_roles_tooltip": "Users with mod roles will have access to all moderation section commands",
+    "auto_role_bots": "AUTO ROLES FOR BOTS"
 }
