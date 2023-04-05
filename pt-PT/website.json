@@ -820,5 +820,7 @@
     "edit_rule": "Editar Regra",
     "timeout_duration": "Duração do castigo",
     "allow_certain_message": "Permitir certos cargos ou canais (opcional)",
-    "excluded_from_filter_rules": "Membros com permissões de Administrador ou Gestão do Servidor são sempre excluídos das regras"
+    "excluded_from_filter_rules": "Membros com permissões de Administrador ou Gestão do Servidor são sempre excluídos das regras",
+    "mod_roles_tooltip": "Users with mod roles will have access to all moderation section commands",
+    "auto_role_bots": "AUTO ROLES FOR BOTS"
 }
