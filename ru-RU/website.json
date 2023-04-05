@@ -820,5 +820,7 @@
     "edit_rule": "Редактировать правило",
     "timeout_duration": "Продолжительность тайм-аута",
     "allow_certain_message": "Разрешить определенные роли или каналы (необязательно)",
-    "excluded_from_filter_rules": "Участники с правами Администратора и Управления сервером всегда исключаются из фильтров "
+    "excluded_from_filter_rules": "Участники с правами Администратора и Управления сервером всегда исключаются из фильтров ",
+    "mod_roles_tooltip": "Users with mod roles will have access to all moderation section commands",
+    "auto_role_bots": "AUTO ROLES FOR BOTS"
 }
