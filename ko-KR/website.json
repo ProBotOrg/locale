@@ -820,5 +820,7 @@
     "edit_rule": "규칙 편집",
     "timeout_duration": "타임아웃 기간",
     "allow_certain_message": "특정 역할이나 채널 허용 (선택)",
-    "excluded_from_filter_rules": "관리자와 서버 관리 권한이 있는 멤버는 필터 규칙에서 항상 제외돼요"
+    "excluded_from_filter_rules": "관리자와 서버 관리 권한이 있는 멤버는 필터 규칙에서 항상 제외돼요",
+    "mod_roles_tooltip": "Users with mod roles will have access to all moderation section commands",
+    "auto_role_bots": "AUTO ROLES FOR BOTS"
 }
