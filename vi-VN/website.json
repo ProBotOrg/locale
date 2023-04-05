@@ -820,5 +820,7 @@
     "edit_rule": "Tùy chỉnh quy tắc",
     "timeout_duration": "Thời gian hạn chế",
     "allow_certain_message": "Bỏ qua vai trò hoặc kênh chỉ định (không bắt buộc)",
-    "excluded_from_filter_rules": "Thành viên với quyền Quản trị và quyền quản lý server sẽ luôn bị bỏ qua bởi hệ thống quản lý tự động"
+    "excluded_from_filter_rules": "Thành viên với quyền Quản trị và quyền quản lý server sẽ luôn bị bỏ qua bởi hệ thống quản lý tự động",
+    "mod_roles_tooltip": "Users with mod roles will have access to all moderation section commands",
+    "auto_role_bots": "AUTO ROLES FOR BOTS"
 }
