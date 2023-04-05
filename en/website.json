@@ -822,6 +822,7 @@
     "edit_rule": "Edit Rule",
     "timeout_duration": "Timeout duration", 
     "allow_certain_message": "Allow certain roles or channels (optional)", 
-    "excluded_from_filter_rules": "Members with Administrator or Manage Server permissions are always excluded from filter rules"
+    "excluded_from_filter_rules": "Members with Administrator or Manage Server permissions are always excluded from filter rules", 
+    "mod_roles_tooltip": "Users with mod roles will have access to all moderation section commands"
 
 }
