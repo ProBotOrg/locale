@@ -494,13 +494,13 @@
 	"rolekick_no_role": "Tidak ada peran yang dikecualikan.",
 	"channel_old_name": "**Nama Lama**",
 	"channel_new_name": "**Nama baru**",
-	"channel_old_topic": "**Old Topic**",
-	"channel_new_topic": "**New Topic**",
+	"channel_old_topic": "**Topik Lama**",
+	"channel_new_topic": "**Topik baru**",
 	"channel_nsfw": "**NSFW**",
-	"channel_old_slowmode": "**Old Slowmode**",
-	"channel_new_slowmode": "**New Slowmode**",
-	"channel_old_bitrate": "**Old Bitrate**",
-	"channel_new_bitrate": "**New Bitrate**",
-	"clear_FBB_description": "Filter by bots messages.",
-	"top_must_type": "You must select a type before you can view the page filter."
+	"channel_old_slowmode": "**Mode Lambat Lama**",
+	"channel_new_slowmode": "**Mode Lambat Baru**",
+	"channel_old_bitrate": "**Bitrate Lama**",
+	"channel_new_bitrate": "**Bitrate Baru**",
+	"clear_FBB_description": "Filter berdasarkan pesan bot.",
+	"top_must_type": "Anda harus memilih jenis sebelum Anda dapat melihat filter halaman."
 }

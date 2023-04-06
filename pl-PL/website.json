@@ -820,5 +820,7 @@
     "edit_rule": "Edytuj Regułę",
     "timeout_duration": "Czas trwania przerwy",
     "allow_certain_message": "Zezwalaj określonym rolom lub na określonych kanałach (opcjonalne)",
-    "excluded_from_filter_rules": "Użytkownicy z uprawnieniami Administratora lub do Zarządzania Serwerem zawsze będę wykluczeni z filtrowania"
+    "excluded_from_filter_rules": "Użytkownicy z uprawnieniami Administratora lub do Zarządzania Serwerem zawsze będę wykluczeni z filtrowania",
+    "mod_roles_tooltip": "Użytkownicy z rolami moderatora, będą mieć dostęp do wszystkich komend z sekcji moderacji",
+    "auto_role_bots": "AUTOMATYCZNE ROLE DLA BOTÓW"
 }

@@ -402,7 +402,7 @@
 	"slowmode_disabled": "La modalità lenta è disabilitata da questo canale",
 	"timeout_done": ":white_check_mark: ** @{0} è stato concesso un timeout! **",
 	"timeout_cant": ":rolling_eyes: - ** You can't timeout @{0}. **",
-	"timeout_missing_permission": ":rolling_eyes: - I couldn't timeout that user. Please double-check my permissions and role position.",
+	"timeout_missing_permission": "Lingua italiana",
 	"timeout_max_time": ":x: Timeout duration must be lower or equal to 28 days.",
 	"untimeout_done": ":white_check_mark: **@{0} has been untimed out.**",
 	"untimeout_cant": ":rolling_eyes: - ** You can't untimeout @{0}. **",

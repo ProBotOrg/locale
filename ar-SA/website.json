@@ -820,5 +820,7 @@
     "edit_rule": "تعديل القاعدة",
     "timeout_duration": "مدة الوقت المستقطع",
     "allow_certain_message": "السماح لـ رولات او رومات معينة (اختياري)",
-    "excluded_from_filter_rules": "الاعضاء مع صلاحيات Administrator او Manage Server سيتم تخطيهم من الرقابة التلقائية"
+    "excluded_from_filter_rules": "الاعضاء مع صلاحيات Administrator او Manage Server سيتم تخطيهم من الرقابة التلقائية",
+    "mod_roles_tooltip": "جميع أوامر قسم الإشراف متاحة للمستخدمين الذين لديهم رولات المشرفين",
+    "auto_role_bots": "الرولات التلقائية للبوتات"
 }
