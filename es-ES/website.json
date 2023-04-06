@@ -821,6 +821,6 @@
     "timeout_duration": "Duración del Aislamiento",
     "allow_certain_message": "Permitir ciertos roles o canales (opcional)",
     "excluded_from_filter_rules": "Los miembros con permisos de Administrador o Manejar Servidor siempre están excluidos de las reglas de filtro",
-    "mod_roles_tooltip": "Users with mod roles will have access to all moderation section commands",
-    "auto_role_bots": "AUTO ROLES FOR BOTS"
+    "mod_roles_tooltip": "Los usuarios con roles de moderador tendrán acceso a todos los comandos de la sección de moderación.",
+    "auto_role_bots": "AUTO ROLES PARA BOTS"
 }
