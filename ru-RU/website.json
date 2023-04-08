@@ -36,7 +36,7 @@
     "move_description": "Перемещает участника в другой голосовой канал.",
     "role_description": "Выдает или снимает роль(и) участника.",
     "warn_description": "Сделать предупреждение участнику.",
-    "setcolor_description": "Изменяет цвет роли по hex коду.",
+    "setcolor_description": "Изменяет цвет роли по hex-коду.",
     "warnings_description": "Показать список варнов сервера или пользователя.",
     "setnick_description": "Сменить никнейм участнику.",
     "restore_description": "Восстанавливает вашу резервную копию!",
