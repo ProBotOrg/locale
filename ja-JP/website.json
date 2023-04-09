@@ -821,6 +821,6 @@
     "timeout_duration": "タイムアウト期間",
     "allow_certain_message": "特定のロールまたはチャンネルを許可します (オプション)",
     "excluded_from_filter_rules": "管理者またはサーバー管理の権限を持つメンバーは、常にフィルタールールから除外されます",
-    "mod_roles_tooltip": "Users with mod roles will have access to all moderation section commands",
-    "auto_role_bots": "AUTO ROLES FOR BOTS"
+    "mod_roles_tooltip": "管理者ロールを持っているユーザーはすべての管理コマンドを利用できます。",
+    "auto_role_bots": "Bot用自動ロール付与"
 }
