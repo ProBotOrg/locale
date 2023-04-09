@@ -817,10 +817,10 @@
     "timeout_member": "Aislar al Miembro",
     "mute_member": "Silenciar miembro",
     "timeout_member_description": "Bloquear al miembro de enviar mensajes, reaccionar a mensajes y unirse a canales de voz",
-    "edit_rule": "Editar Regla",
+    "edit_rule": "Configuración",
     "timeout_duration": "Duración del Aislamiento",
     "allow_certain_message": "Permitir ciertos roles o canales (opcional)",
     "excluded_from_filter_rules": "Los miembros con permisos de Administrador o Manejar Servidor siempre están excluidos de las reglas de filtro",
-    "mod_roles_tooltip": "Users with mod roles will have access to all moderation section commands",
-    "auto_role_bots": "AUTO ROLES FOR BOTS"
+    "mod_roles_tooltip": "Los usuarios con roles de moderador tendrán acceso a todos los comandos de la sección de moderación.",
+    "auto_role_bots": "AUTO ROLES PARA BOTS"
 }
