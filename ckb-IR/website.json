@@ -822,5 +822,7 @@
     "allow_certain_message": "Allow certain roles or channels (optional)",
     "excluded_from_filter_rules": "Members with Administrator or Manage Server permissions are always excluded from filter rules",
     "mod_roles_tooltip": "Users with mod roles will have access to all moderation section commands",
-    "auto_role_bots": "AUTO ROLES FOR BOTS"
+    "auto_role_bots": "AUTO ROLES FOR BOTS",
+    "embed_search_by_name": "Search Embed By Name",
+    "duplicate": "Duplicate"
 }
