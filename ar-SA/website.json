@@ -823,6 +823,6 @@
     "excluded_from_filter_rules": "الاعضاء مع صلاحيات Administrator او Manage Server سيتم تخطيهم من الرقابة التلقائية",
     "mod_roles_tooltip": "جميع أوامر قسم الإشراف متاحة للمستخدمين الذين لديهم رولات المشرفين",
     "auto_role_bots": "الرولات التلقائية للبوتات",
-    "embed_search_by_name": "Search Embed By Name",
-    "duplicate": "Duplicate"
+    "embed_search_by_name": "البحث باستخدام اسم الايمبد",
+    "duplicate": "نسخ"
 }
