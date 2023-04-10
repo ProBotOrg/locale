@@ -822,5 +822,7 @@
     "allow_certain_message": "Permitir ciertos roles o canales (opcional)",
     "excluded_from_filter_rules": "Los miembros con permisos de Administrador o Manejar Servidor siempre están excluidos de las reglas de filtro",
     "mod_roles_tooltip": "Los usuarios con roles de moderador tendrán acceso a todos los comandos de la sección de moderación.",
-    "auto_role_bots": "AUTO ROLES PARA BOTS"
+    "auto_role_bots": "AUTO ROLES PARA BOTS",
+    "embed_search_by_name": "Search Embed By Name",
+    "duplicate": "Duplicate"
 }
