@@ -822,5 +822,7 @@
     "allow_certain_message": "特定のロールまたはチャンネルを許可します (オプション)",
     "excluded_from_filter_rules": "管理者またはサーバー管理の権限を持つメンバーは、常にフィルタールールから除外されます",
     "mod_roles_tooltip": "管理者ロールを持っているユーザーはすべての管理コマンドを利用できます。",
-    "auto_role_bots": "Bot用自動ロール付与"
+    "auto_role_bots": "Bot用自動ロール付与",
+    "embed_search_by_name": "Search Embed By Name",
+    "duplicate": "Duplicate"
 }

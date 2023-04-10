@@ -822,5 +822,7 @@
     "allow_certain_message": "Разрешить определенные роли или каналы (необязательно)",
     "excluded_from_filter_rules": "Участники с правами Администратора и Управления сервером всегда исключаются из фильтров ",
     "mod_roles_tooltip": "Пользователи с ролями модератора получат доступ ко всем командам модерации ",
-    "auto_role_bots": "АВТОРОЛИ ДЛЯ БОТОВ"
+    "auto_role_bots": "АВТОРОЛИ ДЛЯ БОТОВ",
+    "embed_search_by_name": "Search Embed By Name",
+    "duplicate": "Duplicate"
 }
