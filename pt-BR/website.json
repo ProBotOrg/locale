@@ -507,7 +507,7 @@
     "mod_bans": "Banimentos",
     "mod_mutes": "Silenciamento",
     "mod_warning": "Advertência",
-    "mod_search_username": "Pesquisar com nome de usuário",
+    "mod_search_username": "Buscar com nome de usuário",
     "mod_punish_time": "Tempo de Punição",
     "mod_time_left": "Tempo restante",
     "mod_punished_at": "Punido em",
@@ -555,7 +555,7 @@
     "reddit": "Reddit",
     "command_saved_success": "{0} foi salvo com sucesso👌",
     "wildcard": "Curinga",
-    "wildcard_description": "Pesquise na mensagem sobre uma letra/palavra específica",
+    "wildcard_description": "Buscar por uma palavra/letra específica na mensagem",
     "never_mind": "Deixa pra lá",
     "do_you_really": "Você realmente deseja excluir {0}.",
     "add_field": "Adicionar campo",
@@ -613,7 +613,7 @@
     "uninvited_subscription": "Assinatura não convidada",
     "unknown": "Desconhecido",
     "upgrade": "Melhorar",
-    "role_search": "PESQUISAR POR ID DO CARGO OU NOME",
+    "role_search": "BUSCAR POR ID DO CARGO OU NOME",
     "type_here": "Digite aqui ..",
     "new_subscription": "Nova assinatura",
     "invoices_due_title": "{0} Cobranças Vencidas",
@@ -823,6 +823,6 @@
     "excluded_from_filter_rules": "Membros com permissões de Administrador ou Gerenciar Servidor são sempre excluídos das regras de filtro",
     "mod_roles_tooltip": "Usuários com cargos de moderação terão acesso a todos os comandos de seção de moderação",
     "auto_role_bots": "CARGOS AUTOMATICOS PARA BOTS",
-    "embed_search_by_name": "Search Embed By Name",
-    "duplicate": "Duplicate"
+    "embed_search_by_name": "Buscar Incorporação por nome",
+    "duplicate": "Duplicar"
 }

@@ -823,6 +823,6 @@
     "excluded_from_filter_rules": "Користувачі з правами Адміністратора або Керування сервером завжди виключаються з правил фільтрації",
     "mod_roles_tooltip": "Користувачі з роллю модератора матимуть доступ до всіх команд розділу модерації",
     "auto_role_bots": "АВТОМАТИЧНІ РОЛІ ДЛЯ БОТІВ",
-    "embed_search_by_name": "Search Embed By Name",
-    "duplicate": "Duplicate"
+    "embed_search_by_name": "Пошук Повідомлення за назвою",
+    "duplicate": "Дублювати"
 }

@@ -823,6 +823,6 @@
     "excluded_from_filter_rules": "Thành viên với quyền Quản trị và quyền quản lý server sẽ luôn bị bỏ qua bởi hệ thống quản lý tự động",
     "mod_roles_tooltip": "Người dùng với vai trò quản lý sẽ có quyền sử dụng các lệnh quản lý từ bot",
     "auto_role_bots": "VAI TRÒ TỰ ĐỘNG CHO BOT",
-    "embed_search_by_name": "Search Embed By Name",
-    "duplicate": "Duplicate"
+    "embed_search_by_name": "Tìm embed theo tên",
+    "duplicate": "Sao chép"
 }
