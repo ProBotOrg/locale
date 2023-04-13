@@ -823,6 +823,6 @@
     "excluded_from_filter_rules": "اعضاء با دسترسی Administrator یا Manage Server همیشه از این قوانین فیلتر مستثناء می‌شوند.",
     "mod_roles_tooltip": "Users with mod roles will have access to all moderation section commands",
     "auto_role_bots": "AUTO ROLES FOR BOTS",
-    "embed_search_by_name": "Search Embed By Name",
+    "embed_search_by_name": "جستجو امبد بر اساس نام",
     "duplicate": "تکراری"
 }
