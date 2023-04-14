@@ -824,5 +824,6 @@
     "mod_roles_tooltip": "Les utilisateurs avec des rôles de mod auront accès à toutes les commandes de la section de modération",
     "auto_role_bots": "ROLES AUTOMATIQUES POUR LES BOTS",
     "embed_search_by_name": "Rechercher Embed par nom",
-    "duplicate": "Dupliquer"
+    "duplicate": "Dupliquer",
+    "embed_valid_url": "Must be a valid URL"
 }
