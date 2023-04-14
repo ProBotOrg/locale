@@ -824,5 +824,6 @@
     "mod_roles_tooltip": "Користувачі з роллю модератора матимуть доступ до всіх команд розділу модерації",
     "auto_role_bots": "АВТОМАТИЧНІ РОЛІ ДЛЯ БОТІВ",
     "embed_search_by_name": "Пошук Повідомлення за назвою",
-    "duplicate": "Дублювати"
+    "duplicate": "Дублювати",
+    "embed_valid_url": "Must be a valid URL"
 }
