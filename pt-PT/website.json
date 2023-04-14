@@ -823,7 +823,7 @@
     "excluded_from_filter_rules": "Membros com permissões de Administrador ou Gestão do Servidor são sempre excluídos das regras",
     "mod_roles_tooltip": "Membros com cargos de moderação terão acesso a todos os comandos de moderação",
     "auto_role_bots": "AUTO CARGOS PARA BOTS",
-    "embed_search_by_name": "Search Embed By Name",
-    "duplicate": "Duplicate",
-    "embed_valid_url": "Must be a valid URL"
+    "embed_search_by_name": "Pesquisar Embed por Nome",
+    "duplicate": "Duplicado",
+    "embed_valid_url": "O link deve ser válido"
 }
