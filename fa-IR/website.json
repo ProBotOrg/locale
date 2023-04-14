@@ -824,5 +824,6 @@
     "mod_roles_tooltip": "یوز های دارای رنک مدیر میتوانند به کامند های مدیریتی دسترسی داشته باشند",
     "auto_role_bots": "رول های خودکار برای ربات ها",
     "embed_search_by_name": "جستجو امبد بر اساس نام",
-    "duplicate": "تکراری"
+    "duplicate": "تکراری",
+    "embed_valid_url": "Must be a valid URL"
 }
