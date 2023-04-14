@@ -824,5 +824,6 @@
     "mod_roles_tooltip": "Benutzer mit Mod-Rollen haben Zugriff auf alle Befehle des Modestationsbereichs",
     "auto_role_bots": "AUTOMATISCHE ROLLEN FÜR BOTS",
     "embed_search_by_name": "Search Embed By Name",
-    "duplicate": "Duplicate"
+    "duplicate": "Duplicate",
+    "embed_valid_url": "Must be a valid URL"
 }
