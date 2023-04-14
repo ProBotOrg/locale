@@ -824,5 +824,6 @@
     "mod_roles_tooltip": "Usuários com cargos de moderação terão acesso a todos os comandos de seção de moderação",
     "auto_role_bots": "CARGOS AUTOMATICOS PARA BOTS",
     "embed_search_by_name": "Buscar Incorporação por nome",
-    "duplicate": "Duplicar"
+    "duplicate": "Duplicar",
+    "embed_valid_url": "Must be a valid URL"
 }
