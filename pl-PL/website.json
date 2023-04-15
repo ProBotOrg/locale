@@ -825,5 +825,5 @@
     "auto_role_bots": "AUTOMATYCZNE ROLE DLA BOTÓW",
     "embed_search_by_name": "Wyszukaj Embed według nazwy",
     "duplicate": "Duplicate",
-    "embed_valid_url": "Must be a valid URL"
+    "embed_valid_url": "Adres URL musi być prawidłowy"
 }
