@@ -824,5 +824,6 @@
     "mod_roles_tooltip": "관리자 역할이 있는 사용자는 모든 관리 항목 명령어에 접근할 수 있게 돼요",
     "auto_role_bots": "봇용 자동 역할",
     "embed_search_by_name": "Search Embed By Name",
-    "duplicate": "Duplicate"
+    "duplicate": "Duplicate",
+    "embed_valid_url": "Must be a valid URL"
 }

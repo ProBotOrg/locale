@@ -824,5 +824,6 @@
     "mod_roles_tooltip": "جميع أوامر قسم الإشراف متاحة للمستخدمين الذين لديهم رولات المشرفين",
     "auto_role_bots": "الرولات التلقائية للبوتات",
     "embed_search_by_name": "البحث باستخدام اسم الايمبد",
-    "duplicate": "نسخ"
+    "duplicate": "نسخ",
+    "embed_valid_url": "Must be a valid URL"
 }

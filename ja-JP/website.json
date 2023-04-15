@@ -824,5 +824,6 @@
     "mod_roles_tooltip": "管理者ロールを持っているユーザーはすべての管理コマンドを利用できます。",
     "auto_role_bots": "Bot用自動ロール付与",
     "embed_search_by_name": "埋め込み名で検索",
-    "duplicate": "複製"
+    "duplicate": "複製",
+    "embed_valid_url": "Must be a valid URL"
 }
