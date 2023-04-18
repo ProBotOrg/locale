@@ -825,5 +825,5 @@
     "auto_role_bots": "АВТОМАТИЧНІ РОЛІ ДЛЯ БОТІВ",
     "embed_search_by_name": "Пошук Повідомлення за назвою",
     "duplicate": "Дублювати",
-    "embed_valid_url": "Must be a valid URL"
+    "embed_valid_url": "Повинна бути дійсна URL-адреса\n"
 }
