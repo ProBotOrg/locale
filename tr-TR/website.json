@@ -821,7 +821,7 @@
     "timeout_duration": "Zaman Aşımı Süresi",
     "allow_certain_message": "Belirli rollere veya kanallara izin ver (isteğe bağlı)",
     "excluded_from_filter_rules": "Yönetici veya Sunucuyu Yönet izinlerine sahip üyeler her zaman filtre kurallarının dışında tutulur",
-    "mod_roles_tooltip": "Users with mod roles will have access to all moderation section commands",
+    "mod_roles_tooltip": "Mod rollerine sahip kullanıcılar, tüm moderasyon bölümü komutlarına erişebilir",
     "auto_role_bots": "BOTLAR İÇİN OTOMATİK ROLLER",
     "embed_search_by_name": "İsme Göre Ara",
     "duplicate": "Tekrarla",
