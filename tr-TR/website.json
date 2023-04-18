@@ -822,8 +822,8 @@
     "allow_certain_message": "Belirli rollere veya kanallara izin ver (isteğe bağlı)",
     "excluded_from_filter_rules": "Yönetici veya Sunucuyu Yönet izinlerine sahip üyeler her zaman filtre kurallarının dışında tutulur",
     "mod_roles_tooltip": "Users with mod roles will have access to all moderation section commands",
-    "auto_role_bots": "AUTO ROLES FOR BOTS",
-    "embed_search_by_name": "Search Embed By Name",
-    "duplicate": "Duplicate",
-    "embed_valid_url": "Must be a valid URL"
+    "auto_role_bots": "BOTLAR İÇİN OTOMATİK ROLLER",
+    "embed_search_by_name": "İsme Göre Ara",
+    "duplicate": "Tekrarla",
+    "embed_valid_url": "Geçerli bir URL olmalıdır"
 }
