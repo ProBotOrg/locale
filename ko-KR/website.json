@@ -823,7 +823,7 @@
     "excluded_from_filter_rules": "관리자와 서버 관리 권한이 있는 멤버는 필터 규칙에서 항상 제외돼요",
     "mod_roles_tooltip": "관리자 역할이 있는 사용자는 모든 관리 항목 명령어에 접근할 수 있게 돼요",
     "auto_role_bots": "봇용 자동 역할",
-    "embed_search_by_name": "Search Embed By Name",
-    "duplicate": "Duplicate",
-    "embed_valid_url": "Must be a valid URL"
+    "embed_search_by_name": "이름으로 임베드 검색",
+    "duplicate": "복제",
+    "embed_valid_url": "유효한 URL이어야 해요"
 }
