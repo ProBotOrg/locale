@@ -849,18 +849,18 @@
     "membership_verify": "Подтвердить",
     "membership_current_account": "Текущий аккаунт",
     "membership_modal_confirmation_title": "Подтверждение",
-    "membership_modal_confirmation_description": "Вы действительно хотите передать данные вашего аккаунта {0} для {1} (текущий)? Это действие нельзя отменить.",
+    "membership_modal_confirmation_description": "Вы действительно хотите передать данные вашего аккаунта с {0} для {1} (текущий)? Это действие нельзя отменить.",
     "membership_billing_title": "Готовы начать?",
     "membership_billing_description": "Выберите план, соответствующий вашим потребностям",
     "membership_background_title": "Загрузите собственные фоны",
     "membership_background_profile": "Фон профиля",
-    "membership_background_id": "Фон для ID-карточки",
+    "membership_background_id": "Фон ID-карточки",
     "membership_background_profile_description": "Кастомизируйте ваш профиль, добавив собственный фон!",
-    "membership_background_id_description": "Кастомизируйте вашу ID-карточку, добавив фон, который подходит вам больше всего",
+    "membership_background_id_description": "Кастомизируйте вашу ID-карточку, добавив фон, который подходит вам больше всего!",
     "membership_background_upload": "{0} или перетащите SVG, PNG или JPG (макс. 300х300пикс)",
     "membership_background_click_upload": "Нажмите для загрузки",
     "membership_background_change": "Изменить фон",
     "membership": "Членство",
-    "membership_transfer_id_required": "Account ID is required",
-    "membership_transfer_email_required": "Email is required"
+    "membership_transfer_id_required": "Необходим ID Аккаунта",
+    "membership_transfer_email_required": "Необходим Email"
 }
