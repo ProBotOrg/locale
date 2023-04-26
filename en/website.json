@@ -838,7 +838,7 @@
     "membership_transfer_modal_title": "Enter your old account",
     "membership_transfer_modal_description": "Enter the Discord account you're transferring data from",
     "membership_transfer_modal_id": "Account id",
-    "membership_transfer_modal_email": "EMAIL (OLD ACCOUNT)"
+    "membership_transfer_modal_email": "EMAIL (OLD ACCOUNT)",
     "membership_transfer_modal_verify": "Verify your account",
     "membership_transfer_modal_verify_description": "To verify it’s your account, check your {0} email for a 6-digit confirmation code.",
     "code": "Code",
