@@ -215,7 +215,7 @@
 	"time_reasons_limit": ":rolling_eyes: - **Лимит времени должен быть равен одному из следующих значений: (m, h, d, w, mo, y)**  ",
 	"user_warn_warned": ":white_check_mark: **@{0} предупрежден! **",
 	"user_warn_you_are_warned": ":warning: **Вы были предупреждены!**",
-	"server_id": ":id: Сервер ID:",
+	"server_id": ":id: ID Сервера:",
 	"server_created": ":calendar: Создан",
 	"server_owned": ":crown: Владелец",
 	"server_members": ":busts_in_silhouette:  Участники ({0})",
