@@ -853,5 +853,11 @@
     "membership_modal_confirmation_title": "Confirmation",
     "membership_modal_confirmation_description": "Are you sure you want to transfer you account data from {0} (Current)? this action is not reversible.",
     "membership_billing_title": "Ready to get started",
-    "membership_billing_description": "Choose a plan tailored to your needs"
+    "membership_billing_description": "Choose a plan tailored to your needs",
+    "membership_background_title": "Upload your own backgrounds",
+    "membership_background_profile": "Profile Background",
+    "membership_background_id": "Id Background",
+    "membership_background_profile_description": "Customize your profile by adding your own background!",
+    "membership_background_id_description": "Customize your ID by adding the background that suits you best",
+    "membership_background_upload": "**Click to upload** or drag and drop SVG, PNG or JPG (max. 300x300px)"
 }
