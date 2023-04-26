@@ -851,16 +851,18 @@
     "membership_verify": "Verify",
     "membership_current_account": "Current Account",
     "membership_modal_confirmation_title": "Confirmation",
-    "membership_modal_confirmation_description": "Are you sure you want to transfer you account data from {0} to {1} (Current)? this action is not reversible.",
+    "membership_modal_confirmation_description": "Are you sure you want to transfer your account data from {0} to {1} (Current)? this action is not reversible.",
     "membership_billing_title": "Ready to get started",
     "membership_billing_description": "Choose a plan tailored to your needs",
     "membership_background_title": "Upload your own backgrounds",
     "membership_background_profile": "Profile Background",
-    "membership_background_id": "Id Background",
+    "membership_background_id": "ID Background",
     "membership_background_profile_description": "Customize your profile by adding your own background!",
-    "membership_background_id_description": "Customize your ID by adding the background that suits you best",
+    "membership_background_id_description": "Customize your ID by adding the background that suits you best!",
     "membership_background_upload": "{0} or drag and drop SVG, PNG or JPG (max. 300x300px)",
     "membership_background_click_upload": "Click to upload",
     "membership_background_change": "Change Background",
-    "membership": "Membership"
+    "membership": "Membership", 
+    "membership_transfer_id_required": "Account ID is required", 
+    "membership_transfer_email_required": "Email is required" 
 }
