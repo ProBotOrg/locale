@@ -859,7 +859,8 @@
     "membership_background_id": "Id Background",
     "membership_background_profile_description": "Customize your profile by adding your own background!",
     "membership_background_id_description": "Customize your ID by adding the background that suits you best",
-    "membership_background_upload": "**Click to upload** or drag and drop SVG, PNG or JPG (max. 300x300px)",
+    "membership_background_upload": "{0} or drag and drop SVG, PNG or JPG (max. 300x300px)",
+    "membership_background_click_upload": "Click to upload",
     "membership_background_change": "Change Background",
     "membership": "Membership"
 }
