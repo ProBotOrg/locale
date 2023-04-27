@@ -503,5 +503,6 @@
         "channel_new_bitrate": "**New Bitrate**",
         "clear_FBB_description": "Filter by bots messages.", 
         "top_must_type": "You must select a type before you can view the page filter.", 
-        "membership_rep_limit": "You have reached the daily rep limit for you tier **{0}**"
+        "membership_rep_limit": "You have reached the daily rep limit for you tier **{0}**", 
+        "rep_membership_required": ":x: Only membership subscribers can rep users!"
 } 
