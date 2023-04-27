@@ -502,5 +502,10 @@
 	"channel_old_bitrate": "**以前のビットレート**",
 	"channel_new_bitrate": "**新しいビットレート**",
 	"clear_FBB_description": "Botメッセージで絞り込みます。",
-	"top_must_type": "ページフィルタを表示するには、まずタイプを選択してください。"
+	"top_must_type": "ページフィルタを表示するには、まずタイプを選択してください。",
+	"membership_rep_limit": "**{0}** Membership subscribers can only rep **{1}** times per day",
+	"rep_membership_required": ":x: Only membership subscribers can rep users!",
+	"membership_silver": "Silver",
+	"membership_gold": "Gold",
+	"membership_diamond": "Diamond"
 }
