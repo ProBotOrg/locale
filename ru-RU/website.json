@@ -627,7 +627,7 @@
     "billing_no_history": "История платежей отсутствует",
     "billing_add_payment": "Добавить способ оплаты",
     "update": "Обновить",
-    "billing_card_name": "Имя на карточке",
+    "billing_card_name": "Имя на карте",
     "billing_card_number": "Номер карты",
     "billing_card_expiry_date": "Срок истечения",
     "billing_card_security_code": "Код безопасности",
