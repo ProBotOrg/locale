@@ -826,7 +826,7 @@
     "embed_search_by_name": "Поиск Embed по имени",
     "duplicate": "Дублировать",
     "embed_valid_url": "Должен быть действующий URL ",
-    "membership_manage": "Управление абонементом",
+    "membership_manage": "Управление Абонементом",
     "membership_silver": "Серебро",
     "membership_gold": "Золото",
     "membership_diamond": "Алмаз",
@@ -862,5 +862,14 @@
     "membership_background_change": "Изменить фон",
     "membership": "Абонемент",
     "membership_transfer_id_required": "Необходим ID Аккаунта",
-    "membership_transfer_email_required": "Необходим Email"
+    "membership_transfer_email_required": "Необходим Email",
+    "membership_overview_daily_on_discord": "Ежедневное вознаграждение в Discord",
+    "membership_overview_daily_reps": "Ежедневные репутации",
+    "membership_overview_daily": "(х{0}) до {1} кредитов",
+    "membership_overview_reps": "{0} репутаций в день",
+    "membership_overview_transfer_per_month": "Передачи в месяц",
+    "features": "Особенности",
+    "membership_silver_description": "Добивайтесь большего за меньшее с помощью нашего Серебряного Абонемента",
+    "membership_gold_description": "Улучшите вашу продуктивность и эффективность с нашим Золотым Абонементом",
+    "membership_diamond_description": "Откройте эксклюзивные преимущества и поднимите свой опыт на новый уровень с помощью Алмазного Абонемента"
 }
