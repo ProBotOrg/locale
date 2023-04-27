@@ -826,7 +826,7 @@
     "embed_search_by_name": "Поиск Embed по имени",
     "duplicate": "Дублировать",
     "embed_valid_url": "Должен быть действующий URL ",
-    "membership_manage": "Управление членством",
+    "membership_manage": "Управление абонементом",
     "membership_silver": "Серебро",
     "membership_gold": "Золото",
     "membership_diamond": "Алмаз",
@@ -840,7 +840,7 @@
     "membership_transfer_modal_verify": "Подтвердите свой аккаунт",
     "membership_transfer_modal_verify_description": "Чтобы подтвердить ваш старый аккаунт, проверьте вашу почту {0} на наличие 6-значного кода подтверждения.",
     "code": "Код",
-    "membership_transfer_modal_verify_timer": "ЭТОТ КОД ДЕЙСТВИТЕЛЕН В ТЕЧЕНИЕ {0}",
+    "membership_transfer_modal_verify_timer": "ЭТОТ КОД ДЕЙСТВИТЕЛЕН В ТЕЧЕНИИ {0}",
     "membership_modal_next_step": "Следующий шаг",
     "membership_code_notmatch": "Код не совпадает",
     "membership_code_required": "Требуется код",
@@ -860,7 +860,7 @@
     "membership_background_upload": "{0} или перетащите SVG, PNG или JPG (макс. 300х300пикс)",
     "membership_background_click_upload": "Нажмите для загрузки",
     "membership_background_change": "Изменить фон",
-    "membership": "Членство",
+    "membership": "Абонемент",
     "membership_transfer_id_required": "Необходим ID Аккаунта",
     "membership_transfer_email_required": "Необходим Email"
 }
