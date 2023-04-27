@@ -863,13 +863,13 @@
     "membership": "Adhésion",
     "membership_transfer_id_required": "L'identifiant de compte est requis",
     "membership_transfer_email_required": "L'e-mail est requis",
-    "membership_overview_daily_on_discord": "Daily on Discord",
-    "membership_overview_daily_reps": "Daily Reps",
-    "membership_overview_daily": "(x{0}) up to {1} credits",
-    "membership_overview_reps": "{0} reps per day",
-    "membership_overview_transfer_per_month": "Transfers Per Month",
-    "features": "Features",
-    "membership_silver_description": "Get more done for less with our Silver Membership",
+    "membership_overview_daily_on_discord": "Quotidien sur Discord",
+    "membership_overview_daily_reps": "Représentants quotidiens",
+    "membership_overview_daily": "(x{0}) jusqu'à {1} crédits",
+    "membership_overview_reps": "{0} répétitions par jour",
+    "membership_overview_transfer_per_month": "Transferts par mois",
+    "features": "Caractéristiques",
+    "membership_silver_description": "Faites-en plus pour moins cher avec notre abonnement Silver",
     "membership_gold_description": "Boost your productivity and workflow with our Gold Membership",
-    "membership_diamond_description": "Unlock exclusive benefits and take your experience to the next level with our Diamond Membership"
+    "membership_diamond_description": "Débloquez des avantages exclusifs et faites passer votre expérience au niveau supérieur avec notre adhésion Diamond"
 }
