@@ -502,5 +502,10 @@
 	"channel_old_bitrate": "**이전 비트레이트 값**",
 	"channel_new_bitrate": "**현재 비트레이트 값**",
 	"clear_FBB_description": "봇이 보낸 메시지로 필터링",
-	"top_must_type": "페이지 필터를 보기 전 유형을 선택해야 해요."
+	"top_must_type": "페이지 필터를 보기 전 유형을 선택해야 해요.",
+	"membership_rep_limit": "**{0}** Membership subscribers can only rep **{1}** times per day",
+	"rep_membership_required": ":x: Only membership subscribers can rep users!",
+	"membership_silver": "은",
+	"membership_gold": "금",
+	"membership_diamond": "다이아몬드"
 }
