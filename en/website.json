@@ -873,7 +873,7 @@
     "membership_overview_daily_reps_silver": "3 reps per day", 
     "membership_overview_daily_reps_gold": "5 reps per day",
     "membership_overview_daily_reps_diamond": "10 reps per day",
-    "membership_overview_transfer_per_month": "Transfers Per Month"
-   
+    "membership_overview_transfer_per_month": "Transfers Per Month", 
+    "features": "Features" 
    
 }
