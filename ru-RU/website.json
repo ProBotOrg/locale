@@ -840,7 +840,7 @@
     "membership_transfer_modal_verify": "Подтвердите свой аккаунт",
     "membership_transfer_modal_verify_description": "Чтобы подтвердить ваш старый аккаунт, проверьте вашу почту {0} на наличие 6-значного кода подтверждения.",
     "code": "Код",
-    "membership_transfer_modal_verify_timer": "ЭТОТ КОД ДЕЙСТВИТЕЛЕН В ТЕЧЕНИИ {0}",
+    "membership_transfer_modal_verify_timer": "ЭТОТ КОД ДЕЙСТВИТЕЛЕН В ТЕЧЕНИЕ {0}",
     "membership_modal_next_step": "Следующий шаг",
     "membership_code_notmatch": "Код не совпадает",
     "membership_code_required": "Требуется код",
