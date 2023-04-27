@@ -502,5 +502,10 @@
 	"channel_old_bitrate": "Taxa de bits antiga",
 	"channel_new_bitrate": "**Taxa de bits novo**",
 	"clear_FBB_description": "Filtrar por mensagens de bots.",
-	"top_must_type": "Você deve selecionar um tipo antes de poder visualizar o filtro de página."
+	"top_must_type": "Você deve selecionar um tipo antes de poder visualizar o filtro de página.",
+	"membership_rep_limit": "**{0}** Membership subscribers can only rep **{1}** times per day",
+	"rep_membership_required": ":x: Only membership subscribers can rep users!",
+	"membership_silver": "Silver",
+	"membership_gold": "Gold",
+	"membership_diamond": "Diamond"
 }
