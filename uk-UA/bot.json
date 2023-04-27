@@ -503,9 +503,9 @@
 	"channel_new_bitrate": "**Новий бітрейт**",
 	"clear_FBB_description": "Фільтрувати за повідомленнями ботів.",
 	"top_must_type": "Перш ніж переглянути фільтр сторінок, вам потрібно вибрати тип.",
-	"membership_rep_limit": "**{0}** Membership subscribers can only rep **{1}** times per day",
-	"rep_membership_required": ":x: Only membership subscribers can rep users!",
-	"membership_silver": "Silver",
-	"membership_gold": "Gold",
-	"membership_diamond": "Diamond"
+	"membership_rep_limit": "**{0}** Підписники можуть виражати повагу лише **{1}** раз на день",
+	"rep_membership_required": ":x: Тільки підписники можуть виражати повагу користувачам!",
+	"membership_silver": "Срібний",
+	"membership_gold": "Золотий",
+	"membership_diamond": "Діамант"
 }
