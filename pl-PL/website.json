@@ -862,5 +862,14 @@
     "membership_background_change": "Zmień Tło",
     "membership": "Członkostwo",
     "membership_transfer_id_required": "Account ID is required",
-    "membership_transfer_email_required": "Email is required"
+    "membership_transfer_email_required": "Email is required",
+    "membership_overview_daily_on_discord": "Daily on Discord",
+    "membership_overview_daily_reps": "Daily Reps",
+    "membership_overview_daily": "(x{0}) up to {1} credits",
+    "membership_overview_reps": "{0} reps per day",
+    "membership_overview_transfer_per_month": "Transfers Per Month",
+    "features": "Features",
+    "membership_silver_description": "Get more done for less with our Silver Membership",
+    "membership_gold_description": "Boost your productivity and workflow with our Gold Membership",
+    "membership_diamond_description": "Unlock exclusive benefits and take your experience to the next level with our Diamond Membership"
 }
