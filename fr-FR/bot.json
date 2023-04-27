@@ -502,5 +502,10 @@
 	"channel_old_bitrate": "**Ancien débit**",
 	"channel_new_bitrate": "**Nouveau débit**",
 	"clear_FBB_description": "Filtrer par messages de bots.",
-	"top_must_type": "Vous devez sélectionner un type avant de pouvoir afficher le filtre de page."
+	"top_must_type": "Vous devez sélectionner un type avant de pouvoir afficher le filtre de page.",
+	"membership_rep_limit": "**{0}** Les abonnés à l'adhésion peuvent seulement représenter **{1}** fois par jour",
+	"rep_membership_required": ":x: Seuls les abonnés à l'adhésion peuvent représenter les utilisateurs!",
+	"membership_silver": "Argent",
+	"membership_gold": "Or",
+	"membership_diamond": "Diamant"
 }

@@ -861,6 +861,15 @@
     "membership_background_click_upload": "Yüklemek için tıklayın",
     "membership_background_change": "Arka Planı Değiştir",
     "membership": "Üyelik",
-    "membership_transfer_id_required": "Account ID is required",
-    "membership_transfer_email_required": "Email is required"
+    "membership_transfer_id_required": "Hesap ID'si Gereklidir",
+    "membership_transfer_email_required": "E-posta Gereklidir",
+    "membership_overview_daily_on_discord": "Günlük Kredi Takviyesi",
+    "membership_overview_daily_reps": "Günlük Saygınlık Takviyesi",
+    "membership_overview_daily": "(x{0}) en fazla {1} kredi",
+    "membership_overview_reps": "günde {0} saygınlık",
+    "membership_overview_transfer_per_month": "Hesap Taşıyabilme (Aylık)",
+    "features": "Özellikler",
+    "membership_silver_description": "Gümüş Üyeliğimizle daha az fiyata daha fazlasını yapın",
+    "membership_gold_description": "Altın Üyeliğimiz ile üretkenliğinizi ve iş akışınızı artırın",
+    "membership_diamond_description": "Elmas Üyeliğimizle özel avantajların kilidini açın ve deneyiminizi bir sonraki seviyeye taşıyın"
 }

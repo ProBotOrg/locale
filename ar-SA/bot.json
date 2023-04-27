@@ -502,5 +502,10 @@
 	"channel_old_bitrate": "**معدل البث القديم**",
 	"channel_new_bitrate": "**معدل البث الجديد**",
 	"clear_FBB_description": "تصفية رسائل البوتات.",
-	"top_must_type": "يجب عليك تحديد نوع قبل أن تتمكن من عرض تصفية الصفحة."
+	"top_must_type": "يجب عليك تحديد نوع قبل أن تتمكن من عرض تصفية الصفحة.",
+	"membership_rep_limit": "**{0}** مشتركين العضوية يمكنهم فقط اعطاء ريب **{1}** مرة يوميا",
+	"rep_membership_required": ":x: فقط مشتركين العضوية يمكنهم اعطاء ريب!",
+	"membership_silver": "فضي",
+	"membership_gold": "ذهبي",
+	"membership_diamond": "الماسي"
 }

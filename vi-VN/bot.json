@@ -502,5 +502,10 @@
 	"channel_old_bitrate": "**Băng tầng cũ**",
 	"channel_new_bitrate": "**Băng tầng mới**",
 	"clear_FBB_description": "Chỉ xóa tin nhắn của bot.",
-	"top_must_type": "Bạn phải chọn một loại điểm kinh nghiệm nếu muốn xem theo trang."
+	"top_must_type": "Bạn phải chọn một loại điểm kinh nghiệm nếu muốn xem theo trang.",
+	"membership_rep_limit": "**{0}** Membership subscribers can only rep **{1}** times per day",
+	"rep_membership_required": ":x: Only membership subscribers can rep users!",
+	"membership_silver": "Bạc",
+	"membership_gold": "Vàng",
+	"membership_diamond": "Kim Cương"
 }

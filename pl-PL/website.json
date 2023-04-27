@@ -861,6 +861,15 @@
     "membership_background_click_upload": "Prześlij",
     "membership_background_change": "Zmień Tło",
     "membership": "Członkostwo",
-    "membership_transfer_id_required": "Account ID is required",
-    "membership_transfer_email_required": "Email is required"
+    "membership_transfer_id_required": "ID konta jest wymagane",
+    "membership_transfer_email_required": "Email jest wymagany",
+    "membership_overview_daily_on_discord": "Daily na Discordzie",
+    "membership_overview_daily_reps": "Dzienne punkty reputacji",
+    "membership_overview_daily": "(x{0}) aż do {1} kredytów",
+    "membership_overview_reps": "{0} punktów reputacji dziennie",
+    "membership_overview_transfer_per_month": "Transakcji Miesięcznie",
+    "features": "Funkcje",
+    "membership_silver_description": "Zdobądź więcej za mniej dzięki naszemu Srebrnemu Członkostwu",
+    "membership_gold_description": "Zwiększ swoją produktywność i komfort pracy dzięki naszemu Złotemu Członkostwu",
+    "membership_diamond_description": "Odblokuj ekskluzywne korzyści i wznieś swoje doświadczenia na zupełnie nowy poziom z naszym Diamentowym Członkostwem"
 }

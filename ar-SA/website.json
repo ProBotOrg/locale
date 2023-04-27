@@ -862,5 +862,14 @@
     "membership_background_change": "تغيير الخلفية",
     "membership": "العضوية",
     "membership_transfer_id_required": "معرف الحساب مطلوب",
-    "membership_transfer_email_required": "البريد الالكتروني مطلوب"
+    "membership_transfer_email_required": "البريد الالكتروني مطلوب",
+    "membership_overview_daily_on_discord": "المكافأة اليومية على الديسكورد",
+    "membership_overview_daily_reps": "المكافأة اليومية / الريب",
+    "membership_overview_daily": "(×{0}) يصل الى {1} كريدت",
+    "membership_overview_reps": "{0} ريب يوميا",
+    "membership_overview_transfer_per_month": "النقل شهريا",
+    "features": "المميزات",
+    "membership_silver_description": "احصل على المزيد بتكلفة اقل مع العضوية الفضية",
+    "membership_gold_description": "عزز انتاجك مع العضوية الذهبية",
+    "membership_diamond_description": "فتح الميزات الحصرية وخذ تجربتك لمستوى اعلى مع العضوية الماسية"
 }
