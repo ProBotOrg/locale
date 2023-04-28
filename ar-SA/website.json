@@ -884,6 +884,7 @@
     "membership_faq_answer_4": "نحن نقبل جميع بطاقات الائتمان والبطاقات الرئيسية، بما في ذلك Visa، و Mastercard، و American Express، و Discover. نحن أيضا نقبل الدفع من خلال PayPal.",
     "membership_faq_question_5": "هل يمكنني استرداد اموال الاشتراك في عضوية التميز لبروبوت؟",
     "membership_faq_answer_5": "نعم، استراد الامول متاح لاشتراكات عضوية التميز، الاسترداد ينحصر على ظروف معينة و هي اذا لم تستخدم اي ميزة من ميزات العضوية بخلاف الكريدت اليومي، اذا كنت قد استخدمت اي ميزة اخرى فلن تكون مؤهل لاسترداد الامول بالاضافة الى ذلك لا يمكن تقديم طلب استرداد الا في غضون 7 ايام من تاريخ شراء الاشتراك.",
-    "on": "on",
-    "your_sub": "Your Subscription"
+    "on": "على",
+    "membership_overview_double_daily": "Double the daily",
+    "membership_overview_support": "Prioritized support"
 }
