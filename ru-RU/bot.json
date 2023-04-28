@@ -222,7 +222,7 @@
 	"server_members_online": "**{0}** В сети",
 	"server_channels": ":speech_balloon: Каналы ({0})",
 	"server_channels_value": "**{0}** Текстовых | **{1}** Голосовых",
-	"server_others": ":earth_africa: Другие",
+	"server_others": ":earth_africa: Другое",
 	"server_others_value": "**Уровень верификации:** {0}",
 	"server_roles": ":closed_lock_with_key: Роли ({0})",
 	"server_roles_value": "Для просмотра списка всех ролей используйте **/roles**",
