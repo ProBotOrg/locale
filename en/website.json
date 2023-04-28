@@ -873,6 +873,18 @@
     "features": "Features",
     "membership_silver_description": "Get more done for less with our Silver Membership",
     "membership_gold_description": "Boost your productivity and workflow with our Gold Membership",
-    "membership_diamond_description": "Unlock exclusive benefits and take your experience to the next level with our Diamond Membership" 
+    "membership_diamond_description": "Unlock exclusive benefits and take your experience to the next level with our Diamond Membership",
+    "membership_faq_title": "Frequently Asked Questions", 
+    "membership_faq_description": "For further questions, contact our team at {0}",
+    "membership_faq_question_1": "What are the different membership tiers available?", 
+    "membership_faq_answer_1": "There are three membership tiers available: Silver, Gold, and Diamond. Each tier offers different benefits and is designed to meet the needs of users with different budgets and usage requirements.",
+    "membership_faq_question_2": "Can I transfer my old account data to a new account?", 
+    "membership_faq_answer_2": "Yes, the Transfer Per Month feature allows users to transfer their old account data, including their level and credits, once per month. To complete this process, users will be asked to provide their old account ID and email address.", 
+    "membership_faq_question_3": "What types of files are supported for customizing the background?", 
+    "membership_faq_answer_3": "Supported file types for customizing the background are png, jpeg, and images should not exceed 3MB in size.", 
+    "membership_faq_question_4": "What payment methods are accepted for membership subscriptions?", 
+    "membership_faq_answer_4": "ProBot accepts payments through PayPal and Credit Cards.", 
+    "membership_faq_question_5": "Can I get a refund for my ProBot membership subscription?", 
+    "membership_faq_answer_5": "Yes, refunds are available for ProBot membership subscriptions under certain conditions. Refunds are only available if you have not used any feature beyond the daily credits. If you have used any other feature of your membership, you will not be eligible for a refund. Additionally, refunds can only be requested within 7 days of the initial subscription purchase date."
 
 }
