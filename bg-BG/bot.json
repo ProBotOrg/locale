@@ -503,8 +503,8 @@
 	"channel_new_bitrate": "**Нова Битова Скорост**",
 	"clear_FBB_description": "Филтрирайте от съобщения на ботове.",
 	"top_must_type": "Трябва да изберете тип, преди да можете да видите филтъра на страницата.",
-	"membership_rep_limit": "**{0}** Membership subscribers can only rep **{1}** times per day",
-	"rep_membership_required": ":x: Only membership subscribers can rep users!",
+	"membership_rep_limit": "**{0}** Абонатите за членство могат само да представляват **{1}** пъти на ден",
+	"rep_membership_required": ":x: Само абонати за членство могат да представляват потребители!",
 	"membership_silver": "Silver",
 	"membership_gold": "Gold",
 	"membership_diamond": "Diamond"
