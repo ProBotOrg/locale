@@ -859,7 +859,7 @@
     "membership_background_id_description": "Кастомизируйте вашу ID-карточку, добавив фон, который подходит вам больше всего!",
     "membership_background_upload": "{0} или перетащите SVG, PNG или JPG (макс. 300х300пикс)",
     "membership_background_click_upload": "Нажмите для загрузки",
-    "membership_background_change": "Изменить фон",
+    "membership_background_change": "Смена фона",
     "membership": "Абонемент",
     "membership_transfer_id_required": "Необходим ID Аккаунта",
     "membership_transfer_email_required": "Необходим Email",
@@ -886,5 +886,6 @@
     "membership_faq_answer_5": "Да, возврат средств за Абонемент-подписку ProBot возможен при определённых условиях. Возврат средств возможен только в том случае, если вы не использовали никаких функций, помимо ежедневных кредитов. Если вы использовали любую другую функцию вашего Абонемента, вы не имеете права на возврат средств. Кроме того, возврат средств возможен только в течение 7 дней с момента покупки подписки.",
     "on": "в",
     "membership_overview_double_daily": "Двойное вознаграждение",
-    "membership_overview_support": "Первоочередная поддержка"
+    "membership_overview_support": "Первоочередная поддержка",
+    "invalid_email_address": "Недействительный Email"
 }
