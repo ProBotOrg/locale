@@ -877,7 +877,7 @@
     "membership_faq_question_1": "What are the different membership tiers available?",
     "membership_faq_answer_1": "There are three membership tiers available: Silver, Gold, and Diamond. Each tier offers different benefits and is designed to meet the needs of users with different budgets and usage requirements.",
     "membership_faq_question_2": "Can I transfer my old account data to a new account?",
-    "membership_faq_answer_2": "Yes, the Transfer Per Month feature allows users to transfer their old account data, including their level and credits, once per month. To complete this process, users will be asked to provide their old account ID and email address.",
+    "membership_faq_answer_2": "Yes, the Transfer Per Month feature allows users to transfer their old account data, including their level and credits, once per month. Please note that the Transfer Per Month feature is only available for Gold and Diamond members. Silver members are not eligible to transfer their profile data to a new account.",
     "membership_faq_question_3": "What types of files are supported for customizing the background?",
     "membership_faq_answer_3": "Supported file types for customizing the background are png, jpeg, and images should not exceed 3MB in size.",
     "membership_faq_question_4": "What payment methods do you accept for membership subscriptions?",
@@ -885,5 +885,6 @@
     "membership_faq_question_5": "Can I get a refund for my ProBot membership subscription?",
     "membership_faq_answer_5": "Yes, refunds are available for ProBot membership subscriptions under certain conditions. Refunds are only available if you have not used any feature beyond the daily credits. If you have used any other feature of your membership, you will not be eligible for a refund. Additionally, refunds can only be requested within 7 days of the initial subscription purchase date.",
     "on": "on",
-    "your_sub": "Your Subscription"
+    "membership_overview_double_daily": "Double the daily",
+    "membership_overview_support": "Prioritized support"
 }
