@@ -860,7 +860,7 @@
     "membership_background_upload": "{0} veya SVG, PNG veya JPG'yi (maks. 300x300 piksel) sürükleyip bırakın",
     "membership_background_click_upload": "Yüklemek için tıklayın",
     "membership_background_change": "Arka Planı Değiştir",
-    "membership": "Üyelik",
+    "membership": "Üyelikler",
     "membership_transfer_id_required": "Hesap ID'si Gereklidir",
     "membership_transfer_email_required": "E-posta Gereklidir",
     "membership_overview_daily_on_discord": "Günlük Kredi Takviyesi",
