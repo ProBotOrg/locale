@@ -37,7 +37,7 @@
 	"deletebackup_description": "백업을 삭제해요.",
 	"short_description": "링크를 축약해요.",
 	"roll_description": "주사위를 굴려요.",
-	"points_description": "서버는 관리자에 의해 받을 수 있는 포인트를 쌓습니다.",
+	"points_description": "관리자에게 받을 수 있는 서버 기반 포인트예요.",
 	"usage": "사용법:",
 	"c": "설명:",
 	"aliases": "별칭:",
