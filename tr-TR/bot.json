@@ -503,8 +503,8 @@
 	"channel_new_bitrate": "**Yeni Bit Hızı**",
 	"clear_FBB_description": "Bot Mesajlarına Göre Filtrele",
 	"top_must_type": "Sayfa filtreyiciye geçmeden önce bir tür seçmelisiniz.",
-	"membership_rep_limit": "**{0}** Membership subscribers can only rep **{1}** times per day",
-	"rep_membership_required": ":x: Only membership subscribers can rep users!",
+	"membership_rep_limit": "**{0}** Üyelik aboneleri günde yalnızca **{1}** kez /Rep verebilir",
+	"rep_membership_required": ":x: Yalnızca üyelik satın alan kullanıcılar /Rep verebilir!",
 	"membership_silver": "Gümüş",
 	"membership_gold": "Altın",
 	"membership_diamond": "Elmas"
