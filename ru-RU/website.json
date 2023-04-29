@@ -863,7 +863,7 @@
     "membership": "Абонемент",
     "membership_transfer_id_required": "Необходим ID Аккаунта",
     "membership_transfer_email_required": "Необходим Email",
-    "membership_overview_daily_on_discord": "Ежедневное вознаграждение в Discord",
+    "membership_overview_daily_on_discord": "Ежедневная награда в Discord",
     "membership_overview_daily_reps": "Ежедневные очки репутации",
     "membership_overview_daily": "(х{0}) до {1} кредитов",
     "membership_overview_reps": "{0} очков репутации в день",
@@ -885,7 +885,7 @@
     "membership_faq_question_5": "Могу ли я вернуть деньги за подписку на Абонемент ProBot?",
     "membership_faq_answer_5": "Да, возврат средств за Абонемент-подписку ProBot возможен при определённых условиях. Возврат средств возможен только в том случае, если вы не использовали никаких функций, помимо ежедневных кредитов. Если вы использовали любую другую функцию вашего Абонемента, вы не имеете права на возврат средств. Кроме того, возврат средств возможен только в течение 7 дней с момента покупки подписки.",
     "on": "в",
-    "membership_overview_double_daily": "Двойное вознаграждение",
+    "membership_overview_double_daily": "Двойная награда",
     "membership_overview_support": "Первоочередная поддержка",
     "invalid_email_address": "Недействительный Email"
 }
