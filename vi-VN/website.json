@@ -231,7 +231,7 @@
     "BOT_GIVEN_A_ROLE": "Hành động khi bot khác được cho một vai trò quản lý",
     "USE_COMMA": "Dùng dấu phẩy để phân cách",
     "GUILD_UPDATE_ACTION": "Hành động khi tên/ảnh của server thay đổi",
-    "CREDITS_STORE": "Cửa hàng tín dụng",
+    "CREDITS_STORE": "Cửa hàng credit",
     "BADGES": "Huy hiệu hồ sơ",
     "PROFILE_BACKGROUNDS": "Ảnh nền hồ sơ",
     "TOTAL_AND_ONLINE": "TỔNG THÀNH VIÊN / TRỰC TUYẾN",
@@ -771,10 +771,10 @@
     "need_setup": "Cần thiết lập",
     "message": "Tin nhắn",
     "embed": "Embed",
-    "daily_onboarding_head": "Nhân đôi lượng Credit nhận được!",
-    "daily_onboarding_text": "Nhận Credit hằng ngày và nhân đôi nó lên khi chuỗi nhận Credit của bạn tăng cao!",
+    "daily_onboarding_head": "Nhân đôi lượng credit nhận được!",
+    "daily_onboarding_text": "Nhận credit hằng ngày và nhân đôi nó lên khi chuỗi nhận credit của bạn tăng cao!",
     "got_it": "Đã hiểu",
-    "daily_come_back": "Quay lại hằng ngày để nhận thêm Credit!",
+    "daily_come_back": "Quay lại hằng ngày để nhận thêm credit!",
     "twitch_add_channel": "Thêm kênh",
     "twitch_need_setup": "Cần thiết lập",
     "twitch_username": "Tên người dùng",
@@ -887,5 +887,5 @@
     "on": "vào",
     "membership_overview_double_daily": "Nhân đôi lượng credit nhận mỗi ngày",
     "membership_overview_support": "Được ưu tiên hỗ trợ",
-    "invalid_email_address": "Invalid Email Address"
+    "invalid_email_address": "Địa chỉ email không hợp lệ"
 }
