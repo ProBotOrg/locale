@@ -505,7 +505,7 @@
 	"top_must_type": "You must select a type before you can view the page filter.",
 	"membership_rep_limit": "**{0}** Membership subscribers can only rep **{1}** times per day",
 	"rep_membership_required": ":x: Only membership subscribers can rep users!",
-	"membership_silver": "Silver",
-	"membership_gold": "Gold",
-	"membership_diamond": "Diamond"
+	"membership_silver": "Ezüst",
+	"membership_gold": "Arany",
+	"membership_diamond": "Gyémánt"
 }
