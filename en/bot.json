@@ -184,7 +184,7 @@
 	"rep_can_award": "**:stopwatch: |  {0}, you can award more reputation in {1}. **",
 	"rep_not_bots": ":rolling_eyes:  **|  {0}**, bots don't have ranks!",
 	"rep_cannot_give": "**:rolling_eyes:  **|  {0}**, you cannot give yourself reputation!**",
-	"rep_given": "**:up:  |  {0} has given {1} a reputation point!**\nRemaining reps: **{2}**",
+	"rep_given": "**:up:  |  {0} has given {1} a reputation point!**\nRemaining reps: **{2}**\nRemaining time: **{3}**",
 	"top_only_premium": "This command is currently only available to premium subscribers due to performance reasons.\n",
 	"top_error": ":rolling_eyes: - **Error page number ** {0} from {1} ",
 	"top_cant_find_list": "Can't find top list",
