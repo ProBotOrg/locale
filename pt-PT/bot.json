@@ -507,5 +507,6 @@
 	"rep_membership_required": ":x: Subscritores são os únicos que podem dar reputação a outros utilizadores!",
 	"membership_silver": "Prata",
 	"membership_gold": "Ouro",
-	"membership_diamond": "Diamante"
+	"membership_diamond": "Diamante",
+	"membership_rep_dm": "{0} gave you a reputation point."
 }
