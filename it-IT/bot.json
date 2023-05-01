@@ -184,7 +184,7 @@
 	"rep_can_award": "**:stopwatch: | {0}, potrai dare un altro punto reputazione in {1}**",
 	"rep_not_bots": ":rolling_eyes: **| {0}**, I bots non possono avere un rank! ",
 	"rep_cannot_give": "**:rolling_eyes: | {0}**, non puoi dare un punto reputazione a te stesso! **",
-	"rep_given": "**:up: | {0} ha dato un punto reputazione a {1}**",
+	"rep_given": "**:up: | {0} ha dato un punto reputazione a {1}!**",
 	"top_only_premium": "Per motivi di performance, questo comando è correntemente per soli premium.",
 	"top_error": ":rolling_eyes: - **errore numero della pagina inesistente**{0} da {1}",
 	"top_cant_find_list": "Non riesco a trovare la lista top",
@@ -503,9 +503,10 @@
 	"channel_new_bitrate": "**New Bitrate**",
 	"clear_FBB_description": "Filter by bots messages.",
 	"top_must_type": "You must select a type before you can view the page filter.",
-	"membership_rep_limit": "**{0}** Membership subscribers can only rep **{1}** times per day",
+	"membership_rep_limit": "Sorry, you have reached the daily limit of **{0}** reputation points. Please try again in **{1}!**",
 	"rep_membership_required": ":x: Only membership subscribers can rep users!",
 	"membership_silver": "Argento",
 	"membership_gold": "Oro",
-	"membership_diamond": "Diamant"
+	"membership_diamond": "Diamant",
+	"membership_rep_dm": "{0} gave you a reputation point."
 }

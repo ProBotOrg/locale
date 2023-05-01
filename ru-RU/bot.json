@@ -507,5 +507,6 @@
 	"rep_membership_required": ":x: Только подписчики Абонемента могут выражать уважение пользователям!",
 	"membership_silver": "Серебряный",
 	"membership_gold": "Золотой",
-	"membership_diamond": "Алмазный"
+	"membership_diamond": "Алмазный",
+	"membership_rep_dm": "{0} gave you a reputation point."
 }

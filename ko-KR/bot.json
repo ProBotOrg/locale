@@ -507,5 +507,6 @@
 	"rep_membership_required": ":x: 멤버십 구독자만 사용자에게 평판을 줄 수 있어요!",
 	"membership_silver": "은",
 	"membership_gold": "금",
-	"membership_diamond": "다이아몬드"
+	"membership_diamond": "다이아몬드",
+	"membership_rep_dm": "{0} gave you a reputation point."
 }

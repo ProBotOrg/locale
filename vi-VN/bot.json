@@ -507,5 +507,6 @@
 	"rep_membership_required": ":x: Chỉ người dùng có hội viên mới có thể trao điểm uy tín cho người khác!",
 	"membership_silver": "Bạc",
 	"membership_gold": "Vàng",
-	"membership_diamond": "Kim Cương"
+	"membership_diamond": "Kim Cương",
+	"membership_rep_dm": "{0} gave you a reputation point."
 }

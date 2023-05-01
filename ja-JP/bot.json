@@ -507,5 +507,6 @@
 	"rep_membership_required": ":x: メンバーシップ契約者のみが利用できます！",
 	"membership_silver": "シルバー",
 	"membership_gold": "ゴールド",
-	"membership_diamond": "ダイヤモンド"
+	"membership_diamond": "ダイヤモンド",
+	"membership_rep_dm": "{0} gave you a reputation point."
 }

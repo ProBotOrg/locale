@@ -503,9 +503,10 @@
 	"channel_new_bitrate": "**Velocidad de Bits Nuevo**",
 	"clear_FBB_description": "Filtrar por mensajes de bots.",
 	"top_must_type": "Debe seleccionar un tipo antes de poder ver el filtro de la página.",
-	"membership_rep_limit": "**{0}** Membership subscribers can only rep **{1}** times per day",
-	"rep_membership_required": ":x: Only membership subscribers can rep users!",
-	"membership_silver": "Silver",
-	"membership_gold": "Gold",
-	"membership_diamond": "Diamond"
+	"membership_rep_limit": "**{0}** Los usuarios de membresía sólo pueden dar reputacion **{1}** veces al día",
+	"rep_membership_required": ":x: ¡Sólo los suscriptores de membresía pueden dar reputación a los usuarios!",
+	"membership_silver": "Plata",
+	"membership_gold": "Oro",
+	"membership_diamond": "Diamante",
+	"membership_rep_dm": "{0} gave you a reputation point."
 }

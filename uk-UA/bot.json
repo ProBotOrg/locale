@@ -507,5 +507,6 @@
 	"rep_membership_required": ":x: Тільки підписники можуть виражати повагу користувачам!",
 	"membership_silver": "Срібний",
 	"membership_gold": "Золотий",
-	"membership_diamond": "Діамант"
+	"membership_diamond": "Діамант",
+	"membership_rep_dm": "{0} gave you a reputation point."
 }
