@@ -507,5 +507,6 @@
 	"rep_membership_required": ":x: Tylko subskrybenci mogą dawać punkty reputacji!",
 	"membership_silver": "Srebrny",
 	"membership_gold": "Złoty",
-	"membership_diamond": "Diamentowy"
+	"membership_diamond": "Diamentowy",
+	"membership_rep_dm": "{0} gave you a reputation point."
 }
