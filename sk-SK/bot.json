@@ -503,9 +503,10 @@
 	"channel_new_bitrate": "**Nový Bitrate**",
 	"clear_FBB_description": "Filter by bots messages.",
 	"top_must_type": "You must select a type before you can view the page filter.",
-	"membership_rep_limit": "**{0}** Membership subscribers can only rep **{1}** times per day\nRemaining time: **{2}**",
+	"membership_rep_limit": "Sorry, you have reached the daily limit of **{0}** reputation points. Please try again in **{1}!**",
 	"rep_membership_required": ":x: Only membership subscribers can rep users!",
 	"membership_silver": "Silver",
 	"membership_gold": "Gold",
-	"membership_diamond": "Diamond"
+	"membership_diamond": "Diamond",
+	"membership_rep_dm": "{0} gave you a reputation point."
 }
