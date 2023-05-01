@@ -508,5 +508,5 @@
 	"membership_silver": "シルバー",
 	"membership_gold": "ゴールド",
 	"membership_diamond": "ダイヤモンド",
-	"membership_rep_dm": "{0} gave you a reputation point."
+	"membership_rep_dm": "{0} はあなたに評判ポイントを与えました。"
 }
