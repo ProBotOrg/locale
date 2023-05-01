@@ -184,7 +184,7 @@
 	"rep_can_award": "**:stopwatch: | {0}, {1} içinde daha fazla itibar puanı ile ödüllendirebilirsin. **",
 	"rep_not_bots": ":rolling_eyes: **| {0}**, botların rütbesi yoktur!",
 	"rep_cannot_give": "**:rolling_eyes: **| {0}**, kendine itibar puanı veremezsin!**",
-	"rep_given": "**:up: | {0} {1} 'e itibar puanı verdi!**",
+	"rep_given": "**:up: | {0} {1}'e itibar puanı verdi!**",
 	"top_only_premium": "Bu komut, performans nedenleriyle şu anda yalnızca premium aboneler tarafından kullanılabilir.",
 	"top_error": ":rolling_eyes: - **Hata sayfa numarası ** {1} 'den {0} ",
 	"top_cant_find_list": "En iyiler listesini bulamıyorum",
