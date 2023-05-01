@@ -503,7 +503,7 @@
 	"channel_new_bitrate": "Nový Bitrate",
 	"clear_FBB_description": "Filtrování podle zpráv bóta",
 	"top_must_type": "Musíte vybrat typ, než budete moci zobrazit filtr stránky.",
-	"membership_rep_limit": "**{0}** Membership subscribers can only rep **{1}** times per day",
+	"membership_rep_limit": "**{0}** Membership subscribers can only rep **{1}** times per day\nRemaining time: **{2}**",
 	"rep_membership_required": ":x: Only membership subscribers can rep users!",
 	"membership_silver": "Silver",
 	"membership_gold": "Gold",
