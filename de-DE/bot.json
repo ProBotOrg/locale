@@ -503,7 +503,7 @@
 	"channel_new_bitrate": "**Neue Bitrate**",
 	"clear_FBB_description": "Nach Botnachrichten filtern.",
 	"top_must_type": "Sie müssen einen Typ auswählen, bevor Sie den Seitenfilter sehen können.",
-	"membership_rep_limit": "**{0}** Membership subscribers can only rep **{1}** times per day",
+	"membership_rep_limit": "**{0}** Membership subscribers can only rep **{1}** times per day\nRemaining time: **{2}**",
 	"rep_membership_required": ":x: Only membership subscribers can rep users!",
 	"membership_silver": "Silver",
 	"membership_gold": "Gold",
