@@ -507,5 +507,6 @@
 	"rep_membership_required": ":x: فقط مشتركين عضوية التميز يمكنهم اعطاء ريب!",
 	"membership_silver": "فضي",
 	"membership_gold": "ذهبي",
-	"membership_diamond": "الماسي"
+	"membership_diamond": "الماسي",
+	"membership_rep_dm": "{0} gave you a reputation point."
 }
