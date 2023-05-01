@@ -507,5 +507,6 @@
 	"rep_membership_required": ":x: Yalnızca üyelik satın alan kullanıcılar /Rep verebilir!",
 	"membership_silver": "Gümüş",
 	"membership_gold": "Altın",
-	"membership_diamond": "Elmas"
+	"membership_diamond": "Elmas",
+	"membership_rep_dm": "{0} gave you a reputation point."
 }
