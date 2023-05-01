@@ -507,5 +507,6 @@
 	"rep_membership_required": ":x: Somente adesões assinantes podem representar usuários!",
 	"membership_silver": "Prata",
 	"membership_gold": "Dourado",
-	"membership_diamond": "Diamante"
+	"membership_diamond": "Diamante",
+	"membership_rep_dm": "{0} gave you a reputation point."
 }
