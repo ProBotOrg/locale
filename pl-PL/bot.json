@@ -503,7 +503,7 @@
 	"channel_new_bitrate": "**Nowy Bitrate**",
 	"clear_FBB_description": "Filtruj według wiadomości botów.",
 	"top_must_type": "Musisz wybrać typ, zanim będziesz mógł wyświetlić filtr strony.",
-	"membership_rep_limit": "**{0}** Subskrybenci mogą dawać tylko **{1}** punktów reputacji dziennie",
+	"membership_rep_limit": "Przepraszamy, osiągnąłeś już swój dzienny limit **{0}** punktów reputacji. Spróbuj ponownie za **{1}**!",
 	"rep_membership_required": ":x: Tylko subskrybenci mogą dawać punkty reputacji!",
 	"membership_silver": "Srebrny",
 	"membership_gold": "Złoty",
