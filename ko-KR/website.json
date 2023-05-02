@@ -46,7 +46,7 @@
     "colors_description": "사용 가능한 색상을 보여줘요.",
     "title_description": "내 프로필 제목을 변경해요.",
     "reset_description": "특정 또는 모든 멤버의 채팅/음성/초대 경험치 포인트를 초기화해요.",
-    "rep_description": "멤버에게 평판 포인트를 수여해요. 24시간마다 사용할 수 있어요.",
+    "rep_description": "멤버에게 평판을 줘요. 24시간마다 사용할 수 있어요.",
     "daily_description": "일일 급여를 받아요.",
     "vip_description": "내 프리미엄 봇의 정보를 표시해요.",
     "ping_description": "봇의 응답 시간을 확인해요.",
@@ -883,9 +883,9 @@
     "membership_faq_question_4": "멤버십 구독 시 어떤 결제 수단을 사용할 수 있나요?",
     "membership_faq_answer_4": "저희는 주요 신용카드와 직불카드를 모두 지원해요. Visa, Mastercard, American Express, Discover를 포함해서요.",
     "membership_faq_question_5": "제 ProBot 멤버십 구독을 환불받을 수 있나요?",
-    "membership_faq_answer_5": "Yes, refunds are available for ProBot membership subscriptions under certain conditions. Refunds are only available if you have not used any feature beyond the daily credits. If you have used any other feature of your membership, you will not be eligible for a refund. Additionally, refunds can only be requested within 7 days of the initial subscription purchase date.",
+    "membership_faq_answer_5": "네, 특정 조건 하에 ProBot 멤버십 구독 환불이 가능해요. 일일 크레딧을 초과하는 기능을 사용하지 않았을 경우에만 환불이 가능해요. 멤버십의 다른 기능을 사용한 경우, 환불 요청을 할 수 없어요. 또, 환불 요청은 최초 구입일 이후 7일 이내에만 가능해요.",
     "on": "on",
-    "membership_overview_double_daily": "Double the daily",
+    "membership_overview_double_daily": "일간 크레딧 적용 비율",
     "membership_overview_support": "우선 지원",
-    "invalid_email_address": "Invalid Email Address"
+    "invalid_email_address": "잘못된 이메일 주소예요"
 }
