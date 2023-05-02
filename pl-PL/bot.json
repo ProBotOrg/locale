@@ -184,7 +184,7 @@
 	"rep_can_award": "**:stopwatch: | {0}, więcej punktów reputacji możesz przyznać za {1}.**",
 	"rep_not_bots": ":rolling_eyes: **| {0}**, boty nie mają rang!",
 	"rep_cannot_give": "**:rolling_eyes: **| {0}**, nie możesz dać sobie reputacji!**",
-	"rep_given": "**:up: | {0} dał {1} punkt reputacji!**",
+	"rep_given": "**:up: | {0} dał {1} punkt reputacji!**\n:information_source: Pozostało punktów: **{2}**",
 	"top_only_premium": "Ze względu na wydajność to polecenie jest obecnie dostępne tylko dla premium.",
 	"top_error": ":rolling_eyes: - **Błędny numer strony: ** {0} z {1} ",
 	"top_cant_find_list": "Nie można znaleźć TOP listy",
@@ -508,5 +508,5 @@
 	"membership_silver": "Srebrny",
 	"membership_gold": "Złoty",
 	"membership_diamond": "Diamentowy",
-	"membership_rep_dm": "{0} gave you a reputation point."
+	"membership_rep_dm": "{0} dał Ci punkt reputacji."
 }
