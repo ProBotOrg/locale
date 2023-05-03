@@ -46,7 +46,7 @@
     "colors_description": "Hiển thị các vai trò màu sắc có trong server.",
     "title_description": "Thay đổi tiêu đề trong /profile của bạn.",
     "reset_description": "Đặt lại điểm kinh nghiệm text/voice/invite của tất cả thành viên hoặc của thành viên bất kì.",
-    "rep_description": "Trao thưởng điểm uy tín cho ai đó. Chỉ có thể được sử dụng mỗi 24 giờ.",
+    "rep_description": "Tặng điểm uy tín cho ai đó. Chỉ có thể được sử dụng mỗi 24 giờ.",
     "daily_description": "Nhận credit hàng ngày của bạn.",
     "vip_description": "Hiển thị thông tin của bot premium của bạn.",
     "ping_description": "Kiểm tra tốc độ phản hồi của bot.",
@@ -874,8 +874,8 @@
     "membership_diamond_description": "Mở khóa các lợi ích độc quyền và đưa trải nghiệm của bạn lên một tầm cao mới với Hội viên Kim Cương",
     "membership_faq_title": "Câu hỏi thường gặp",
     "membership_faq_description": "Để được hỗ trợ thêm, liên hệ hỗ trợ tại {0}",
-    "membership_faq_question_1": "Hội viên hiện có các bậc nào?",
-    "membership_faq_answer_1": "Hiện tại, hệ thống Hội viên đang có ba bậc: Bạc, Vàng và Kim Cương. Mỗi bậc cung cấp cho bạn các lợi ích riêng và được tạo nên để phù hợp với từng mức độ sử dụng của người dùng với giá cả phải chăng.",
+    "membership_faq_question_1": "Đặc quyền của hội viên bao gồm những gì?",
+    "membership_faq_answer_1": "Hội viên cung cấp các đặc quyền với lợi ích và quyền hạn riêng mà người dùng không có hội viên không có được. Họ sẽ phải trả một mức phí để có được các đặc quyền đó, với các mức gói theo tháng hoặc năm.",
     "membership_faq_question_2": "Liệu tôi có thể chuyển dữ liệu ProBot từ tài khoản Discord cũ sang tài khoản mới?",
     "membership_faq_answer_2": "Có chứ! Tính năng Chuyển dữ liệu mỗi tháng cho phép bạn chuyển dữ liệu ProBot từ tài khoản cũ, bao gồm cấp độ hồ sơ và credit, một lần mỗi tháng. Lưu ý rằng bạn chỉ có thể chuyển dữ liệu khi có hội viên Vàng hoặc Kim Cương.",
     "membership_faq_question_3": "Định dạng hình ảnh nào được chấp nhận cho việc tải lên ảnh nền tự chọn?",
@@ -887,5 +887,6 @@
     "on": "vào",
     "membership_overview_double_daily": "Nhận nhiều credit mỗi ngày hơn",
     "membership_overview_support": "Được ưu tiên hỗ trợ",
-    "invalid_email_address": "Địa chỉ email không hợp lệ"
+    "invalid_email_address": "Địa chỉ email không hợp lệ",
+    "docs": "Docs"
 }
