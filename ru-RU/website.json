@@ -887,5 +887,6 @@
     "on": "в",
     "membership_overview_double_daily": "Двойная награда кредитами",
     "membership_overview_support": "Первоочередная поддержка",
-    "invalid_email_address": "Недействительный Email"
+    "invalid_email_address": "Недействительный Email",
+    "docs": "Docs"
 }
