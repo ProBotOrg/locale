@@ -887,5 +887,6 @@
     "on": "encendido",
     "membership_overview_double_daily": "Duplique la recompensa diaria",
     "membership_overview_support": "Soporte Prioritario",
-    "invalid_email_address": "Correo electrónico inválido"
+    "invalid_email_address": "Correo electrónico inválido",
+    "docs": "Docs"
 }
