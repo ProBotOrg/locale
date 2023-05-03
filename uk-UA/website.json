@@ -887,5 +887,6 @@
     "on": "на",
     "membership_overview_double_daily": "Подвійна нагорода кредитів",
     "membership_overview_support": "Пріоритетна підтримка",
-    "invalid_email_address": "Неправильна адреса електронної пошти"
+    "invalid_email_address": "Неправильна адреса електронної пошти",
+    "docs": "Docs"
 }
