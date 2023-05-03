@@ -887,5 +887,6 @@
     "on": "Açık",
     "membership_overview_double_daily": "Daha Fazla Günlük Kredi",
     "membership_overview_support": "Öncelikli Destek",
-    "invalid_email_address": "Geçersiz E-posta Adresi"
+    "invalid_email_address": "Geçersiz E-posta Adresi",
+    "docs": "Docs"
 }
