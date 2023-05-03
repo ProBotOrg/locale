@@ -887,5 +887,6 @@
     "on": "on",
     "membership_overview_double_daily": "Raddoppia il giorno",
     "membership_overview_support": "Supporto Prioritario",
-    "invalid_email_address": "Indirizzo Email Non Valido"
+    "invalid_email_address": "Indirizzo Email Non Valido",
+    "docs": "Docs"
 }
