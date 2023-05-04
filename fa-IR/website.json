@@ -883,10 +883,10 @@
     "membership_faq_question_4": "چه روش های پرداختی برای اشتراک ویژگی عضویت مورد قبول است؟",
     "membership_faq_answer_4": "ما همه روش های پرداخت های معمول پر استفاده از جمله کارت های اعتباری Visa، Mastercard، American Express و Discover را پشتیبانی می کنیم.",
     "membership_faq_question_5": "آیا می توانم از پروبات درخواست استرداد وجه اشتراک عضویت کنم؟",
-    "membership_faq_answer_5": "Yes, refunds are available for ProBot membership subscriptions under certain conditions. Refunds are only available if you have not used any feature beyond the daily credits. If you have used any other feature of your membership, you will not be eligible for a refund. Additionally, refunds can only be requested within 7 days of the initial subscription purchase date.",
-    "on": "on",
-    "membership_overview_double_daily": "Double the daily",
-    "membership_overview_support": "Prioritized Support",
-    "invalid_email_address": "Invalid Email Address",
-    "docs": "Docs"
+    "membership_faq_answer_5": "بله، امکان بازپس گرفتن هزینه اشتراک عضویت پروبات در طی یکسری شرایط وجود دارد. بازپس دادن ها موقعی مورد قبول واقع می شوند که شما هیچ ویژگی عضویت را جز جایزه روزانه استفاده نکرده باشید. درغیر این صورت اگر از هرکدام از ویژگی های عضویت استفاده کرده باشید، شما مجاز به استرداد وجه خود نخواهید بود. افزون بر این، درخواست ها باید طی 7 روز از زمان شروع خرید اشتراک صورت بگیرند.",
+    "on": "در",
+    "membership_overview_double_daily": "جایزه روزانه دوبرابر",
+    "membership_overview_support": "پشتیبانی اولویت دار شده",
+    "invalid_email_address": "آدرس ایمیل نامعتبر",
+    "docs": "مستندات"
 }
