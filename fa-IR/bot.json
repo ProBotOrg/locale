@@ -503,10 +503,10 @@
 	"channel_new_bitrate": "**نرخ‌بیت جدید**",
 	"clear_FBB_description": "فیلتر بر اساس پیام ارسال شده توسط بات ها",
 	"top_must_type": "شما بایستی قبل از اینکه بتوانید فیلتر صفحه را ببینید، یک نوع را انتخاب کنید.",
-	"membership_rep_limit": "Sorry, you have reached the daily limit of **{0}** reputation points. Please try again in **{1}!**",
-	"rep_membership_required": ":x: Only membership subscribers can rep users!",
+	"membership_rep_limit": "شرمنده، شما به حد دریافت خود در **{0}** امتیاز شهرت رسیده‌اید. لطفا بعدا دوباره تلاش کنید در **{1}!**",
+	"rep_membership_required": ":x: فقط کاربران مشترک ویژگی عضویت پروبات می توانند از این دستور استفاده کنند",
 	"membership_silver": "نقره‌ای",
 	"membership_gold": "طلایی",
 	"membership_diamond": "الماسی",
-	"membership_rep_dm": "{0} gave you a reputation point."
+	"membership_rep_dm": "{0} به شما یک امتیاز شهرت داد."
 }
