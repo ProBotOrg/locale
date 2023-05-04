@@ -874,7 +874,7 @@
     "membership_diamond_description": "Odblokuj ekskluzywne korzyści i wznieś swoje doświadczenia na zupełnie nowy poziom z naszym Diamentowym Członkostwem",
     "membership_faq_title": "Najczęściej Zadawane Pytania",
     "membership_faq_description": "W razie dalszych pytań skontaktuj się z naszym zespołem na",
-    "membership_faq_question_1": "Jakie są dostępne poziomy członkostwa?",
+    "membership_faq_question_1": "Czym jest członkostwo?",
     "membership_faq_answer_1": "Dostępne są trzy poziomy: Srebrny, Złoty i Diamentowy. Każdy poziom oferuje różne korzyści i jest zaprojektowany tak, aby zadowolić użytkowników o różnych budżetach i potrzebach.",
     "membership_faq_question_2": "Czy mogę przenieść dane z mojego starego konta na nowe?",
     "membership_faq_answer_2": "Tak, funkcja Miesięcznych Transferów pozwala użytkownikom na przenoszenie danych starego konta na nowe, w tym ich poziom i kredyty, raz w miesiącu. Pamiętaj, że funkcja przenoszenia danych jest dostępna tylko dla Złotego i Diamentowego poziomu.",
@@ -888,5 +888,5 @@
     "membership_overview_double_daily": "Podwój dzienne kredyty",
     "membership_overview_support": "Priorytetowe wsparcie",
     "invalid_email_address": "Nieprawidłowy Adres Email",
-    "docs": "Docs"
+    "docs": "Dokumentacja"
 }
