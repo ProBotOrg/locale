@@ -887,5 +887,6 @@
     "on": "on",
     "membership_overview_double_daily": "Double the daily",
     "membership_overview_support": "Prioritized Support",
-    "invalid_email_address": "Invalid Email Address"
+    "invalid_email_address": "Invalid Email Address",
+    "docs": "Docs"
 }

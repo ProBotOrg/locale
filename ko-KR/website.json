@@ -887,5 +887,6 @@
     "on": "on",
     "membership_overview_double_daily": "일간 크레딧 적용 비율",
     "membership_overview_support": "우선 지원",
-    "invalid_email_address": "잘못된 이메일 주소예요"
+    "invalid_email_address": "잘못된 이메일 주소예요",
+    "docs": "Docs"
 }

@@ -887,5 +887,6 @@
     "on": "be",
     "membership_overview_double_daily": "A napi jutalom duplája",
     "membership_overview_support": "Kiemelt támogatás",
-    "invalid_email_address": "Érvénytelen e-mail cím"
+    "invalid_email_address": "Érvénytelen e-mail cím",
+    "docs": "Docs"
 }
