@@ -874,8 +874,8 @@
     "membership_diamond_description": "Desbloqueie benefícios exclusivos e leve a sua experiência para o próximo nível com a nossa Subscrição de Diamante",
     "membership_faq_title": "Perguntas Frequentes",
     "membership_faq_description": "Para mais perguntas, entre em contato com a nossa equipa em {0}",
-    "membership_faq_question_1": "Quais são as subscrições disponíveis?",
-    "membership_faq_answer_1": "Há três níveis de subscrições disponíveis: Prata, Ouro e Diamante. Cada nível oferece benefícios diferentes sendo projetado para atender às necessidades dos utilizadores com diferentes orçamentos e requisitos de uso.",
+    "membership_faq_question_1": "O que são as subscrições?",
+    "membership_faq_answer_1": "As subscrições fornecem aos utilizadores benefícios e privilégios exclusivos que não estão disponíveis para não-membros. Os utilizadores normalmente são obrigados a pagar uma taxa para acessar estes benefícios, através de uma subscrição mensal ou anual.",
     "membership_faq_question_2": "Posso transferir os dados da minha conta antiga para uma nova?",
     "membership_faq_answer_2": "Sim, o recurso Transferência por Mês permite que os utilizadores transfiram os seus dados da conta antiga, incluindo o nível e créditos, uma vez por mês. Observe que o recurso de Transferência por mês só está disponível para níveis de Ouro e Diamante.",
     "membership_faq_question_3": "Que tipos de ficheiros são suportados para personalizar a imagem de fundo?",
@@ -888,5 +888,5 @@
     "membership_overview_double_daily": "Dobro da Recompensa Diária",
     "membership_overview_support": "Suporte Prioritário",
     "invalid_email_address": "Endereço de E-mail Inválido",
-    "docs": "Docs"
+    "docs": "Documentação"
 }
