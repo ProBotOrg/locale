@@ -184,7 +184,7 @@
 	"rep_can_award": "**:stopwatch: |  {0}, você pode conceder mais reputação em {1}. **",
 	"rep_not_bots": ":rolling_eyes:  **|  {0}**, bots não tem classificações!",
 	"rep_cannot_give": "**:rolling_eyes:  **|  {0}**, você não pode dar reputação a si mesmo!**",
-	"rep_given": "**:up:  |  {0} deu a {1} um ponto de reputação!**",
+	"rep_given": "**:up:  +  {0} deu {1} um ponto de reputação!**\n:information_source: Repitas restantes: **{2}**",
 	"top_only_premium": "Este comando está atualmente disponível somente para assinantes premium devido o motivo de desempenho.\n",
 	"top_error": ":rolling_eyes: - **Número da página de erro ** {0} de {1} ",
 	"top_cant_find_list": "Não foi possível encontrar a lista top",
@@ -503,10 +503,10 @@
 	"channel_new_bitrate": "**Taxa de bits novo**",
 	"clear_FBB_description": "Filtrar por mensagens de bots.",
 	"top_must_type": "Você deve selecionar um tipo antes de poder visualizar o filtro de página.",
-	"membership_rep_limit": "**{0}** Adesões assinantes só podem representar **{1}** vezes por dia",
+	"membership_rep_limit": "Você atingiu o limite diário de **{0}** pontos de reputação. Por favor, tente novamente em **{1}!**",
 	"rep_membership_required": ":x: Somente adesões assinantes podem representar usuários!",
 	"membership_silver": "Prata",
 	"membership_gold": "Dourado",
 	"membership_diamond": "Diamante",
-	"membership_rep_dm": "{0} gave you a reputation point."
+	"membership_rep_dm": "{0} deu a você um ponto de reputação."
 }
