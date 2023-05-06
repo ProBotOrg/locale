@@ -788,7 +788,7 @@
     "twitch_only_1_beta": "Only 1 twitch per server is allowed in beta release", 
     "required": "required", 
     "easy_embed_color": "Color",
-    "premium_renew_subscription": "Renew Subscription", 
+    "premium_renew_subscription": "Resume Subscription", 
     "billing_card_details": "Card Details", 
     "billing_bill_to": "Bill To", 
     "billing_postal_code": "Postal Code", 
