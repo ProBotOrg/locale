@@ -184,7 +184,7 @@
 	"rep_can_award": "** :stopwatch: | {0}, vous pouvez attribuer plus de réputation dans {1}. **",
 	"rep_not_bots": ":rolling_eyes: **| {0}**, les bots n'ont pas de classement !",
 	"rep_cannot_give": "**:rolling_eyes: **| {0}**, vous ne pouvez pas vous donner de réputation !**",
-	"rep_given": "**:up: | {0} a donné un point de réputation à {1} !**",
+	"rep_given": "**:up: | {0} a donné un point de réputation à {1} !**\n:information_source: Représentants restants : **{2}**",
 	"top_only_premium": "Cette commande n'est actuellement disponible que pour les abonnés premium pour des raisons de performances.",
 	"top_error": ":rolling_eyes: - **Erreur de numéro de page ** {0} de {1} ",
 	"top_cant_find_list": "Impossible de trouver la liste des meilleurs",
@@ -503,10 +503,10 @@
 	"channel_new_bitrate": "**Nouveau débit**",
 	"clear_FBB_description": "Filtrer par messages de bots.",
 	"top_must_type": "Vous devez sélectionner un type avant de pouvoir afficher le filtre de page.",
-	"membership_rep_limit": "**{0}** Les abonnés à l'adhésion peuvent seulement représenter **{1}** fois par jour",
+	"membership_rep_limit": "Désolé, vous avez atteint la limite quotidienne de **{0}** points de réputation. Veuillez réessayer dans **{1} !**",
 	"rep_membership_required": ":x: Seuls les abonnés à l'adhésion peuvent représenter les utilisateurs!",
 	"membership_silver": "Argent",
 	"membership_gold": "Or",
 	"membership_diamond": "Diamant",
-	"membership_rep_dm": "{0} gave you a reputation point."
+	"membership_rep_dm": "{0} vous a donné un point de réputation."
 }
