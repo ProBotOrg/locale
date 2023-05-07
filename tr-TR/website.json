@@ -179,7 +179,7 @@
     "ADD_ROLE": "Belirli rol ekle",
     "ROLE_LIMITS": "%ROLE_NAME% Sınırlar :",
     "BAN_LIMIT": "Ban komutu limiti",
-    "KICK_LIMIT": "Kovma limiti",
+    "KICK_LIMIT": "Kick Limiti",
     "CHANNELS_LIMIT": "Kanal limiti",
     "ROLES_LIMIT": "Rol limiti",
     "ACTION_IF_ROLE": "Rol sınırı aşıldığındaki eylem",
