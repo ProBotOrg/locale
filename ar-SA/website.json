@@ -817,7 +817,7 @@
     "timeout_member": "اعطاء تايم اوت للعضو",
     "mute_member": "اسكات العضو",
     "timeout_member_description": "يمنع العضو من ارسال الرسائل، استخدام الرياكشن، دخول الرومات الصوتية",
-    "edit_rule": "تعديل القاعدة",
+    "edit_rule": "تعديل الرقابة",
     "timeout_duration": "مدة الوقت المستقطع",
     "allow_certain_message": "السماح لـ رولات او رومات معينة (اختياري)",
     "excluded_from_filter_rules": "الاعضاء مع صلاحيات Administrator او Manage Server سيتم تخطيهم من الرقابة التلقائية",
