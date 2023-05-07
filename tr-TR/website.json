@@ -875,7 +875,7 @@
     "membership_faq_title": "Sıkça Sorulan Sorular",
     "membership_faq_description": "Daha fazla soru için {0} adresinden ekibimizle iletişime geçin.",
     "membership_faq_question_1": "Üyelik Özelliği Nedir?",
-    "membership_faq_answer_1": "Üç üyelik türü mevcuttur: Gümüş, Altın ve Elmas. Her tür farklı avantajlar sunar ve farklı bütçelere ve kullanım gereksinimlerine sahip kullanıcıların ihtiyaçlarını karşılamak için tasarlanmıştır.",
+    "membership_faq_answer_1": "Üyelik özelliği, kullanıcılara, üye olmayanlara sunulmayan özel avantajlar ve ayrıcalıklar sağlar. Kullanıcıların genellikle bu avantajlara erişmek için aylık veya yıllık abonelik olabilen bir ücret ödemeleri gerekir.",
     "membership_faq_question_2": "Eski hesap verilerimi yeni hesabıma aktarabilir miyim?",
     "membership_faq_answer_2": "Evet, Aylık Transfer özelliği, kullanıcıların seviyeleri ve kredileri dahil olmak üzere eski hesap verilerini ayda bir kez transfer etmelerine olanak tanır. Aylık Transfer özelliğinin yalnızca Altın ve Elmas üyelikleri için mevcut olduğunu lütfen unutmayın.",
     "membership_faq_question_3": "Arka planı özelleştirmek için ne tür dosyalar desteklenir?",
@@ -888,5 +888,5 @@
     "membership_overview_double_daily": "Daha Fazla Günlük Kredi",
     "membership_overview_support": "Öncelikli Destek",
     "invalid_email_address": "Geçersiz E-posta Adresi",
-    "docs": "Docs"
+    "docs": "Dökümanlar"
 }
