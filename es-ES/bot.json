@@ -184,7 +184,7 @@
 	"rep_can_award": "**:stopwatch: |  {0}, puedes otorgar más reputación en {1}. **",
 	"rep_not_bots": ":rolling_eyes:  **|  {0}**, ¡los bots no tienen rangos!",
 	"rep_cannot_give": "**:rolling_eyes:  **|  {0}**, ¡no puedes darte reputación a tí mismo!**",
-	"rep_given": "**:up:  |  {0} le ha dado a {1} un punto de reputación!**",
+	"rep_given": "**:up:  | {0} le ha dado a {1} un punto de reputación!**\n:fuente_de_informacion: Reputaciones restantes: **{2}**\n\n**:up:  |  {0} le ha dado a {1} un punto de reputación!**",
 	"top_only_premium": "Este comando sólo está disponible actualmente para los suscriptores premium por razones de rendimiento.",
 	"top_error": ":rolling_eyes: - **Número de página de error ** {0} de {1} ",
 	"top_cant_find_list": "No se puede encontrar el top",
@@ -503,10 +503,10 @@
 	"channel_new_bitrate": "**Velocidad de Bits Nuevo**",
 	"clear_FBB_description": "Filtrar por mensajes de bots.",
 	"top_must_type": "Debe seleccionar un tipo antes de poder ver el filtro de la página.",
-	"membership_rep_limit": "**{0}** Los usuarios de membresía sólo pueden dar reputacion **{1}** veces al día",
+	"membership_rep_limit": "Lo sentimos, ha alcanzado el límite diario de **{0}** puntos de reputación. Vuelve a intentarlo en **{1}!**.",
 	"rep_membership_required": ":x: ¡Sólo los suscriptores de membresía pueden dar reputación a los usuarios!",
 	"membership_silver": "Plata",
 	"membership_gold": "Oro",
 	"membership_diamond": "Diamante",
-	"membership_rep_dm": "{0} gave you a reputation point."
+	"membership_rep_dm": "{0} te dio un punto de reputación."
 }

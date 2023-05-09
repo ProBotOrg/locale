@@ -786,7 +786,7 @@
     "twitch_only_1_beta": "Sólo 1 twitch por servidor se permite en la versión beta",
     "required": "obligatorio",
     "easy_embed_color": "Color",
-    "premium_renew_subscription": "Renovar Suscripción",
+    "premium_renew_subscription": "Reanudar Suscripción",
     "billing_card_details": "Detalles de la Tarjeta",
     "billing_bill_to": "Factura A",
     "billing_postal_code": "Código Postal",
@@ -874,8 +874,8 @@
     "membership_diamond_description": "Disfrute de ventajas exclusivas y lleve su experiencia al siguiente nivel con nuestra Afiliación Diamante.",
     "membership_faq_title": "Preguntas Frecuentes",
     "membership_faq_description": "Si tiene más preguntas, póngase en contacto con nuestro equipo en el {0}",
-    "membership_faq_question_1": "¿Cuáles son los distintos niveles de membresía disponibles?",
-    "membership_faq_answer_1": "Hay tres niveles de membresía disponibles: Plata, Oro y Diamante. Cada nivel ofrece distintas ventajas y está diseñado para satisfacer las necesidades de usuarios con distintos presupuestos y requisitos de uso.",
+    "membership_faq_question_1": "¿Qué es la membresía?",
+    "membership_faq_answer_1": "La función de membresía proporciona a los usuarios ventajas y privilegios exclusivos que no están disponibles para los usuarios sin ella. Normalmente, los usuarios deben pagar una cuota para acceder a estas ventajas, que puede ser una suscripción mensual o anual.",
     "membership_faq_question_2": "¿Puedo transferir los datos de mi antigua cuenta a una nueva?",
     "membership_faq_answer_2": "Sí, la función Transferir por mes permite a los usuarios transferir los datos de su antigua cuenta, incluidos su nivel y sus créditos, una vez al mes. Ten en cuenta que la función de Transferencia mensual solo está disponible para los niveles Oro y Diamante.",
     "membership_faq_question_3": "¿Qué tipos de archivos se admiten para personalizar el fondo?",
@@ -888,5 +888,5 @@
     "membership_overview_double_daily": "Duplique la recompensa diaria",
     "membership_overview_support": "Soporte Prioritario",
     "invalid_email_address": "Correo electrónico inválido",
-    "docs": "Docs"
+    "docs": "Documentación"
 }
