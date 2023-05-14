@@ -178,7 +178,7 @@
     "voice_mute_time": "ses kanalından manuel olarak susturma süresi",
     "ADD_ROLE": "Belirli rol ekle",
     "ROLE_LIMITS": "%ROLE_NAME% Sınırlar :",
-    "BAN_LIMIT": "Ban komutu limiti",
+    "BAN_LIMIT": "Yasaklama limiti",
     "KICK_LIMIT": "Kick Limiti",
     "CHANNELS_LIMIT": "Kanal limiti",
     "ROLES_LIMIT": "Rol limiti",
