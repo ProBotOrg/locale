@@ -29,7 +29,7 @@
 	"colors_description": "Lists you all the available colors.",
 	"title_description": "Changes your title in `/profile` command.",
 	"reset_description": "Reset text/voice/invites/limits xp points for all or specific member.",
-	"rep_description": "Award someone a reputation point. Can only be used once every 24 hours.",
+	"rep_description": "Award someone a reputation point.",
 	"daily_description": "Get the daily reward link and know when you can claim it again.",
 	"vip_description": "Displays info about your premium bot.",
 	"ping_description": "Test the bots response time.",
