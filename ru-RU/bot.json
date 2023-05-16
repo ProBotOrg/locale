@@ -126,7 +126,7 @@
 	"vmute_couldnt_mute_description": ":rolling_eyes: - Я не могу замутить этого пользователя. Пожалуйста, перепроверьте мои права.",
 	"vmute_cant_description": ":rolling_eyes: - ** Вы не можете отключить пользователя @{0}. **",
 	"setnick_changed_description": ":white_check_mark: **{0}** сменил никнейм на {1}! ",
-	"setnick_reset_description": ":white_check_mark: **{0}** восстановил свой никнейм.",
+	"setnick_reset_description": ":white_check_mark: Ник **{0}** был сброшен.",
 	"setnick_couldnt_update_description": ":rolling_eyes: - Я не могу обновить этого пользователя. Пожалуйста, перепроверьте мои права и позицию роли.",
 	"unmute_cant_find_description": ":rolling_eyes: - **Я не смог найти мут-роль**",
 	"unmute_check_permissions_description": ":rolling_eyes: - Пожалуйста проверь мои права доступа, разрешения и позицию роли.",
