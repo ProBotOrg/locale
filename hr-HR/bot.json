@@ -29,7 +29,7 @@
 	"colors_description": "Navodi vam sve dostupne boje.",
 	"title_description": "Mijenja naslov u naredbi `# profile`.",
 	"reset_description": "Reset text/voice/invites/limits xp points for all or specific member.",
-	"rep_description": "Award someone a reputation point. Can only be used once every 24 hours.",
+	"rep_description": "Award someone a reputation point.",
 	"daily_description": "Zatražite svoju dnevnu nagradu.",
 	"vip_description": "Prikazuje informacije o vašem premium botu.",
 	"ping_description": "Test the bots response time.",
