@@ -29,7 +29,7 @@
 	"colors_description": "Zobrazí všechny dostupné barvy.",
 	"title_description": "Změní tvůj titulek v příkazu `/profile`.",
 	"reset_description": "Obnoví textové/hlasové/pozvánkové/limitové body zkušeností všem členům nebo určitému členovi.",
-	"rep_description": "Věnuje někomu bod reputace. Může být použito pouze jednou za 24 hodin.",
+	"rep_description": "Odměníš nekoho bodem reputace. Může být použito pouze jednou za 24 hodin.",
 	"daily_description": "Získejte odkaz na denní odměnu a zjistěte, kdy si ji můžete znovu nárokovat.",
 	"vip_description": "Zobrazí informace o tvém prémiovém botovi.",
 	"ping_description": "Otestuje dobu odezvy bota.",

@@ -29,7 +29,7 @@
 	"colors_description": "Hiển thị các vai trò màu sắc có trong server.",
 	"title_description": "Thay đổi tiêu đề của bạn trong lệnh `/profile`.",
 	"reset_description": "Đặt lại điểm kinh nghiệm text/voice/lời mời/giới hạn của tất cả hoặc của thành viên bất kì.",
-	"rep_description": "Tặng điểm uy tín cho ai đó. Chỉ có thể được sử dụng mỗi 24 giờ.",
+	"rep_description": "Tặng điểm uy tín cho người khác.",
 	"daily_description": "Lấy link để nhận credit hàng ngày của bạn và biết khi nào bạn có thể nhận thêm.",
 	"vip_description": "Hiển thị thông tin về gói Premium của bạn.",
 	"ping_description": "Kiểm tra tốc độ phản hồi của bot.",
