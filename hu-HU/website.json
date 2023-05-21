@@ -888,5 +888,7 @@
     "membership_overview_double_daily": "A napi jutalom duplája",
     "membership_overview_support": "Kiemelt támogatás",
     "invalid_email_address": "Érvénytelen e-mail cím",
-    "docs": "Docs"
+    "docs": "Docs",
+    "login_required_message": "Oops! It looks like something's missing",
+    "login_to_view": "You need to login with your Discord account to access this feature."
 }
