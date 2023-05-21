@@ -888,5 +888,7 @@
     "membership_overview_double_daily": "Двойная награда кредитами",
     "membership_overview_support": "Первоочередная поддержка",
     "invalid_email_address": "Недействительный Email",
-    "docs": "Документация"
+    "docs": "Документация",
+    "login_required_message": "Oops! It looks like something's missing",
+    "login_to_view": "You need to login with your Discord account to access this feature."
 }
