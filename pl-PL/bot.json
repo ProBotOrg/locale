@@ -29,7 +29,7 @@
 	"colors_description": "Wyświetla wszystkie dostępne kolory.",
 	"title_description": "Zmienia Twój tytuł w poleceniu `/profile`.",
 	"reset_description": "Resetuje statystyki tekst/głos, il. zaproszeń, punkty xp wszystkich lub konkretnego użytkownika.",
-	"rep_description": "Przyznaj komuś punkt reputacji. Funkcji można użyć raz na 24 godziny.",
+	"rep_description": "Przyznaj komuś punkt reputacji. ",
 	"daily_description": "Uzyskaj link do nagrody dziennej i dowiedz się, kiedy możesz ją ponownie odebrać.",
 	"vip_description": "Wyświetla informacje o Twoim bocie premium.",
 	"ping_description": "Przetestuj czas reakcji botów.",
