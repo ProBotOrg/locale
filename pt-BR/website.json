@@ -888,5 +888,7 @@
     "membership_overview_double_daily": "Dobrar diariamente",
     "membership_overview_support": "Suporte priorizado",
     "invalid_email_address": "Endereço de e-mail inválido",
-    "docs": "Documentação"
+    "docs": "Documentação",
+    "login_required_message": "Oops! It looks like something's missing",
+    "login_to_view": "You need to login with your Discord account to access this feature."
 }
