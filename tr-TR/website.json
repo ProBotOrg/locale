@@ -397,7 +397,7 @@
     "leveling_default_levelup": "🥳 **Tebrikler**, [user]!\n**[oldLevel]** seviyesinden **[level]** seviyesine atladınız. Böyle devam!",
     "leveling_no_xp_channels": "XP Kazandırmayan Kanallar",
     "leveling_note": "*Spamı önlemek için kullanıcılar sohbet ederken her dakika rastgele miktarda xp elde ederler",
-    "leveling_variables": "[level] - verilen seviyeyi yazdırmak için\n[user] - kullanıcıyı etiketlemek için\n[user.username] - kullanıcıyı etiketlemeden ismini yazdırmak için\n[user.tag] - kullanıcı etiketini getirmek için\n[oldLevel] - eski seviyeyi yazdırmak için",
+    "leveling_variables": "[level] - verilen seviyeyi yazdırmak için\n[user] - kullanıcıyı etiketlemek için\n[user.username] - kullanıcıyı etiketlemeden ismini yazdırmak için\n[user.tag] - kullanıcı etiketini yazırmak için\n[oldLevel] - eski seviyeyi yazdırmak için",
     "leveling_add_role_reward": "Rol Ödülü Ekle",
     "Premium": "Premium",
     "LEADERBOARD": "liderlik tablosu",
