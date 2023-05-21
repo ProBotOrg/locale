@@ -888,5 +888,7 @@
     "membership_overview_double_daily": "デイリーの倍数",
     "membership_overview_support": "優先サポート",
     "invalid_email_address": "無効なメールアドレス",
-    "docs": "ドキュメント"
+    "docs": "ドキュメント",
+    "login_required_message": "Oops! It looks like something's missing",
+    "login_to_view": "You need to login with your Discord account to access this feature."
 }
