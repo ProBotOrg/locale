@@ -889,6 +889,6 @@
     "membership_overview_support": "Первоочередная поддержка",
     "invalid_email_address": "Недействительный Email",
     "docs": "Документация",
-    "login_required_message": "Oops! It looks like something's missing",
-    "login_to_view": "You need to login with your Discord account to access this feature."
+    "login_required_message": "Упс! Кажется чего-то не хватает",
+    "login_to_view": "Вам нужно войти в свой аккаунт Discord для доступа к этой функции."
 }
