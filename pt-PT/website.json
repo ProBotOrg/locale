@@ -889,6 +889,6 @@
     "membership_overview_support": "Suporte Prioritário",
     "invalid_email_address": "Endereço de E-mail Inválido",
     "docs": "Documentação",
-    "login_required_message": "Oops! It looks like something's missing",
-    "login_to_view": "You need to login with your Discord account to access this feature."
+    "login_required_message": "Ops! Parece que falta qualquer coisa",
+    "login_to_view": "Precisa de entrar com a sua conta do Discord para acessar esta funcionalidade."
 }
