@@ -889,6 +889,6 @@
     "membership_overview_support": "دعم ذو أولوية",
     "invalid_email_address": "البريد الإلكتروني غير صالح",
     "docs": "المستندات",
-    "login_required_message": "Oops! It looks like something's missing",
-    "login_to_view": "You need to login with your Discord account to access this feature."
+    "login_required_message": "عفوا! يبدو أن هناك شيئاً مفقوداً",
+    "login_to_view": "تحتاج إلى تسجيل الدخول باستخدام حسابك في الديسكورد للوصول إلى هذه الميزة."
 }
