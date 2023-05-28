@@ -888,7 +888,7 @@
     "membership_overview_double_daily": "일간 크레딧 적용 비율",
     "membership_overview_support": "우선 지원",
     "invalid_email_address": "잘못된 이메일 주소예요",
-    "docs": "Docs",
-    "login_required_message": "Oops! It looks like something's missing",
-    "login_to_view": "You need to login with your Discord account to access this feature."
+    "docs": "문서",
+    "login_required_message": "이런! 뭔가 누락된 것 같아요",
+    "login_to_view": "이 기능에 접근하려면 Discord 계정으로 로그인하셔야 해요."
 }
