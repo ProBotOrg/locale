@@ -29,7 +29,7 @@
 	"colors_description": "Enumera todos los colores disponibles.",
 	"title_description": "Cambia tu título en el comando /profile.",
 	"reset_description": "Restablece texto/voz/invitaciones puntos de xp para todos los miembros.",
-	"rep_description": "Otorga a alguien un punto de reputación. Solo se puede utilizar una vez cada 24 horas.",
+	"rep_description": "Concede a alguien un punto de reputación.",
 	"daily_description": "Obtenga el enlace de la recompensa diaria y sepa cuándo puede reclamarla de nuevo.",
 	"vip_description": "Muestra información sobre tu bot premium.",
 	"ping_description": "Prueba el tiempo de respuesta de los robots.",
