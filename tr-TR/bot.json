@@ -29,7 +29,7 @@
 	"colors_description": "Mevcut tüm renkleri listeler.",
 	"title_description": "/profile komutundaki durum mesajınızı değiştirir.",
 	"reset_description": "Tüm üyelerin yazı/ses/davet xp puanlarını sıfırlar.",
-	"rep_description": "Birine bir itibar puanı verin. Her 24 saatte yalnızca bir kez kullanılabilir.",
+	"rep_description": "Birine rep puanı verin.",
 	"daily_description": "Günlük ödül bağlantısını alın ve tekrar ne zaman talep edebileceğinizi öğrenin.",
 	"vip_description": "Premium botunuz hakkında bilgileri görüntüler.",
 	"ping_description": "Botun tepki süresini test eder.",
