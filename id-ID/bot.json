@@ -503,10 +503,10 @@
 	"channel_new_bitrate": "**Bitrate Baru**",
 	"clear_FBB_description": "Filter berdasarkan pesan bot.",
 	"top_must_type": "Anda harus memilih jenis sebelum Anda dapat melihat filter halaman.",
-	"membership_rep_limit": "Sorry, you have reached the daily limit of **{0}** reputation points. Please try again in **{1}!**",
-	"rep_membership_required": ":x: Only membership subscribers can rep users!",
-	"membership_silver": "Silver",
-	"membership_gold": "Gold",
-	"membership_diamond": "Diamond",
-	"membership_rep_dm": "{0} gave you a reputation point."
+	"membership_rep_limit": "Maaf, Anda telah mencapai batas harian **{0}** poin reputasi. Silakan coba lagi dalam **{1}!**",
+	"rep_membership_required": ":x: Hanya pelanggan berlangganan keanggotaan yang dapat memberikan poin reputasi kepada pengguna!",
+	"membership_silver": "Perak",
+	"membership_gold": "Emas",
+	"membership_diamond": "Berlian",
+	"membership_rep_dm": "{0} memberikan Anda satu poin reputasi."
 }
