@@ -889,6 +889,6 @@
     "membership_overview_support": "Пріоритетна підтримка",
     "invalid_email_address": "Неправильна адреса електронної пошти",
     "docs": "Документація",
-    "login_required_message": "Oops! It looks like something's missing",
-    "login_to_view": "You need to login with your Discord account to access this feature."
+    "login_required_message": "Ой! Схоже, щось відсутнє.",
+    "login_to_view": "Вам потрібно увійти в систему за допомогою вашого облікового запису Discord, щоб отримати доступ до цієї функції."
 }
