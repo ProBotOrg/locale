@@ -890,5 +890,6 @@
     "invalid_email_address": "Alamat Email tidak valid",
     "docs": "Dokumentasi",
     "login_required_message": "Ups! Sepertinya ada yang hilang.",
-    "login_to_view": "Anda perlu masuk dengan akun Discord Anda untuk mengakses fitur ini."
+    "login_to_view": "Anda perlu masuk dengan akun Discord Anda untuk mengakses fitur ini.",
+    "oh_no_role": "Oh no! **{0}** role has a higher position than my role, Make sure that my role is higher than the selected role."
 }
