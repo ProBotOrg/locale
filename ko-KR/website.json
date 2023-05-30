@@ -890,5 +890,6 @@
     "invalid_email_address": "잘못된 이메일 주소예요",
     "docs": "문서",
     "login_required_message": "이런! 뭔가 누락된 것 같아요",
-    "login_to_view": "이 기능에 접근하려면 Discord 계정으로 로그인하셔야 해요."
+    "login_to_view": "이 기능에 접근하려면 Discord 계정으로 로그인하셔야 해요.",
+    "oh_no_role": "Oh no! **{0}** role has a higher position than my role, Make sure that my role is higher than the selected role."
 }
