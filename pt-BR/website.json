@@ -890,5 +890,6 @@
     "invalid_email_address": "Endereço de e-mail inválido",
     "docs": "Documentação",
     "login_required_message": "Opa! Parece que está faltando alguma coisa",
-    "login_to_view": "Você precisa entrar com sua conta do Discord para acessar este recurso."
+    "login_to_view": "Você precisa entrar com sua conta do Discord para acessar este recurso.",
+    "oh_no_role": "Oh no! **{0}** role has a higher position than my role, Make sure that my role is higher than the selected role."
 }
