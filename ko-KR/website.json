@@ -891,5 +891,5 @@
     "docs": "문서",
     "login_required_message": "이런! 뭔가 누락된 것 같아요",
     "login_to_view": "이 기능에 접근하려면 Discord 계정으로 로그인하셔야 해요.",
-    "oh_no_role": "Oh no! **{0}** role has a higher position than my role, Make sure that my role is higher than the selected role."
+    "oh_no_role": "이런! **{0}** 역할이 제 역할보다 위치가 더 높아요. 선택한 역할보다 제 역할이 더 위에 있도록 해 주세요."
 }
