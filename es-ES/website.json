@@ -891,5 +891,5 @@
     "docs": "Documentación",
     "login_required_message": "¡Uy! Parece que falta algo",
     "login_to_view": "Debes iniciar sesión con tu cuenta de Discord para acceder a esta función.",
-    "oh_no_role": "Oh no! **{0}** role has a higher position than my role, Make sure that my role is higher than the selected role."
+    "oh_no_role": "¡Oh, no! El rol **{0}** tiene una posición más alta que mi rol, Asegúrate de que mi rol es más alto que el rol seleccionado."
 }
