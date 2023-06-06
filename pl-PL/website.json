@@ -567,7 +567,7 @@
     "prime": "Premium Poziom 1",
     "premium": "Premium",
     "enterprise": "Enterprise",
-    "prime_description_1": "NAJLEPSZA OPCJA",
+    "prime_description_1": "NAJLEPSZA OPCJA NA MIESIĄC",
     "prime_description_2": "Dla serwerów o przyzwoitej wielkości, w których kluczem jest interakcja z członkami.",
     "prime_features_1": "Zaawansowana ochrona",
     "prime_features_2": "Więcej zmiennych",
@@ -890,5 +890,6 @@
     "invalid_email_address": "Nieprawidłowy Adres Email",
     "docs": "Dokumentacja",
     "login_required_message": "Ups! Wygląda na to, że czegoś brakuje.",
-    "login_to_view": "Musisz zalogować się przy użyciu swojego konta Discord, aby uzyskać dostęp do tej funkcji."
+    "login_to_view": "Musisz zalogować się przy użyciu swojego konta Discord, aby uzyskać dostęp do tej funkcji.",
+    "oh_no_role": "O nie! Rola **{0}** ma wyższą pozycję od mojej roli. Upewnij się, że moja rola jest wyżej niż wybrana rola."
 }

@@ -890,5 +890,6 @@
     "invalid_email_address": "Geçersiz E-posta Adresi",
     "docs": "Dökümanlar",
     "login_required_message": "Hata! Bir şeyler eksik gibi görünüyor",
-    "login_to_view": "Bu özelliğe erişmek için Discord hesabınızla giriş yapmalısınız."
+    "login_to_view": "Bu özelliğe erişmek için Discord hesabınızla giriş yapmalısınız.",
+    "oh_no_role": "Oh hayır! **{0}** rolün rolümden daha yüksek bir konumu var, Rolümün seçilen rolden daha yüksek olduğundan emin olun."
 }

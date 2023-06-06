@@ -890,5 +890,6 @@
     "invalid_email_address": "Địa chỉ email không hợp lệ",
     "docs": "Hướng dẫn",
     "login_required_message": "Oops! Hình như thiếu cái gì đấy",
-    "login_to_view": "Bạn cần đăng nhập bằng tài khoản Discord của mình để truy cập tính năng này."
+    "login_to_view": "Bạn cần đăng nhập bằng tài khoản Discord của mình để truy cập tính năng này.",
+    "oh_no_role": "Ôi không! Vai trò **{0}** có vị trí cao hơn vai trò của tôi, hãy đảm bải rằng vai trò của tôi cao hơn những vai trò được đặt."
 }

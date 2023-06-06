@@ -890,5 +890,6 @@
     "invalid_email_address": "Érvénytelen e-mail cím",
     "docs": "Docs",
     "login_required_message": "Oops! It looks like something's missing",
-    "login_to_view": "You need to login with your Discord account to access this feature."
+    "login_to_view": "You need to login with your Discord account to access this feature.",
+    "oh_no_role": "Oh no! **{0}** role has a higher position than my role, Make sure that my role is higher than the selected role."
 }

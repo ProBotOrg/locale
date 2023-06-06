@@ -890,5 +890,6 @@
     "invalid_email_address": "Endereço de E-mail Inválido",
     "docs": "Documentação",
     "login_required_message": "Ops! Parece que falta qualquer coisa",
-    "login_to_view": "Precisa de entrar com a sua conta do Discord para acessar esta funcionalidade."
+    "login_to_view": "Precisa de entrar com a sua conta do Discord para acessar esta funcionalidade.",
+    "oh_no_role": "Oh não! **{0}** o cargo tem uma posição mais alta do que o meu cargo. Certifique-se de que o meu é mais alto que o cargo selecionado."
 }

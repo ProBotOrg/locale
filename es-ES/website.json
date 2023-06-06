@@ -890,5 +890,6 @@
     "invalid_email_address": "Correo electrónico inválido",
     "docs": "Documentación",
     "login_required_message": "¡Uy! Parece que falta algo",
-    "login_to_view": "Debes iniciar sesión con tu cuenta de Discord para acceder a esta función."
+    "login_to_view": "Debes iniciar sesión con tu cuenta de Discord para acceder a esta función.",
+    "oh_no_role": "¡Oh, no! El rol **{0}** tiene una posición más alta que mi rol, Asegúrate de que mi rol es más alto que el rol seleccionado."
 }

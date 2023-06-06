@@ -503,7 +503,7 @@
 	"channel_new_bitrate": "**新しいビットレート**",
 	"clear_FBB_description": "Botメッセージで絞り込みます。",
 	"top_must_type": "ページフィルタを表示するには、まずタイプを選択してください。",
-	"membership_rep_limit": "申し訳ありませんが、1 日の限度額は**{0}**です。**{1}**でもう一度お試しください!",
+	"membership_rep_limit": "申し訳ありませんが、1 日の限度額は**{0}**です。**{1}**後にもう一度お試しください!",
 	"rep_membership_required": ":x: メンバーシップ契約者のみが利用できます！",
 	"membership_silver": "シルバー",
 	"membership_gold": "ゴールド",

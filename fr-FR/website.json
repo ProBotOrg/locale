@@ -889,6 +889,7 @@
     "membership_overview_support": "Assistance prioritaire",
     "invalid_email_address": "Adresse e-mail invalide",
     "docs": "Documents",
-    "login_required_message": "Oops! It looks like something's missing",
-    "login_to_view": "You need to login with your Discord account to access this feature."
+    "login_required_message": "Oops! Il semble qu'il manque quelque chose",
+    "login_to_view": "Vous devez vous connecter avec votre compte Discord pour accéder à cette fonctionnalité.",
+    "oh_no_role": "Oh non! **{0}** rôle a une position plus élevée que mon rôle, assurez-vous que mon rôle est plus élevé que le rôle sélectionné."
 }
