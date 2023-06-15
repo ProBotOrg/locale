@@ -184,7 +184,7 @@
 	"rep_can_award": "**:stopwatch: |  {0}, další bod reputace můžeš udělit za {1}. **",
 	"rep_not_bots": ":rolling_eyes:  **|  {0}**, boti nemají hodnosti!",
 	"rep_cannot_give": "**:rolling_eyes:  **|  {0}**, nemůžeš dát sám sobě bod reputace!**",
-	"rep_given": "**:up:  |  {0} dal/a uživateli {1} bod reputace!**",
+	"rep_given": "**:up: | {0} dalo {1} bod reputace!**\n:information_source: Zbývající opakování: **{2}**",
 	"top_only_premium": "Z výkonnostních důvodu je v současné době tento příkaz dostupný pouze pro prémiové uživatele.",
 	"top_error": ":rolling_eyes: - **Chyba stránky číslo ** {0} až {1} ",
 	"top_cant_find_list": "Nemohu nalézt žebříček",
@@ -503,10 +503,10 @@
 	"channel_new_bitrate": "Nový Bitrate",
 	"clear_FBB_description": "Filtrování podle zpráv bóta",
 	"top_must_type": "Musíte vybrat typ, než budete moci zobrazit filtr stránky.",
-	"membership_rep_limit": "Sorry, you have reached the daily limit of **{0}** reputation points. Please try again in **{1}!**",
-	"rep_membership_required": ":x: Only membership subscribers can rep users!",
-	"membership_silver": "Silver",
-	"membership_gold": "Gold",
-	"membership_diamond": "Diamond",
-	"membership_rep_dm": "{0} gave you a reputation point."
+	"membership_rep_limit": "Je nám líto, dosáhli jste denního limitu **{0}** bodů reputace. Zkuste to prosím znovu v **{1}!**\n",
+	"rep_membership_required": ":x: Pouze odběratelé členství ",
+	"membership_silver": "Stříbro",
+	"membership_gold": "Zlato",
+	"membership_diamond": "Diamant",
+	"membership_rep_dm": "{0} vám dal bod reputace."
 }
