@@ -128,7 +128,7 @@
 	"setnick_changed_description": ":white_check_mark: **{0}** сменил никнейм на {1}! ",
 	"setnick_reset_description": ":white_check_mark: Ник **{0}** был сброшен.",
 	"setnick_couldnt_update_description": ":rolling_eyes: - Я не могу обновить этого пользователя. Пожалуйста, перепроверьте мои права и позицию роли.",
-	"unmute_cant_find_description": ":rolling_eyes: - **Я не смог найти мут-роль**",
+	"unmute_cant_find_description": ":rolling_eyes: - **Я не смог найти роль мута**",
 	"unmute_check_permissions_description": ":rolling_eyes: - Пожалуйста проверь мои права доступа, разрешения и позицию роли.",
 	"unmute_command_require_description": ":rolling_eyes: - ** Эта команда требует право `Администратора`! **",
 	"unmute_unmuting_description": "**Ограничения для  {0} пользователей были сняты.**",
