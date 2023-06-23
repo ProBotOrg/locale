@@ -719,7 +719,7 @@
     "stats_3_months": "Ultimi 3 mesi (Premium)",
     "stats_6_months": "Ultimi 6 mesi (Premium)",
     "stats_1_year": "L'anno scorso (Premium)",
-    "setlevel_description": "Sets the user's level",
+    "setlevel_description": "Imposta il livello dell'utente",
     "rr_type": "Il metodo di lavoro",
     "rr_buttons": "Pulsante",
     "rr_select_menu": "Lista di controllo",
@@ -889,7 +889,7 @@
     "membership_overview_support": "Supporto Prioritario",
     "invalid_email_address": "Indirizzo Email Non Valido",
     "docs": "Documenti",
-    "login_required_message": "Oops! It looks like something's missing",
-    "login_to_view": "You need to login with your Discord account to access this feature.",
-    "oh_no_role": "Oh no! **{0}** role has a higher position than my role, Make sure that my role is higher than the selected role."
+    "login_required_message": "Oops! Sembra che qualcosa sia mancante",
+    "login_to_view": "Devi accedere con il tuo account Discord per accedere a questa funzione.",
+    "oh_no_role": "Oh no! **{0}** il ruolo ha una posizione più alta del mio ruolo, assicurati che il mio ruolo sia più alto del ruolo selezionato."
 }
