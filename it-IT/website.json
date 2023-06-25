@@ -719,7 +719,7 @@
     "stats_3_months": "Ultimi 3 mesi (Premium)",
     "stats_6_months": "Ultimi 6 mesi (Premium)",
     "stats_1_year": "L'anno scorso (Premium)",
-    "setlevel_description": "Sets the user's level",
+    "setlevel_description": "Imposta il livello dell'utente",
     "rr_type": "Il metodo di lavoro",
     "rr_buttons": "Pulsante",
     "rr_select_menu": "Lista di controllo",
@@ -741,7 +741,7 @@
     "rr_select_limits": "Non puoi aggiungere più di 5 elenchi di selezione",
     "rr_options_limit": "Non è possibile aggiungere più di 25 opzioni all'elenco di selezione",
     "rr_types": "Tipo di rotolo prelevabile",
-    "vote_description": "Get the vote link and see when you can vote again",
+    "vote_description": "Ottenere il link di voto e vedere quando si può votare di nuovo",
     "send_as_reply": "Invia come risposta",
     "ping_the_author": "Menzionare il mittente del messaggio",
     "rr_notification_type": "Tipo di avviso",
@@ -888,8 +888,8 @@
     "membership_overview_double_daily": "Raddoppia il giorno",
     "membership_overview_support": "Supporto Prioritario",
     "invalid_email_address": "Indirizzo Email Non Valido",
-    "docs": "Docs",
-    "login_required_message": "Oops! It looks like something's missing",
-    "login_to_view": "You need to login with your Discord account to access this feature.",
-    "oh_no_role": "Oh no! **{0}** role has a higher position than my role, Make sure that my role is higher than the selected role."
+    "docs": "Documenti",
+    "login_required_message": "Oops! Sembra che qualcosa sia mancante",
+    "login_to_view": "Devi accedere con il tuo account Discord per accedere a questa funzione.",
+    "oh_no_role": "Oh no! **{0}** il ruolo ha una posizione più alta del mio ruolo, assicurati che il mio ruolo sia più alto del ruolo selezionato."
 }
