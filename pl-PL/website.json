@@ -943,9 +943,9 @@
     "features_leveling_system_no_xp_description": "Have the ability to prevent specific roles from gaining XP on your server, as well as the ability to prevent specific channels from gaining XP!",
     "features_leveling_system_level_message_title": "Set up the leveling up message channel",
     "features_leveling_system_level_message_description": "Set up your leveling channel and personalize your leveling text with our unique variables!",
-    "premium_most_popular_tag": "Most Popular",
+    "premium_most_popular_tag": "Najpopularniejszy",
     "premium_which_plan_title": "Which Plan is right for you?",
-    "premium_tier_billed": "${0}/mo billed yearly or ${1} billed monthly",
+    "premium_tier_billed": "${0}/miesiąc rozliczna rocznie lub ${1} rozliczane miesięcznie",
     "premium_tier_get": "Get Premium Tier {0}",
     "premium_subscribe": "Subscribe Tier {0}"
 }
