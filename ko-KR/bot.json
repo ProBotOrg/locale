@@ -195,7 +195,7 @@
 	"top_voice_score": ":microphone2: 음성 채팅 점수",
 	"top_more": "더보기",
 	"points_title": "포인트:",
-	"points_requested": "{0}님이 요청함",
+	"points_requested": "요청자: {0}님",
 	"points_only_managers": ":rolling_eyes: - 포인트 관리자만 포인트를 관리할 수 있어요.",
 	"points_done_reset": ":sparkles: **모든 포인트가 초기화됐어요.**",
 	"points_valid_number": ":rolling_eyes: - **올바른 번호를 적어주세요.**",
