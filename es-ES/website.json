@@ -898,7 +898,7 @@
     "landing_get_started": "Empezar",
     "landing_resources": "Recursos",
     "landing_resources_docs_description": "Guías útiles y respuestas a tus preguntas",
-    "landing_resources_support_description": "¡Estamos aquí para ti! Únete a nuestro servidor Discord por soporte 24/7.",
+    "landing_resources_support_description": "¡Estamos aquí para ti! Únete a nuestro servidor de Discord para recibir soporte las 24 horas, los 7 días de la semana.",
     "landing_servers_trusted": "CONFIADO POR MÁS DE {0} SERVIDORES DE DISCORD, INCLUYENDO",
     "landing_welcome_messages_tag": "Mensajes de Bienvenida",
     "landing_welcome_messages_title": "Let's Welcome New Members with Style",
@@ -947,5 +947,5 @@
     "premium_which_plan_title": "Which Plan is right for you?",
     "premium_tier_billed": "${0}/mo billed yearly or ${1} billed monthly",
     "premium_tier_get": "Get Premium Tier {0}",
-    "premium_subscribe": "Subscribe Tier {0}"
+    "premium_subscribe": "Suscribirse al nivel {0}"
 }
