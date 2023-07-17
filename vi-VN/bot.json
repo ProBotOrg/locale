@@ -460,7 +460,7 @@
 	"setxp_confirm_message": ":thinking: **Bạn chắc là muốn thay đổi điểm kinh nghiệm cho @{0}**",
 	"setlevel_changed_level": "✅ | Đã thay đổi cấp độ cho **@{0}**",
 	"warnings_page_description": "Chọn số trang cần đến",
-	"rr_module_disabled": ":x: Module bảng chọn vai trò đang bị vô hiệu.",
+	"rr_module_disabled": ":x: Môđun bảng chọn vai trò đang bị vô hiệu.",
 	"rr_button_cant_role": ":rolling_eyes: - Tôi không thể cập nhật vai trò cho bạn. Nếu bạn là quản trị viên của server, hãy kiểm tra lại quyền của tôi.",
 	"rr_no_role_select": ":x: Không có vai trò nào được liên kết.",
 	"rr_no_role_button": ":x: Không có vai trò được liên kết.",
