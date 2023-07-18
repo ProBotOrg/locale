@@ -66,7 +66,7 @@
 	"channel_has_been_unlocked": "**:unlock: {0} has been unlocked.**",
 	"lock_description": "Disables @everyone from sending messages in specific channel.",
 	"unlock_description": "Allows @everyone to send messages in specific channel.",
-	"requested_by_embed": "Requested by {0}#{1}",
+	"requested_by_embed": "Requested by {0}",
 	"cant_mute_user": ":rolling_eyes: - ** You can't mute @{0}. **",
 	"cant_find_member": ":rolling_eyes: - **I can't find this member**",
 	"mute_user_muted": ":white_check_mark: **@{0} muted from the text! :zipper_mouth:**",
