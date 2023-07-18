@@ -66,7 +66,7 @@
 	"channel_has_been_unlocked": "**:unlock: {0} разблокирован.**",
 	"lock_description": "Запрещает @everyone отправлять сообщения в выбранном канале.",
 	"unlock_description": "Разрешает @everyone отправлять сообщения в выбранном канале.",
-	"requested_by_embed": "По запросу {0}#{1}",
+	"requested_by_embed": "По запросу {0}",
 	"cant_mute_user": ":rolling_eyes: - ** Вы не можете отключить звук пользователю @{0}. **",
 	"cant_find_member": ":rolling_eyes: - **Я не могу найти этого пользователя**",
 	"mute_user_muted": ":white_check_mark: **Участнику @{0} был выдан мут в текстовых каналах! :zipper_mouth:**",
