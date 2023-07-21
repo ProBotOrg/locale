@@ -388,7 +388,7 @@
     "leveling_text_level": "Текстовый уровень",
     "leveling_voice_level": "Голосовой уровень",
     "leveling_rewarded_role": "Награждение ролью",
-    "leveling_remove_with_higher": "Удалять после повышения уровня",
+    "leveling_remove_with_higher": "Удалять после получения следующей награды",
     "leveling_DM": "ЛС участнику",
     "leveling_actions": "Действия",
     "leveling_current_channel": "Текущий канал",
