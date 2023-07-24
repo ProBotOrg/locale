@@ -947,5 +947,15 @@
     "premium_which_plan_title": "ما هي الخطة المناسبة لك؟",
     "premium_tier_billed": "${0} شهريا بالخطة السنوية او ${1} بالخطة الشهرية",
     "premium_tier_get": "احصل على بريميوم باقة {0}",
-    "premium_subscribe": "اشترك في الباقة {0}"
+    "premium_subscribe": "اشترك في الباقة {0}",
+    "starboard": "Starboard",
+    "starboard_create": "Create New Starboard",
+    "starboard_configuration": "Starboard Configuration",
+    "starboard_name": "Starboard Name",
+    "starboard_stars_limit": "Stars Limit",
+    "starboard_custom_emoji": "Custom Emoji",
+    "starboard_message": "Starboard Message",
+    "advanced_settings": "Advanced Settings",
+    "starboard_ignore_self": "Ignore Self Stars",
+    "starboard_react_to_post": "React To Starboard Post"
 }
