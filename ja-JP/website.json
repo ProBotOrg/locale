@@ -945,7 +945,7 @@
     "features_leveling_system_level_message_description": "レベリングチャンネルを設定し、変数を使ってレベリングテキストをカスタマイズしましょう！",
     "premium_most_popular_tag": "最も人気",
     "premium_which_plan_title": "あなたにぴったりのプランは？",
-    "premium_tier_billed": "${0}/mo billed yearly or ${1} billed monthly",
-    "premium_tier_get": "Get Premium Tier {0}",
-    "premium_subscribe": "Subscribe Tier {0}"
+    "premium_tier_billed": "${0}/年 または ${1}/月",
+    "premium_tier_get": "プレミアムTier {0}を入手",
+    "premium_subscribe": "Tier {0}を購読する"
 }
