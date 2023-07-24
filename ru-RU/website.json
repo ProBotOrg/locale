@@ -947,5 +947,15 @@
     "premium_which_plan_title": "Какой План вам подходит?",
     "premium_tier_billed": "${0}/мес при оплате за год или ${1} при оплате за месяц",
     "premium_tier_get": "Получить Премиум {0} Уровня",
-    "premium_subscribe": "Подписаться на Уровень {0}"
+    "premium_subscribe": "Подписаться на Уровень {0}",
+    "starboard": "Старборд",
+    "starboard_create": "Создать новый Старборд",
+    "starboard_configuration": "Конфигурация Старборда",
+    "starboard_name": "Имя Старборда",
+    "starboard_stars_limit": "Лимит звёзд",
+    "starboard_custom_emoji": "Свой эмодзи",
+    "starboard_message": "Сообщение Старборда",
+    "advanced_settings": "Расширенные настройки",
+    "starboard_ignore_self": "Игнорировать звёзды, поставленные себе",
+    "starboard_react_to_post": "React To Starboard Post"
 }
