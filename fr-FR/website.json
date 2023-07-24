@@ -947,5 +947,15 @@
     "premium_which_plan_title": "Quel forfait vous convient le mieux ?",
     "premium_tier_billed": "${0}/mois facturé annuellement ou ${1} facturé mensuellement\n",
     "premium_tier_get": "Obtenez le niveau premium {0}\n",
-    "premium_subscribe": "Abonnez-vous au niveau {0}"
+    "premium_subscribe": "Abonnez-vous au niveau {0}",
+    "starboard": "Starboard",
+    "starboard_create": "Create New Starboard",
+    "starboard_configuration": "Starboard Configuration",
+    "starboard_name": "Starboard Name",
+    "starboard_stars_limit": "Stars Limit",
+    "starboard_custom_emoji": "Custom Emoji",
+    "starboard_message": "Starboard Message",
+    "advanced_settings": "Advanced Settings",
+    "starboard_ignore_self": "Ignore Self Stars",
+    "starboard_react_to_post": "React To Starboard Post"
 }
