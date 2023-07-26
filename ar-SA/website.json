@@ -947,5 +947,15 @@
     "premium_which_plan_title": "ما هي الخطة المناسبة لك؟",
     "premium_tier_billed": "${0} شهريا بالخطة السنوية او ${1} بالخطة الشهرية",
     "premium_tier_get": "احصل على بريميوم باقة {0}",
-    "premium_subscribe": "اشترك في الباقة {0}"
+    "premium_subscribe": "اشترك في الباقة {0}",
+    "starboard": "ستاربورد",
+    "starboard_create": "إنشاء ستاربورد",
+    "starboard_configuration": "اعدادات ستاربورد",
+    "starboard_name": "اسم ستاربورد",
+    "starboard_stars_limit": "حد رياكشنات",
+    "starboard_custom_emoji": "إيموجي مخصص",
+    "starboard_message": "رسالة ستاربورد",
+    "advanced_settings": "الإعدادات المتقدمة",
+    "starboard_ignore_self": "تجاهل رياكشنات الذاتية",
+    "starboard_react_to_post": "اضافه رياكشن لرسالة ستاربورد"
 }

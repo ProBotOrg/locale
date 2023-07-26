@@ -947,5 +947,15 @@
     "premium_which_plan_title": "Hangi abonelik sizin için uygun ?",
     "premium_tier_billed": "Yıllık ${0}/ay veya aylık ${1} faturalandırılır",
     "premium_tier_get": "Premium Tier {0} Edinin",
-    "premium_subscribe": "Tier {0}'e Abone Olun"
+    "premium_subscribe": "Tier {0}'e Abone Olun",
+    "starboard": "Starboard",
+    "starboard_create": "Create New Starboard",
+    "starboard_configuration": "Starboard Configuration",
+    "starboard_name": "Starboard Name",
+    "starboard_stars_limit": "Stars Limit",
+    "starboard_custom_emoji": "Özel Emoji",
+    "starboard_message": "Starboard Message",
+    "advanced_settings": "Gelişmiş Ayarlar",
+    "starboard_ignore_self": "Ignore Self Stars",
+    "starboard_react_to_post": "React To Starboard Post"
 }

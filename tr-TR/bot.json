@@ -66,7 +66,7 @@
 	"channel_has_been_unlocked": "**:unlock: {0} 'ın kilidi kaldırıldı.**",
 	"lock_description": "@everyone'ın belirli bir kanalda mesaj göndermesini engeller.",
 	"unlock_description": "@everyone'ın belirli bir kanalda mesaj gönderme engelini kaldırır.",
-	"requested_by_embed": "{0}#{1} tarafından istendi.",
+	"requested_by_embed": "{0} tarafından istendi.",
 	"cant_mute_user": ":rolling_eyes: - ** @{0} adlı üyeyi susturamazsın. **",
 	"cant_find_member": ":rolling_eyes: - **Bu üyeyi bulamıyorum**",
 	"mute_user_muted": ":white_check_mark: **@{0} yazı kanallarından susturuldu! :zipper_mouth:**",

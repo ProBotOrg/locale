@@ -947,5 +947,15 @@
     "premium_which_plan_title": "Który Plan jest idealny dla Ciebie?",
     "premium_tier_billed": "${0}/miesiąc rozliczna rocznie lub ${1} rozliczane miesięcznie",
     "premium_tier_get": "Zdobądź Premium Poziomu {0}",
-    "premium_subscribe": "Subskrybuj Poziom {0}"
+    "premium_subscribe": "Subskrybuj Poziom {0}",
+    "starboard": "Starboard",
+    "starboard_create": "Stwórz Nowy Starboard",
+    "starboard_configuration": "Konfiguracja Starboard'u",
+    "starboard_name": "Nazwa Starboard'u",
+    "starboard_stars_limit": "Limit Gwiazdek",
+    "starboard_custom_emoji": "Niestandardowa Emotka",
+    "starboard_message": "Wiadomość Starboard'u",
+    "advanced_settings": "Ustawienia Zaawansowane",
+    "starboard_ignore_self": "Ignoruj Gwiazdki od Autora Wiadomości",
+    "starboard_react_to_post": "Reakcja na Wiadomość Starboard'u"
 }

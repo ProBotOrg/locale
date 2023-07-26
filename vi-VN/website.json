@@ -947,5 +947,15 @@
     "premium_which_plan_title": "Gói nào phù hợp nhất với bạn?",
     "premium_tier_billed": "${0}/tháng thanh toán theo năm hoặc ${1} thanh toán theo tháng",
     "premium_tier_get": "Nhận Premium cấp {0}",
-    "premium_subscribe": "Đăng ký cấp {0}"
+    "premium_subscribe": "Đăng ký cấp {0}",
+    "starboard": "Bảng nổi bật",
+    "starboard_create": "Tạo bảng nổi bật mới",
+    "starboard_configuration": "Tùy chỉnh bảng nổi bật",
+    "starboard_name": "Tên bảng nổi bật",
+    "starboard_stars_limit": "Lượng sao mục tiêu",
+    "starboard_custom_emoji": "Emoji tự chọn",
+    "starboard_message": "Tin nhắn bảng nổi bật",
+    "advanced_settings": "Cài đặt nâng cao",
+    "starboard_ignore_self": "Bỏ qua tự đánh sao",
+    "starboard_react_to_post": "Thêm biểu cảm vào tin nhắn nổi bật"
 }
