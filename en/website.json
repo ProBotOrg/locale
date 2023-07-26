@@ -959,5 +959,9 @@
     "starboard_message": "Starboard Message", 
     "advanced_settings": "Advanced Settings", 
     "starboard_ignore_self": "Ignore Self Stars", 
-    "starboard_react_to_post": "React To Starboard Post"
+    "starboard_react_to_post": "React To Starboard Post", 
+    "starboard_author_variable": "The message author", 
+    "starboard_stars_variable": "Reaction Amount", 
+    "starboard_channel_variable": "The channel of the message", 
+    "starboard_link_variable": "The message link"
 }
