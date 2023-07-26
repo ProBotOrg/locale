@@ -957,5 +957,9 @@
     "starboard_message": "Tin nhắn bảng nổi bật",
     "advanced_settings": "Cài đặt nâng cao",
     "starboard_ignore_self": "Bỏ qua tự đánh sao",
-    "starboard_react_to_post": "Thêm biểu cảm vào tin nhắn nổi bật"
+    "starboard_react_to_post": "Thêm biểu cảm vào tin nhắn nổi bật",
+    "starboard_author_variable": "The message author",
+    "starboard_stars_variable": "Reaction Amount",
+    "starboard_channel_variable": "The channel of the message",
+    "starboard_link_variable": "The message link"
 }
