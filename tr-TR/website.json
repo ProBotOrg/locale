@@ -961,5 +961,7 @@
     "starboard_author_variable": "Mesaj Yazarı",
     "starboard_stars_variable": "Tepki Miktarı",
     "starboard_channel_variable": "Mesaj Kanalı",
-    "starboard_link_variable": "Mesaj Linki"
+    "starboard_link_variable": "Mesaj Linki",
+    "starboard_content_variable": "The content of the message",
+    "starboard_emoji_variable": "The emoji of the starboard"
 }
