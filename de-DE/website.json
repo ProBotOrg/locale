@@ -961,5 +961,7 @@
     "starboard_author_variable": "The message author",
     "starboard_stars_variable": "Reaction Amount",
     "starboard_channel_variable": "The channel of the message",
-    "starboard_link_variable": "The message link"
+    "starboard_link_variable": "The message link",
+    "starboard_content_variable": "The content of the message",
+    "starboard_emoji_variable": "The emoji of the starboard"
 }
