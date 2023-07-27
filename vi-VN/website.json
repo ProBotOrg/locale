@@ -961,5 +961,7 @@
     "starboard_author_variable": "Người gửi tin nhắn",
     "starboard_stars_variable": "Số lượng biểu cảm",
     "starboard_channel_variable": "Kênh chứa tin nhắn",
-    "starboard_link_variable": "Đường dẫn đến tin nhắn"
+    "starboard_link_variable": "Đường dẫn đến tin nhắn",
+    "starboard_content_variable": "The content of the message",
+    "starboard_emoji_variable": "The emoji of the starboard"
 }
