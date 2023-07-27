@@ -957,5 +957,9 @@
     "starboard_message": "رسالة ستاربورد",
     "advanced_settings": "الإعدادات المتقدمة",
     "starboard_ignore_self": "تجاهل رياكشنات الذاتية",
-    "starboard_react_to_post": "اضافه رياكشن لرسالة ستاربورد"
+    "starboard_react_to_post": "اضافه رياكشن لرسالة ستاربورد",
+    "starboard_author_variable": "The message author",
+    "starboard_stars_variable": "Reaction Amount",
+    "starboard_channel_variable": "The channel of the message",
+    "starboard_link_variable": "The message link"
 }

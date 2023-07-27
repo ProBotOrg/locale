@@ -957,5 +957,9 @@
     "starboard_message": "Сообщение Старборда",
     "advanced_settings": "Расширенные настройки",
     "starboard_ignore_self": "Игнорировать звёзды, поставленные себе",
-    "starboard_react_to_post": "Реагировать на Публикацию Старборда"
+    "starboard_react_to_post": "Реагировать на Публикацию Старборда",
+    "starboard_author_variable": "The message author",
+    "starboard_stars_variable": "Reaction Amount",
+    "starboard_channel_variable": "The channel of the message",
+    "starboard_link_variable": "The message link"
 }

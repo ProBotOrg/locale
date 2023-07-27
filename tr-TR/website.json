@@ -949,13 +949,17 @@
     "premium_tier_get": "Premium Tier {0} Edinin",
     "premium_subscribe": "Tier {0}'e Abone Olun",
     "starboard": "Starboard",
-    "starboard_create": "Create New Starboard",
-    "starboard_configuration": "Starboard Configuration",
-    "starboard_name": "Starboard Name",
-    "starboard_stars_limit": "Stars Limit",
+    "starboard_create": "Yeni Starboard Oluştur",
+    "starboard_configuration": "Starboard Yapılandırması",
+    "starboard_name": "Starboard İsmi",
+    "starboard_stars_limit": "Yıldız Limiti",
     "starboard_custom_emoji": "Özel Emoji",
-    "starboard_message": "Starboard Message",
+    "starboard_message": "Starboard Mesajı",
     "advanced_settings": "Gelişmiş Ayarlar",
     "starboard_ignore_self": "Ignore Self Stars",
-    "starboard_react_to_post": "React To Starboard Post"
+    "starboard_react_to_post": "Starboard Gönderisine Tepki Ekle",
+    "starboard_author_variable": "Mesaj Yazarı",
+    "starboard_stars_variable": "Tepki Miktarı",
+    "starboard_channel_variable": "Mesaj Kanalı",
+    "starboard_link_variable": "Mesaj Linki"
 }
