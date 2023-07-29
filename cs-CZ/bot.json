@@ -66,7 +66,7 @@
 	"channel_has_been_unlocked": "**:unlock: Kanál {0} byl odemčen.**",
 	"lock_description": "Zakáže @everyone posílat zprávy ve specifickém kanále.",
 	"unlock_description": "Umožní @everyone posílat zprávy v určitém kanálu.",
-	"requested_by_embed": "Zažádal {0}",
+	"requested_by_embed": "Na žádost {0}",
 	"cant_mute_user": ":rolling_eyes: - ** Nemůžeš umlčet uživatele @{0}. **",
 	"cant_find_member": ":rolling_eyes: - **Nemohu nalézt tohoto člena**",
 	"mute_user_muted": ":white_check_mark: **@{0} byl umlčen z textových kanálů! :zipper_mouth:**",
