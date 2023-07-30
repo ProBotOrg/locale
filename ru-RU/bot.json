@@ -86,7 +86,7 @@
 	"role_changing_for_description": ":white_check_mark: Изменение роли {0} участникам, {1}**{2}**",
 	"unvmute_member_voice_description": ":white_check_mark: {0} ограничение снято!",
 	"unvmute_not_muted_description": ":blush: **{0} не в муте.**",
-	"ban_from_server_description": ":white_check_mark: **{0} Заблокирован на сервере! :airplane:**",
+	"ban_from_server_description": ":white_check_mark: **{0} забанен на сервере! :airplane:**",
 	"ban_cant_description": ":rolling_eyes: - ** Вы не можете заблокировать @{0}. **",
 	"ban_missing_permission_description": ":rolling_eyes: - Я не могу забанить этого пользователя. Пожалуйста, перепроверьте мои права и позицию роли.",
 	"clear_cooldown_description": "**{0}**, остынь (осталось **{1}**)",
