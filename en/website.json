@@ -987,5 +987,6 @@
     "premium_table_custom_bot": "Custom Bot", 
     "premium_table_support": "Pritorized Support", 
     "premium_table_other_features": "Other Features", 
-    "landing_join_over": "Join over {0} servers using ProBot" 
+    "landing_join_over": "Join over {0} servers using ProBot", 
+    "browser_features": "Browse Features" 
 }
