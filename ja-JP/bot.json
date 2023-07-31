@@ -66,7 +66,7 @@
 	"channel_has_been_unlocked": "**:unlock: {0} が解除されました**",
 	"lock_description": "@everyone を特定のチャンネルで送信禁止にします",
 	"unlock_description": "特定のチャンネルの @everyone からのメッセージ送信を拒否する",
-	"requested_by_embed": "{0}#{1}がリクエストしました",
+	"requested_by_embed": "{0}がリクエストしました",
 	"cant_mute_user": ":rolling_eyes: - ** @{0}をミュートすることはできません**",
 	"cant_find_member": ":rolling_eyes: - **メンバーが見つかりません**",
 	"mute_user_muted": ":white_check_mark: **@{0} をコマンド経由でミュートに設定しました :zipper_mouth:**",
