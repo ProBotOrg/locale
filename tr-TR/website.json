@@ -985,5 +985,6 @@
     "premium_table_custom_bot": "Özel Bot",
     "premium_table_support": "Öncelikli Destek",
     "premium_table_other_features": "Diğer Özellikler",
-    "landing_join_over": "ProBot'u kullanarak {0} üzerinde sunucuya katılın"
+    "landing_join_over": "ProBot'u kullanarak {0} üzerinde sunucuya katılın",
+    "browser_features": "Browse Features"
 }
