@@ -985,5 +985,6 @@
     "premium_table_custom_bot": "Bot tùy chỉnh",
     "premium_table_support": "Được ưu tiên hỗ trợ",
     "premium_table_other_features": "Tính năng khác",
-    "landing_join_over": "Gia nhập cùng với hơn {0} server sử dụng ProBot"
+    "landing_join_over": "Gia nhập cùng với hơn {0} server sử dụng ProBot",
+    "browser_features": "Browse Features"
 }
