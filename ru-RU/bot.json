@@ -35,7 +35,7 @@
 	"ping_description": "Проверить время отклика бота.",
 	"temp_description": "Создаёт временный канал.",
 	"deletebackup_description": "Удалить резервную копию.",
-	"short_description": "Сократить URL адрес.",
+	"short_description": "Сокращает URL-ссылку",
 	"roll_description": "Бросить кости.",
 	"points_description": "Баллы, которые могут быть выданы модераторами.",
 	"usage": "Применение:",
