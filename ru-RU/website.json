@@ -985,5 +985,6 @@
     "premium_table_custom_bot": "Собственный бот",
     "premium_table_support": "Первоочередная поддержка",
     "premium_table_other_features": "Другие возможности",
-    "landing_join_over": "Присоединяйтесь к {0}+ серверам, использующих ProBot"
+    "landing_join_over": "Присоединяйтесь к {0}+ серверам, использующих ProBot",
+    "browser_features": "Обзор возможностей"
 }
