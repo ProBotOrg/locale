@@ -907,16 +907,16 @@
     "landing_embed_messages_title": "Tạo tin nhắn embed một cách dễ dàng!",
     "landing_embed_messages_description": "Thể hiện sự sáng tạo với tin nhắn embed cùng ProBot, dễ dàng thiết kế, chỉnh sửa, và gửi đến bất cứ kênh nào bạn muốn.",
     "landing_embed_messages_learn": "Tìm hiểu thêm về Tin nhắn embed",
-    "landing_self_assignable_roles_title": "Phản ứng vào tin nhắn để nhận vai trò!",
+    "landing_self_assignable_roles_title": "Tương tác với tin nhắn để nhận vai trò!",
     "landing_self_assignable_roles_description": "Thiết lập bảng chọn vai trò với emoji, nút, hoặc danh sách chọn để mọi người thỏa thích chọn vai trò của họ!",
     "landing_self_assignable_roles_learn": "Tìm hiểu thêm về Bảng chọn vai trò",
-    "landing_leveling_system_title": "Thưởng nóng cho thành viên tương tác cao nhất",
+    "landing_leveling_system_title": "Thưởng nóng cho các thành viên năng động nhất",
     "landing_leveling_system_description": "Thưởng cho các thành viên tương tác tốt với vai trò theo cấp độ, kèm theo các quyền hạn, kênh ẩn mà các vai trò đó mang đến!",
     "landing_leveling_system_learn": "Tìm hiểu thêm về Hệ thống cấp độ",
     "landing_testimonial_title": "Hãy để ProBot lo lắng cho server của bạn",
     "landing_footer_website_pages": "Trang web",
     "landing_footer_other_links": "Đường dẫn khác",
-    "landing_footer_rules": "Luật",
+    "landing_footer_rules": "Các chính sách",
     "feautres_learn_more": "Tìm hiểu thêm",
     "feautres_learn_more_about_other": "Tìm hiểu thêm về các tính năng khác",
     "features_welcome_messages_customizable_title": "Tùy chỉnh tin nhắn chào mừng với các giá trị thay thế ",
@@ -985,5 +985,6 @@
     "premium_table_custom_bot": "Bot tùy chỉnh",
     "premium_table_support": "Được ưu tiên hỗ trợ",
     "premium_table_other_features": "Tính năng khác",
-    "landing_join_over": "Gia nhập cùng với hơn {0} server sử dụng ProBot"
+    "landing_join_over": "Gia nhập cùng với hơn {0} server sử dụng ProBot",
+    "browser_features": "Xem qua tính năng"
 }

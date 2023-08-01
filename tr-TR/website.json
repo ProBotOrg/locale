@@ -899,7 +899,7 @@
     "landing_resources": "Kaynaklar",
     "landing_resources_docs_description": "Yararlı kılavuzlar ve sorularınızın yanıtları",
     "landing_resources_support_description": "Senin için buradayız! 7/24 Destek için Discord Sunucumuza Katılın.",
-    "landing_servers_trusted": "AŞAĞIDAKİLER DAHİL {0} 'DAN FAZLA DİSCORD SUNUCUSU GÜVENİYOR",
+    "landing_servers_trusted": "AŞAĞIDAKİLER DAHİL {0} 'DAN FAZLA DİSCORD SUNUCUSU BİZE GÜVENİYOR",
     "landing_welcome_messages_tag": "Karşılama Mesajları",
     "landing_welcome_messages_title": "Yeni Üyeleri Tarzla Karşılayalım",
     "landing_welcome_messages_description": "Kullanıcının kullanıcı adını ve avatarını ve özelleştirilebilir bir arka plan resmini içeren kendi karşılama resimlerinizi oluşturun!",
@@ -985,5 +985,6 @@
     "premium_table_custom_bot": "Özel Bot",
     "premium_table_support": "Öncelikli Destek",
     "premium_table_other_features": "Diğer Özellikler",
-    "landing_join_over": "ProBot'u kullanarak {0} üzerinde sunucuya katılın"
+    "landing_join_over": "ProBot'u kullanarak {0} üzerinde sunucuya katılın",
+    "browser_features": "Özelliklere Göz Atın"
 }
