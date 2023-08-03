@@ -950,7 +950,7 @@
     "premium_subscribe": "Підписатися на рівень {0}",
     "starboard": "Дошка пошани",
     "starboard_create": "Створити нову дошку пошани",
-    "starboard_configuration": "Конфігурація дошки пошани",
+    "starboard_configuration": "Налаштування дошки пошани",
     "starboard_name": "Назва дошки пошани",
     "starboard_stars_limit": "Ліміт зірок",
     "starboard_custom_emoji": "Користувацькі емодзі",
@@ -980,11 +980,11 @@
     "premium_faq_answer_6": "Ми приймаємо всі основні кредитні картки з будь-якої країни світу. Додатково ми також підтримуємо платежі через PayPal, пропонуючи вам зручність і безпеку використання вашого акаунту PayPal для вашої покупки преміум бота",
     "landing_commands_description": "Підвищіть продуктивність потужними командами",
     "premium_table_multiple_roles": "Кілька ролей",
-    "premium_table_transfer_bot": "Передати право власності бота",
+    "premium_table_transfer_bot": "Передати управління ботом",
     "premium_table_regenerate_link": "Повторно згенерувати посилання",
-    "premium_table_custom_bot": "Користувальницький бот",
-    "premium_table_support": "Загальнодоступна підтримка",
-    "premium_table_other_features": "Інші особливості",
-    "landing_join_over": "Приєднатися через {0} сервери за допомогою ProBot",
-    "browser_features": "Browse Features"
+    "premium_table_custom_bot": "Власний бот",
+    "premium_table_support": "Пріоритетна підтримка",
+    "premium_table_other_features": "Інші можливості",
+    "landing_join_over": "Приєднуйтесь до {0} серверів за допомогою ProBot",
+    "browser_features": "Перегляд функцій"
 }
