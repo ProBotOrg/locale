@@ -896,7 +896,7 @@
     "oh_no_role": "Oh no! **{0}** role has a higher position than my role, Make sure that my role is higher than the selected role.",
     "landing_new_membership": "New: Our Memberships Subscription",
     "landing_features": "Features",
-    "landing_features_ready_to_start": "Read to get started?",
+    "landing_features_ready_to_start": "Ready to get started?",
     "landing_get_started": "Get Started",
     "landing_resources": "Resources",
     "landing_resources_docs_description": "Helpful guides and answers to your questions",
