@@ -163,7 +163,7 @@
 	"vip_please_specify_description": ":rolling_eyes: - **사용자 이름을 입력해 주세요.**",
 	"vip_details_description": "**프리미엄 번호:** {0}\n**프리미엄 종료일:** {1}\n**프리미엄을 등록한 분:** {2}",
 	"vip_ended_description": "종료됨",
-	"slowmode_description": "Enable or disable slowmode on a channel.",
+	"slowmode_description": "채널의 슬로우 모드를 켜거나 꺼요.",
 	"slowmode_time_description": "채널에 적용 할 슬로우모드 시간",
 	"credits_not_enough": "**:thinking: | {0}님, 잔액이 충분하지 않아요!**",
 	"credits_trans_done": "**:moneybag: | {0}님, {2}님에게 `${1}`만큼 주었어요.**",
