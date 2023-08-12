@@ -508,6 +508,12 @@
         "membership_silver": "Silver", 
         "membership_gold": "Gold", 
         "membership_diamond": "Diamond",
-	"membership_rep_dm": "{0} gave you a reputation point."
-
+	"membership_rep_dm": "{0} gave you a reputation point.",
+	"logs_thread_created": ":house: **Thread Created: `{0}`**",
+	"thread_old_locked": "Old Thread Locked?",
+	"thread_new_locked": "New Thread Locked?",
+	"thread_old_archived": "Old Thread Archived?",
+	"thread_new_archived": "New Thread Archived?",
+	"thread_old_archive_duration": "Old Thread Archive Duration",
+	"thread_new_archive_duration": "New Thread Archive Duration"
 } 
