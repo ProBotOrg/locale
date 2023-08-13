@@ -508,5 +508,13 @@
 	"membership_silver": "Argento",
 	"membership_gold": "Oro",
 	"membership_diamond": "Diamant",
-	"membership_rep_dm": "{0} ti ha dato un punto di reputazione."
+	"membership_rep_dm": "{0} ti ha dato un punto di reputazione.",
+	"logs_thread_created": ":house: **Thread Created: `{0}`**",
+	"thread_old_locked": "Old Thread Locked?",
+	"thread_new_locked": "New Thread Locked?",
+	"thread_old_archived": "Old Thread Archived?",
+	"thread_new_archived": "New Thread Archived?",
+	"thread_old_archive_duration": "Old Thread Archive Duration",
+	"thread_new_archive_duration": "New Thread Archive Duration",
+	"logs_thread_deleted": ":house: **Thread Deleted: `{0}`**"
 }
