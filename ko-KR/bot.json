@@ -516,5 +516,5 @@
 	"thread_new_archived": "New Thread Archived?",
 	"thread_old_archive_duration": "Old Thread Archive Duration",
 	"thread_new_archive_duration": "New Thread Archive Duration",
-	"logs_thread_deleted": ":house: **Thread Deleted: `{0}`**"
+	"logs_thread_deleted": ":house: **스레드가 삭제됐어요: `{0}`**"
 }
