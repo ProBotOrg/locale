@@ -508,5 +508,13 @@
 	"membership_silver": "Plata",
 	"membership_gold": "Oro",
 	"membership_diamond": "Diamante",
-	"membership_rep_dm": "{0} te dio un punto de reputación."
+	"membership_rep_dm": "{0} te dio un punto de reputación.",
+	"logs_thread_created": ":house: **Hilo Creado: `{0}`**",
+	"thread_old_locked": "¿Hilo Antiguo Bloqueado?",
+	"thread_new_locked": "¿Nuevo Hilo Bloqueado?",
+	"thread_old_archived": "¿Hilo Antiguo Archivado?",
+	"thread_new_archived": "¿Nuevo Hilo Archivado?",
+	"thread_old_archive_duration": "Antigua Duración del Archivo del Hilo",
+	"thread_new_archive_duration": "Nueva Duración del Archivo del Hilo",
+	"logs_thread_deleted": ":house: **Hilo Eliminado: `{0}`**"
 }

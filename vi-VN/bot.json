@@ -508,5 +508,13 @@
 	"membership_silver": "Bạc",
 	"membership_gold": "Vàng",
 	"membership_diamond": "Kim Cương",
-	"membership_rep_dm": "{0} đã tặng bạn một điểm uy tín."
+	"membership_rep_dm": "{0} đã tặng bạn một điểm uy tín.",
+	"logs_thread_created": ":house: **Chủ đề mới được tạo: `{0}`**",
+	"thread_old_locked": "Chủ đề cũ đã bị khóa?",
+	"thread_new_locked": "Chủ đề mới đã bị khóa?",
+	"thread_old_archived": "Chủ đề cũ đã được đóng?",
+	"thread_new_archived": "Chủ đề mới đã được đóng?",
+	"thread_old_archive_duration": "Thời gian đóng chủ đề cũ",
+	"thread_new_archive_duration": "Thời gian đóng chủ đề mới",
+	"logs_thread_deleted": ":house: **Chủ đề đã bị xóa: `{0}`**"
 }

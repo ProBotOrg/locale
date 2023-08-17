@@ -508,5 +508,13 @@
 	"membership_silver": "Srebrny",
 	"membership_gold": "Złoty",
 	"membership_diamond": "Diamentowy",
-	"membership_rep_dm": "{0} dał Ci punkt reputacji."
+	"membership_rep_dm": "{0} dał Ci punkt reputacji.",
+	"logs_thread_created": ":house: **Stworzono Wątek: `{0}`**",
+	"thread_old_locked": "Wątek był zablokowany?",
+	"thread_new_locked": "Wątek jest zablokowany?",
+	"thread_old_archived": "Wątek był zarchiwizowany?",
+	"thread_new_archived": "Wątek jest zarchiwizowany?",
+	"thread_old_archive_duration": "Poprzedni czas archiwizacji wątku",
+	"thread_new_archive_duration": "Nowy czas archiwizacji wątku",
+	"logs_thread_deleted": ":house: **Usunięty Wątek: `{0}`**"
 }

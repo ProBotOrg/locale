@@ -508,5 +508,13 @@
 	"membership_silver": "زیوی",
 	"membership_gold": "زێڕی ",
 	"membership_diamond": "ئەڵماسی",
-	"membership_rep_dm": "{0} خاڵێکی ناوبانگی پێدایت."
+	"membership_rep_dm": "{0} خاڵێکی ناوبانگی پێدایت.",
+	"logs_thread_created": ":house: **تەزوو دروست کرا**: `{0}`**",
+	"thread_old_locked": "تەزووی کۆن داخرا؟",
+	"thread_new_locked": "تەزووی نوێ داخرا؟",
+	"thread_old_archived": "تەزووی کۆن ئەرشیفکرا؟",
+	"thread_new_archived": "تەزووی نوێ ئەرشیفکرا؟",
+	"thread_old_archive_duration": "ماوەی ئەرشیفی تەزووی کۆن",
+	"thread_new_archive_duration": "ماوەی ئەرشیفی تەزووی نوێ",
+	"logs_thread_deleted": ":house: **تەزوو سڕایەوە**: `{0}`**"
 }

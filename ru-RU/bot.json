@@ -508,5 +508,13 @@
 	"membership_silver": "Серебряный",
 	"membership_gold": "Золотой",
 	"membership_diamond": "Алмазный",
-	"membership_rep_dm": "{0} выразил вам своё уважение."
+	"membership_rep_dm": "{0} выразил вам своё уважение.",
+	"logs_thread_created": ":house: **Ветка создана: `{0}`**",
+	"thread_old_locked": "Старая ветка заблокирована?",
+	"thread_new_locked": "Новая ветка заблокирована?",
+	"thread_old_archived": "Старая ветка архивирована?",
+	"thread_new_archived": "Новая ветка архивирована?",
+	"thread_old_archive_duration": "Старое время архивации ветки",
+	"thread_new_archive_duration": "Новое время архивации ветки",
+	"logs_thread_deleted": ":house: **Ветка создана: `{0}`**"
 }
