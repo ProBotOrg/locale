@@ -509,12 +509,12 @@
 	"membership_gold": "Золотий",
 	"membership_diamond": "Діамант",
 	"membership_rep_dm": "{0} дав тобі бали репутації.",
-	"logs_thread_created": ":house: **Thread Created: `{0}`**",
+	"logs_thread_created": ":house: **Гілка створена: `{0}`**",
 	"thread_old_locked": "Old Thread Locked?",
 	"thread_new_locked": "New Thread Locked?",
 	"thread_old_archived": "Old Thread Archived?",
 	"thread_new_archived": "New Thread Archived?",
 	"thread_old_archive_duration": "Old Thread Archive Duration",
 	"thread_new_archive_duration": "New Thread Archive Duration",
-	"logs_thread_deleted": ":house: **Thread Deleted: `{0}`**"
+	"logs_thread_deleted": ":house: **Гілка видалена: `{0}`**"
 }
