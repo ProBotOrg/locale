@@ -994,5 +994,5 @@
     "browser_features": "Browse Features",
     "color_set_title": "colors set",
     "colorset_title_modal": "Apply colors set "{0}"",
-    "colorset_description_modal": "By applying this color set, the bot will create roles with matching colors. Each color in the set will be assigned to a role. Learn more"
+    "colorset_description_modal": "By applying this color set, the bot will create roles with matching colors. Each color in the set will be assigned to a role."
 }
