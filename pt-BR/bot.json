@@ -509,7 +509,7 @@
 	"membership_gold": "Dourado",
 	"membership_diamond": "Diamante",
 	"membership_rep_dm": "{0} deu a você um ponto de reputação.",
-	"logs_thread_created": ":house: **Thread Created: `{0}`**",
+	"logs_thread_created": ":house: **Astreado Creato: `{0}`**",
 	"thread_old_locked": "Old Thread Locked?",
 	"thread_new_locked": "New Thread Locked?",
 	"thread_old_archived": "Old Thread Archived?",
