@@ -955,7 +955,7 @@
     "starboard_create": "Создать новый Старборд",
     "starboard_configuration": "Конфигурация Старборда",
     "starboard_name": "Имя Старборда",
-    "starboard_stars_limit": "Лимит звёзд",
+    "starboard_stars_limit": "Необходимое число реакций",
     "starboard_custom_emoji": "Свой эмодзи",
     "starboard_message": "Сообщение Старборда",
     "advanced_settings": "Расширенные настройки",
