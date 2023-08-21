@@ -989,5 +989,8 @@
     "premium_table_support": "یارمەتی تایبەت",
     "premium_table_other_features": "تایبەتمەندی تر",
     "landing_join_over": "بەشداری کردن لە {0} سێرڤەر بە بەکارهێنانی پڕۆبۆت",
-    "browser_features": "گەڕان لە تایبەتمەندیەکان"
+    "browser_features": "گەڕان لە تایبەتمەندیەکان",
+    "color_set_title": "colors set",
+    "colorset_title_modal": "Apply colors set '{0}'",
+    "colorset_description_modal": "By applying this color set, the bot will create roles with matching colors. Each color in the set will be assigned to a role."
 }
