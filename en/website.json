@@ -994,5 +994,11 @@
     "browser_features": "Browse Features",
     "color_set_title": "colors set",
     "colorset_title_modal": "Apply colors set '{0}'",
-    "colorset_description_modal": "By applying this color set, the bot will create roles with matching colors. Each color in the set will be assigned to a role."
+    "colorset_description_modal": "By applying this color set, the bot will create roles with matching colors. Each color in the set will be assigned to a role.", 
+    "add_response": "Add Response", 
+    "responses": "Responses", 
+    "response_type": "Response Type", 
+    "delete_response": "Delete Response {0}",
+    "no_responses_found": "No Responses Found", 
+    "delete_response_ask": "Are you sure you want to delete this response?"
 }
