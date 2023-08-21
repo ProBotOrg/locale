@@ -990,7 +990,7 @@
     "premium_table_other_features": "Другие возможности",
     "landing_join_over": "Присоединяйтесь к {0}+ серверам, использующих ProBot",
     "browser_features": "Обзор возможностей",
-    "color_set_title": "colors set",
-    "colorset_title_modal": "Apply colors set '{0}'",
-    "colorset_description_modal": "By applying this color set, the bot will create roles with matching colors. Each color in the set will be assigned to a role."
+    "color_set_title": "набор цветов",
+    "colorset_title_modal": "Применить набор цветов '{0}'",
+    "colorset_description_modal": "Применив этот набор цветов, бот создаст роли с соответствующими цветами. Каждый цвет в наборе будет соответствовать роли"
 }
