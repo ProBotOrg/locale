@@ -990,7 +990,7 @@
     "premium_table_other_features": "تایبەتمەندی تر",
     "landing_join_over": "بەشداری کردن لە {0} سێرڤەر بە بەکارهێنانی پڕۆبۆت",
     "browser_features": "گەڕان لە تایبەتمەندیەکان",
-    "color_set_title": "colors set",
-    "colorset_title_modal": "Apply colors set '{0}'",
-    "colorset_description_modal": "By applying this color set, the bot will create roles with matching colors. Each color in the set will be assigned to a role."
+    "color_set_title": "کۆمەڵەی ڕەنگەکان",
+    "colorset_title_modal": "جێبەجێ کردنی ڕەنگەکانی کۆمەڵەی '{0}'",
+    "colorset_description_modal": "بە بەکارهێنانی ئەم کۆمەڵە ڕەنگە، بۆتەکە ڕۆڵ دروست دەکات لەگەڵ ڕەنگی هاوشێوە. هەر ڕەنگێک لە کۆمەڵەکەدا بۆ ڕۆڵێک دیاری دەکرێت."
 }
