@@ -990,7 +990,7 @@
     "premium_table_other_features": "مميزات اخرى",
     "landing_join_over": "انضم إلى {0} سيرفر يستخدم بروبوت",
     "browser_features": "تصفح المميزات",
-    "color_set_title": "تعيين الألوان",
-    "colorset_title_modal": "تطبيق تعيين الألوان '{0}'",
-    "colorset_description_modal": "By applying this color set, the bot will create roles with matching colors. Each color in the set will be assigned to a role."
+    "color_set_title": "مجموعة الالوان",
+    "colorset_title_modal": "تطبيق مجموعة الألوان '{0}'",
+    "colorset_description_modal": "بتطبيق مجموعة الألوان هذه ، سيقوم البوت بإنشاء رتب بالألوان المطابقة و سيتم تعيين كل لون في المجموعة لرتبة."
 }
