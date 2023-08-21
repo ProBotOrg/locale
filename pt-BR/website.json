@@ -989,5 +989,8 @@
     "premium_table_support": "Suporte pritoriado",
     "premium_table_other_features": "Outras características",
     "landing_join_over": "Junte-se aos servidores {0} usando o ProBot",
-    "browser_features": "Procurar recursos"
+    "browser_features": "Procurar recursos",
+    "color_set_title": "colors set",
+    "colorset_title_modal": "Apply colors set '{0}'",
+    "colorset_description_modal": "By applying this color set, the bot will create roles with matching colors. Each color in the set will be assigned to a role."
 }
