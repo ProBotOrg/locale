@@ -960,7 +960,7 @@
     "starboard_message": "Сообщение Старборда",
     "advanced_settings": "Расширенные настройки",
     "starboard_ignore_self": "Игнорировать звёзды, поставленные себе",
-    "starboard_react_to_post": "Реагировать на Публикацию Старборда",
+    "starboard_react_to_post": "Отображать число реакций и ссылку на сообщение",
     "starboard_author_variable": "Автор сообщения",
     "starboard_stars_variable": "Число реакций",
     "starboard_channel_variable": "Канал сообщения",
