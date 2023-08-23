@@ -990,7 +990,7 @@
     "premium_table_other_features": "Pozostałe funkcje",
     "landing_join_over": "Dołącz do ponad {0} serwerów używających ProBot",
     "browser_features": "Przeglądaj funkcje",
-    "color_set_title": "colors set",
-    "colorset_title_modal": "Apply colors set '{0}'",
-    "colorset_description_modal": "By applying this color set, the bot will create roles with matching colors. Each color in the set will be assigned to a role."
+    "color_set_title": "Zestaw kolorów",
+    "colorset_title_modal": "Ustaw zestaw kolorów na '{0}'",
+    "colorset_description_modal": "Stosując ten zestaw kolorów, bot utworzy role z odpowiednimi kolorami. Każdy kolor z zestawu zostanie przypisany do roli."
 }
