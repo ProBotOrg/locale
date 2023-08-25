@@ -984,13 +984,13 @@
     "landing_commands_description": "Boost your productivity with powerful commands",
     "premium_table_multiple_roles": "Multiple Roles",
     "premium_table_transfer_bot": "Transfer Bot Ownership",
-    "premium_table_regenerate_link": "Regenerate Link",
-    "premium_table_custom_bot": "Custom Bot",
-    "premium_table_support": "Pritorized Support",
-    "premium_table_other_features": "Other Features",
-    "landing_join_over": "Join over {0} servers using ProBot",
-    "browser_features": "Browse Features",
-    "color_set_title": "colors set",
-    "colorset_title_modal": "Apply colors set '{0}'",
-    "colorset_description_modal": "By applying this color set, the bot will create roles with matching colors. Each color in the set will be assigned to a role."
+    "premium_table_regenerate_link": "Regenerar Link",
+    "premium_table_custom_bot": "Bot Personalizado",
+    "premium_table_support": "Suporte Prioritário",
+    "premium_table_other_features": "Outras Funcionalidades",
+    "landing_join_over": "Entra em mais de {0} usando o ProBot",
+    "browser_features": "Funcionalidades de Navegador",
+    "color_set_title": "palete de cores",
+    "colorset_title_modal": "Aplicar palete de cores '{0}'",
+    "colorset_description_modal": "Ao aplicar esta palete de cores, o bot criará cargos com cores correspondentes. Cada cor no conjunto será atribuída a um cargo."
 }
