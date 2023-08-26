@@ -990,7 +990,7 @@
     "premium_table_other_features": "Altre Caratteristiche",
     "landing_join_over": "Unisciti a più di server {0} usando ProBot",
     "browser_features": "Sfoglia Caratteristiche",
-    "color_set_title": "colors set",
-    "colorset_title_modal": "Apply colors set '{0}'",
-    "colorset_description_modal": "By applying this color set, the bot will create roles with matching colors. Each color in the set will be assigned to a role."
+    "color_set_title": "colori impostati",
+    "colorset_title_modal": "Applica i colori impostati '{0}'",
+    "colorset_description_modal": "Applicando questo set di colori, il bot creerà ruoli con colori corrispondenti. Ogni colore nel set sarà assegnato ad un ruolo."
 }
