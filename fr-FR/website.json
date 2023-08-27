@@ -819,7 +819,7 @@
     "mute_member_description": "Empêcher le memeber d'envoyer des messages pour une heure spécifique",
     "timeout_member": "Membres Exclus",
     "mute_member": "Membre Muet",
-    "timeout_member_description": "Empêcher le memeber d'envoyer des messages, de réagir aux messages, de rejoindre les salons vocaux",
+    "timeout_member_description": "Empêcher le membre d'envoyer des messages, de réagir aux messages, de rejoindre les salons vocaux",
     "edit_rule": "Modifier la règle",
     "timeout_duration": "Durée du timeout",
     "allow_certain_message": "Autoriser certains rôles ou salons (facultatif)",
