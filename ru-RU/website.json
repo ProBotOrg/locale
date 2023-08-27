@@ -960,7 +960,7 @@
     "starboard_message": "Сообщение Старборда",
     "advanced_settings": "Расширенные настройки",
     "starboard_ignore_self": "Игнорировать звёзды, поставленные себе",
-    "starboard_react_to_post": "Реагировать на Публикацию Старборда",
+    "starboard_react_to_post": "Отображать число реакций и ссылку на сообщение",
     "starboard_author_variable": "Автор сообщения",
     "starboard_stars_variable": "Число реакций",
     "starboard_channel_variable": "Канал сообщения",
@@ -989,5 +989,8 @@
     "premium_table_support": "Первоочередная поддержка",
     "premium_table_other_features": "Другие возможности",
     "landing_join_over": "Присоединяйтесь к {0}+ серверам, использующих ProBot",
-    "browser_features": "Обзор возможностей"
+    "browser_features": "Обзор возможностей",
+    "color_set_title": "набор цветов",
+    "colorset_title_modal": "Применить набор цветов '{0}'",
+    "colorset_description_modal": "Применив этот набор цветов, бот создаст роли с соответствующими цветами. Каждый цвет в наборе будет соответствовать роли"
 }

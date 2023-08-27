@@ -989,5 +989,8 @@
     "premium_table_support": "우선 지원",
     "premium_table_other_features": "다른 기능",
     "landing_join_over": "ProBot을 사용하는 서버 {0}개와 함께하세요",
-    "browser_features": "기능 둘러보기"
+    "browser_features": "기능 둘러보기",
+    "color_set_title": "colors set",
+    "colorset_title_modal": "Apply colors set '{0}'",
+    "colorset_description_modal": "By applying this color set, the bot will create roles with matching colors. Each color in the set will be assigned to a role."
 }

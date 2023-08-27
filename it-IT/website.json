@@ -989,5 +989,8 @@
     "premium_table_support": "Supporto Pritorized",
     "premium_table_other_features": "Altre Caratteristiche",
     "landing_join_over": "Unisciti a più di server {0} usando ProBot",
-    "browser_features": "Sfoglia Caratteristiche"
+    "browser_features": "Sfoglia Caratteristiche",
+    "color_set_title": "colori impostati",
+    "colorset_title_modal": "Applica i colori impostati '{0}'",
+    "colorset_description_modal": "Applicando questo set di colori, il bot creerà ruoli con colori corrispondenti. Ogni colore nel set sarà assegnato ad un ruolo."
 }

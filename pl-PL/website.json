@@ -989,5 +989,8 @@
     "premium_table_support": "Priorytetowe Wsparcie",
     "premium_table_other_features": "Pozostałe funkcje",
     "landing_join_over": "Dołącz do ponad {0} serwerów używających ProBot",
-    "browser_features": "Przeglądaj funkcje"
+    "browser_features": "Przeglądaj funkcje",
+    "color_set_title": "Zestaw kolorów",
+    "colorset_title_modal": "Ustaw zestaw kolorów na '{0}'",
+    "colorset_description_modal": "Stosując ten zestaw kolorów, bot utworzy role z odpowiednimi kolorami. Każdy kolor z zestawu zostanie przypisany do roli."
 }

@@ -66,7 +66,7 @@
 	"channel_has_been_unlocked": "**:unlock: {0} foi destrancado.**",
 	"lock_description": "Desativa @everyone de enviar mensagens num canal específico.",
 	"unlock_description": "Permite que @everyone envie mensagens num canal específico.",
-	"requested_by_embed": "Pedido por {0}#{1}",
+	"requested_by_embed": "Pedido por {0}",
 	"cant_mute_user": ":rolling_eyes: - ** Não é possível silenciar @{0}. **",
 	"cant_find_member": ":rolling_eyes: - **Não consigo encontrar esse membro**",
 	"mute_user_muted": ":white_check_mark: **@{0} silenciado por texto! :zipper_mouth:**",
