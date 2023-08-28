@@ -1005,5 +1005,7 @@
     "colorset_description_modal": "By applying this color set, the bot will create roles with matching colors. Each color in the set will be assigned to a role.", 
     "color_set_onboard_description": "Create new colors effortlessly, without having to spend time thinking!", 
     "responses_onboarding_content": "Elevate messages with customizable buttons and menus for personalized responses!", 
-    "responses_onboarding_title": "Response Elements"
+    "responses_onboarding_title": "Response Elements", 
+    "new_tag": "New", 
+    "got_it": "Got it!"
 }
