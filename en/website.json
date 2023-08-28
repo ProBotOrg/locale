@@ -1003,5 +1003,7 @@
     "response_onboard_description": "Use flexible responses for your embed message!", 
     "role_hierarchy_warn": "Oh no! {0} role has a higher position than my role. Make sure that my role is higher than the selected role.",
     "colorset_description_modal": "By applying this color set, the bot will create roles with matching colors. Each color in the set will be assigned to a role.", 
-    "color_set_onboard_description": "Create new colors effortlessly, without having to spend time thinking!"
+    "color_set_onboard_description": "Create new colors effortlessly, without having to spend time thinking!", 
+    "responses_onboarding_content": "Elevate messages with customizable buttons and menus for personalized responses!", 
+    "responses_onboarding_title": "Response Elements"
 }
