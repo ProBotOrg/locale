@@ -925,7 +925,7 @@
     "features_welcome_messages_customizable_title": "متن خوش‌آمدگویی همراه با متغیر های مخصوص ",
     "features_welcome_messages_customizable_description": "متن خوش آمدگویی خودتان با استفاده از متغیر های سهل الاستفاده پروبات سفارشی‌سازی کنید، به علاوه گزینه های دردسترس برای ارسال پیام خوش‌آمد به یک کانال خاص یا دایرکت کاربر!",
     "features_welcome_messages_backgorund_title": "تصویر پس‌زمینه قابل شخصی‌سازی خوش‌آمدگو",
-    "features_welcome_messages_backgorund_description": "Create your welcome image and upload it to ProBot to show to your newly joined members, with the option to send it with the text message, before the text message, or by itself!",
+    "features_welcome_messages_backgorund_description": "تصاویر خوش‌آمدگویی خود را بسازید و آنها را آپلود کنید تا پروبات به اعضاء جدید سروتان آنها را نمایش دهد؛ به همراه گزینه هایی برای ارسال همراه با یک متن قبل، بعد یا همراه با خود تصویر!",
     "features_welcome_messages_layouts_title": "چیدمان های قابل تنظیم خوش‌آمدگو",
     "features_welcome_messages_layouts_description": "Customize welcome image layout completely including user avatar's shape, height, width, and coordinates, username width, coordinates, text alignment, and color, and text coordinates, size, width, and color.",
     "features_embed_messages_modify_title": "Modify your embed message easily.",
