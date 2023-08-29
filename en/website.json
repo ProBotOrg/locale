@@ -1007,5 +1007,6 @@
     "responses_onboarding_content": "Elevate messages with customizable buttons and menus for personalized responses!", 
     "responses_onboarding_title": "Response Elements", 
     "new_tag": "New", 
-    "got_it": "Got it!"
+    "got_it": "Got it!", 
+    "add_response": "Add Response" 
 }
