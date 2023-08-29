@@ -990,15 +990,15 @@
     "premium_table_other_features": "Другие возможности",
     "landing_join_over": "Присоединяйтесь к {0}+ серверам, использующих ProBot",
     "browser_features": "Обзор возможностей",
-    "color_set_title": "набор цветов",
+    "color_set_title": "Наборы цветов",
     "colorset_title_modal": "Применить набор цветов '{0}'",
     "colorset_description_modal": "Применив этот набор цветов, бот создаст роли с соответствующими цветами. Каждый цвет в наборе будет соответствовать роли",
     "responses": "Ответы",
     "response_type": "Тип ответа",
     "delete_response": "Удалить ответ {0}",
     "no_responses_found": "Ответы не найдены",
-    "delete_response_ask": "Are you sure you want to delete this response?",
-    "response_onboard_description": "Use flexible responses for your embed message!",
-    "role_hierarchy_warn": "Oh no! {0} role has a higher position than my role. Make sure that my role is higher than the selected role.",
-    "color_set_onboard_description": "Create new colors effortlessly, without having to spend time thinking!"
+    "delete_response_ask": "Вы действительно хотите удалить этот ответ?",
+    "response_onboard_description": "Используйте гибкие ответы для вашего Embed-сообщения!",
+    "role_hierarchy_warn": "О нет! Роль {0} находится выше моей. Убедитесь, что моя роль выше выбранной",
+    "color_set_onboard_description": "Создавайте новые цвета без труда, не тратя время на раздумие!"
 }
