@@ -444,7 +444,7 @@
     "premium_current_credits_is": "Ваш текущий счет равен  {0}",
     "premium_name_limit": "Имя должно быть более 2 и менее 32 символов",
     "protection_options": "Опции защиты:",
-    "protection_delete_limits": "Удалить {0} ограничений",
+    "protection_delete_limits": "Удалить лимиты у {0}",
     "both_voice_and_text": "И войс, и текст",
     "whitelist_urls": "Разрешённые URL",
     "automod_mute_time": "Длительность мута",
