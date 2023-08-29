@@ -374,7 +374,7 @@
     "title": "پڕوبۆت - ڕۆبۆتێک بۆ دیسکۆرد",
     "description": "دەربارە :",
     "lock_description": "ناچاڵاک کردنی رۆڵی @everyone لە ناردنی نامە لەناو ژورێکی دیاریکراو.",
-    "unlock_description": "چاڵاک کردنەوەی ناردنی نامە بۆ رۆڵی  @everyone لە ژورێکی دیاری کراودا ئەگەر ناچاڵاک کرابێت.",
+    "unlock_description": "ڕێگە بە @everyone دەدات کە پەیامەکان لە کەناڵێکی تایبەتدا بنێرن.",
     "name_of_user": "ناوی بەکارهێنەر پیشان دەدات، بەبێ ئەوەی بەکارهێنەرەکە تاگ بکات.",
     "user_invites_counter": "ژمێرەری بانگهێشتی بەکارهێنەر",
     "to_mention_author": "باسی ئەو بەکارهێنەرە دەکات کە وەڵامەکەی بانگهێشت کردووە",
@@ -992,5 +992,13 @@
     "browser_features": "گەڕان لە تایبەتمەندیەکان",
     "color_set_title": "کۆمەڵەی ڕەنگەکان",
     "colorset_title_modal": "جێبەجێ کردنی ڕەنگەکانی کۆمەڵەی '{0}'",
-    "colorset_description_modal": "بە بەکارهێنانی ئەم کۆمەڵە ڕەنگە، بۆتەکە ڕۆڵ دروست دەکات لەگەڵ ڕەنگی هاوشێوە. هەر ڕەنگێک لە کۆمەڵەکەدا بۆ ڕۆڵێک دیاری دەکرێت."
+    "colorset_description_modal": "بە بەکارهێنانی ئەم کۆمەڵە ڕەنگە، بۆتەکە ڕۆڵ دروست دەکات لەگەڵ ڕەنگی هاوشێوە. هەر ڕەنگێک لە کۆمەڵەکەدا بۆ ڕۆڵێک دیاری دەکرێت.",
+    "responses": "Responses",
+    "response_type": "Response Type",
+    "delete_response": "Delete Response {0}",
+    "no_responses_found": "No Responses Found",
+    "delete_response_ask": "Are you sure you want to delete this response?",
+    "response_onboard_description": "Use flexible responses for your embed message!",
+    "role_hierarchy_warn": "Oh no! {0} role has a higher position than my role. Make sure that my role is higher than the selected role.",
+    "color_set_onboard_description": "Create new colors effortlessly, without having to spend time thinking!"
 }

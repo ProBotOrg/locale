@@ -444,7 +444,7 @@
     "premium_current_credits_is": "Ваш текущий счет равен  {0}",
     "premium_name_limit": "Имя должно быть более 2 и менее 32 символов",
     "protection_options": "Опции защиты:",
-    "protection_delete_limits": "Удалить {0} ограничений",
+    "protection_delete_limits": "Удалить лимиты у {0}",
     "both_voice_and_text": "И войс, и текст",
     "whitelist_urls": "Разрешённые URL",
     "automod_mute_time": "Длительность мута",
@@ -990,7 +990,15 @@
     "premium_table_other_features": "Другие возможности",
     "landing_join_over": "Присоединяйтесь к {0}+ серверам, использующих ProBot",
     "browser_features": "Обзор возможностей",
-    "color_set_title": "набор цветов",
+    "color_set_title": "Наборы цветов",
     "colorset_title_modal": "Применить набор цветов '{0}'",
-    "colorset_description_modal": "Применив этот набор цветов, бот создаст роли с соответствующими цветами. Каждый цвет в наборе будет соответствовать роли"
+    "colorset_description_modal": "Применив этот набор цветов, бот создаст роли с соответствующими цветами. Каждый цвет в наборе будет соответствовать роли",
+    "responses": "Ответы",
+    "response_type": "Тип ответа",
+    "delete_response": "Удалить ответ {0}",
+    "no_responses_found": "Ответы не найдены",
+    "delete_response_ask": "Вы действительно хотите удалить этот ответ?",
+    "response_onboard_description": "Используйте гибкие ответы для вашего Embed-сообщения!",
+    "role_hierarchy_warn": "О нет! Роль {0} находится выше моей. Убедитесь, что моя роль выше выбранной",
+    "color_set_onboard_description": "Создавайте новые цвета без труда, не тратя время на раздумие!"
 }

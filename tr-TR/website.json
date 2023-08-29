@@ -990,7 +990,15 @@
     "premium_table_other_features": "Diğer Özellikler",
     "landing_join_over": "ProBot'u kullanarak {0} üzerinde sunucuya katılın",
     "browser_features": "Özelliklere Göz Atın",
-    "color_set_title": "colors set",
+    "color_set_title": "Color sets",
     "colorset_title_modal": "Apply colors set '{0}'",
-    "colorset_description_modal": "By applying this color set, the bot will create roles with matching colors. Each color in the set will be assigned to a role."
+    "colorset_description_modal": "By applying this color set, the bot will create roles with matching colors. Each color in the set will be assigned to a role.",
+    "responses": "Responses",
+    "response_type": "Response Type",
+    "delete_response": "Delete Response {0}",
+    "no_responses_found": "No Responses Found",
+    "delete_response_ask": "Are you sure you want to delete this response?",
+    "response_onboard_description": "Use flexible responses for your embed message!",
+    "role_hierarchy_warn": "Oh no! {0} role has a higher position than my role. Make sure that my role is higher than the selected role.",
+    "color_set_onboard_description": "Create new colors effortlessly, without having to spend time thinking!"
 }

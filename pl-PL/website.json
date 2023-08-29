@@ -992,5 +992,13 @@
     "browser_features": "Przeglądaj funkcje",
     "color_set_title": "Zestaw kolorów",
     "colorset_title_modal": "Ustaw zestaw kolorów na '{0}'",
-    "colorset_description_modal": "Stosując ten zestaw kolorów, bot utworzy role z odpowiednimi kolorami. Każdy kolor z zestawu zostanie przypisany do roli."
+    "colorset_description_modal": "Stosując ten zestaw kolorów, bot utworzy role z odpowiednimi kolorami. Każdy kolor z zestawu zostanie przypisany do roli.",
+    "responses": "Responses",
+    "response_type": "Response Type",
+    "delete_response": "Delete Response {0}",
+    "no_responses_found": "No Responses Found",
+    "delete_response_ask": "Are you sure you want to delete this response?",
+    "response_onboard_description": "Use flexible responses for your embed message!",
+    "role_hierarchy_warn": "Oh no! {0} role has a higher position than my role. Make sure that my role is higher than the selected role.",
+    "color_set_onboard_description": "Create new colors effortlessly, without having to spend time thinking!"
 }
