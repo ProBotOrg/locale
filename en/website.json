@@ -1006,7 +1006,7 @@
     "color_set_onboard_description": "Create new colors effortlessly, without having to spend time thinking!", 
     "responses_onboarding_content": "Elevate messages with customizable buttons and menus for personalized responses!", 
     "responses_onboarding_title": "Response Elements", 
-    "new_tag": "New", 
+    "new": "New", 
     "got_it": "Got it!", 
     "add_response": "Add Response", 
     "apply_color_set": "Apply Colors"
