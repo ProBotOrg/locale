@@ -993,7 +993,7 @@
     "landing_join_over": "Join over {0} servers using ProBot", 
     "browser_features": "Browse Features",
     "color_set_title": "Color sets",
-    "colorset_title_modal": "Apply colors set '{0}'",
+    "colorset_title_modal": "Apply Color Set '{0}'",
     "colorset_description_modal": "By applying this color set, the bot will create roles with matching colors. Each color in the set will be assigned to a role.",  
     "responses": "Responses", 
     "response_type": "Response Type", 
@@ -1008,5 +1008,6 @@
     "responses_onboarding_title": "Response Elements", 
     "new_tag": "New", 
     "got_it": "Got it!", 
-    "add_response": "Add Response" 
+    "add_response": "Add Response", 
+    "apply_color_set": "Apply Colors"
 }
