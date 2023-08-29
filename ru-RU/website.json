@@ -1000,5 +1000,7 @@
     "delete_response_ask": "Вы действительно хотите удалить этот ответ?",
     "response_onboard_description": "Используйте гибкие ответы для вашего Embed-сообщения!",
     "role_hierarchy_warn": "О нет! Роль {0} находится выше моей. Убедитесь, что моя роль выше выбранной",
-    "color_set_onboard_description": "Создавайте новые цвета без труда, не тратя время на раздумие!"
+    "color_set_onboard_description": "Создавайте новые цвета без труда, не тратя время на раздумие!",
+    "responses_onboarding_content": "Elevate messages with customizable buttons and menus for personalized responses!",
+    "responses_onboarding_title": "Response Elements"
 }
