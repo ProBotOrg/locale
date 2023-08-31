@@ -997,9 +997,9 @@
     "response_type": "Response Type",
     "delete_response": "Delete Response {0}",
     "no_responses_found": "No Responses Found",
-    "delete_response_ask": "Are you sure you want to delete this response?",
+    "delete_response_ask": "이 반응을 삭제할까요?",
     "response_onboard_description": "Use flexible responses for your embed message!",
-    "role_hierarchy_warn": "Oh no! {0} role has a higher position than my role. Make sure that my role is higher than the selected role.",
+    "role_hierarchy_warn": "이런! {0} 역할이 제 역할보다 상위에 위치해 있어요. 선택한 역할보다 제 역할이 더 위에 있도록 해 주세요.",
     "color_set_onboard_description": "Create new colors effortlessly, without having to spend time thinking!",
     "responses_onboarding_content": "Elevate messages with customizable buttons and menus for personalized responses!",
     "responses_onboarding_title": "Response Elements"
