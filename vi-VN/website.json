@@ -1000,5 +1000,7 @@
     "delete_response_ask": "Bạn có muốn xóa phản hồi này?",
     "response_onboard_description": "Sử dụng các phản hồi linh hoạt cho tin nhắn embed của bạn!",
     "role_hierarchy_warn": "Ôi không! Vai trò {0} có vị trí cao hơn vai trò của tôi. Hãy đảm bảo rằng vai trò của tôi cao hơn những vai trò được chọn.",
-    "color_set_onboard_description": "Tạo dãy các vai trò màu một cách nhanh chóng, không cần phải tốn thời gian suy nghĩ nhiều!"
+    "color_set_onboard_description": "Tạo dãy các vai trò màu một cách nhanh chóng, không cần phải tốn thời gian suy nghĩ nhiều!",
+    "responses_onboarding_content": "Cải tiến tin nhắn với nút bấm và bảng chọn tùy chỉnh cho việc đa dạng hóa các phản hồi!",
+    "responses_onboarding_title": "Yếu tố của phản hồi"
 }
