@@ -990,8 +990,8 @@
     "premium_table_other_features": "その他の機能",
     "landing_join_over": "{0} サーバーで利用されているProBotをさっそく使ってみましょう",
     "browser_features": "機能を参照",
-    "color_set_title": "カラーセット",
-    "colorset_title_modal": "カラーセット '{0}' を設定しました",
+    "color_set_title": "色設定",
+    "colorset_title_modal": "'{0}' 色を設定しました。",
     "colorset_description_modal": "このカラーセットを適用することで、Botは一致する色を持つロールを作成します。セット内の各色はロールに割り当てられます。",
     "responses": "回答",
     "response_type": "回答の種類",
@@ -1002,5 +1002,5 @@
     "role_hierarchy_warn": "わ！ {0} ロールがProBotのロールよりも高い位置に設定されてる！{0} をProBotのロールよりも下に設定してからもう一度試してください。",
     "color_set_onboard_description": "この段階でめちゃくちゃ悩む必要はないよ！新しい色を設定しよう。",
     "responses_onboarding_content": "カスタマイズできるボタンやメニューで、パーソナライズされた応答ができます！",
-    "responses_onboarding_title": "Response Elements"
+    "responses_onboarding_title": "応答の要素"
 }
