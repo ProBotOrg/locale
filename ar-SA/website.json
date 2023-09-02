@@ -998,9 +998,9 @@
     "delete_response": "حذف الرد {0}",
     "no_responses_found": "ليست هناك ردود",
     "delete_response_ask": "هل انت متاكد من رغبتك في حذف الرد ؟",
-    "response_onboard_description": "Use flexible responses for your embed message!",
+    "response_onboard_description": "إستخدم إستجابات مرنة لرسالتك الإمبد!",
     "role_hierarchy_warn": "يبدو ان رتبة **{0}** اعلى من رتبتي ، تأكد من رفع رتبتي فوق الرتبة التلقائية.",
-    "color_set_onboard_description": "Create new colors effortlessly, without having to spend time thinking!",
-    "responses_onboarding_content": "Elevate messages with customizable buttons and menus for personalized responses!",
-    "responses_onboarding_title": "Response Elements"
+    "color_set_onboard_description": "إتشاء الوان جديدة بدون أي جهد، دون الحاجة إلى أخذ الوقت في التفكير!",
+    "responses_onboarding_content": "قم بإضافة الرسائل مع أزرار قابلة للتخصيص وقوائم للاستجابات المخصصة!",
+    "responses_onboarding_title": "عناصر الإستجابة"
 }
