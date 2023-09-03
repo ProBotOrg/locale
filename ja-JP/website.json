@@ -371,7 +371,7 @@
     "logout_all": "すべてのデバイスからサインアウトする",
     "logout_yes": "はい（おｋ，準備万全！）",
     "logout_no": "やめておく",
-    "title": "ProBot - Discord向けの《優秀な多機能ボット》",
+    "title": "ProBot - Discord向けの賢いボット",
     "description": "説明:",
     "lock_description": "@everyone を特定のチャンネルで送信禁止にする",
     "unlock_description": "特定のチャンネルの @everyone からのメッセージ送信を拒否する",
