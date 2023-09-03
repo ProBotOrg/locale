@@ -629,7 +629,7 @@
     "default": "По умолчанию",
     "billing_no_history": "История платежей отсутствует",
     "billing_add_payment": "Добавить способ оплаты",
-    "update": "Обновить",
+    "update": "Обновление",
     "billing_card_name": "Имя на карте",
     "billing_card_number": "Номер карты",
     "billing_card_expiry_date": "Срок истечения",
