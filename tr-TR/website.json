@@ -72,7 +72,7 @@
     "ENABLED_CHANNELS": "ETKİN KANALLAR",
     "DISABLED_CHANNELS": "DEVRE DIŞI KANALLAR",
     "DELETE_MESSAGE_HISTORY": "MESAJ GEÇMİŞİNİ SİLİN",
-    "ROLES_MAX_LIMIT": "Roller maksimum limiti atlayabilir",
+    "ROLES_MAX_LIMIT": "Maksimum limiti atlayabilecek roller.",
     "MAX_LIMIT_NO_SKIP": "Maksimum limit atlanamaz",
     "NO_TIME_ACTION": "Zaman belirtilmemişse yapılacak eylem",
     "SPECIFIC_TIME": "Belirli bir zaman",
