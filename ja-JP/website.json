@@ -696,7 +696,7 @@
     "commands_all_description": "すべてのコマンド",
     "commands_general_description": "すべてのサーバーに必要な便利コマンド！",
     "commands_leveling_description": "テキストと音声レベルでサーバーをにぎやかにします",
-    "commands_info_description": "サーバーまたはユーザーに関する統計や情報を確認しますか？これらのコマンドをお試しください。",
+    "commands_info_description": "サーバーまたはユーザーに関する統計情報などを確認できます",
     "commands_moderation_description": "これらの強力なコマンドでサーバー管理をパワーアップしましょう!",
     "commands_premium_description": "これらの特典でプレミアムボットを利用しましょう！",
     "shuffle_description": "現在のプレイリストをシャッフルします！",
