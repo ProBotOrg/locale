@@ -516,5 +516,6 @@
 	"thread_new_archived": "أرشفة الثريد الجديد ؟",
 	"thread_old_archive_duration": "مدة أرشيف الثريد القديم",
 	"thread_new_archive_duration": "مدة أرشيف الثريد الجديد",
-	"logs_thread_deleted": ":house: **تم حذف الثريد: `{0}`**"
+	"logs_thread_deleted": ":house: **تم حذف الثريد: `{0}`**",
+	"logs_thread_updated": ":house: **Thread Updated: `{0}`**"
 }
