@@ -994,13 +994,13 @@
     "colorset_title_modal": "Ustaw zestaw kolorów na '{0}'",
     "colorset_description_modal": "Stosując ten zestaw kolorów, bot utworzy role z odpowiednimi kolorami. Każdy kolor z zestawu zostanie przypisany do roli.",
     "responses": "Odpowiedzi",
-    "response_type": "Typ odpowiedzi",
-    "delete_response": "Usuń odpowiedź {0}",
-    "no_responses_found": "Nie znaleziono odpowiedzi",
-    "delete_response_ask": "Czy jesteś pewien, że chcesz usunąć tą odpowiedź?",
-    "response_onboard_description": "Użyj elastycznych odpowiedzi dla swojej osadzonej wiadomości!",
-    "role_hierarchy_warn": "O nie! Rola {0} ma wyższą pozycję niż moja rola. Upewnij się, że moja rola jest wyżej niż wybrana rola.",
-    "color_set_onboard_description": "Twórz nowe kolory bez wysiłku, bez konieczności poświęcania czasu na myślenie!",
-    "responses_onboarding_content": "Elevate messages with customizable buttons and menus for personalized responses!",
-    "responses_onboarding_title": "Response Elements"
+    "response_type": "Typ Odpowiedzi",
+    "delete_response": "Usuń Odpowiedź {0}",
+    "no_responses_found": "Nie Znaleziono Odpowiedzi",
+    "delete_response_ask": "Czy jesteś pewien, że chcesz usunąć tę odpowiedź?",
+    "response_onboard_description": "Użyj elastycznych odpowiedzi dla swojej wiadomości embed!",
+    "role_hierarchy_warn": "O nie! Rola {0} ma wyższą pozycję ode mnie. Upewnij się, że moja rola jest powyżej wybranej roli.",
+    "color_set_onboard_description": "Twórz nowe kolory bez wysiłku i konieczności poświęcania czasu na ich komponowanie!",
+    "responses_onboarding_content": "Urozmaić swoje wiadomości dzięki personalizowanym przyciskom oraz menu z niestandardowymi odpowiedziami!",
+    "responses_onboarding_title": "Elementy Odpowiedzi"
 }
