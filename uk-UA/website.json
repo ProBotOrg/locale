@@ -990,9 +990,9 @@
     "premium_table_other_features": "Інші можливості",
     "landing_join_over": "Приєднуйтесь до {0} серверів за допомогою ProBot",
     "browser_features": "Перегляд функцій",
-    "color_set_title": "Color sets",
-    "colorset_title_modal": "Apply Color Set '{0}'",
-    "colorset_description_modal": "By applying this color set, the bot will create roles with matching colors. Each color in the set will be assigned to a role.",
+    "color_set_title": "Набори кольорів",
+    "colorset_title_modal": "Застосувати набір кольорів '{0}'",
+    "colorset_description_modal": "Застосовуючи цей набір кольорів, бот створить ролі з відповідними кольорами. Кожному кольору в наборі буде призначено роль.",
     "responses": "Responses",
     "response_type": "Response Type",
     "delete_response": "Delete Response {0}",
@@ -1002,5 +1002,5 @@
     "role_hierarchy_warn": "Oh no! {0} role has a higher position than my role. Make sure that my role is higher than the selected role.",
     "color_set_onboard_description": "Create new colors effortlessly, without having to spend time thinking!",
     "responses_onboarding_content": "Elevate messages with customizable buttons and menus for personalized responses!",
-    "responses_onboarding_title": "Response Elements"
+    "responses_onboarding_title": "Елементи відповіді"
 }
