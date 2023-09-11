@@ -139,7 +139,7 @@
 	"vip_mistake_description": ":rolling_eyes: - Ошибка правописания, обязательно напишите `подтвердить`",
 	"vip_twitch_channel_description": "Укажите URL-адрес Twitch канала:",
 	"vip_wrong_url_description": ":rolling_eyes: - ** Неправильный URL, отменяю... **",
-	"vip_changing_description": "**Изменение...** (Это может занять некоторое время из за политики Discord)",
+	"vip_changing_description": "**Изменение...** (Это может занять некоторое время из-за ограничений Discord)",
 	"vip_done_description": ":white_check_mark: завершено",
 	"vip_error_description": "**:rolling_eyes: - Ошибка 503 **",
 	"vip_canceling_description": ":rolling_eyes: - ** Отмена ... **",
