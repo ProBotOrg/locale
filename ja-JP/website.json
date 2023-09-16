@@ -9,7 +9,7 @@
     "roles_description": "サーバー上のロールの数とメンバー数の一覧を表示",
     "ban_description": "指定したメンバーをBAN",
     "unban_description": "指定したメンバーのBANを解除",
-    "blacklisted_call_dramex": "不審な行動を検知したため、ご利用中のアカウントをブラックリストへ追加しました。この件についてのお問い合わせは、ProBotサポートサーバーから @Dramex へお問い合わせください。",
+    "blacklisted_call_dramex": "不審な行動を検知したため、ご利用中のアカウントをブラックリストへ追加しました。この件についてのお問い合わせは、ProBotサポートサーバーから @Dramex へお問い合わせいただくか、ProBot サポートチームへご連絡ください。",
     "blacklisted_title": "不審な行動を検知したため、ご利用中のアカウントはブラックリストへ追加されました。Captcha認証を行うと解除することができます。",
     "blacklisted_note": "これは一度しか利用できないチケットです。必要なときだけにご使用ください。",
     "aliases": "別名:",
