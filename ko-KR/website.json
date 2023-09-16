@@ -1001,6 +1001,6 @@
     "response_onboard_description": "Use flexible responses for your embed message!",
     "role_hierarchy_warn": "이런! {0} 역할이 제 역할보다 상위에 위치해 있어요. 선택한 역할보다 제 역할이 더 위에 있도록 해 주세요.",
     "color_set_onboard_description": "Create new colors effortlessly, without having to spend time thinking!",
-    "responses_onboarding_content": "Elevate messages with customizable buttons and menus for personalized responses!",
+    "responses_onboarding_content": "개별 응답용 맞춤 버튼과 메뉴로 메시지를 더 꾸며보세요!",
     "responses_onboarding_title": "Response Elements"
 }
