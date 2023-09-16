@@ -9,7 +9,7 @@
     "roles_description": "서버의 역할 목록과 멤버 수를 확인해요.",
     "ban_description": "멤버를 차단해요.",
     "unban_description": "멤버의 차단을 해제해요.",
-    "blacklisted_call_dramex": "의심스러운 활동으로 인해 계정이 차단됐어요. @Dramex로 연락하여 자세한 내용을 알아보세요.",
+    "blacklisted_call_dramex": "의심스러운 활동으로 인해 계정이 차단됐어요. @Dramex에게 문의해서 자세한 내용을 알아보세요.",
     "blacklisted_title": "의심스러운 활동으로 인해 계정이 차단됐어요. 계속하려면 캡챠를 해결하세요.",
     "blacklisted_note": "한 번만 쓸 수 있는 티켓이에요. 신중히 사용하세요.",
     "aliases": "별칭:",
