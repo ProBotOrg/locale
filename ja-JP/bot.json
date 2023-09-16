@@ -80,7 +80,7 @@
 	"role_cant_find_2_description": ":rolling_eyes: - ロール**{0} **が見つかりません。",
 	"role_couldnt_change_description": ":rolling_eyes: - そのユーザーのロールを変更できませんでした。権限とロールの地位を確認してください。",
 	"role_position_higher_description": ":rolling_eyes: - **{0}**の地位があなたよりも高いです。",
-	"role_changed_description": ":white_check_mark: {0} さんのロールに **{1}** を追加しました",
+	"role_changed_description": ":white_check_mark: {0} さんのロールを変更しました。\n変更点: **{1}**",
 	"role_must_have_permission_description": ":rolling_eyes: - ** このコマンドを実行するには管理者権限が必要です。",
 	"role_specify_name_description": ":rolling_eyes: - ** ロール名を指定してください**",
 	"role_changing_for_description": ":white_check_mark: {0} メンバーのロールを変更します, {1}**{2}**",
