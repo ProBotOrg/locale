@@ -254,7 +254,7 @@
     "SAVE_CHANGES": "변경사항 저장하기",
     "MOD_UNTIL_LEAVES": "멤버가 이 서버를 나가기 전까지",
     "AUTO_ROLES": "자동 역할",
-    "AUTO_ROLES_NOTE": "When the Discord rule-screen panel is activated, new users must accept the rules before they can receive the auto-role. Also, ensure that the assigned roles do not have administrative permissions!",
+    "AUTO_ROLES_NOTE": "Discord 환영 화면이 설정된 경우, 새 사용자는 자동 역할을 받기 전에 규칙에 동의해야 해요. 또한, 할당할 역할에 관리자 권한이 없도록 하세요!",
     "RECOMMANDED": "권장",
     "PERMISSIONS_LIMITS": "권한 한도",
     "COMMANDS_LIMITS": "명령어 한도",
