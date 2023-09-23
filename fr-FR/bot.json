@@ -66,7 +66,7 @@
 	"channel_has_been_unlocked": "**:lock: {0} a été déverrouillé(e).**",
 	"lock_description": "Empecher @everyone d'envoyer des messages dans un salon spécifique.",
 	"unlock_description": "Permet à @everyone d'envoyer des messages dans un salon spécifique.",
-	"requested_by_embed": "Demandé par {0}#{1}",
+	"requested_by_embed": "Demandé par {0}",
 	"cant_mute_user": ":rolling_eyes: - ** Vous ne pouvez pas rendre muet @{0}. **",
 	"cant_find_member": ":rolling_eyes: - **Je ne trouve pas ce membre.**",
 	"mute_user_muted": ":white_check_mark: **@{0} ne peut plus écrire ! :zipper_mouth:**",
@@ -517,5 +517,5 @@
 	"thread_old_archive_duration": "Durée de l'ancienne archive de Thread",
 	"thread_new_archive_duration": "Durée de l'archive du nouveau Thread ",
 	"logs_thread_deleted": ":house: **Thread Supprimé: `{0}`**",
-	"logs_thread_updated": ":house: **Thread Updated: `{0}`**"
+	"logs_thread_updated": ":house: **Thread mis à jour : `{0}`**"
 }
