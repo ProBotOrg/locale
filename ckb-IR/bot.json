@@ -517,5 +517,5 @@
 	"thread_old_archive_duration": "ماوەی ئەرشیفی تەزووی کۆن",
 	"thread_new_archive_duration": "ماوەی ئەرشیفی تەزووی نوێ",
 	"logs_thread_deleted": ":house: **تەزوو سڕایەوە**: `{0}`**",
-	"logs_thread_updated": ":house: **Thread Updated: `{0}`**"
+	"logs_thread_updated": ":house: **تارەکە نوێکرایەوە: `{0}`**"
 }
