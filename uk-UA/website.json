@@ -1002,5 +1002,6 @@
     "role_hierarchy_warn": "О ні! {0} роль має вищу позицію, ніж моя роль. Переконайтеся, що моя роль вища за обрану роль.",
     "color_set_onboard_description": "Створюйте нові кольори без зайвих зусиль, не витрачаючи часу на роздуми!",
     "responses_onboarding_content": "Підніміть рівень повідомлень за допомогою настроюваних кнопок і меню для персоналізованих відповідей!",
-    "responses_onboarding_title": "Елементи відповіді"
+    "responses_onboarding_title": "Елементи відповіді",
+    "select_menu_limit_message": "The max number of options is 25. you have {0} options"
 }
