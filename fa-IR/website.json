@@ -1002,5 +1002,6 @@
     "role_hierarchy_warn": "اوه نه! نقش {0} از نقش من رده بالاتری دارد. مطمئن شوید که نقش من از مابقی نقش های مورد انتخاب بالاتر باشد.",
     "color_set_onboard_description": "رنگ های جدید را بدون زحمت، بدون نیاز به هیچ زمانی برای فکر کردن، سریع و راحت بسازید!",
     "responses_onboarding_content": "پیام های خود را با دکمه ها و منو ها برای پاسخ های شخصی سازی شده به سطحی بالاتر ارتقاء دهید!",
-    "responses_onboarding_title": "المان های پاسخ"
+    "responses_onboarding_title": "المان های پاسخ",
+    "select_menu_limit_message": "The max number of options is 25. you have {0} options"
 }
