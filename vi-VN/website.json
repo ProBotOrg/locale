@@ -1002,5 +1002,6 @@
     "role_hierarchy_warn": "Ôi không! Vai trò {0} có vị trí cao hơn vai trò của tôi. Hãy đảm bảo rằng vai trò của tôi cao hơn những vai trò được chọn.",
     "color_set_onboard_description": "Tạo dãy các vai trò màu một cách nhanh chóng, không cần phải tốn thời gian suy nghĩ nhiều!",
     "responses_onboarding_content": "Cải tiến tin nhắn embed của bạn với nút bấm và bảng chọn với đa dạng các tùy chỉnh cho phản hồi!",
-    "responses_onboarding_title": "Yếu tố của phản hồi"
+    "responses_onboarding_title": "Yếu tố của phản hồi",
+    "select_menu_limit_message": "The max number of options is 25. you have {0} options"
 }
