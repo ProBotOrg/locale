@@ -1002,5 +1002,6 @@
     "role_hierarchy_warn": "O nie! Rola {0} ma wyższą pozycję ode mnie. Upewnij się, że moja rola jest powyżej wybranej roli.",
     "color_set_onboard_description": "Twórz nowe kolory bez wysiłku i konieczności poświęcania czasu na ich komponowanie!",
     "responses_onboarding_content": "Urozmaić swoje wiadomości dzięki personalizowanym przyciskom oraz menu z niestandardowymi odpowiedziami!",
-    "responses_onboarding_title": "Elementy Odpowiedzi"
+    "responses_onboarding_title": "Elementy Odpowiedzi",
+    "select_menu_limit_message": "The max number of options is 25. you have {0} options"
 }
