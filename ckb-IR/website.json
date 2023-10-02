@@ -56,7 +56,7 @@
     "roll_description": "بەردەزار.",
     "default_roll": "تایسی خولانەوەی بنەڕەت",
     "points_description": "خاڵەکانی سێرڤێر لەلایەن مۆدرێتەکانەوە دەکرێ ببەخشرێ.",
-    "slowmode_description": "Li ser kanalek hêdî moda çalak bike an neçalak bike.",
+    "slowmode_description": "slowmode لە کەناڵێکدا چالاک یان ناچالاک بکە.",
     "Utility": "فەرمانی گشتی",
     "Moderation": "چاودێری",
     "Logs": "تۆمارەکان",
@@ -1002,5 +1002,6 @@
     "role_hierarchy_warn": "ئای نا! ڕۆڵی {0} پێگەیەکی بەرزتری هەیە لە ڕۆڵی من. دڵنیابە لەوەی کە ڕۆڵی من لە ڕۆڵی هەڵبژێردراو بەرزترە.",
     "color_set_onboard_description": "بەبێ ماندووبوون ڕەنگی نوێ دروست بکە، بەبێ ئەوەی کات بەسەر بەریت بۆ بیرکردنەوە!",
     "responses_onboarding_content": "نامەکان بەرز بکەرەوە بە دوگمە و مینیوی تایبەتمەند بۆ وەڵامدانەوەی کەسی!",
-    "responses_onboarding_title": "توخمەکانی وەڵامدانەوە"
+    "responses_onboarding_title": "توخمەکانی وەڵامدانەوە",
+    "select_menu_limit_message": "The max number of options is 25. you have {0} options"
 }
