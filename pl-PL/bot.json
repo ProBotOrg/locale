@@ -161,7 +161,7 @@
 	"vip_please_wait_description": "**:stopwatch: | {0}, proszę czekać {1}. **",
 	"vip_please_attach_description": "Proszę podać link do awataru lub dołączyć jako załącznik.",
 	"vip_please_specify_description": ":rolling_eyes: - **Proszę, podaj nową nazwę bota.**",
-	"vip_details_description": "**Numer premium:** {0}\n**Premium kończy się:** {1}\n**Zarejestrowany:** {2}",
+	"vip_details_description": "**Numer premium:** {0}\n**Premium kończy się za:** {1}\n**Zarejestrowany na:** {2}",
 	"vip_ended_description": "zakończony",
 	"slowmode_description": "Włącz lub wyłącz tryb powolny na kanale.",
 	"slowmode_time_description": "Czas, który ma być ustawiony dla trybu powolnego kanału.",
