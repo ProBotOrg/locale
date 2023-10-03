@@ -1003,5 +1003,5 @@
     "color_set_onboard_description": "Создавайте новые цвета без труда, не тратя время на раздумие!",
     "responses_onboarding_content": "Повысьте уровень сообщений с кастомизируемыми кнопками и меню для индивидуальных ответов!",
     "responses_onboarding_title": "Элементы ответа",
-    "select_menu_limit_message": "The max number of options is 25. you have {0} options"
+    "select_menu_limit_message": "Макс. количество вариантов – 25. У вас {0}"
 }
