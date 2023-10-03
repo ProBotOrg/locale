@@ -1002,5 +1002,6 @@
     "role_hierarchy_warn": "이런! {0} 역할이 제 역할보다 상위에 위치해 있어요. 선택한 역할보다 제 역할이 더 위에 있도록 해 주세요.",
     "color_set_onboard_description": "간편하게 새로운 색깔을 생성해 보세요. 생각하는 시간 조차도 없이요!",
     "responses_onboarding_content": "개별 응답용 맞춤 버튼과 메뉴로 메시지를 더 꾸며보세요!",
-    "responses_onboarding_title": "응답 요소"
+    "responses_onboarding_title": "응답 요소",
+    "select_menu_limit_message": "The max number of options is 25. you have {0} options"
 }

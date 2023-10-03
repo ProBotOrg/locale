@@ -60,7 +60,7 @@
 	"You should enter numbers :1234:": "Вы должны ввести цифры :1234:",
 	":rolling_eyes: - **I can't find this command.**": ":rolling_eyes: **Я не могу найти эту команду**",
 	"examples": "Примеры:",
-	"Invites": "Приглашения",
+	"Invites": "Приглашений",
 	"lock_must_has_manage_channels": ":rolling_eyes: ** Для этого нужны права`Управление каналами`",
 	"channel_has_been_locked": "**:lock: {0} заблокирован.**",
 	"channel_has_been_unlocked": "**:unlock: {0} разблокирован.**",

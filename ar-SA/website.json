@@ -1002,5 +1002,6 @@
     "role_hierarchy_warn": "يبدو أن رتبة **{0}** أعلى من رتبتي. يرجى التأكد من ترتيب رتبتي فوق الرتبة المحددة.",
     "color_set_onboard_description": "إنشاء ألوان جديدة بدون جهد، دون الحاجة إلى أخذ الوقت في التفكير!",
     "responses_onboarding_content": "قم بإضافة الرسائل مع أزرار قابلة للتخصيص وقوائم للاستجابات المخصصة!",
-    "responses_onboarding_title": "عناصر الإستجابة"
+    "responses_onboarding_title": "عناصر الإستجابة",
+    "select_menu_limit_message": "الحد الأقصى لعدد الخيارات هو 25. لديك {0} من خيارات"
 }

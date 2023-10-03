@@ -973,11 +973,11 @@
     "premium_faq_answer_2": "Yes, you can transfer your premium bot subscription to another server. Simply invite the bot to the new server using the same credentials.",
     "premium_faq_question_3": "Will I lose my premium features if I switch from one premium tier to another?",
     "premium_faq_answer_3": "No, you won't lose your premium features when switching between tiers. Your premium benefits will remain intact throughout the process.",
-    "premium_faq_question_4": "Can I purchase multiple premium bot subscriptions for different servers?",
-    "premium_faq_answer_4": "Yes, you can purchase multiple premium bot subscriptions for different servers. Each subscription is valid for one server, so you can enjoy premium benefits across multiple servers by subscribing individually.",
-    "premium_faq_question_5": "How can I request a refund for my premium bot purchase, and which payment methods are eligible for refunds?",
-    "premium_faq_answer_5": "To request a refund for your premium bot purchase, please reach out to our support team with the details of your purchase. We offer refunds for purchases made through credit cards and PayPal. Our support team will guide you through the refund process according to our refund policy guidelines.",
-    "premium_faq_question_6": "What payment methods are accepted for premium bot purchases?",
+    "premium_faq_question_4": "آیا میتوانم برای سرور های متفاوت چندین اشتراک بات پریمیوم خریداری کنم؟",
+    "premium_faq_answer_4": "بله شما می توانید چند اشتراک بات پریمیوم برای سرور های متفاوت داشته باشید. هرکدام از اشتراک ها برای یک سرور معتبر می باشند، بنابرین می توانید از ویژگی های اشتراک پریمیوم در چند سرور به صورت مجزا نهایت استفاده را ببرید.",
+    "premium_faq_question_5": "چطور می توانم برای بات پریمیوم خود درخواست بازپرداخت کنم، همچنین چه روش های پرداختی برای اینکار مورد تائید است؟",
+    "premium_faq_answer_5": "برای دادن درخواست بازپرداخت بات پریمیوم، لطفا به تیم پشتیبانی ما مراحعه کنید تا درمورد خریدتان شمارا راهنمایی کنند. ما بازپرداخت را از طریق روش هایی مثل کارت اعتباری و PayPal ارائه میدهیم. تیم پشتیبانی ما شمارا در طی کردن مراحل بازپرداخت راهنمایی خواهند کرد، به شرطی که شرایط و ضوابط بازپرداخت برای موردتان اعمال پذیر باشد.",
+    "premium_faq_question_6": "چه روش های پرداختی برای خرید اشتراک بات پریمیوم مورد قبول است؟",
     "tier_1": "سطح 1",
     "tier_2": "سطح 2",
     "premium_faq_answer_6": "ما از اکثر کارت اعتباری های کشور های بین‌الملل پشتیبانی می‌کنیم. علاوه بر آن همچنین از PayPal نیز برای پرداخت پشتیبانی می‌کنیم که این مورد امنیت و راحتی خرید را در پرداخت بات پریمیوم به شما ارائه میدهد. ",
@@ -1002,5 +1002,6 @@
     "role_hierarchy_warn": "اوه نه! نقش {0} از نقش من رده بالاتری دارد. مطمئن شوید که نقش من از مابقی نقش های مورد انتخاب بالاتر باشد.",
     "color_set_onboard_description": "رنگ های جدید را بدون زحمت، بدون نیاز به هیچ زمانی برای فکر کردن، سریع و راحت بسازید!",
     "responses_onboarding_content": "پیام های خود را با دکمه ها و منو ها برای پاسخ های شخصی سازی شده به سطحی بالاتر ارتقاء دهید!",
-    "responses_onboarding_title": "المان های پاسخ"
+    "responses_onboarding_title": "المان های پاسخ",
+    "select_menu_limit_message": "The max number of options is 25. you have {0} options"
 }
