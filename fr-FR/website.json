@@ -1003,5 +1003,5 @@
     "color_set_onboard_description": "Créez de nouvelles couleurs sans effort, sans avoir à réfléchir !",
     "responses_onboarding_content": "Élevez les messages avec des boutons et des menus personnalisables pour des réponses personnalisées !",
     "responses_onboarding_title": "Éléments de réponse",
-    "select_menu_limit_message": "The max number of options is 25. you have {0} options"
+    "select_menu_limit_message": "Le nombre maximal d'options est de 25. Vous avez {0} des options"
 }
