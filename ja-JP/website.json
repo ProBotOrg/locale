@@ -1003,5 +1003,5 @@
     "color_set_onboard_description": "この段階でめちゃくちゃ悩む必要はないよ！新しい色を設定しよう。",
     "responses_onboarding_content": "カスタマイズできるボタンやメニューで、パーソナライズされた応答ができます！",
     "responses_onboarding_title": "応答の要素",
-    "select_menu_limit_message": "The max number of options is 25. you have {0} options"
+    "select_menu_limit_message": "オプションの最大数は25個です。 現在{0}個のオプションが存在します"
 }

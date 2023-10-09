@@ -1003,5 +1003,5 @@
     "color_set_onboard_description": "Tạo dãy các vai trò màu một cách nhanh chóng, không cần phải tốn thời gian suy nghĩ nhiều!",
     "responses_onboarding_content": "Cải tiến tin nhắn embed của bạn với nút bấm và bảng chọn với đa dạng các tùy chỉnh cho phản hồi!",
     "responses_onboarding_title": "Yếu tố của phản hồi",
-    "select_menu_limit_message": "The max number of options is 25. you have {0} options"
+    "select_menu_limit_message": "Số lượng lựa chọn tối đa là 25. Bạn hiện đang có {0} lựa chọn"
 }

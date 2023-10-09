@@ -21,7 +21,7 @@
     "level": "ئاست",
     "rank": "پلە",
     "reputation": "ناوبانگ",
-    "AUTO_RESPONDER": "وەڵام دانەوەی ئۆتۆماتیکی ",
+    "AUTO_RESPONDER": "وەڵامدەرەوەی خودکار",
     "WELCOMER": "بەخێرهاتن",
     "top_description": "پیشاندانی ئەندامە سەرەکان بە دەق یان دەنگ ",
     "server_description": "پێشاندانی زانیاری سەبارەت دەربارەی سێرڤەر",
@@ -291,7 +291,7 @@
     "index_feature_1_description": "پێشوازیکەرەکەمان پێشوازی لە بەکارهێنەران دەکات لە ڕێگەی دیزاینی ئامادە بۆ بەکارهێنان و دیزاینی ئاسایی",
     "index_feature_2_title": "پاراستنی دژە هەڵکوتانە سەر\n\n",
     "index_feature_2_description": "ڕەفتاری هەڵکوتانە کە بدۆزیەوە و بە ئۆتۆماتیکی لە ئاستی جۆراوجۆردا وەڵام بدەوە",
-    "index_feature_3_title": "وەڵام دانەوەی ئۆتۆماتیکی ",
+    "index_feature_3_title": "وەڵامدەرەوەی خودکار",
     "index_feature_3_description": "با بۆتەکە وەڵامی هەر وشەکانی ماتەشکە بداتەوە",
     "index_feature_4_title": "مۆدیتەرکردنی خۆکار",
     "index_feature_4_description": "سیستەمی ئۆتۆمۆدی پرۆبۆت هەڵسوکەوتێکی خراپ بۆ بەکارهێنەران دەدۆزنەوە و کرداریان لەسەر ئەنجام دەدەن\n\n\n\n",
@@ -1003,5 +1003,5 @@
     "color_set_onboard_description": "بەبێ ماندووبوون ڕەنگی نوێ دروست بکە، بەبێ ئەوەی کات بەسەر بەریت بۆ بیرکردنەوە!",
     "responses_onboarding_content": "نامەکان بەرز بکەرەوە بە دوگمە و مینیوی تایبەتمەند بۆ وەڵامدانەوەی کەسی!",
     "responses_onboarding_title": "توخمەکانی وەڵامدانەوە",
-    "select_menu_limit_message": "The max number of options is 25. you have {0} options"
+    "select_menu_limit_message": "زۆرترین ژمارەی هەڵبژاردەکان ۲۵ هەڵبژاردنە. تۆ {0} هەڵبژاردنت هەیە"
 }
