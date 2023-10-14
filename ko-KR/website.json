@@ -1003,5 +1003,5 @@
     "color_set_onboard_description": "간편하게 새로운 색깔을 생성해 보세요. 생각하는 시간 조차도 없이요!",
     "responses_onboarding_content": "개별 응답용 맞춤 버튼과 메뉴로 메시지를 더 꾸며보세요!",
     "responses_onboarding_title": "응답 요소",
-    "select_menu_limit_message": "The max number of options is 25. you have {0} options"
+    "select_menu_limit_message": "옵션의 최대 개수는 25개예요. 현재 옵션 {0}개가 있어요"
 }
