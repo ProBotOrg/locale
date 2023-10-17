@@ -948,7 +948,7 @@
     "features_leveling_system_level_message_description": "Ustaw kanał dla poziomów oraz spersonalizuj swoją wiadomość o nowych poziomach, używając unikalnych zmiennych!",
     "premium_most_popular_tag": "Najpopularniejszy",
     "premium_which_plan_title": "Który Plan jest idealny dla Ciebie?",
-    "premium_tier_billed": "${0}/miesiąc rozliczna rocznie lub ${1} rozliczane miesięcznie",
+    "premium_tier_billed": "${0}/miesiąc rozliczane rocznie lub ${1} rozliczane miesięcznie",
     "premium_tier_get": "Zdobądź Premium Poziomu {0}",
     "premium_subscribe": "Subskrybuj Poziom {0}",
     "starboard": "Starboard",
