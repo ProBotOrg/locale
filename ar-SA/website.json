@@ -1003,5 +1003,5 @@
     "color_set_onboard_description": "إنشاء ألوان جديدة بدون جهد، دون الحاجة إلى أخذ الوقت في التفكير!",
     "responses_onboarding_content": "قم بإضافة الرسائل مع أزرار قابلة للتخصيص وقوائم للاستجابات المخصصة!",
     "responses_onboarding_title": "عناصر الإستجابة",
-    "select_menu_limit_message": "الحد الأقصى لعدد الخيارات هو 25. لديك {0} من خيارات"
+    "select_menu_limit_message": "الحد الأقصى لعدد الخيارات هو 25. لديك {0} من الخيارات"
 }
