@@ -84,7 +84,7 @@
 	"role_must_have_permission_description": ":rolling_eyes: - ** Для выполнения команды у вас должны быть права Администратора.",
 	"role_specify_name_description": ":rolling_eyes: - ** Пожалуйста укажите название роли **",
 	"role_changing_for_description": ":white_check_mark: Изменение роли {0} участникам, {1}**{2}**",
-	"unvmute_member_voice_description": ":white_check_mark: {0} ограничение снято!",
+	"unvmute_member_voice_description": ":white_check_mark: С участника {0} снят мут!",
 	"unvmute_not_muted_description": ":blush: **{0} не в муте.**",
 	"ban_from_server_description": ":white_check_mark: **{0} забанен на сервере! :airplane:**",
 	"ban_cant_description": ":rolling_eyes: - ** Вы не можете заблокировать @{0}. **",
