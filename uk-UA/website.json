@@ -31,7 +31,7 @@
     "mute_description": "Заборонити учаснику писати в текстових каналах.",
     "unmute_description": "Дозволити учаснику спілкуватися.",
     "vmute_description": "Вимкнути мікрофон учаснику, щоб він не міг розмовляти в голосових каналах.",
-    "unvmute_description": "Включити мікрофон учаснику.",
+    "unvmute_description": "Зняти заборону говорити в голосових каналах учаснику.",
     "untimeout_description": "Прибирає тайм-аут з учасника.",
     "move_description": "Перемістити учасника в голосовий канал.",
     "role_description": "Видати/зняти роль(і) учаснику.",
@@ -208,7 +208,7 @@
     "AUTOMOD_LINKS": "ПОСИЛАННЯ",
     "AUTOMOD_DISCORD_INVITES": "DISCORD ЗАПРОШЕННЯ",
     "AUTOMOD_REPEATED": "ПОВІДОМЛЕННЯ, ЩО ПОВТОРЮЮТЬСЯ",
-    "AUTOMOD_MASS_MENTION": "МАСОВЕ ЗВЕРНЕННЯ",
+    "AUTOMOD_MASS_MENTION": "МАСОВА ЗГАДКА",
     "AUTOMOD_EMOJI_SPAM": "ЕМОДЗІ СПАМ",
     "AUTOMOD_CAPS": "СПАМ КАПС (70% > КАПС)",
     "AUTOMOD_IGNORED_CHANNELS": "Ігноруючі канали:",
@@ -530,7 +530,7 @@
     "rr_give_desc": "Цей режим додає ролі кожного разу, коли додається або видаляється реакція. Чудово підходить для прийняття правил!",
     "rr_take": "Забрати",
     "rr_take_desc": "Цей режим видаляє ролі кожного разу, коли додається або видаляється реакція.",
-    "rr_requires_embed_1": "Ця функція знаходиться в стадії БЕТА та потребує повідомлення, ",
+    "rr_requires_embed_1": "Ця функція знаходиться в стадії БЕТА і потребує повідомлення, ",
     "rr_requires_embed_2": "Створіть повідомлення embed тут.",
     "rr_embeds": "Embed повідомлення ",
     "rr_select_embed": "Виберіть повідомлення",
@@ -629,7 +629,7 @@
     "default": "Основний",
     "billing_no_history": "Відсутня історія платежів",
     "billing_add_payment": "Додати спосіб оплати",
-    "update": "Оновити",
+    "update": "Оновлення",
     "billing_card_name": "Ім'я на картці",
     "billing_card_number": "Номер картки",
     "billing_card_expiry_date": "Термін дії",
@@ -1003,5 +1003,5 @@
     "color_set_onboard_description": "Створюйте нові кольори без зайвих зусиль, не витрачаючи часу на роздуми!",
     "responses_onboarding_content": "Підніміть рівень повідомлень за допомогою настроюваних кнопок і меню для персоналізованих відповідей!",
     "responses_onboarding_title": "Елементи відповіді",
-    "select_menu_limit_message": "The max number of options is 25. you have {0} options"
+    "select_menu_limit_message": "Максимальна кількість варіантів - 25. У вас {0} "
 }

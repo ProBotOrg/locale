@@ -749,7 +749,7 @@
     "ping_the_author": "Упомянуть автора",
     "rr_notification_type": "Тип уведомления",
     "rr_notification_notify": "Уведомление",
-    "rr_notification_notify_description": "Уведомить участника в ответ при взаимодействии пользователя.",
+    "rr_notification_notify_description": "Уведомить участника в ответ на его взаимодействие",
     "rr_notification_notify_role": "{0} является ролью для назначения",
     "rr_notification_silent": "Тихий режим",
     "rr_notification_silent_description": "Самоназначение без какого-либо ответа!",
