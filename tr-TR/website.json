@@ -1003,5 +1003,5 @@
     "color_set_onboard_description": "Düşünmeye zaman harcamanıza gerek kalmadan, zahmetsizce yeni renkler yaratın!",
     "responses_onboarding_content": "Kişiselleştirilmiş yanıtlar için özelleştirilebilir butonlar ve menülerle mesajları geliştirin!",
     "responses_onboarding_title": "Yanıt Öğeleri",
-    "select_menu_limit_message": "The max number of options is 25. you have {0} options"
+    "select_menu_limit_message": "Maksimum seçenek sayısı 25'tir. şu anda {0} seçeneğiniz var"
 }
