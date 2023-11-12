@@ -54,7 +54,7 @@
 	"Requested by": "По запросу",
 	"colors_already": ":rolling_eyes: Вы уже выбрали этот цвет.",
 	"colors_permission": ":rolling_eyes: - **Цветовая роль не должна иметь административных прав**",
-	"colors_done": "Цвет был успешно изменен.",
+	"colors_done": "Цвет успешно изменён",
 	"I don't have permission to give you this color": "У меня нет разрешения дать тебе этот цвет.",
 	"Wrong color number": "Неправильный номер цвета",
 	"You should enter numbers :1234:": "Вы должны ввести цифры :1234:",
