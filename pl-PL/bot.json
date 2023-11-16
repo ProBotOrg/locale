@@ -113,7 +113,7 @@
 	"warn_specify_number_description": ":rolling_eyes: - **Podaj numer ostrzeżenia, wspomnij użytkownika lub wszystkich (all), aby usunąć wszystkie ostrzeżenia.**",
 	"vkick_cant_permission_description": ":rolling_eyes: - Nie mogłem wyrzucić tego użytkownika. Sprawdź moje uprawnienia.",
 	"vkick_you_cant_description": ":rolling_eyes: - ** Nie możesz wyrzucić {0}. **",
-	"vkick_not_voice_description": ":rolling_eyes: - ** Członek nie jest na kanale głosowym! *",
+	"vkick_not_voice_description": ":rolling_eyes: - **Użytkownik nie jest na żadnym kanale głosowym!**",
 	"vkick_voice_kicked_description": ":white_check_mark: **@{0} został wyrzucony z kanału głosowego! **",
 	"unban_couldnt_user_description": ":rolling_eyes: - Nie mogłem odbanować tego użytkownika. Sprawdź moje uprawnienia.",
 	"unban_all_members_description": ":rolling_eyes: - **Musisz mieć uprawnienia administratora, aby odbanować wszystkich członków.**",
