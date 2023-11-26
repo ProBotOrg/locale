@@ -509,7 +509,7 @@
 	"membership_gold": "Emas",
 	"membership_diamond": "Berlian",
 	"membership_rep_dm": "{0} memberikan Anda satu poin reputasi.",
-	"logs_thread_created": ":house: **Thread Created: `{0}`**",
+	"logs_thread_created": "Thread Dibuat",
 	"thread_old_locked": "Old Thread Locked?",
 	"thread_new_locked": "New Thread Locked?",
 	"thread_old_archived": "Old Thread Archived?",
