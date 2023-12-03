@@ -294,7 +294,7 @@
 	"protection_action": "**Действие: **",
 	"protection_backup_saved": "☁ **Облачное Резервное копирование ролей сохранено.**",
 	"protection_restore_backup_use": "чтобы восстановить резервную копию используйте команду: ```#restore {0}```",
-	"protection_from_bots": "**{0}** есть боты : {1} \n**Действие было выполнено :slight_smile: **",
+	"protection_from_bots": "Бот **{0}**: {1}\n**Меры приняты :slight_smile:**",
 	"protection_deleted_auto_role": "**{0} ({1}) удалена авто роль**: {2}.\n**Действие было выполнено...**",
 	"protection_limit_exceeded": ":rolling_eyes: - Сегодняшний лимит команды **#{0}** превышен",
 	"protection_limit_name": "{0} превысил **{1}** лимит.\n**Действие выполняется...**",
