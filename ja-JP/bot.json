@@ -277,7 +277,7 @@
 	"logs_voice_joined": "**{0} がボイスチャンネルに参加しました `{1}` .**",
 	"logs_voice_left": "**{0} がボイスチャンネルを退出しました`{1}` .**",
 	"logs_voice_switched": "**{0} 参加中のボイスチャンネルを変更しました  `{1}` から `{2}`へ.**",
-	"logs_voicestate_updated": "**音声の状態が {0} に更新されました。**",
+	"logs_voicestate_updated": "**{0} の音声設定が以下に変更されました。**",
 	"logs_voicestate_server_mute": ":microphone2: **サーバーミュート **",
 	"logs_voicestate_server_deafen": ":speaker: ** サーバーミュート **",
 	"logs_voice_moved": "** `{1}` から `{2}`へ {0} が移動しました.**",
