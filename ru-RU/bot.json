@@ -280,7 +280,7 @@
 	"logs_voicestate_updated": "**Голосовое состояние {0} обновлено.**",
 	"logs_voicestate_server_mute": ":microphone2: ** Микрофон сервера отключён **",
 	"logs_voicestate_server_deafen": ":speaker: ** Звук Сервера Отключен**",
-	"logs_voice_moved": "**{0} перемещено`{1}` => `{2}`.**",
+	"logs_voice_moved": "**{0} перемещён `{1}` => `{2}`**",
 	"logs_voice_disconnected": "**{0} отключился.**",
 	"protection_no_backup_to_delete": "**Нет резервной копии для удаления**",
 	"protection_backup_deleted": "**Резервная копия удалена**",
