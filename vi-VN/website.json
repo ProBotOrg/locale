@@ -47,7 +47,7 @@
     "title_description": "Thay đổi tiêu đề trong /profile của bạn.",
     "reset_description": "Đặt lại điểm kinh nghiệm text/voice/invite của tất cả thành viên hoặc của thành viên bất kì.",
     "rep_description": "Tặng điểm uy tín cho ai đó. Chỉ có thể được sử dụng mỗi 24 giờ.",
-    "daily_description": "Nhận credit hàng ngày của bạn.",
+    "daily_description": "Lấy link để nhận credit hằng ngày của bạn và biết được khi nào bạn có thể nhận thêm.",
     "vip_description": "Hiển thị thông tin của bot premium của bạn.",
     "ping_description": "Kiểm tra tốc độ phản hồi của bot.",
     "temp_description": "Tạo một kênh voice tạm thời",
