@@ -475,7 +475,7 @@
 	"vote_link_label": "Link-ul votului",
 	"vote_daily_tip": "**PONT:** Poți obține până la {0} credite dacă ți-ai fi revendicat daily-ul!",
 	"daily_success": "🎉 Ești eligibil să primești daily-ul pentru bot!",
-	"daily_link_label": "Get Your Daily Reward Now!",
+	"daily_link_label": "",
 	"daily_wait_time": "You can claim your daily in **{0}**",
 	"daily_vote_tip": "**TIP:** You can get up to {0} credits if you vote for ProBot!",
 	"unmute_text_description": "Unmutes a member from text channels",
