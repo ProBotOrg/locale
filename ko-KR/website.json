@@ -449,7 +449,7 @@
     "whitelist_urls": "허용할 URL 목록",
     "automod_mute_time": "음소거 기간",
     "automod_mute_violations": "음소거 조건",
-    "automod_mute_in": "번을 다음 시간내로 했을 때:",
+    "automod_mute_in": "번을 다음 시간 내로 했을 때:",
     "automod_mute_time_mintues": "분",
     "automod_mute_time_hours": "시간",
     "automod_mute_time_days": "일",
