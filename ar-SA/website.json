@@ -1004,5 +1004,5 @@
     "responses_onboarding_content": "قم بإضافة الرسائل مع أزرار قابلة للتخصيص وقوائم للاستجابات المخصصة!",
     "responses_onboarding_title": "عناصر الإستجابة",
     "select_menu_limit_message": "الحد الأقصى لعدد الخيارات هو 25. لديك {0} من الخيارات",
-    "error_upload_size": "Image exceeds limit, try reduce image size."
+    "error_upload_size": "الصورة تجاوزت الحد، حاول تقليل حجم الصورة."
 }
