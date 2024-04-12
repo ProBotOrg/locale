@@ -1003,5 +1003,6 @@
     "color_set_onboard_description": "بەبێ ماندووبوون ڕەنگی نوێ دروست بکە، بەبێ ئەوەی کات بەسەر بەریت بۆ بیرکردنەوە!",
     "responses_onboarding_content": "نامەکان بەرز بکەرەوە بە دوگمە و مینیوی تایبەتمەند بۆ وەڵامدانەوەی کەسی!",
     "responses_onboarding_title": "توخمەکانی وەڵامدانەوە",
-    "select_menu_limit_message": "زۆرترین ژمارەی هەڵبژاردەکان ۲۵ هەڵبژاردنە. تۆ {0} هەڵبژاردنت هەیە"
+    "select_menu_limit_message": "زۆرترین ژمارەی هەڵبژاردەکان ۲۵ هەڵبژاردنە. تۆ {0} هەڵبژاردنت هەیە",
+    "error_upload_size": "Image exceeds limit, try reduce image size."
 }
