@@ -1006,5 +1006,6 @@
     "color_set_onboard_description": "Create new colors effortlessly, without having to spend time thinking!", 
     "responses_onboarding_content": "Elevate messages with customizable buttons and menus for personalized responses!", 
     "responses_onboarding_title": "Response Elements", 
-    "select_menu_limit_message": "The max number of options is 25. you have {0} options"
+    "select_menu_limit_message": "The max number of options is 25. you have {0} options",
+    "error_upload_size": "Image exceeds limit, try reduce image size."
 }
