@@ -1003,5 +1003,6 @@
     "color_set_onboard_description": "Vytvářejte nové barvy bez námahy, aniž byste museli trávit čas přemýšlením!",
     "responses_onboarding_content": "Vyzvednout zprávy pomocí přizpůsobitelných tlačítek a nabídek pro personalizované odpovědi!",
     "responses_onboarding_title": "Prvky odpovědi",
-    "select_menu_limit_message": "Maximální počet možností je 25. Máte možnosti {0}"
+    "select_menu_limit_message": "Maximální počet možností je 25. Máte možnosti {0}",
+    "error_upload_size": "Image exceeds limit, try reduce image size."
 }
