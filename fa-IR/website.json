@@ -1003,5 +1003,6 @@
     "color_set_onboard_description": "رنگ های جدید را بدون زحمت، بدون نیاز به هیچ زمانی برای فکر کردن، سریع و راحت بسازید!",
     "responses_onboarding_content": "پیام های خود را با دکمه ها و منو ها برای پاسخ های شخصی سازی شده به سطحی بالاتر ارتقاء دهید!",
     "responses_onboarding_title": "المان های پاسخ",
-    "select_menu_limit_message": "حداکثر گزینه های انتخاب 25 عدد می باشند. شما {0} گزینه دارید"
+    "select_menu_limit_message": "حداکثر گزینه های انتخاب 25 عدد می باشند. شما {0} گزینه دارید",
+    "error_upload_size": "Image exceeds limit, try reduce image size."
 }

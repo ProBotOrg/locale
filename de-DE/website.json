@@ -1003,5 +1003,6 @@
     "color_set_onboard_description": "Erstelle mühelos neue Farben, ohne Zeit zu verbringen!",
     "responses_onboarding_content": "Nachrichten mit anpassbaren Knöpfen und Menüs für personalisierte Antworten erhöhen!",
     "responses_onboarding_title": "Antwort-Elemente",
-    "select_menu_limit_message": "Die maximale Anzahl an Optionen sind 25. Du hast {0} Optionen"
+    "select_menu_limit_message": "Die maximale Anzahl an Optionen sind 25. Du hast {0} Optionen",
+    "error_upload_size": "Image exceeds limit, try reduce image size."
 }

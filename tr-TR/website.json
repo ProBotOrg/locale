@@ -1003,5 +1003,6 @@
     "color_set_onboard_description": "Düşünmeye zaman harcamanıza gerek kalmadan, zahmetsizce yeni renkler yaratın!",
     "responses_onboarding_content": "Kişiselleştirilmiş yanıtlar için özelleştirilebilir butonlar ve menülerle mesajları geliştirin!",
     "responses_onboarding_title": "Yanıt Öğeleri",
-    "select_menu_limit_message": "Maksimum seçenek sayısı 25'tir. şu anda {0} seçeneğiniz var"
+    "select_menu_limit_message": "Maksimum seçenek sayısı 25'tir. şu anda {0} seçeneğiniz var",
+    "error_upload_size": "Resminiz sınırı aşıyor, resim boyutunu küçültmeyi deneyin."
 }

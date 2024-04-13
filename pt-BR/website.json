@@ -1003,5 +1003,6 @@
     "color_set_onboard_description": "Crie novas cores sem esforço, sem ter que passar o tempo pensando!",
     "responses_onboarding_content": "Transfira mensagens com botões e menus personalizáveis para respostas personalizadas!",
     "responses_onboarding_title": "Elementos de resposta",
-    "select_menu_limit_message": "O número máximo de opções é 25. Você tem opções {0}"
+    "select_menu_limit_message": "O número máximo de opções é 25. Você tem opções {0}",
+    "error_upload_size": "Image exceeds limit, try reduce image size."
 }
