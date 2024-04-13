@@ -1004,5 +1004,5 @@
     "responses_onboarding_content": "개별 응답용 맞춤 버튼과 메뉴로 메시지를 더 꾸며보세요!",
     "responses_onboarding_title": "응답 요소",
     "select_menu_limit_message": "옵션의 최대 개수는 25개예요. 현재 옵션 {0}개가 있어요",
-    "error_upload_size": "Image exceeds limit, try reduce image size."
+    "error_upload_size": "사진 크기가 한도를 초과해요. 사진 크기를 줄여보세요."
 }
