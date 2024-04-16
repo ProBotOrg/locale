@@ -1004,5 +1004,5 @@
     "responses_onboarding_content": "カスタマイズできるボタンやメニューで、パーソナライズされた応答ができます！",
     "responses_onboarding_title": "応答の要素",
     "select_menu_limit_message": "オプションの最大数は25個です。 現在{0}個のオプションを利用中です。",
-    "error_upload_size": "Image exceeds limit, try reduce image size."
+    "error_upload_size": "画像が制限を超えています。画像サイズを小さくしてみてください。"
 }
