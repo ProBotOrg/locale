@@ -499,7 +499,7 @@
     "reset_settings": "설정 초기화",
     "only_owner_reset_settings": "서버 소유자만 설정을 초기화할 수 있어요",
     "add_message": "메시지 추가",
-    "reaction_roles": "역할 반응",
+    "reaction_roles": "자가부여 역할",
     "rr_emoji": "반응 이모지",
     "rr_add_reaction": "반응 추가",
     "mod_actions": "관리자 작업",
