@@ -254,7 +254,7 @@
     "SAVE_CHANGES": "変更を保存",
     "MOD_UNTIL_LEAVES": "メンバーがサーバーから退出するまで",
     "AUTO_ROLES": "自動ロール付与機能",
-    "AUTO_ROLES_NOTE": "Discordコミュニティの依頼により、自動ロール付与機能は選択されたロールに管理者権限がない場合にのみ機能するようになっています。",
+    "AUTO_ROLES_NOTE": "サーバーでルール画面を表示する設定にしているとき、新規ユーザーがルールに同意してから自動ロール付与機能が働きます。安全上、ロールに管理者権限がないことを必ず確認してください！",
     "RECOMMANDED": "オススメ",
     "PERMISSIONS_LIMITS": "権限制限",
     "COMMANDS_LIMITS": "コマンド制限",
@@ -400,7 +400,7 @@
     "leveling_default_levelup": "🥳 **[user]** さんのレベルが **[oldLevel]** から **[level]** に上がりました 🎉",
     "leveling_no_xp_channels": "XP対象外のチャンネル",
     "leveling_note": "*スパムでレベルを荒稼ぎできないようにするために、XPはチャット中にランダムに付与されるようになっています。",
-    "leveling_variables": "[level] - レベルを表示します\n[user] - ユーザーをメンションします\n[user.username] - ユーザー名を表示します\n[user.tag] - ユーザータグを表示します\n[oldLevel] - 過去のユーザー名を表示します",
+    "leveling_variables": "[level] - 現在のレベルを表示\n[user] - ユーザーをメンション\n[user.username] - ユーザー名を表示\n[user.tag] - ユーザータグを表示\n[oldLevel] - 以前のレベルを表示",
     "leveling_add_role_reward": "リワード獲得向けのロールを追加",
     "Premium": "プレミアム",
     "LEADERBOARD": "リーダーボード",
@@ -1004,5 +1004,5 @@
     "responses_onboarding_content": "カスタマイズできるボタンやメニューで、パーソナライズされた応答ができます！",
     "responses_onboarding_title": "応答の要素",
     "select_menu_limit_message": "オプションの最大数は25個です。 現在{0}個のオプションを利用中です。",
-    "error_upload_size": "画像が制限を超えています。画像サイズを小さくしてみてください。"
+    "error_upload_size": "画像の容量が大きすぎます。解像度を下げてからもう一度アップロードしてください。"
 }
