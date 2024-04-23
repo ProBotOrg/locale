@@ -1004,5 +1004,5 @@
     "responses_onboarding_content": "پیام های خود را با دکمه ها و منو ها برای پاسخ های شخصی سازی شده به سطحی بالاتر ارتقاء دهید!",
     "responses_onboarding_title": "المان های پاسخ",
     "select_menu_limit_message": "حداکثر گزینه های انتخاب 25 عدد می باشند. شما {0} گزینه دارید",
-    "error_upload_size": "Image exceeds limit, try reduce image size."
+    "error_upload_size": "تصویر از محدودیت اعمال شده میگذرد، سعی کنید از اندازه کوچکتر تصویر استفاده کنید."
 }
