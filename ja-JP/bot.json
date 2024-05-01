@@ -212,7 +212,7 @@
 	"move_confirm": ":information_source: **本当によろしいですか？「y」を送信したら続けます。**",
 	"move_cant_find_channel": ":rolling_eyes: - **指定したチャンネルが見つかりません**",
 	"color_error": ":rolling_eyes: - システム上でエラーが発生した場合は、サポートにお問い合わせください。",
-	"time_reasons_limit": ":rolling_eyes: - **期間を設定するには、次の期間を表す略語を使って期間を指定してください：（m, h, d, w, mo, y）**\n:point_right - 上の略語は（分、時間、日、週間、ヶ月、年）の順に並んでいて、例えば1分に設定するときは1mと指定します。",
+	"time_reasons_limit": ":rolling_eyes: **期間は［y, mo, w, d, h, m］の文字を使用して指定してください**\n:bulb: 上の文字は［◯年、◯ヶ月、◯週間、◯日、◯時間、◯分］の順に並んでいます。例えば期間を1分に設定するときは1mと指定します。",
 	"user_warn_warned": ":white_check_mark: **@{0} を警告しました！**",
 	"user_warn_you_are_warned": ":warning: **警告（warn）されました！**",
 	"server_id": ":id: サーバー ID:",
