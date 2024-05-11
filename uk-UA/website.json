@@ -1004,5 +1004,5 @@
     "responses_onboarding_content": "Підніміть рівень повідомлень за допомогою настроюваних кнопок і меню для персоналізованих відповідей!",
     "responses_onboarding_title": "Елементи відповіді",
     "select_menu_limit_message": "Максимальна кількість варіантів - 25. У вас {0} ",
-    "error_upload_size": "Image exceeds limit, try reduce image size."
+    "error_upload_size": "Зображення перевищує обмеження, спробуйте зменшити розмір зображення."
 }

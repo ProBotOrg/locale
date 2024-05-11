@@ -1004,5 +1004,5 @@
     "responses_onboarding_content": "Urozmaić swoje wiadomości dzięki personalizowanym przyciskom oraz menu z niestandardowymi odpowiedziami!",
     "responses_onboarding_title": "Elementy Odpowiedzi",
     "select_menu_limit_message": "Maksymalna liczba opcji to 25. Aktualnie masz {0} opcji",
-    "error_upload_size": "Image exceeds limit, try reduce image size."
+    "error_upload_size": "Obraz przekracza limit, spróbuj zmniejszyć jego rozmiar."
 }
