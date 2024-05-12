@@ -168,7 +168,7 @@
 	"credits_not_enough": "**:thinking: | {0}님, 잔액이 충분하지 않아요!**",
 	"credits_trans_done": "**:moneybag: | {0}님, {2}님에게 `${1}`만큼 보냈어요.**",
 	"credits_receipt": ":atm: | 이체 영수증 ```{1}님(ID: {2})에게 ${0}만큼 받았어요.\n사유: {3}\n```",
-	"credits_blacklist": ":sweat: **해당 계정은 차단됐어요.**",
+	"credits_blacklist": ":sweat: **계정이 차단됐어요.**",
 	"credits_balance": ":bank: | **{0}님, 계정 잔액은 `${1}`이에요.**",
 	"credits_balance_mentions": "**:credit_card: {0}님의 잔액은 `${1}`이에요.**",
 	"credits_cant_find": "**:interrobang: | {0}님, {1}님을 찾지 못했어요!**",
