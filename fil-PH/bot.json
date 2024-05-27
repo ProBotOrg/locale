@@ -195,7 +195,7 @@
 	"top_voice_score": ":microphone2: VOICE SCORE",
 	"top_more": "More?",
 	"points_title": "Points:",
-	"points_requested": "Hiniling ni {0}",
+	"points_requested": "Hiniling ng {0}#{1}",
 	"points_only_managers": ":rolling_eyes: - Tanging ang mga manager ng mga puntos ang maaaring pamahalaan ang mga puntos.",
 	"points_done_reset": ":sparkles: **Lahat ng puntos ay matagumpay na na-reset.**",
 	"points_valid_number": ":rolling_eyes: - **Pakigamit ng Wastong Numero.**",
