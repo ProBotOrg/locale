@@ -772,7 +772,7 @@
     "reset": "Réinitialiser",
     "add_channel": "Ajouter un Salon",
     "need_setup": "Configuration requise",
-    "message": "Message",
+    "message": "**{0}** diffuse maintenant ! 🎬\nVenez nous rejoindre maintenant et ne manquez pas les moments croustillants! 🔥\n{1}",
     "embed": "Embed",
     "daily_onboarding_head": "Doublez vos récompenses!",
     "daily_onboarding_text": "Construisez votre série et doublez vos récompenses en réclamant votre récompense quotidienne tous les jours !",
