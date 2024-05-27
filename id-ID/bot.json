@@ -195,7 +195,7 @@
 	"top_voice_score": ":microphone2: SKOR SUARA",
 	"top_more": "Lagi?",
 	"points_title": "Poin:",
-	"points_requested": "Diminta oleh {0}",
+	"points_requested": "Diminta oleh {0}#{1}",
 	"points_only_managers": ":rolling_eyes: - Poin hanya dapat dikelola oleh manajer poin.",
 	"points_done_reset": ":sparkles: **Semua poin telah berhasil direset.**",
 	"points_valid_number": ":rolling_eyes: - **Masukkan Nomor yang Valid.**",
