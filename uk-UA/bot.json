@@ -145,7 +145,7 @@
 	"vip_canceling_description": ":rolling_eyes: - ** Скасування... **",
 	"vip_wrong_bot_description": ":rolling_eyes: - Неправильний номер бота.",
 	"vip_command_premium_description": "**:rolling_eyes: - Ця команда тільки для преміум. Якщо преміум-бота не можна знайти, ви можете написати команду із вказаним ID бота або номера бота.**",
-	"vip_must_enter_description": "**:rolling_eyes: - Ви повинні ввести команду, за якою слідує згадка або ID користувача, якому ви хочете передати бота.**",
+	"vip_must_enter_description": "**:rolling_eyes: - Ця команда тільки для преміум. Якщо преміум-бота не можна знайти, ви можете написати команду із вказаним ID бота або номера бота.**",
 	"vip_error_id_description": "**:rolling_eyes: - Помилка в згадці учасника або ID учасника**",
 	"vip_bans_bots_description": ":rolling_eyes: - **Закон Каліфорнії забороняє ботам видавати себе за людей** \n https://www.pcmag.com/news/364132/california-law-bans-bots-from-pretending-to-be-human",
 	"vip_joke_description": "**Я жартую з тобою?**",
