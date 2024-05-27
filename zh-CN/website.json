@@ -544,7 +544,7 @@
     "daily_wrong_captcha": "验证码不正确，请重试",
     "daily_already_claimed": "你已经领取过这个奖励了！",
     "responder_want_delete": "您是否真的想删除此优惠券？",
-    "index_card6_title": "回应角色",
+    "index_card6_title": "角色分配",
     "index_card6_description": "通过使用ProBot的回应角色，让你的成员拥有他们应得的角色!",
     "error_upload_5": "不支持的文件类型",
     "error_upload_500": "内部服务器错误",
