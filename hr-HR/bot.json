@@ -195,7 +195,7 @@
 	"top_voice_score": ":microphone2: GLASOVNI REZULTAT",
 	"top_more": "Više?",
 	"points_title": "Bodovi:",
-	"points_requested": "Zatraženo od {0}",
+	"points_requested": "Zatražio {0}",
 	"points_only_managers": ":rolling_eyes: - Points can only be managed by point managers.\n",
 	"points_done_reset": ":sparkles: **All points have been successfully reset.**",
 	"points_valid_number": ":rolling_eyes: - **Please Enter a Valid Number.**\n",
