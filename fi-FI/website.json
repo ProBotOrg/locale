@@ -47,7 +47,7 @@
     "title_description": "Muuttaa otsikkoa komennossa `#profile`.",
     "reset_description": "Nollaa teksti/ääni/kutsuu xp pisteitä kaikille tai tietyille jäsenille.",
     "rep_description": "Palkitse joku maine. Voidaan käyttää vain kerran 24 tunnin välein.",
-    "daily_description": "Saat päivittäisen palkan.",
+    "daily_description": "Saa linkki päivittäiseen palkintoon ja selvitä milloin voit lunastaa sen uudelleen.",
     "vip_description": "Shows information about your premium bot.",
     "ping_description": "Testaa bottien vasteaika.",
     "temp_description": "Creates a temporary channel",
