@@ -1004,5 +1004,5 @@
     "responses_onboarding_content": "Eleva i messaggi con pulsanti personalizzabili e menu per risposte personalizzate!",
     "responses_onboarding_title": "Elementi Di Risposta",
     "select_menu_limit_message": "Il numero massimo di opzioni e 25. hai opzioni {0}",
-    "error_upload_size": "Image exceeds limit, try reduce image size."
+    "error_upload_size": "L'immago ha superato il limito, prova a ridurre le dimensioni dell'Immago."
 }
