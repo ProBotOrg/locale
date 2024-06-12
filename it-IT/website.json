@@ -629,7 +629,7 @@
     "default": "Ipotetico",
     "billing_no_history": "Nessuna cronologia dei pagamenti",
     "billing_add_payment": "Aggiungi metodo di pagamento",
-    "update": "Aggiornare",
+    "update": "Update",
     "billing_card_name": "Nome sulla carta",
     "billing_card_number": "Numero di carta",
     "billing_card_expiry_date": "Data di scadenza",
