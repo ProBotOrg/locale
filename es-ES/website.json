@@ -1004,5 +1004,9 @@
     "responses_onboarding_content": "¡Realza los mensajes con botones y menús personalizables para respuestas personalizadas!",
     "responses_onboarding_title": "Elementos de Respuesta",
     "select_menu_limit_message": "El número máximo de opciones es 25. Tienes {0} opciones",
-    "error_upload_size": "La imagen excede el límite, intente reducir el tamaño de la imagen."
+    "error_upload_size": "La imagen excede el límite, intente reducir el tamaño de la imagen.",
+    "cancel_invoice_confirm": "Yes, cancel Invoice",
+    "invoice_cancel_modal_title": "Do you really want to cancel this invoice?",
+    "cancel_invoice": "Cancel Invoice",
+    "payment_method_update_info": "Below is a list of subscriptions we need an updated payment method for. Please click the renew button to continue to enjoy the benefits"
 }
