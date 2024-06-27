@@ -1004,5 +1004,9 @@
     "responses_onboarding_content": "Nachrichten mit anpassbaren Knöpfen und Menüs für personalisierte Antworten erhöhen!",
     "responses_onboarding_title": "Antwort-Elemente",
     "select_menu_limit_message": "Die maximale Anzahl an Optionen sind 25. Du hast {0} Optionen",
-    "error_upload_size": "Bild überschreitet das Limit, verkleinere die Bildgröße."
+    "error_upload_size": "Bild überschreitet das Limit, verkleinere die Bildgröße.",
+    "cancel_invoice_confirm": "Yes, cancel Invoice",
+    "invoice_cancel_modal_title": "Do you really want to cancel this invoice?",
+    "cancel_invoice": "Cancel Invoice",
+    "payment_method_update_info": "Below is a list of subscriptions we need an updated payment method for. Please click the renew button to continue to enjoy the benefits"
 }
