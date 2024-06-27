@@ -1,7 +1,7 @@
 {
     "rank_description": "Lihat kartu peringkat Anda atau kartu orang lain di server ini.",
     "clear_description": "Membersihkan pesan saluran.",
-    "moveme_description": "Memindahmu ke channel suara yang lain.",
+    "moveme_description": "Memindahkan mu ke channel suara yang lain.",
     "id_description": "Lihat kartu peringkat Anda atau kartu orang lain di server ini.",
     "profile_description": "Lihat kartu profil global pribadi yang dapat disesuaikan Anda atau orang lain.",
     "user_description": "Menampilkan informasi, seperti pengguna ID dan tanggal bergabung, tentang diri Anda atau pengguna.",
@@ -1004,5 +1004,9 @@
     "responses_onboarding_content": "Tingkatkan pesan dengan tombol dan menu yang dapat disesuaikan untuk respon yang dipersonalisasi!",
     "responses_onboarding_title": "Elemen Respon",
     "select_menu_limit_message": "Jumlah maksimal opsi adalah 25. Anda memiliki {0} opsi",
-    "error_upload_size": "Gambar melebihi batas, coba kurangi ukuran gambar."
+    "error_upload_size": "Gambar melebihi batas, coba kurangi ukuran gambar.",
+    "cancel_invoice_confirm": "Yes, cancel Invoice",
+    "invoice_cancel_modal_title": "Do you really want to cancel this invoice?",
+    "cancel_invoice": "Cancel Invoice",
+    "payment_method_update_info": "Below is a list of subscriptions we need an updated payment method for. Please click the renew button to continue to enjoy the benefits"
 }
