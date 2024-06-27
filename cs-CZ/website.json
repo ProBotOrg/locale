@@ -1004,5 +1004,9 @@
     "responses_onboarding_content": "Vyzvednout zprávy pomocí přizpůsobitelných tlačítek a nabídek pro personalizované odpovědi!",
     "responses_onboarding_title": "Prvky odpovědi",
     "select_menu_limit_message": "Maximální počet možností je 25. Máte možnosti {0}",
-    "error_upload_size": "Obrázek překračuje limit, zkuste zmenšit velikost obrázku."
+    "error_upload_size": "Obrázek překračuje limit, zkuste zmenšit velikost obrázku.",
+    "cancel_invoice_confirm": "Yes, cancel Invoice",
+    "invoice_cancel_modal_title": "Do you really want to cancel this invoice?",
+    "cancel_invoice": "Cancel Invoice",
+    "payment_method_update_info": "Below is a list of subscriptions we need an updated payment method for. Please click the renew button to continue to enjoy the benefits"
 }
