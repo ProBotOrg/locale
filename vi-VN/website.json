@@ -1004,5 +1004,9 @@
     "responses_onboarding_content": "Cải tiến tin nhắn embed của bạn với nút bấm và bảng chọn với đa dạng các tùy chỉnh cho phản hồi!",
     "responses_onboarding_title": "Yếu tố của phản hồi",
     "select_menu_limit_message": "Số lượng lựa chọn tối đa là 25. Bạn hiện đang có {0} lựa chọn",
-    "error_upload_size": "Kích thước ảnh vượt quá giới hạn, vui lòng tối ưu ảnh của bạn."
+    "error_upload_size": "Kích thước ảnh vượt quá giới hạn, vui lòng tối ưu ảnh của bạn.",
+    "cancel_invoice_confirm": "Yes, cancel Invoice",
+    "invoice_cancel_modal_title": "Do you really want to cancel this invoice?",
+    "cancel_invoice": "Cancel Invoice",
+    "payment_method_update_info": "Below is a list of subscriptions we need an updated payment method for. Please click the renew button to continue to enjoy the benefits"
 }
