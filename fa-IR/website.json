@@ -1004,5 +1004,9 @@
     "responses_onboarding_content": "پیام های خود را با دکمه ها و منو ها برای پاسخ های شخصی سازی شده به سطحی بالاتر ارتقاء دهید!",
     "responses_onboarding_title": "المان های پاسخ",
     "select_menu_limit_message": "حداکثر گزینه های انتخاب 25 عدد می باشند. شما {0} گزینه دارید",
-    "error_upload_size": "تصویر از محدودیت اعمال شده میگذرد، سعی کنید از اندازه کوچکتر تصویر استفاده کنید."
+    "error_upload_size": "تصویر از محدودیت اعمال شده میگذرد، سعی کنید از اندازه کوچکتر تصویر استفاده کنید.",
+    "cancel_invoice_confirm": "Yes, cancel Invoice",
+    "invoice_cancel_modal_title": "Do you really want to cancel this invoice?",
+    "cancel_invoice": "Cancel Invoice",
+    "payment_method_update_info": "Below is a list of subscriptions we need an updated payment method for. Please click the renew button to continue to enjoy the benefits"
 }
