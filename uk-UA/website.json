@@ -1004,5 +1004,9 @@
     "responses_onboarding_content": "Підніміть рівень повідомлень за допомогою настроюваних кнопок і меню для персоналізованих відповідей!",
     "responses_onboarding_title": "Елементи відповіді",
     "select_menu_limit_message": "Максимальна кількість варіантів - 25. У вас {0} ",
-    "error_upload_size": "Зображення перевищує обмеження, спробуйте зменшити розмір зображення."
+    "error_upload_size": "Зображення перевищує обмеження, спробуйте зменшити розмір зображення.",
+    "cancel_invoice_confirm": "Yes, cancel Invoice",
+    "invoice_cancel_modal_title": "Do you really want to cancel this invoice?",
+    "cancel_invoice": "Cancel Invoice",
+    "payment_method_update_info": "Below is a list of subscriptions we need an updated payment method for. Please click the renew button to continue to enjoy the benefits"
 }
