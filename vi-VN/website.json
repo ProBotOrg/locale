@@ -1005,8 +1005,8 @@
     "responses_onboarding_title": "Yếu tố của phản hồi",
     "select_menu_limit_message": "Số lượng lựa chọn tối đa là 25. Bạn hiện đang có {0} lựa chọn",
     "error_upload_size": "Kích thước ảnh vượt quá giới hạn, vui lòng tối ưu ảnh của bạn.",
-    "cancel_invoice_confirm": "Yes, cancel Invoice",
-    "invoice_cancel_modal_title": "Do you really want to cancel this invoice?",
-    "cancel_invoice": "Cancel Invoice",
-    "payment_method_update_info": "Below is a list of subscriptions we need an updated payment method for. Please click the renew button to continue to enjoy the benefits"
+    "cancel_invoice_confirm": "Có, hủy hóa đơn",
+    "invoice_cancel_modal_title": "Bạn có thực sự muốn hủy hóa đơn này?",
+    "cancel_invoice": "Hủy hóa đơn",
+    "payment_method_update_info": "Dưới đây là các gói đăng ký mà chúng tôi cần bạn cập nhật lại phương thức thanh toán. Vui lòng nhấp vào nút gia hạn để tiếp tục sử dụng các quyền lợi của bạn"
 }
