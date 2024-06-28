@@ -1005,8 +1005,8 @@
     "responses_onboarding_title": "عناصر الإستجابة",
     "select_menu_limit_message": "الحد الأقصى لعدد الخيارات هو 25. لديك {0} من الخيارات",
     "error_upload_size": "الصورة تجاوزت الحد، حاول تقليل حجم الصورة.",
-    "cancel_invoice_confirm": "Yes, cancel Invoice",
-    "invoice_cancel_modal_title": "Do you really want to cancel this invoice?",
-    "cancel_invoice": "Cancel Invoice",
+    "cancel_invoice_confirm": "",
+    "invoice_cancel_modal_title": "",
+    "cancel_invoice": "Yasser",
     "payment_method_update_info": "Below is a list of subscriptions we need an updated payment method for. Please click the renew button to continue to enjoy the benefits"
 }
