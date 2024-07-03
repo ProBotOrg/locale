@@ -1005,8 +1005,8 @@
     "responses_onboarding_title": "عناصر الإستجابة",
     "select_menu_limit_message": "الحد الأقصى لعدد الخيارات هو 25. لديك {0} من الخيارات",
     "error_upload_size": "الصورة تجاوزت الحد، حاول تقليل حجم الصورة.",
-    "cancel_invoice_confirm": "",
-    "invoice_cancel_modal_title": "",
-    "cancel_invoice": "Yasser",
-    "payment_method_update_info": "Below is a list of subscriptions we need an updated payment method for. Please click the renew button to continue to enjoy the benefits"
+    "cancel_invoice_confirm": "نعم، إلغاء الفاتورة",
+    "invoice_cancel_modal_title": "هل حقاً تريد إلغاء هذا الحجز؟",
+    "cancel_invoice": "إلغاء الفاتورة",
+    "payment_method_update_info": "أدناه قائمة الاشتراكات التي تحتاج إلى تحديث طريقة دفع محدثة. يرجى النقر على زر التجديد للاستمرار في الاستمتاع بالفوائد"
 }
