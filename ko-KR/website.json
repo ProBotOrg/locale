@@ -1006,7 +1006,7 @@
     "select_menu_limit_message": "옵션의 최대 개수는 25개예요. 현재 옵션 {0}개가 있어요",
     "error_upload_size": "사진 크기가 한도를 초과해요. 사진 크기를 줄여보세요.",
     "cancel_invoice_confirm": "Yes, cancel Invoice",
-    "invoice_cancel_modal_title": "Do you really want to cancel this invoice?",
+    "invoice_cancel_modal_title": "이 청구를 정말 취소할까요?",
     "cancel_invoice": "Cancel Invoice",
     "payment_method_update_info": "Below is a list of subscriptions we need an updated payment method for. Please click the renew button to continue to enjoy the benefits"
 }
