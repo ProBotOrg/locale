@@ -789,7 +789,7 @@
     "twitch_only_1_beta": "베타 출시에서는 서버마다 Twitch 채널을 1개만 추가할 수 있어요",
     "required": "필수",
     "easy_embed_color": "색상",
-    "premium_renew_subscription": "구독 갱신",
+    "premium_renew_subscription": "구독 재개",
     "billing_card_details": "카드 정보",
     "billing_bill_to": "청구처",
     "billing_postal_code": "우편 번호",
@@ -931,9 +931,9 @@
     "features_embed_messages_modify_title": "임베드 메시지를 쉽게 수정해 보세요.",
     "features_embed_messages_modify_description": "여러분의 임베드 메시지를 빠르고 쉽게 ProBot의 사용하기 쉬운 임베드 기능으로 변경해 보세요. 이 기능은 추가 가능한 필드, 제목 등을 다양하게 포함한답니다!",
     "features_embed_messages_edit_title": "임베드 메시지를 여러분이 원하는 대로 언제든지 수정해 보세요",
-    "features_embed_messages_edit_description": "Have you decided to make a change to a previously sent embed message? Don't be concerned! With the edit send message feature of ProBot, you can select the message you want and make changes. And there you have it, the existing message will be edited!",
+    "features_embed_messages_edit_description": "이전에 보낸 임베드 메시지를 변경하고 싶으신가요? 걱정하지 마세요! ProBot의 '보낸 메시지 수정하기' 기능으로, 원하는 메시지를 선택하고 변경할 수 있어요. 그러면, 기존의 메시지가 수정될 거예요!",
     "features_embed_messages_preview_title": "보내기 전 여러분의 임베드 메시지를 미리 확인해 보세요",
-    "features_embed_messages_preview_description": "Wondering how your embed message will look before you send it? Don't be concerned! You can see how your embed message will look and have it done flawlessly with ProBot's embed preview!",
+    "features_embed_messages_preview_description": "임베드 메시지를 보내기 전 어떻게 보일지 생각해 보신 적 있나요? 걱정하지 마세요! ProBot의 '임베드 미리보기'로 임베드 메시지가 어떻게 보일지 확인하고 간편히 끝낼 수 있어요!",
     "features_self_assignable_role_press_button_title": "버튼을 눌러 역할을 받아보세요",
     "features_self_assignable_role_press_button_description": "Create up to 25 buttons with the ability to change the button emoji, text, color, role mode, notification type, and order!",
     "features_self_assignable_role_select_role_title": "받기를 원하는 역할을 선택하고 바로 받아보세요.",
@@ -1008,5 +1008,5 @@
     "cancel_invoice_confirm": "네, 청구를 취소해요",
     "invoice_cancel_modal_title": "이 청구를 정말 취소할까요?",
     "cancel_invoice": "청구 취하",
-    "payment_method_update_info": "Below is a list of subscriptions we need an updated payment method for. Please click the renew button to continue to enjoy the benefits"
+    "payment_method_update_info": "아래는 결제 수단 갱신이 필요한 구독 목록이에요. 혜택을 계속 누리고 싶으시다면 갱신 버튼을 눌러주세요"
 }
