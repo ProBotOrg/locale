@@ -1004,7 +1004,7 @@
     "responses_onboarding_content": "Élevez les messages avec des boutons et des menus personnalisables pour des réponses personnalisées !",
     "responses_onboarding_title": "Éléments de réponse",
     "select_menu_limit_message": "Le nombre maximum d'options est de 25. Vous disposez de {0} options",
-    "error_upload_size": "Image exceeds limit, try reduce image size.",
+    "error_upload_size": "Taille de l'image trop importante, essayez une image plus petite.",
     "cancel_invoice_confirm": "Oui, annuler la facture",
     "invoice_cancel_modal_title": "Voulez-vous vraiment annuler cette pièce jointe ?",
     "cancel_invoice": "Annuler la facture",
