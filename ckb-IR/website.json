@@ -1005,8 +1005,8 @@
     "responses_onboarding_title": "توخمەکانی وەڵامدانەوە",
     "select_menu_limit_message": "زۆرترین ژمارەی هەڵبژاردەکان ۲۵ هەڵبژاردنە. تۆ {0} هەڵبژاردنت هەیە",
     "error_upload_size": "وێنەکە سنووری تێپەڕاندووە، هەوڵبدە قەبارەی وێنە کەم بکەیتەوە.",
-    "cancel_invoice_confirm": "Yes, cancel Invoice",
-    "invoice_cancel_modal_title": "Do you really want to cancel this invoice?",
-    "cancel_invoice": "Cancel Invoice",
-    "payment_method_update_info": "Below is a list of subscriptions we need an updated payment method for. Please click the renew button to continue to enjoy the benefits"
+    "cancel_invoice_confirm": "بەڵێ، فاکتورە هەڵبوەشێنەرەوە",
+    "invoice_cancel_modal_title": "بەڕاستی دەتەوێت ئەم فاکتورە هەڵبوەشێنیتەوە؟",
+    "cancel_invoice": "هەڵوەشاندنەوەی فاکتورە",
+    "payment_method_update_info": "لە خوارەوە لیستی ئەو بەشداریانە دەخەینەڕوو کە پێویستمان بە شێوازی پارەدانی نوێکراوە بۆیان. تکایە کلیک لە دوگمەی نوێکردنەوە بکە بۆ بەردەوام بوون لە چێژوەرگرتن لە سوودەکان"
 }
