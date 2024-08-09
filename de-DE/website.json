@@ -722,7 +722,7 @@
     "stats_3_months": "Letzte 3 Monate (Premium)",
     "stats_6_months": "Letzte 6 Monate (Premium)",
     "stats_1_year": "Letztes Jahr (Premium)",
-    "setlevel_description": "Ändert das Level des Mitglieds",
+    "setlevel_description": "Level des Benutzers Feslegen",
     "rr_type": "Rollenmodus",
     "rr_buttons": "Knopf",
     "rr_select_menu": "Auswahlmenü",
@@ -1004,5 +1004,9 @@
     "responses_onboarding_content": "Nachrichten mit anpassbaren Knöpfen und Menüs für personalisierte Antworten erhöhen!",
     "responses_onboarding_title": "Antwort-Elemente",
     "select_menu_limit_message": "Die maximale Anzahl an Optionen sind 25. Du hast {0} Optionen",
-    "error_upload_size": "Bild überschreitet das Limit, verkleinere die Bildgröße."
+    "error_upload_size": "Bild überschreitet das Limit, verkleinere die Bildgröße.",
+    "cancel_invoice_confirm": "Ja, Rechnung stornieren",
+    "invoice_cancel_modal_title": "Möchtest du diese Rechnung wirklich abbrechen?",
+    "cancel_invoice": "Rechnung stornieren",
+    "payment_method_update_info": "Unten findest du eine Liste von Abonnements, für die wir eine aktualisierte Zahlungsmethode benötigen. Bitte klicke auf den Erneuerungs-Button, um die Vorteile weiterhin zu nutzen"
 }

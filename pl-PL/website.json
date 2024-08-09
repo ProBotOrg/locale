@@ -49,7 +49,7 @@
     "rep_description": "Przyznaj komuś punkt reputacji. Funkcji można użyć raz na 24 godziny.",
     "daily_description": "Uzyskaj link do nagrody dziennej i dowiedz się, kiedy możesz ją ponownie odebrać.",
     "vip_description": "Pokazuje informacje o Twoim bocie premium.",
-    "ping_description": "Przetestuj czas reakcji bota.",
+    "ping_description": "Przetestuj czas reakcji botów.",
     "temp_description": "Tworzy tymczasowy kanał",
     "deletebackup_description": "Usuwa kopię zapasową.",
     "short_description": "Skraca adres internetowy (URL).",
@@ -544,7 +544,7 @@
     "daily_wrong_captcha": "Captcha nie jest poprawna, spróbuj ponownie",
     "daily_already_claimed": "Już odebrałeś tę nagrodę",
     "responder_want_delete": "Czy na pewno chcesz usunąć ten responder?",
-    "index_card6_title": "Role-Reakcje",
+    "index_card6_title": "Role reakcje",
     "index_card6_description": "Skonfiguruj ekskluzywne role z różnymi opcjami, takimi jak reakcje, przyciski i menu wyboru, i pozwól Probotowi przypisać role swoim użytkownikom!",
     "error_upload_5": "Ten typ pliku nie jest obsługiwany",
     "error_upload_500": "Wewnętrzny błąd serwera",
@@ -1004,5 +1004,9 @@
     "responses_onboarding_content": "Urozmaić swoje wiadomości dzięki personalizowanym przyciskom oraz menu z niestandardowymi odpowiedziami!",
     "responses_onboarding_title": "Elementy Odpowiedzi",
     "select_menu_limit_message": "Maksymalna liczba opcji to 25. Aktualnie masz {0} opcji",
-    "error_upload_size": "Obraz przekracza limit, spróbuj zmniejszyć jego rozmiar."
+    "error_upload_size": "Obraz przekracza limit, spróbuj zmniejszyć jego rozmiar.",
+    "cancel_invoice_confirm": "Yes, cancel Invoice",
+    "invoice_cancel_modal_title": "Do you really want to cancel this invoice?",
+    "cancel_invoice": "Cancel Invoice",
+    "payment_method_update_info": "Below is a list of subscriptions we need an updated payment method for. Please click the renew button to continue to enjoy the benefits"
 }

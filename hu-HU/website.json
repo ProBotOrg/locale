@@ -439,7 +439,7 @@
     "premium_bot_avatar": "PROFILKÉP",
     "premium_auto_renew": "Automatikus megújítás",
     "premium_payment_amount": "Fizetési mennyiség megadása",
-    "premium_ended": "véget ért",
+    "premium_ended": "végződött",
     "premium_dont_have_balance": "Upsz! Nincs elég egyenleged hogy megtedd ezt,",
     "premium_current_credits_is": "Jelenleg {0} kredited van",
     "premium_name_limit": "A névnek több mint 2 és kevesebb mint 32 karakterből kell állnia.",
@@ -722,7 +722,7 @@
     "stats_3_months": "Elmúlt 3 hónap (Prémium)",
     "stats_6_months": "Elmúlt 6 hónap (Prémium)",
     "stats_1_year": "Elmúlt 1 év (Prémium)",
-    "setlevel_description": "Megváltoztatja a tag szintjét",
+    "setlevel_description": "Beállítja egy felhasználó szintjét.",
     "rr_type": "Reakció típusa",
     "rr_buttons": "Gomb",
     "rr_select_menu": "Menü kiválasztása",
@@ -1004,5 +1004,9 @@
     "responses_onboarding_content": "Elevate messages with customizable buttons and menus for personalized responses!",
     "responses_onboarding_title": "Response Elements",
     "select_menu_limit_message": "The max number of options is 25. you have {0} options",
-    "error_upload_size": "Image exceeds limit, try reduce image size."
+    "error_upload_size": "Image exceeds limit, try reduce image size.",
+    "cancel_invoice_confirm": "Yes, cancel Invoice",
+    "invoice_cancel_modal_title": "Do you really want to cancel this invoice?",
+    "cancel_invoice": "Cancel Invoice",
+    "payment_method_update_info": "Below is a list of subscriptions we need an updated payment method for. Please click the renew button to continue to enjoy the benefits"
 }
