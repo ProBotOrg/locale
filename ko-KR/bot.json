@@ -103,7 +103,7 @@
 	"setcolor_miss_permission_description": ":rolling_eyes: **해당 역할에 접근할 권한이 없어요**",
 	"setcolor_cant_change_description": ":rolling_eyes: - 해당 역할을 변경하지 못했어요. 봇의 권한과 역할 위치를 재확인해 주세요.",
 	"setcolor_hex_description": ":rolling_eyes: - 헥스 코드 길이가 6 또는 3이어야 해요.",
-	"setcolor_done_description": ":white_check_mark: **{0}님의 색상을 변경했어요.**",
+	"setcolor_done_description": ":white_check_mark: **{0} 역할의 색상을 변경했어요.**",
 	"setcolor_permission_need_description": ":rolling_eyes: **ProBot이 해당 역할에 접근할 권한이 없어요**",
 	"warn_cant_description": ":rolling_eyes: - **@{0}님에게 경고를 줄 수 없어요.**",
 	"warn_select_description": "**사유를 선택하세요:**",
