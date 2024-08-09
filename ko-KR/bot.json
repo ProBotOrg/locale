@@ -203,7 +203,7 @@
 	"points_new": ":sparkles: **{0}님**의 새로운 점수는 **{1}**이에요.",
 	"move_not_in_voice": ":rolling_eyes: - **음성 채널에 있지 않아요!**",
 	"move_being_moved": ":white_check_mark: **모든 멤버를 이동했어요!**",
-	"move_more_specific": ":rolling_eyes: - **더 자세하게 지정해주세요.** ```{0}```",
+	"move_more_specific": ":rolling_eyes: - **더 자세하게 지정해 주세요.** ```{0}```",
 	"move_cant_find": ":rolling_eyes: - {0}님을 **찾지 못했어요**",
 	"move_already_in": ":white_check_mark: **{0}님은 이미 음성 채널에 있어요!**",
 	"move_channel_full": ":white_check_mark: **{0}님은 이미 음성 채널에 있어요!**",
