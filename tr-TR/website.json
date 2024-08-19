@@ -1005,8 +1005,8 @@
     "responses_onboarding_title": "Yanıt Öğeleri",
     "select_menu_limit_message": "Maksimum seçenek sayısı 25'tir. şu anda {0} seçeneğiniz var",
     "error_upload_size": "Resminiz sınırı aşıyor, resim boyutunu küçültmeyi deneyin.",
-    "cancel_invoice_confirm": "",
-    "invoice_cancel_modal_title": "Do you really want to cancel this invoice?",
-    "cancel_invoice": "Cancel Invoice",
-    "payment_method_update_info": "Below is a list of subscriptions we need an updated payment method for. Please click the renew button to continue to enjoy the benefits"
+    "cancel_invoice_confirm": "Evet, Faturayı iptal et",
+    "invoice_cancel_modal_title": "Bu faturayı gerçekten iptal etmek istiyor musunuz?",
+    "cancel_invoice": "Faturayı İptal Et",
+    "payment_method_update_info": "Aşağıda güncellenmiş bir ödeme yöntemine ihtiyacımız olan aboneliklerin bir listesi bulunmaktadır. Avantajlardan yararlanmaya devam etmek için lütfen yenile düğmesine tıklayın"
 }
