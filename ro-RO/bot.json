@@ -477,7 +477,7 @@
 	"daily_success": "🎉 Ești eligibil să primești daily-ul pentru bot!",
 	"daily_link_label": "",
 	"daily_wait_time": "Îți poți revendica zilnicele in **{0}**",
-	"daily_vote_tip": "**TIP:** You can get up to {0} credits if you vote for ProBot!",
+	"daily_vote_tip": "",
 	"unmute_text_description": "Unmutes a member from text channels",
 	"unmute_voice_description": "Unmutes a member from voice channels",
 	"top_role_description": "Filter leaderboard for specific members with a role.",
