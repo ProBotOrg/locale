@@ -1005,8 +1005,8 @@
     "responses_onboarding_title": "Элементы ответа",
     "select_menu_limit_message": "Макс. количество вариантов – 25. У вас {0}",
     "error_upload_size": "Изображение превышает лимит, попробуйте уменьшить его размер",
-    "cancel_invoice_confirm": "Yes, cancel Invoice",
-    "invoice_cancel_modal_title": "Do you really want to cancel this invoice?",
-    "cancel_invoice": "Cancel Invoice",
-    "payment_method_update_info": "Below is a list of subscriptions we need an updated payment method for. Please click the renew button to continue to enjoy the benefits"
+    "cancel_invoice_confirm": "Да, отменить счет",
+    "invoice_cancel_modal_title": "Вы действительно хотите отменить этот счет?",
+    "cancel_invoice": "Отменить счет",
+    "payment_method_update_info": "Ниже приведен список подписок, для которых нам нужен обновленный метод оплаты. Пожалуйста, нажмите кнопку «Обновить», чтобы продолжить пользоваться преимуществами"
 }
