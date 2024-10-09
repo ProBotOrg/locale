@@ -47,7 +47,7 @@
     "title_description": "Zmení názov v príkaze #profile.\n",
     "reset_description": "Obnoviť text/hlas/pozýva xp body pre všetkých členov.",
     "rep_description": "Ocení niekoho dobré meno. Môže sa používať iba raz za 24 hodín.",
-    "daily_description": "Získajte svoj denný plat.\n",
+    "daily_description": "Získajte odkaz na dennú odmenu a zistite, kedy si ju môžete znova uplatniť.",
     "vip_description": "Ukáže informácie ohľadom tvojho premium bota.",
     "ping_description": "Otestujte čas odozvy botov.\n",
     "temp_description": "Vytvorí dočasné kanále",
@@ -345,7 +345,7 @@
     "embed_author": "Autor",
     "embed_name": "Meno",
     "embed_icon_url": "URL ikony",
-    "embed_text": "text",
+    "embed_text": "Text",
     "embed_icon": "Ikona",
     "embed_value": "Hodnota",
     "embed_inline": "vo vnútri",
@@ -1004,5 +1004,9 @@
     "responses_onboarding_content": "Elevate messages with customizable buttons and menus for personalized responses!",
     "responses_onboarding_title": "Response Elements",
     "select_menu_limit_message": "The max number of options is 25. you have {0} options",
-    "error_upload_size": "Image exceeds limit, try reduce image size."
+    "error_upload_size": "Image exceeds limit, try reduce image size.",
+    "cancel_invoice_confirm": "Yes, cancel Invoice",
+    "invoice_cancel_modal_title": "Do you really want to cancel this invoice?",
+    "cancel_invoice": "Cancel Invoice",
+    "payment_method_update_info": "Below is a list of subscriptions we need an updated payment method for. Please click the renew button to continue to enjoy the benefits"
 }
