@@ -1005,8 +1005,8 @@
     "responses_onboarding_title": "Prvky odpovědi",
     "select_menu_limit_message": "Maximální počet možností je 25. Máte možnosti {0}",
     "error_upload_size": "Obrázek překračuje limit, zkuste zmenšit velikost obrázku.",
-    "cancel_invoice_confirm": "Yes, cancel Invoice",
-    "invoice_cancel_modal_title": "Do you really want to cancel this invoice?",
-    "cancel_invoice": "Cancel Invoice",
-    "payment_method_update_info": "Below is a list of subscriptions we need an updated payment method for. Please click the renew button to continue to enjoy the benefits"
+    "cancel_invoice_confirm": "Ano, zrušit fakturu",
+    "invoice_cancel_modal_title": "Opravdu chcete zrušit tuto fakturu?",
+    "cancel_invoice": "Zrušit fakturu",
+    "payment_method_update_info": "Níže je seznam předplatných, u kterých je potřeba aktualizovat platební metodu. Kliknutím na tlačítko „Obnovit“ si můžete nadále užívat výhody."
 }
