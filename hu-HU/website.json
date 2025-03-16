@@ -749,7 +749,7 @@
     "ping_the_author": "Szerző megjelölése",
     "rr_notification_type": "Értesítés típusa",
     "rr_notification_notify": "Értesítés",
-    "rr_notification_notify_description": "Take member attention by replying to the user interaction.",
+    "rr_notification_notify_description": "Vedd el a tagoknak a figyelmét válaszolsz a felhasználónak interakcióval.",
     "rr_notification_notify_role": "{0} is the role to assign.",
     "rr_notification_silent": "Csendes",
     "rr_notification_silent_description": "Self-assign without any reply!",
