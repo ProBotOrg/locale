@@ -1008,5 +1008,5 @@
     "cancel_invoice_confirm": "Yes, cancel Invoice",
     "invoice_cancel_modal_title": "Do you really want to cancel this invoice?",
     "cancel_invoice": "Cancel Invoice",
-    "payment_method_update_info": "Below is a list of subscriptions we need an updated payment method for. Please click the renew button to continue to enjoy the benefits"
+    "payment_method_update_info": "Poniżej znajduje się lista subskrypcji, dla których potrzebujemy zaktualizowanej metody płatności. Kliknij przycisk odnowienia, aby nadal cieszyć się korzyściami"
 }
