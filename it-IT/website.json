@@ -989,5 +989,20 @@
     "premium_table_support": "Supporto Pritorized",
     "premium_table_other_features": "Altre Caratteristiche",
     "landing_join_over": "Unisciti a più di server {0} usando ProBot",
-    "browser_features": "Sfoglia Caratteristiche"
+    "browser_features": "Sfoglia Caratteristiche",
+    "color_set_title": "colori impostati",
+    "colorset_title_modal": "Applica i colori impostati '{0}'",
+    "colorset_description_modal": "Applicando questo set di colori, il bot creerà ruoli con colori corrispondenti. Ogni colore nel set sarà assegnato ad un ruolo.",
+    "responses": "Risposte",
+    "response_type": "Tipo Risposta",
+    "delete_response": "Elimina Risposta {0}",
+    "no_responses_found": "Nessuna Risposta Trovata ",
+    "delete_response_ask": "Sei sicuro di voler eliminare questa risposta?",
+    "response_onboard_description": "Utilizza risposte flessibili per il tuo messaggio incorporato!",
+    "role_hierarchy_warn": "Oh no! Il ruolo {0} ha una posizione più alta del mio ruolo. Assicurati che il mio ruolo sia più alto del ruolo selezionato.",
+    "color_set_onboard_description": "Crea nuovi colori senza sforzo, senza dover passare del tempo a pensarci!",
+    "responses_onboarding_content": "Eleva i messaggi con pulsanti personalizzabili e menu per risposte personalizzate!",
+    "responses_onboarding_title": "Elementi Di Risposta",
+    "select_menu_limit_message": "Il numero massimo di opzioni e 25. hai opzioni {0}",
+    "error_upload_size": "Image exceeds limit, try reduce image size."
 }

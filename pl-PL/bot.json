@@ -113,7 +113,7 @@
 	"warn_specify_number_description": ":rolling_eyes: - **Podaj numer ostrzeżenia, wspomnij użytkownika lub wszystkich (all), aby usunąć wszystkie ostrzeżenia.**",
 	"vkick_cant_permission_description": ":rolling_eyes: - Nie mogłem wyrzucić tego użytkownika. Sprawdź moje uprawnienia.",
 	"vkick_you_cant_description": ":rolling_eyes: - ** Nie możesz wyrzucić {0}. **",
-	"vkick_not_voice_description": ":rolling_eyes: - ** Członek nie jest na kanale głosowym! *",
+	"vkick_not_voice_description": ":rolling_eyes: - **Użytkownik nie jest na żadnym kanale głosowym!**",
 	"vkick_voice_kicked_description": ":white_check_mark: **@{0} został wyrzucony z kanału głosowego! **",
 	"unban_couldnt_user_description": ":rolling_eyes: - Nie mogłem odbanować tego użytkownika. Sprawdź moje uprawnienia.",
 	"unban_all_members_description": ":rolling_eyes: - **Musisz mieć uprawnienia administratora, aby odbanować wszystkich członków.**",
@@ -161,7 +161,7 @@
 	"vip_please_wait_description": "**:stopwatch: | {0}, proszę czekać {1}. **",
 	"vip_please_attach_description": "Proszę podać link do awataru lub dołączyć jako załącznik.",
 	"vip_please_specify_description": ":rolling_eyes: - **Proszę, podaj nową nazwę bota.**",
-	"vip_details_description": "**Numer premium:** {0}\n**Premium kończy się:** {1}\n**Zarejestrowany:** {2}",
+	"vip_details_description": "**Numer premium:** {0}\n**Premium kończy się za:** {1}\n**Zarejestrowany na:** {2}",
 	"vip_ended_description": "zakończony",
 	"slowmode_description": "Włącz lub wyłącz tryb powolny na kanale.",
 	"slowmode_time_description": "Czas, który ma być ustawiony dla trybu powolnego kanału.",
@@ -516,5 +516,6 @@
 	"thread_new_archived": "Wątek jest zarchiwizowany?",
 	"thread_old_archive_duration": "Poprzedni czas archiwizacji wątku",
 	"thread_new_archive_duration": "Nowy czas archiwizacji wątku",
-	"logs_thread_deleted": ":house: **Usunięty Wątek: `{0}`**"
+	"logs_thread_deleted": ":house: **Usunięty Wątek: `{0}`**",
+	"logs_thread_updated": ":house: **Zaktualizowano Wątek: `{0}`**"
 }

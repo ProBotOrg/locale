@@ -418,7 +418,7 @@
 	"lock_channel_reason_description": "Orsaken till låset",
 	"confirm": "Bekräfta",
 	"lock_already_locked": "**:x: Kanalen är redan låst {0}.**",
-	"reset_type_description": "Select the type of reset",
+	"reset_type_description": "Begäran",
 	"reset_user_description": "The user to reset stats for.",
 	"vip_choose_placeholder": "Select a status type.",
 	"vip_username_description": "Change the name of your premium bot.",
@@ -516,5 +516,6 @@
 	"thread_new_archived": "New Thread Archived?",
 	"thread_old_archive_duration": "Old Thread Archive Duration",
 	"thread_new_archive_duration": "New Thread Archive Duration",
-	"logs_thread_deleted": ":house: **Thread Deleted: `{0}`**"
+	"logs_thread_deleted": ":house: **Thread Deleted: `{0}`**",
+	"logs_thread_updated": ":house: **Thread Updated: `{0}`**"
 }

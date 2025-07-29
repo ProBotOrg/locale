@@ -510,11 +510,12 @@
 	"membership_diamond": "Діамант",
 	"membership_rep_dm": "{0} дав тобі бали репутації.",
 	"logs_thread_created": ":house: **Гілка створена: `{0}`**",
-	"thread_old_locked": "Old Thread Locked?",
-	"thread_new_locked": "New Thread Locked?",
-	"thread_old_archived": "Old Thread Archived?",
-	"thread_new_archived": "New Thread Archived?",
-	"thread_old_archive_duration": "Old Thread Archive Duration",
-	"thread_new_archive_duration": "New Thread Archive Duration",
-	"logs_thread_deleted": ":house: **Гілка видалена: `{0}`**"
+	"thread_old_locked": "Стара гілка заблокована?",
+	"thread_new_locked": "Нова гілка заблокована?",
+	"thread_old_archived": "Стару гілку заархівовано?",
+	"thread_new_archived": "Нову гілку заархівовано?",
+	"thread_old_archive_duration": "Старий час архівації гілки",
+	"thread_new_archive_duration": "Новий час архівації гілки",
+	"logs_thread_deleted": ":house: **Гілка видалена: `{0}`**",
+	"logs_thread_updated": ":house: **Гілка Оновлена: `{0}`**"
 }

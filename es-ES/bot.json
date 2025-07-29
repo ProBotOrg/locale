@@ -516,5 +516,6 @@
 	"thread_new_archived": "¿Nuevo Hilo Archivado?",
 	"thread_old_archive_duration": "Antigua Duración del Archivo del Hilo",
 	"thread_new_archive_duration": "Nueva Duración del Archivo del Hilo",
-	"logs_thread_deleted": ":house: **Hilo Eliminado: `{0}`**"
+	"logs_thread_deleted": ":house: **Hilo Eliminado: `{0}`**",
+	"logs_thread_updated": ":house: **Hilo Actualizado: `{0}`**"
 }

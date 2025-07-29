@@ -509,12 +509,13 @@
 	"membership_gold": "Altın",
 	"membership_diamond": "Elmas",
 	"membership_rep_dm": "{0} size saygınlık puanı verdi.",
-	"logs_thread_created": ":house: **Thread Created: `{0}`**",
-	"thread_old_locked": "Old Thread Locked?",
-	"thread_new_locked": "New Thread Locked?",
-	"thread_old_archived": "Old Thread Archived?",
-	"thread_new_archived": "New Thread Archived?",
-	"thread_old_archive_duration": "Old Thread Archive Duration",
-	"thread_new_archive_duration": "New Thread Archive Duration",
-	"logs_thread_deleted": ":house: **Thread Deleted: `{0}`**"
+	"logs_thread_created": ":house: **Alt Başlık Oluşturuldu: `{0}`**",
+	"thread_old_locked": "Eski Alt Başlık Kilitli",
+	"thread_new_locked": "Yeni Alt Başlık Kilitli",
+	"thread_old_archived": "Eski Alt Başlık Arşivlendi",
+	"thread_new_archived": "Yeni Alt Başlık Arşivlendi",
+	"thread_old_archive_duration": "Eski Alt Başlığın Arşiv Süresi",
+	"thread_new_archive_duration": "Yeni Alt Başlığın Arşiv Süresi",
+	"logs_thread_deleted": ":house: **Alt Başlık Silindi: `{0}`**",
+	"logs_thread_updated": ":house: **Alt Başlık Güncellendi: `{0}`**"
 }
