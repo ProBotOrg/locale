@@ -1011,5 +1011,10 @@
     "cancel_invoice_confirm": "Yes, cancel Invoice",
     "invoice_cancel_modal_title": "Do you really want to cancel this invoice?",
     "cancel_invoice": "Cancel Invoice",
-    "payment_method_update_info": "Below is a list of subscriptions we need an updated payment method for. Please click the renew button to continue to enjoy the benefits"
+    "payment_method_update_info": "Below is a list of subscriptions we need an updated payment method for. Please click the renew button to continue to enjoy the benefits",
+    "statistics_channels": "Statistics Channels",
+    "statistics_channels_no_configure": "No statistics configured",
+    "statistics_channels_no_configure_text": "Create dynamic channels that display server statistics like member count, online users, and more.",
+    "statistics_channels_no_configure_add": "Add Statistics",
+    "statistics_channels_channel_name": "Channel Name Template"
 }
