@@ -1016,5 +1016,7 @@
     "statistics_channels_no_configure": "No statistics configured",
     "statistics_channels_no_configure_text": "Create dynamic channels that display server statistics like member count, online users, and more.",
     "statistics_channels_no_configure_add": "Add Statistics",
-    "statistics_channels_channel_name": "Channel Name Template"
+    "statistics_channels_channel_name": "Channel Name Template",
+    "target_channel": "Target Channel",
+    "channel_type": "Channel Type"
 }
