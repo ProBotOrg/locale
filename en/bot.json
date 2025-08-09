@@ -518,4 +518,6 @@
 	"thread_new_archive_duration": "New Thread Archive Duration",
 	"logs_thread_deleted": ":house: **Thread Deleted: `{0}`**",
 	"logs_thread_updated": ":house: **Thread Updated: `{0}`**"
+	"server_avatar":"Server Avatar",
+	"avatar_description_global_server":"🌐 **Global & Server Avatar**"
 } 
