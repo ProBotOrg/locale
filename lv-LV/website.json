@@ -25,13 +25,13 @@
     "WELCOMER": "Automātiskais atbildētājs",
     "top_description": "Automātiskais atbildētājs\n",
     "server_description": "Parāda informāciju par serveri",
-    "kick_description": "Izmet dalībnieku.",
+    "kick_description": "Kicks a member.",
     "timeout_description": "Taimauts dalībniekam.",
-    "vkick_description": "Izmet dalībnieku no balss kanāla.",
+    "vkick_description": "Kicks a member from a voice channel",
     "mute_description": "Izslēdziet dalībnieka skaņu, lai viņš nevarētu ierakstīt teksta kanālus.",
     "unmute_description": "Noklusina dalībnieku. ",
     "vmute_description": "Izslēdziet dalībnieka skaņu, lai viņš nevarētu runāt balss kanālos.",
-    "unvmute_description": "Izslēdz dalībnieka skaņu no balss kanāliem.",
+    "unvmute_description": "Unmutes a member from voice channels.",
     "untimeout_description": "Noņem taimautu no dalībnieka.",
     "move_description": "Moves a member to another voice channel.",
     "role_description": "Dalībnieka lomas(-u) pievienošana/noņemšana",
@@ -1004,5 +1004,9 @@
     "responses_onboarding_content": "Elevate messages with customizable buttons and menus for personalized responses!",
     "responses_onboarding_title": "Response Elements",
     "select_menu_limit_message": "The max number of options is 25. you have {0} options",
-    "error_upload_size": "Image exceeds limit, try reduce image size."
+    "error_upload_size": "Image exceeds limit, try reduce image size.",
+    "cancel_invoice_confirm": "Yes, cancel Invoice",
+    "invoice_cancel_modal_title": "Do you really want to cancel this invoice?",
+    "cancel_invoice": "Cancel Invoice",
+    "payment_method_update_info": "Below is a list of subscriptions we need an updated payment method for. Please click the renew button to continue to enjoy the benefits"
 }

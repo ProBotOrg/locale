@@ -544,7 +544,7 @@
     "daily_wrong_captcha": "验证码不正确，请重试",
     "daily_already_claimed": "你已经领取过这个奖励了！",
     "responder_want_delete": "您是否真的想删除此优惠券？",
-    "index_card6_title": "回应角色",
+    "index_card6_title": "角色分配",
     "index_card6_description": "通过使用ProBot的回应角色，让你的成员拥有他们应得的角色!",
     "error_upload_5": "不支持的文件类型",
     "error_upload_500": "内部服务器错误",
@@ -1004,5 +1004,9 @@
     "responses_onboarding_content": "Elevate messages with customizable buttons and menus for personalized responses!",
     "responses_onboarding_title": "Response Elements",
     "select_menu_limit_message": "The max number of options is 25. you have {0} options",
-    "error_upload_size": "Image exceeds limit, try reduce image size."
+    "error_upload_size": "Image exceeds limit, try reduce image size.",
+    "cancel_invoice_confirm": "Yes, cancel Invoice",
+    "invoice_cancel_modal_title": "Do you really want to cancel this invoice?",
+    "cancel_invoice": "Cancel Invoice",
+    "payment_method_update_info": "Below is a list of subscriptions we need an updated payment method for. Please click the renew button to continue to enjoy the benefits"
 }

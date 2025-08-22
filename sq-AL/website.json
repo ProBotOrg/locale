@@ -25,7 +25,7 @@
     "WELCOMER": "Mirësevini & Mirupafshim",
     "top_description": "Shfaq anëtarët kryesorë me tekst ose zë.",
     "server_description": "Tregon informacione rreth serverit",
-    "kick_description": "Godet një anëtar.",
+    "kick_description": "Kicks a member.\nGodet një anëtar.",
     "timeout_description": "Kohëzgjatja e një anëtari.",
     "vkick_description": "Shqelmon një anëtar nga një kanal zanor",
     "mute_description": "Heshtni një anëtar nga kanalet e tekstit në mënyrë që ata të mos mund të shkruajnë.",
@@ -47,7 +47,7 @@
     "title_description": "Ndryshon titullin tuaj në komandën `#profile`.",
     "reset_description": "Rivendos tekstin/zërin/fton pikat xp për të gjithë ose anëtarët specifikë.",
     "rep_description": "Award someone a reputation point. Can only be used once every 24 hours.\n",
-    "daily_description": "Merrni rrogën tuaj ditore.",
+    "daily_description": "Merr lidhjen e shpërblimit ditor dhe di kur mund ta pretendosh sërish.",
     "vip_description": "Tregon informacione rreth robotit tuaj premium.",
     "ping_description": "Testoje reaksionin e botit",
     "temp_description": "Krijon një kanal të përkohshëm",
@@ -1004,5 +1004,9 @@
     "responses_onboarding_content": "Elevate messages with customizable buttons and menus for personalized responses!",
     "responses_onboarding_title": "Response Elements",
     "select_menu_limit_message": "The max number of options is 25. you have {0} options",
-    "error_upload_size": "Image exceeds limit, try reduce image size."
+    "error_upload_size": "Image exceeds limit, try reduce image size.",
+    "cancel_invoice_confirm": "Yes, cancel Invoice",
+    "invoice_cancel_modal_title": "Do you really want to cancel this invoice?",
+    "cancel_invoice": "Cancel Invoice",
+    "payment_method_update_info": "Below is a list of subscriptions we need an updated payment method for. Please click the renew button to continue to enjoy the benefits"
 }

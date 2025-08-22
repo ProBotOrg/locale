@@ -195,7 +195,7 @@
 	"top_voice_score": ":microphone2: VOICE SCORE",
 	"top_more": "Mer?",
 	"points_title": "Poeng:",
-	"points_requested": "Forespurt av {0}",
+	"points_requested": "Requested by {0}",
 	"points_only_managers": ":rolling_eyes: - Points can only be managed by point managers.\n",
 	"points_done_reset": ":sparkles: **All points have been successfully reset.**",
 	"points_valid_number": ":rolling_eyes: - **Please Enter a Valid Number.**\n",
