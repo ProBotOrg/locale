@@ -27,10 +27,10 @@
     "server_description": "اطلاعاتی درباره سرور نشان می دهد.",
     "kick_description": "کاربری را از سرور بیرون می اندازد.",
     "timeout_description": "یک کاربر را تایم‌اوت می کند.",
-    "vkick_description": "کاربری را از یک کانال صوتی بیرون می اندازد.",
-    "mute_description": "عضوی را از کانال متنی بی‌صدا می کند که باعث می شود نتوانند چیزی بنویسند.",
+    "vkick_description": "کاربری را از یک کانال صوتی بیرون می اندازد",
+    "mute_description": "یک عضو را بی‌صدا کنید تا نتواند در کانال‌های متنی تایپ کند.",
     "unmute_description": "عضوی را از حالت بی‌صدا بیرون می آورد.",
-    "vmute_description": "عضوی را از کانال صوتی بی‌صدا می کند که باعث می شود نتوانند صحبت کنند.",
+    "vmute_description": "یک عضو را بی‌صدا کنید تا نتواند در کانال‌های صوتی صحبت کند.",
     "unvmute_description": "عضوی را از حالت بی صدا در کانال های صوتی بیرون می آورد.",
     "untimeout_description": "تایم‌اوت اعمال شده روی یک کاربر را حذف می کند.",
     "move_description": "عضو را به یک کانال صوتی منتقل می کند.",
@@ -44,10 +44,10 @@
     "support_description": "گرفتن لینک دعوت برای سرور پشتیبانی ما.",
     "color_description": "تغییر رنگ شما در سرور.",
     "colors_description": "تمام رنگ های دردسترس را برای شما فهرست می کند.",
-    "title_description": "عنوان شما را در دستور `profile#` تغییر می دهد.",
+    "title_description": "عنوان پروفایل شما را تغییر می‌دهد.",
     "reset_description": "تنظیم مجدد مقادیر xp متنی/صوتی/دعوت‌ها را برای همه اعضاء.",
     "rep_description": "هدیه دادن یک امتیاز شهرت به یک شخص. فقط می توان هر 24 ساعت یک بار استفاده نمود.",
-    "daily_description": "دریافت حقوق روزانه شما.",
+    "daily_description": "لینک جایزه روزانه خود را دریافت کنید و بدانید که چگونه میتوانید دوباره آن را دریافت کنید.",
     "vip_description": "اطلاعات مربوط به بات پریمیوم شما را نشان می دهد.",
     "ping_description": "تست مدت زمان پاسخ دادن بات.",
     "temp_description": "ایجاد یک کانال موقتی",
@@ -143,16 +143,16 @@
     "servers_invites": "دعوت های سرور",
     "create_role": "نقش ساخته شد",
     "update_role": "نقش بروزرسانی شد",
-    "update_thread": "رشته بروزرسانی شد",
+    "update_thread": "Thread به‌روز شد.",
     "delete_role": "نقش حذف شد",
     "member_role_given": "نقش داده شد",
     "member_role_removed": "نقش گرفته شد",
     "nickname_changed": "نام مستعار تغییر یافت",
     "create_channel": "کانال ساخته شد",
-    "create_thread": "رشته ساخته شد",
+    "create_thread": "Thread ایجاد شد.",
     "update_channel": "کانال بروزرسانی شد",
     "delete_channel": "کانال حذف شد",
-    "delete_thread": "رشته حذف شد",
+    "delete_thread": "Thread حذف شد.",
     "update_channel_premissions": "دسترسی های کانال بروزرسانی شد",
     "voice_joined": "کاربر به کانال صوتی وارد شد",
     "voice_left": "کاربر از کانال صوتی خارج شد",
@@ -178,7 +178,7 @@
     "hidden_channels": "کانال های مخفی",
     "no_bots": "به غیر از بات ها",
     "mod_roles": "نقش های نظارتی",
-    "voice_mute_time": "مدت زمان سکوت صوتی دستی",
+    "voice_mute_time": "مدت زمان میوت دستی ویس",
     "ADD_ROLE": "افزودن یک نقش مشخص",
     "ROLE_LIMITS": "محدودیت های %ROLE_NAME% :",
     "BAN_LIMIT": "محدودیت بن",
@@ -194,8 +194,8 @@
     "REMOVE_ROLES": "حذف نقش های مدیریتی از کاربر",
     "PROTECTED_ROLES": "نقش های محافظت شده",
     "PROTECTED_HINT": "پیشنهاد می شود که {0} + نقش‌خودکار را اضافه کنید",
-    "ACTION_WHEN_PROTECTED": "عمل هنگامی که نقش محافظت شده بروزرسانی/حذف می شود",
-    "UNDO_REMOVE_ALL": "بازگردانی عمل + حذف تمامی دسترسی های مدیریتی از همه نقش ها",
+    "ACTION_WHEN_PROTECTED": "عملکرد هنگام به‌روزرسانی/حذف رول محافظت‌شده",
+    "UNDO_REMOVE_ALL": "عمل را برگردانید + تمام مجوزهای مدیریتی را از تمام رول‌ها حذف کنید",
     "PROTECT_BOT_JOINED": "عمل هنگامی که یک بات عضو سرور می‌شود",
     "REMOVE_ADMIN_BOT": "حذف تمامی دسترسی های مدیریتی از آن بات",
     "KICK_THE_BOT": "بیرون انداختن بات",
@@ -221,17 +221,17 @@
     "LOGOUT": "خروج",
     "LOGOUT_CONFIRM": "آیا مطمعنید که می‌خواهید خارج شوید؟",
     "PANEL_LOGS": "سوابق پنل تنظیمات",
-    "TIME_ACTIONS": "زمان اقدامات",
+    "TIME_ACTIONS": "عملیات زمانی",
     "WARNINGS": "اخطار‌ها",
     "BLACKLIST_LINKS": "لیست سیاه لینک ها",
-    "MATCH_THE_WHOLE_SENTENCE": "دقیقا مشابه حروف",
+    "MATCH_THE_WHOLE_SENTENCE": "اگر بخشی از یک کلمه است، مطابقت نداشته باشد.",
     "MESSAGES": "پیام ها",
     "TODAY_JOINS_LEFTS": "کاربرانی که در 24 ساعت اخیر عضو شده‌اند/ترک کرده‌اند",
     "ONLINE_MEMBERS": "اعضاء آنلاین",
     "TOTAL_MEMBERS": "تعداد کل اعضاء",
     "JOINS_LEAVES": "عضو شده‌ها/ ترک کننده‌ها",
     "MESSAGE_STATS": "تعداد پیام ها(بجز بات‌ها)",
-    "BOT_GIVEN_A_ROLE": "عمل هنگامی که بات نقش دسترسی مدیریتی داد",
+    "BOT_GIVEN_A_ROLE": "عمل زمانی که ربات دیگری رول مدیریتی دریافت می‌کند",
     "USE_COMMA": "از یک کاما برای جدا کردن استفاده کنید",
     "GUILD_UPDATE_ACTION": "عمل هنگامی که آیکن/نام سرور تغییر پیدا کرد",
     "CREDITS_STORE": "فروشگاه اعتبارات",
@@ -242,7 +242,7 @@
     "new_messages": "پیام های جدید",
     "join_leaves": "پیوستن/ترک کردن",
     "overview_time": "در 24 ساعت گذشته",
-    "charts_over": "نمودارها",
+    "charts_over": "چارت‌ها به پایان رسیدند",
     "PROTECTION_ACCESS": "کسانی که میتوانند به پنل تنظیمات پروبات دسترسی داشته باشند",
     "PROTECTION_ACCESS_ANY_ADMINISTRATOR": "هر عضوی که دسترسی مدیریت دارد",
     "PROTECTION_ACCESS_MEMBERS": "مالک + تعداد مشخصی از اعضاء که دسترسی مدیریتی دارند",
@@ -254,13 +254,13 @@
     "SAVE_CHANGES": "ذخیره تغییرات",
     "MOD_UNTIL_LEAVES": "تا زمانی که کاربر سرور را ترک می کند",
     "AUTO_ROLES": "نقش های خودکار",
-    "AUTO_ROLES_NOTE": "توسط درخواست های انجمن، نقش‌خودکار فقط زمانی کار می کند که آن نقش دسترسی کامل مدیریتی نداشته باشد.",
+    "AUTO_ROLES_NOTE": "زمانی که پنل قوانین دیسکورد فعال می‌شود، کاربران جدید باید قوانین را بپذیرند تا بتوانند رول خودکار را دریافت کنند. همچنین، اطمینان حاصل کنید که رول‌های اختصاص‌یافته مجوزهای مدیریتی نداشته باشند!",
     "RECOMMANDED": "توصیه شده",
     "PERMISSIONS_LIMITS": "محدودیت های دسترسی‌ها",
     "COMMANDS_LIMITS": "محدودیت های دستورات",
     "COMMAND_LIMIT": "محدودیت",
-    "CHANNELS_LIMIT_HINT": "این محدودیت شامل رخداد های ساخته شدن/بروزرسانی/حذف شدن کانال خواهد شد.",
-    "ROLE_LIMIT_HINT": "این محدودیت شامل رخداد های ساخته شدن/بروزرسانی/حذف شدن نقش خواهد شد.",
+    "CHANNELS_LIMIT_HINT": "این محدودیت به عمل‌های ایجاد/به‌روزرسانی/حذف کانال‌ها اعمال خواهد شد.",
+    "ROLE_LIMIT_HINT": "این محدودیت به عمل‌های ایجاد/به‌روزرسانی/حذف رول‌ها اعمال خواهد شد.",
     "REQUIRES_SETUP": "این سرور نیازمند به راه‌اندازی است.",
     "CONTINUE_TO_DISCORD": "ادامه با دیسکورد",
     "kick_member": "کاربر بیرون انداخته شد",
@@ -269,7 +269,7 @@
     "apply_to_all": "اعمال روی همه",
     "yes": "بله",
     "move_command": "دستور move#",
-    "without_administrative": "نقش های بدون قابلیت مدیریت",
+    "without_administrative": "رول‌های بدون مجوزهای مدیریتی",
     "select_placeholder_create": "ساختن ..",
     "select_placeholder_select": "انتخاب ..",
     "number": "عدد",
@@ -292,15 +292,15 @@
     "index_feature_2_title": "محافظت ضد-یورش",
     "index_feature_2_description": "شناسایی و برخورد خودکار با یورش های احتمالی سرور",
     "index_feature_3_title": "پاسخ دهنده خودکار",
-    "index_feature_3_description": "اجازه دهید بات به هر کلمه واکنشی باسخ دهد",
+    "index_feature_3_description": "به ربات اجازه دهید به هر کلمه‌ی محرک پاسخ دهد.",
     "index_feature_4_title": "مدیریت خودکار",
-    "index_feature_4_description": "سیستم مدیرخودکار پروبات کاربرانِ با رفتار بد را شناسایی و اقدامات مربوطه را روی آن ها اعمال می کند",
+    "index_feature_4_description": "سیستم اتوماد بسیار پیشرفته‌ای که رفتارهای بد را شناسایی کرده و بر روی آن‌ها اعمال می‌کند.",
     "index_feature_5_title": "چندزبانه",
     "index_feature_5_description": "پروبات از بیش از 30 زبان پشتیبانی می‌کند!",
     "index_feature_6_title": "99.99% اوقات دردسترس",
     "index_feature_6_description": "نگران از کار افتادن بات نباشید، پروبات همیشه آنلاین هست!",
     "why_probot_text": "یک بات با قابلیت شخصی سازی بسیار و چندکاربره است برای تصویر خوش‌آمدگویی، سوابق با جزئیات، دستورات اجتماعی، مدیریت و نظم سرور و چیز های خیلی خیلی بیشتر ...",
-    "POINTS_MANAGERS": "نقش هایی می توانند امتیاز بیافزایند (مدیران امتیازات)",
+    "POINTS_MANAGERS": "رول‌ها می‌توانند امتیاز اضافه کنند (مدیران امتیاز)",
     "add_server": "افزودن سرور",
     "invite": "دعوت",
     "pay_now": "همین الان پرداخت کنید",
@@ -374,20 +374,20 @@
     "title": "پروبات - یک بات برای دیسکورد",
     "description": "توضیحات:",
     "lock_description": "‎.در کانالی مشخص غیرفعال می کند @everyone فرستادن پیام توسط",
-    "unlock_description": "‎.در کانالی مشخص فعال می کند @everyone فرستادن پیام توسط",
-    "name_of_user": "نام کاربر را بدون اینکه آن کاربر پینگ شود، نشان می دهد.",
+    "unlock_description": "‎.در کانالی مشخص بر می‌دارد @everyone محدودیت فرستادن پیام توسط",
+    "name_of_user": "نام کاربر را نمایش می‌دهد، بدون اینکه کاربر را پینگ کند.",
     "user_invites_counter": "شمارنده تعداد دعوت کاربر",
-    "to_mention_author": "کاربری را که درخواست پاسخ داده را منشن می کند",
+    "to_mention_author": "کاربری که پاسخ را فراخوانی کرده است را منشن می‌کند.",
     "random_responses": "پاسخ های شانسی",
     "edit_response": "ویرایش پاسخ",
     "link_command": "#link",
     "link_onorder": " **لینک به DM شما ارسال شد**",
     "link_onlink": " انقضاء لینک در: **1 روز**\nدفعات استفاده از لینک: **3 بار**",
-    "link_onfiald": "** من نتوانستم پیام به DM شما بفرستم، تنظیمات حریم خصوصی دیسکورد خود را چک کنید **",
+    "link_onfiald": "** نتوانستم به شما دی ام ارسال کنم. تنظیمات حریم خصوصی خود را بررسی کنید **",
     "link_waittext": "** شما باید 6 ساعت قبل از درخواست یک لینک جدید صبر کنید \n‎ ⏰[time] **",
     "leveling_title": "سیستم سطح بندی",
     "leveling_levelup_message": "پیام ارتقا یافتن سطح متنی",
-    "leveling_text_levelup_channel": "کانال ارتقا یافتن سطح متنی",
+    "leveling_text_levelup_channel": "کانال ارتقاء سطح متنی",
     "leveling_text_level": "سطح متنی",
     "leveling_voice_level": "سطح صوتی",
     "leveling_rewarded_role": "نقش های جایزه داده شده",
@@ -397,10 +397,10 @@
     "leveling_current_channel": "کانال فعلی",
     "leveling_disabled": "غیرفعال",
     "leveling_no_xp_roles": "نقش های بدون XP",
-    "leveling_default_levelup": "[user]، شما به **سطح [level]** رسیدید! 🥳",
+    "leveling_default_levelup": "🥳 **تبریک می‌گویم**، [user]!\nشما از سطح **[oldLevel]** به **[level]** صعود کردید. ادامه بدهید!",
     "leveling_no_xp_channels": "کانال های بدون XP",
     "leveling_note": "* برای جلوگیری از اسپم کردن، کاربران یک مقدار شانسی از xp حین چت کردن به ازای هر دقیقه دریافت می کنند",
-    "leveling_variables": "[level] - برای نوشته شدن سطح\n[oldLevel] - برای نوشته شدن سطح قبلی\n[user] - برای اشاره به نام کاربر\n[userName] - برای نوشتن نام کاربر\n[userTag] - برای آوردن تگ آخر نام کاربر",
+    "leveling_variables": "[level] - برای نمایش سطح داده‌شده  \n[user] - برای پینگ کردن کاربر  \n[user.username] - برای نمایش نام کاربر  \n[user.tag] - برای نمایش تگ کاربر  \n[oldLevel] - برای نمایش سطح قبلی کاربر",
     "leveling_add_role_reward": "افزودن نقش جایزه",
     "Premium": "پريميوم",
     "LEADERBOARD": "جدول امتیازات",
@@ -424,7 +424,7 @@
     "store_error_contact_support": "خطا، لطفا با پشتیبانی تماس حاصل فرمایید",
     "store_background_changed": "پس‌زمینه با موفقیت تغییر یافت 👌",
     "store_badge_changed": "نشان با موفقیت تغییر یافت 👌",
-    "store_credits_too_low": "میزان اعتبار شما کمتر از این است که بتوانید این کار را انجام دهید",
+    "store_credits_too_low": "شما اعتبار کافی ندارید.",
     "store_bg_current": "فعلی",
     "store_buy_use": "خرید و استفاده",
     "store_use": "استفاده",
@@ -440,14 +440,14 @@
     "premium_auto_renew": "تمدید خودکار",
     "premium_payment_amount": "انتخاب میزان پرداخت",
     "premium_ended": "اتمام شده",
-    "premium_dont_have_balance": "اوخ! شما اینقدر موجودی ندارید که بتوانید آن را انجام دهید،",
+    "premium_dont_have_balance": "اوه! شما موجودی کافی برای انجام این کار را ندارید،",
     "premium_current_credits_is": "میزان اعتبار فعلی شما {0} می باشد",
     "premium_name_limit": "نام باید بیشتر از 2 کاراکتر و کمتر از 32 کاراکتر باشد",
-    "protection_options": "تنظیمات محافظت:",
+    "protection_options": "گزینه‌های حفاظت:",
     "protection_delete_limits": "حذف {0} محدودیت",
     "both_voice_and_text": "هم صوتی و هم متنی",
     "whitelist_urls": "لیست سفید آدرس های اینترنتی",
-    "automod_mute_time": "مدت زمان حالت سکوت",
+    "automod_mute_time": "مدت زمان میوت",
     "automod_mute_violations": "تعداد دفعات تخطی کردن قبل از اعمال حالت سکوت",
     "automod_mute_in": "در",
     "automod_mute_time_mintues": "دقیقه",
@@ -544,7 +544,7 @@
     "daily_wrong_captcha": "کپچا درست نیست دوباره تلاش کنید",
     "daily_already_claimed": "شما از قبل جایزه را دریافت نموده‌اید",
     "responder_want_delete": "آیا واقعا می خواهید این پاسخ دهنده را حذف کنید؟",
-    "index_card6_title": "نقش های بازخوردی",
+    "index_card6_title": "نقش‌های خود-اختصاصی",
     "index_card6_description": "با استفاده از نقش های بازخوردی پروبات، به کاربران خود اجازه دهید نقش هایی که لایقشان هستند را داشته باشند!",
     "error_upload_5": "نوع فایل پشتیبانی نشده",
     "error_upload_500": "خطای داخلی سرور",
@@ -556,6 +556,7 @@
     "youtube": "یوتیوب",
     "trovo": "تروُو",
     "reddit": "رددیت",
+    "kick": "Kick",
     "command_saved_success": "{0} با موفقیت دخیره شد 👌",
     "wildcard": "گشتن داخل حروف عبارت",
     "wildcard_description": "در پیام در مورد یک حرف/کلمه خاص جستجو می کند.",
@@ -684,7 +685,7 @@
     "daily_forbidden": "دسترسی غیرمجاز",
     "daily_refresh_page": "لطفا صفحه را مجدداً بارگذاری کنید",
     "daily_server_error": "خطای داخلی سرور",
-    "autorole_specific_invite": "دادن نقش به دعوت از یک لینک مشخص",
+    "autorole_specific_invite": "اختصاص رول به اینوایت خاص",
     "autorole_select_roles": "انتخاب نقش ها",
     "autorole_invite_link": "لینک دعوت",
     "no_link_provide": "هیچ لینکی ارائه نشده",
@@ -714,7 +715,7 @@
     "temp_channel_module": "کانال های موقتی",
     "rr_max_reactions": "به حداکثر تعداد ری‌اکشن ها رسیدید!",
     "temp_max_users": "حداکثر تعداد کاربران پیشفرض",
-    "setxp_description": "مقدار xp عضوی را تغییر میدهد.",
+    "setxp_description": "میزان xp یک کاربر را تغییر میدهد",
     "announcement_halloween": "فقط کافیست {0} را بگویید و 50 درصد تخفیف بگیرید، از کوپن تخفیف {0} می توانید استفاده کنید",
     "stats_7": "هفت روز گذشته",
     "stats_14": "چهارده روز گذشته",
@@ -927,25 +928,25 @@
     "features_welcome_messages_backgorund_title": "تصویر پس‌زمینه قابل شخصی‌سازی خوش‌آمدگو",
     "features_welcome_messages_backgorund_description": "تصاویر خوش‌آمدگویی خود را بسازید و آنها را آپلود کنید تا پروبات به اعضاء جدید سروتان آنها را نمایش دهد؛ به همراه گزینه هایی برای ارسال همراه با یک متن قبل، بعد یا همراه با خود تصویر!",
     "features_welcome_messages_layouts_title": "چیدمان های قابل تنظیم خوش‌آمدگو",
-    "features_welcome_messages_layouts_description": "Customize welcome image layout completely including user avatar's shape, height, width, and coordinates, username width, coordinates, text alignment, and color, and text coordinates, size, width, and color.",
-    "features_embed_messages_modify_title": "Modify your embed message easily.",
-    "features_embed_messages_modify_description": "Modify your embed messages quickly and easily with ProBot's easy-to-use embed feature, which includes a variety of addable fields, titles, and much more!",
-    "features_embed_messages_edit_title": "Edit your embed messages at any time you wish",
-    "features_embed_messages_edit_description": "Have you decided to make a change to a previously sent embed message? Don't be concerned! With the edit send message feature of ProBot, you can select the message you want and make changes. And there you have it, the existing message will be edited!",
-    "features_embed_messages_preview_title": "Preview your embed message before sending",
-    "features_embed_messages_preview_description": "Wondering how your embed message will look before you send it? Don't be concerned! You can see how your embed message will look and have it done flawlessly with ProBot's embed preview!",
-    "features_self_assignable_role_press_button_title": "Press the Button and get the role",
-    "features_self_assignable_role_press_button_description": "Create up to 25 buttons with the ability to change the button emoji, text, color, role mode, notification type, and order!",
-    "features_self_assignable_role_select_role_title": "Select the role you want and get it instantly",
-    "features_self_assignable_role_select_role_description": "Create up to 20 select menus, each with the ability to change the option emoji, title, description, role mode, notification type, and order!",
+    "features_welcome_messages_layouts_description": "به‌طور کامل طرح‌بندی تصویر خوشامدگویی را شخصی‌سازی کنید؛ از جمله شکل، ارتفاع، عرض و مختصات آواتار کاربر، عرض نام کاربری، مختصات، تراز متن و رنگ، و مختصات، اندازه، عرض و رنگ متن.",
+    "features_embed_messages_modify_title": "پیام امبد خود را به‌راحتی ویرایش کنید.",
+    "features_embed_messages_modify_description": "پیام‌های امبد خود را به‌سرعت و به‌راحتی با ویژگی امبد کاربرپسند ProBot ویرایش کنید که شامل انواع مختلفی از فیلدها، عنوان‌ها و بسیاری امکانات دیگر است!",
+    "features_embed_messages_edit_title": "در هر زمان که بخواهید پیام‌های امبد خود را ویرایش کنید.",
+    "features_embed_messages_edit_description": "آیا تصمیم به تغییر پیام امبد قبلاً ارسال‌شده گرفته‌اید؟ نگران نباشید! با ویژگی ویرایش پیام ارسال‌شده ProBot، می‌توانید پیام مورد نظر را انتخاب کرده و تغییرات مورد نظر را اعمال کنید. و تمام، پیام موجود ویرایش خواهد شد!",
+    "features_embed_messages_preview_title": "پیش‌نمایش پیام امبد خود را قبل از ارسال مشاهده کنید.",
+    "features_embed_messages_preview_description": "آیا کنجکاوید که پیام امبد شما قبل از ارسال چگونه به نظر می‌رسد؟ نگران نباشید! با پیش‌نمایش امبد ProBot می‌توانید ببینید پیام امبد شما چگونه خواهد بود و آن را به‌صورت بی‌نقص انجام دهید!",
+    "features_self_assignable_role_press_button_title": "دکمه را فشار دهید و رول را دریافت کنید.",
+    "features_self_assignable_role_press_button_description": "تا 25 دکمه ایجاد کنید با امکان تغییر ایموجی دکمه، متن، رنگ، حالت رول، نوع اعلان و ترتیب!",
+    "features_self_assignable_role_select_role_title": "رول مورد نظر خود را انتخاب کنید و به‌طور فوری دریافت کنید.",
+    "features_self_assignable_role_select_role_description": "تا 20 منوی انتخاب ایجاد کنید، هر کدام با امکان تغییر اموجی گزینه، عنوان، توضیحات، حالت رول، نوع اعلان و ترتیب!",
     "features_self_assignable_role_react_message_title": "به پیام ری‌اکت کنید تا رول خود را دریافت کنید",
-    "features_self_assignable_role_react_message_description": "Create up to 20 reactions with the option of using custom or standard emojis, as well as the ability to change the role mode, and notification type!",
-    "features_leveling_system_leve_type_title": "Set your preferred Level Type",
-    "features_leveling_system_leve_type_description": "Add Role Rewards by specifying your preferred level type (text, voice, or both)! With the ability to remove low-level rewards and replace them with higher-level rewards, as well as the ability to notify a user via DMS!",
+    "features_self_assignable_role_react_message_description": "تا 20 ری‌اکشن ایجاد کنید با امکان استفاده از اموجی‌های سفارشی یا استاندارد، و همچنین تغییر حالت رول و نوع اعلان!",
+    "features_leveling_system_leve_type_title": "نوع سطح دلخواه خود را تنظیم کنید.",
+    "features_leveling_system_leve_type_description": "پاداش‌های رول را با تعیین نوع سطح دلخواه خود (متنی، صوتی، یا هر دو) اضافه کنید! همچنین می‌توانید پاداش‌های سطوح پایین را حذف کرده و با پاداش‌های سطوح بالاتر جایگزین کنید و از طریق دی ام به کاربران اعلان ارسال کنید.",
     "features_leveling_system_no_xp_title": "تنظیم نقش ها و کانال های بدون XP",
-    "features_leveling_system_no_xp_description": "Have the ability to prevent specific roles from gaining XP on your server, as well as the ability to prevent specific channels from gaining XP!",
-    "features_leveling_system_level_message_title": "Set up the leveling up message channel",
-    "features_leveling_system_level_message_description": "Set up your leveling channel and personalize your leveling text with our unique variables!",
+    "features_leveling_system_no_xp_description": "قابلیت جلوگیری از کسب XP برای رول‌های خاص در سرور خود و همچنین جلوگیری از کسب XP در کانال‌های خاص را داشته باشید!",
+    "features_leveling_system_level_message_title": "کانال پیام‌های ارتقاء سطح را تنظیم کنید.",
+    "features_leveling_system_level_message_description": "کانال سطح‌بندی خود را تنظیم کنید و متن سطح‌بندی خود را با استفاده از متغیرهای منحصر به فرد ما شخصی‌سازی کنید!",
     "premium_most_popular_tag": "محبوب‌ترین",
     "premium_which_plan_title": "کدام پلن برای شما مناسب است؟",
     "premium_tier_billed": "${0} به ازای هر ماه به صورت پرداخت های سالانه یا ${1} پرداخت ماهانه",
@@ -968,7 +969,7 @@
     "starboard_content_variable": "محتوای پیام",
     "starboard_emoji_variable": "ایموجی استاربورد",
     "premium_faq_question_1": "بات پریمیوم چیست؟",
-    "premium_faq_answer_1": "A premium bot is a service designed for server owners who want to enhance their servers with advanced features and protection against raiders and vandals. It comes in two tiers, each offering unique sets of features.",
+    "premium_faq_answer_1": "یک ربات پریمیوم، خدماتی است که برای صاحبان سرورهایی طراحی شده که می‌خواهند سرورهای خود را با ویژگی‌های پیشرفته و حفاظت در برابر مهاجمان و خرابکاران بهبود بخشند. این سرویس در دو سطح ارائه می‌شود که هرکدام مجموعه‌های منحصر به فردی از ویژگی‌ها را ارائه می‌دهد.",
     "premium_faq_question_2": "آیا می‌توانم اشتراک پریمیوم بات خودم را به سرور دیگری انتقال دهم؟",
     "premium_faq_answer_2": "بله شما میتوانید اشتراک پریمیوم بات خود را به سرور دیگری منتقل کنید. فقط کافیست بات را با همان اعتبارات قبلی به سروری دیگر دعوت کنید.",
     "premium_faq_question_3": "آیا من ویژگی های پریمیوم خودم را از دست خواهم داد اگر از یک سطح به سطحی دیگر تغییر کاربری بدهم؟",
@@ -997,6 +998,7 @@
     "response_type": "نوع پاسخ",
     "delete_response": "حذف پاسخ {0}",
     "no_responses_found": "پاسخی یافت نشد",
+    "max_response_limit_reached": "You can increase your response limit by upgrading to premium.",
     "delete_response_ask": "آیا مطمعنید که میخواهید این پاسخ را حذف کنید؟",
     "response_onboard_description": "از پاسخ های متنوع برای پیام های خود استفاده کنید!",
     "role_hierarchy_warn": "اوه نه! نقش {0} از نقش من رده بالاتری دارد. مطمئن شوید که نقش من از مابقی نقش های مورد انتخاب بالاتر باشد.",
@@ -1004,5 +1006,41 @@
     "responses_onboarding_content": "پیام های خود را با دکمه ها و منو ها برای پاسخ های شخصی سازی شده به سطحی بالاتر ارتقاء دهید!",
     "responses_onboarding_title": "المان های پاسخ",
     "select_menu_limit_message": "حداکثر گزینه های انتخاب 25 عدد می باشند. شما {0} گزینه دارید",
-    "error_upload_size": "تصویر از محدودیت اعمال شده میگذرد، سعی کنید از اندازه کوچکتر تصویر استفاده کنید."
+    "error_upload_size": "تصویر از محدودیت اعمال شده میگذرد، سعی کنید از اندازه کوچکتر تصویر استفاده کنید.",
+    "cancel_invoice_confirm": "Yes, cancel Invoice",
+    "invoice_cancel_modal_title": "Do you really want to cancel this invoice?",
+    "cancel_invoice": "Cancel Invoice",
+    "payment_method_update_info": "Below is a list of subscriptions we need an updated payment method for. Please click the renew button to continue to enjoy the benefits",
+    "statistics_channels": "Statistics Channels",
+    "statistics_channels_no_configure": "No statistics configured",
+    "statistics_channels_no_configure_text": "Create dynamic channels that display server statistics like member count, online users, and more.",
+    "statistics_channels_no_configure_add": "Add Statistics",
+    "statistics_channels_channel_name": "Channel Name Template",
+    "target_channel": "Target Channel",
+    "channel_type": "Channel Type",
+    "top_rep": "Top 100 by Reputation",
+    "top_rep_banner_text": "Want to be featured on this list?",
+    "top_rep_banner_link": "Purchase a membership",
+    "vote": "Vote",
+    "mod_actions_description": "Moderation action history",
+    "panel_logs_description": "Dashboard activity logs",
+    "youtube_description": "YouTube video notifications",
+    "twitch_description": "Twitch stream notifications",
+    "protection_description": "Advanced server protection",
+    "anti_raid_description": "Protection against raids",
+    "statistics_channels_description": "Display server statistics in channels",
+    "link_description": "Link management features",
+    "starboard_description": "Highlight starred messages",
+    "reaction_roles_description": "Role assignment via reactions",
+    "logs_description": "Server activity logging",
+    "auto_roles_description": "Automatic role assignment",
+    "leveling_description": "XP and leveling system",
+    "auto_responder_description": "Automatic message responses",
+    "welcomer_description": "Welcome new members automatically",
+    "automod_description": "Automatic moderation features",
+    "moderation_description": "Moderation tools and commands",
+    "utility_description": "Utility commands and features",
+    "premium_description": "Control your premium subscription",
+    "settings_description": "Manage your server settings",
+    "overview_description": "Get main information about your server settings"
 }
