@@ -509,13 +509,13 @@
 	"membership_gold": "Gold",
 	"membership_diamond": "Diamond",
 	"membership_rep_dm": "{0} Ви даде точка за репутация.",
-	"logs_thread_created": ":house: **Thread Created: `{0}`**",
-	"thread_old_locked": "Old Thread Locked?",
-	"thread_new_locked": "New Thread Locked?",
-	"thread_old_archived": "Old Thread Archived?",
-	"thread_new_archived": "New Thread Archived?",
-	"thread_old_archive_duration": "Old Thread Archive Duration",
-	"thread_new_archive_duration": "New Thread Archive Duration",
-	"logs_thread_deleted": ":house: **Thread Deleted: `{0}`**",
-	"logs_thread_updated": ":house: **Thread Updated: `{0}`**"
+	"logs_thread_created": ":house: **Темата е създадена: `{0}`**",
+	"thread_old_locked": "Стара тема е заключена?",
+	"thread_new_locked": "Нова тема е заключена?",
+	"thread_old_archived": "Стара тема е архивирана?",
+	"thread_new_archived": "Нова тема е архивирана?",
+	"thread_old_archive_duration": "Продължителност на архива на стара тема",
+	"thread_new_archive_duration": "Продължителност на архива на нова тема",
+	"logs_thread_deleted": ":house: **Темата е изтрита: `{0}`**",
+	"logs_thread_updated": ":house: **Темата е подновена: `{0}`**"
 }
