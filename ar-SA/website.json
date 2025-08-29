@@ -25,13 +25,13 @@
     "WELCOMER": "الترحيب & المغادرة",
     "top_description": "عرض الأعضاء الذين لديهم أكثر نقاط في السيرفر.",
     "server_description": "يظهر معلومات حول السيرفر.",
-    "kick_description": "طرد عضو.",
+    "kick_description": "طرد العضو.",
     "timeout_description": "أعطاء وقت مستقطع للعضو.",
-    "vkick_description": "طرد عضو من الروم الصوتي.",
+    "vkick_description": "طرد العضو من الروم الصوتي.",
     "mute_description": "منع العضو من الكتابة في الرومات الكتابية.",
     "unmute_description": "إلغاء منع كتابي من عضو.",
     "vmute_description": "منع عضو من التحدث في الرومات الصوتية.",
-    "unvmute_description": "إلغاء الكتم الصوتي من العضو.",
+    "unvmute_description": "فك الكتم الصوتي من العضو",
     "untimeout_description": "إزالة الوقت المستقطع من المستخدم.",
     "move_description": "نقل عضو إلى روم صوتي.",
     "role_description": "إضافة / إزالة رولات من المستخدم.",
@@ -47,7 +47,7 @@
     "title_description": "يغير عنوان بروفايلك.",
     "reset_description": "اعادة تعيين النقاط الكتابيه/الصوتية/الانفايت من جميع الاعضاء او عضو معين.",
     "rep_description": "منح شخص نقطة سمعة. يمكن استخدامها مرة واحدة فقط كل 24 ساعة.",
-    "daily_description": "الحصول على راتبك اليومي.",
+    "daily_description": "احصل على رابط المكافأة اليومية ومعرفة متى يمكنك الحصول عليها مرة اخرى.",
     "vip_description": "يعرض معلومات حول بوت بريميوم الخاص بك.",
     "ping_description": "اختبار وقت استجابة البوت.",
     "temp_description": "يصنع روم مؤقت.",
@@ -283,7 +283,7 @@
     "General": "عام",
     "leveling": "لفلات",
     "info": "معلومات",
-    "usage": "الإستخدام:",
+    "usage": "الاستخدام:",
     "probot": "بروبوت",
     "index_header_big_string": "اصنع خادم ديسكورد احترافي!",
     "index_why_probot": "لماذا بروبوت",
@@ -338,14 +338,14 @@
     "embed_url": "رابط",
     "embed_image": "صورة",
     "embed_thumbnail": "الصورة المصغّرة",
-    "embed_color": "اللون",
+    "embed_color": "لون",
     "embed_footer": "ذيل",
     "embed_field": "حقل",
     "embed_message_content": "محتوى الرسالة",
     "embed_author": "الكاتب",
     "embed_name": "الإسم",
     "embed_icon_url": "رابط الأيقونة",
-    "embed_text": "نص",
+    "embed_text": "النص",
     "embed_icon": "أيقونة",
     "embed_value": "القيمة",
     "embed_inline": "في نفس السطر",
@@ -374,7 +374,7 @@
     "title": "بروبوت - البوت العربي الأول في ديسكورد",
     "description": "وصف:",
     "lock_description": "يقوم بتعطيل خاصية إرسال الرسائل من الجميع في روم معين.",
-    "unlock_description": "للسماح للجميع بإرسال رسائل في قناة محددة.",
+    "unlock_description": "للسماح للجميع بإرسال رسائل في روم محدد.",
     "name_of_user": "يظهر اسم العضو بدون الإشارة له",
     "user_invites_counter": "عدد دعوات العضو",
     "to_mention_author": "الإشارة إلى الكاتب",
@@ -556,6 +556,7 @@
     "youtube": "يوتيوب",
     "trovo": "تروڤو",
     "reddit": "ريديت",
+    "kick": "طرد",
     "command_saved_success": "{0} تم حفظ بنجاح 👌",
     "wildcard": "البحث في الجملة كاملة",
     "wildcard_description": "ابحث عن حرف او كلمة معينة في الرسالة.",
@@ -714,7 +715,7 @@
     "temp_channel_module": "الرومات المؤقتة",
     "rr_max_reactions": "تم وصول الحد الأقصى للرياكشنات!",
     "temp_max_users": "الحد الأقصى لعدد المستخدمين",
-    "setxp_description": "تغيير اكسبي العضو",
+    "setxp_description": "تعيين اكسبي للعضو",
     "announcement_halloween": "أستخدم {0} للحصول على خصم {1}، استخدم كوبون {0}",
     "stats_7": "آخر 7 أيام",
     "stats_14": "آخر 14 يوم",
@@ -722,7 +723,7 @@
     "stats_3_months": "آخر 3 أشهر (بريميوم)",
     "stats_6_months": "آخر 6 أشهر (بريميوم)",
     "stats_1_year": "آخر سنة (بريميوم)",
-    "setlevel_description": "تغيير مستوى العضو",
+    "setlevel_description": "تعيين مستوى العضو",
     "rr_type": "طريقة العمل",
     "rr_buttons": "زر",
     "rr_select_menu": "قائمة الاختيار",
@@ -744,7 +745,7 @@
     "rr_select_limits": "لا يمكنك إضافة أكثر من 5 قوائم اختيار.",
     "rr_options_limit": "لا يمكنك إضافة أكثر من 25 خيار إلى قائمة الاختيار.",
     "rr_types": "نوع الرولات القابلة للأخذ",
-    "vote_description": "احصل على رابط التصويت ومتى يمكنك التصويت للبوت",
+    "vote_description": "احصل على رابط التصويت ومعرفة متى يمكنك التصويت للبوت مرة اخرى",
     "send_as_reply": "إرسال كـ رد",
     "ping_the_author": "منشن لمرسل الرسالة",
     "rr_notification_type": "نوع الإشعار",
@@ -997,6 +998,7 @@
     "response_type": "نوع الرد",
     "delete_response": "حذف الرد {0}",
     "no_responses_found": "ليست هناك ردود",
+    "max_response_limit_reached": "You can increase your response limit by upgrading to premium.",
     "delete_response_ask": "هل أنت متأكد أنك ترغب في حذف هذا الرد؟",
     "response_onboard_description": "استخدم استجابات مرنة لرسالتك الإيمبد!",
     "role_hierarchy_warn": "يبدو أن رتبة **{0}** أعلى من رتبتي. يرجى التأكد من ترتيب رتبتي فوق الرتبة المحددة.",
@@ -1004,5 +1006,41 @@
     "responses_onboarding_content": "قم بإضافة الرسائل مع أزرار قابلة للتخصيص وقوائم للاستجابات المخصصة!",
     "responses_onboarding_title": "عناصر الإستجابة",
     "select_menu_limit_message": "الحد الأقصى لعدد الخيارات هو 25. لديك {0} من الخيارات",
-    "error_upload_size": "الصورة تجاوزت الحد، حاول تقليل حجم الصورة."
+    "error_upload_size": "الصورة تجاوزت الحد، حاول تقليل حجم الصورة.",
+    "cancel_invoice_confirm": "نعم، قم بإلغاء الفاتورة",
+    "invoice_cancel_modal_title": "هل تريد حقًا إلغاء هذه الفاتورة؟",
+    "cancel_invoice": "إلغاء الفاتورة",
+    "payment_method_update_info": "فيما يلي قائمة بالاشتراكات التي نحتاج إلى تحديث طريقة الدفع الخاصة بها. يرجى النقر على زر التجديد لمواصلة الاستمتاع بالمزايا",
+    "statistics_channels": "قنوات الإحصاء",
+    "statistics_channels_no_configure": "لم يتم تكوين أي إحصائيات",
+    "statistics_channels_no_configure_text": "إنشاء قنوات ديناميكية لعرض إحصائيات الخادم مثل عدد الأعضاء، والمستخدمين المتصلين، والمزيد.",
+    "statistics_channels_no_configure_add": "إضافة إحصائية",
+    "statistics_channels_channel_name": "قالب اسم القناة",
+    "target_channel": "القناة المستهدفة",
+    "channel_type": "نوع القناة",
+    "top_rep": "أعلى 100 بنقاط السمعةg",
+    "top_rep_banner_text": "هل تريد أن يتم إدراجك في هذه القائمة؟",
+    "top_rep_banner_link": "Purchase a membership",
+    "vote": "Vote",
+    "mod_actions_description": "Moderation action history",
+    "panel_logs_description": "Dashboard activity logs",
+    "youtube_description": "YouTube video notifications",
+    "twitch_description": "Twitch stream notifications",
+    "protection_description": "Advanced server protection",
+    "anti_raid_description": "Protection against raids",
+    "statistics_channels_description": "Display server statistics in channels",
+    "link_description": "Link management features",
+    "starboard_description": "Highlight starred messages",
+    "reaction_roles_description": "Role assignment via reactions",
+    "logs_description": "Server activity logging",
+    "auto_roles_description": "Automatic role assignment",
+    "leveling_description": "XP and leveling system",
+    "auto_responder_description": "Automatic message responses",
+    "welcomer_description": "Welcome new members automatically",
+    "automod_description": "Automatic moderation features",
+    "moderation_description": "Moderation tools and commands",
+    "utility_description": "Utility commands and features",
+    "premium_description": "Control your premium subscription",
+    "settings_description": "Manage your server settings",
+    "overview_description": "Get main information about your server settings"
 }
