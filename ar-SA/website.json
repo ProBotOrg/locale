@@ -1038,9 +1038,9 @@
     "auto_responder_description": "ردود الرسائل التلقائية",
     "welcomer_description": "الترحيب بالأعضاء الجدد تلقائيا",
     "automod_description": "ميزات الإشراف التلقائي",
-    "moderation_description": "Moderation tools and commands",
-    "utility_description": "Utility commands and features",
-    "premium_description": "Control your premium subscription",
-    "settings_description": "Manage your server settings",
-    "overview_description": "Get main information about your server settings"
+    "moderation_description": "أدوات وأوامر الإشراف",
+    "utility_description": "أوامر وميزات الأوامر العامة\n\n",
+    "premium_description": "التحكم في اشتراكك المدفوع",
+    "settings_description": "إدارة إعدادات السيرفر",
+    "overview_description": "عرض المعلومات الأساسية عن إعدادات الخادم"
 }
