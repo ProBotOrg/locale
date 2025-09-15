@@ -1056,12 +1056,12 @@
     "channel_type_stage": "Sahne Kanalı",
     "statistics_placeholder_example": "Örneğin : Üye Sayısı: [MembersCount]",
     "statistics_select_statistic_type": "İstatistik Türü Seç",
-    "statistics_already_used": "Statistic already in channel name",
-    "statistics_select_placeholder": "Select a statistic type",
-    "channel_type_placeholder": "Select channel type",
-    "statistics_add_statistic": "Add Statistic",
-    "statistics_add_first_statistic": "Add Your First Statistic",
+    "statistics_already_used": "Bu istatistik zaten var",
+    "statistics_select_placeholder": "İstatistik Türü Seç",
+    "channel_type_placeholder": "Kanal Türü Seç",
+    "statistics_add_statistic": "İstatistik Ekle",
+    "statistics_add_first_statistic": "İlk İstatistiğinizi Ekleyin",
     "statistics_none_configured_title": "Hiçbir istatistik kanalı ayarlanmadı",
     "statistics_none_configured_description": "Üye sayısı, çevrimiçi kullanıcılar ve daha fazlası gibi sunucu istatistiklerini görüntüleyen dinamik kanallar oluşturun.",
-    "statistics_additional_settings": "Additional Settings"
+    "statistics_additional_settings": "Ek Ayarlar"
 }
