@@ -445,7 +445,7 @@
 	"setxp_select_type": "**يرجى أختيار نوع الاكسبي.**",
 	"setxp_text_select": "أضافة اكسبي إلى المستوى الكتابي",
 	"setxp_voice_select": "إضافة اكسبي إلى المستوى الصوتي",
-	"setxp_description": "تعيين اكسبي للعضو",
+	"setxp_description": "\nتعيين اكسبي للعضو",
 	"setxp_type_description": "نوع الاكسبي كتابي أم صوتي",
 	"setxp_user_description": "المستخدم الذي تريد تعيين الاكسبي له",
 	"setxp_xp_description": "كمية الاكسبي الذي تريد تعيينها للعضو",
