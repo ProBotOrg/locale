@@ -1056,7 +1056,7 @@
     "channel_type_stage": "ステージチャンネル",
     "statistics_placeholder_example": "例えば、メンバー数は: [MembersCount]",
     "statistics_select_statistic_type": "統計の種類を選択",
-    "statistics_already_used": "",
+    "statistics_already_used": "そのチャンネル名は別の統計ですでに使用されています。",
     "statistics_select_placeholder": "統計の種類を選択",
     "channel_type_placeholder": "チャンネルの種類を選択",
     "statistics_add_statistic": "統計チャンネルを追加",
