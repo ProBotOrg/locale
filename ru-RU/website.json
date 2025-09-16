@@ -1055,13 +1055,13 @@
     "channel_type_voice": "Голосовой канал",
     "channel_type_stage": "Трибуна",
     "statistics_placeholder_example": "Например, Участников: [MembersCount]",
-    "statistics_select_statistic_type": "Select Statistic Type",
-    "statistics_already_used": "Statistic already in channel name",
-    "statistics_select_placeholder": "Select a statistic type",
-    "channel_type_placeholder": "Select channel type",
-    "statistics_add_statistic": "Add Statistic",
-    "statistics_add_first_statistic": "Add Your First Statistic",
+    "statistics_select_statistic_type": "Выберите тип статистики",
+    "statistics_already_used": "Статистика уже в названии канала",
+    "statistics_select_placeholder": "Выберите тип статистики",
+    "channel_type_placeholder": "Выберите тип канала",
+    "statistics_add_statistic": "Добавить статистику",
+    "statistics_add_first_statistic": "Добавьте свою первую статистику",
     "statistics_none_configured_title": "Статистика не настроена",
     "statistics_none_configured_description": "Создавайте динамические каналы, отображающие статистику сервера, такие как число участников, онлайн и другое",
-    "statistics_additional_settings": "Additional Settings"
+    "statistics_additional_settings": "Дополнительные настройки"
 }
