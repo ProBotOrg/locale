@@ -1055,13 +1055,13 @@
     "channel_type_voice": "Kênh thoại",
     "channel_type_stage": "Kênh Stage",
     "statistics_placeholder_example": "vd: Tổng thành viên: [MembersCount]",
-    "statistics_select_statistic_type": "Select Statistic Type",
-    "statistics_already_used": "Statistic already in channel name",
-    "statistics_select_placeholder": "Select a statistic type",
-    "channel_type_placeholder": "Select channel type",
-    "statistics_add_statistic": "Add Statistic",
-    "statistics_add_first_statistic": "Add Your First Statistic",
+    "statistics_select_statistic_type": "Chọn kiểu thống kê",
+    "statistics_already_used": "Thống kê đã có trong tên kênh",
+    "statistics_select_placeholder": "Chọn kiểu thống kê",
+    "channel_type_placeholder": "Chọn kiểu kênh",
+    "statistics_add_statistic": "Thêm thống kê",
+    "statistics_add_first_statistic": "Thêm kênh thống kê đầu tiên của bạn",
     "statistics_none_configured_title": "Tính năng chưa được thiết lập",
     "statistics_none_configured_description": "Tạo một dãy các kênh dùng để hiển thị thống kê của server như tổng thành viên, lượng thành viên trực tuyến, và hơn thế nữa.",
-    "statistics_additional_settings": "Additional Settings"
+    "statistics_additional_settings": "Cài đặt khác"
 }
