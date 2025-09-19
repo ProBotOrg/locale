@@ -766,7 +766,7 @@
     "premium_bot_customization": "Bot カスタマイズ",
     "twitch_name": "ストリーマー名",
     "twitch_link": "ストリームへのリンク",
-    "twitch_message": "メッセージ",
+    "twitch_message": "**{0}**が配信中です！🎬\n最高の瞬間をお見逃しなく！さっそく視聴しにいきましょう🔥\n{1}",
     "welcome_reset_coordinates": "座標をリセット",
     "welcome_reset_description": "「ようこそ機能」の設定をすべて既定値にリセット",
     "reset": "リセット",
