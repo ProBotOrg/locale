@@ -371,7 +371,7 @@
     "logout_yes": "Yes, log me out!",
     "logout_no": "No, take me back!",
     "title": "ProBot - Bot for Discord",
-    "description": "Description:",
+    "description": "",
     "lock_description": "Skakel @everyone uit om boodskappe in spesifieke kanaal te stuur.",
     "unlock_description": "Laat @everyone toe om boodskappe in spesifieke kanaal te stuur.",
     "name_of_user": "Displays the user's name, without pinging the user.",
