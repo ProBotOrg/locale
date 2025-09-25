@@ -895,6 +895,7 @@
     "login_required_message": "عفوا! يبدو أن هناك شيئاً مفقوداً",
     "login_to_view": "تحتاج إلى تسجيل الدخول باستخدام حسابك في الديسكورد للوصول إلى هذه الميزة.",
     "oh_no_role": "يبدو ان رتبة **{0}** اعلى من رتبتي ، تأكد من رفع رتبتي فوق الرتبة التلقائية.",
+    "landing_new_stats": "New: Server Statistics Feature",
     "landing_new_membership": "جديد : اشتراكات عضوية التميز",
     "landing_features": "المميزات",
     "landing_features_ready_to_start": "على استعداد للبدء ؟",
