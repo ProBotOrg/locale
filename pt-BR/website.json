@@ -895,6 +895,7 @@
     "login_required_message": "Opa! Parece que está faltando alguma coisa",
     "login_to_view": "Você precisa entrar com sua conta do Discord para acessar este recurso.",
     "oh_no_role": "Ah não! **{0}** o cargo tem uma posição mais alta do que o meu cargo. Certifique-se de que meu cargo é mais alto que o cargo selecionado.",
+    "landing_new_stats": "New: Server Statistics Feature",
     "landing_new_membership": "Novo: Assinatura de nossas adesões",
     "landing_features": "Recursos",
     "landing_features_ready_to_start": "Pronto para começar?",
