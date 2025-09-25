@@ -895,6 +895,7 @@
     "login_required_message": "אופס! זה נראה שמשהו חסר",
     "login_to_view": "אתה צריך להתחבר עם משתמש הDiscord שלך כדי לגשת לפיצ'ר הזה.",
     "oh_no_role": "אוי לא! המיקום של הרול **{0}** יותר גבוה מהרול שלי, אנא וודא שהרול שלי גבוה מהרול שנבחר.",
+    "landing_new_stats": "New: Server Statistics Feature",
     "landing_new_membership": "חדש: מנוי חברות מועדון",
     "landing_features": "פיצ'רים",
     "landing_features_ready_to_start": "רוצה להתחיל?",

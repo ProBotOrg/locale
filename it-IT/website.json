@@ -895,6 +895,7 @@
     "login_required_message": "Oops! Sembra che qualcosa sia mancante",
     "login_to_view": "Devi accedere con il tuo account Discord per accedere a questa funzione.",
     "oh_no_role": "Oh no! **{0}** il ruolo ha una posizione più alta del mio ruolo, assicurati che il mio ruolo sia più alto del ruolo selezionato.",
+    "landing_new_stats": "New: Server Statistics Feature",
     "landing_new_membership": "Nuovo: Un abbonamento per i nostri membri",
     "landing_features": "Caratteristiche",
     "landing_features_ready_to_start": "Sei pronto ad iniziare?",
