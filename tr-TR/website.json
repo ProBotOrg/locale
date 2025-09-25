@@ -895,6 +895,7 @@
     "login_required_message": "Hata! Bir şeyler eksik gibi görünüyor",
     "login_to_view": "Bu özelliğe erişmek için Discord hesabınızla giriş yapmalısınız.",
     "oh_no_role": "Oh hayır! **{0}** rolün rolümden daha yüksek bir konumu var, Rolümün seçilen rolden daha yüksek olduğundan emin olun.",
+    "landing_new_stats": "New: Server Statistics Feature",
     "landing_new_membership": "Yeni: Üyelik Abonelikleri",
     "landing_features": "Özellikler",
     "landing_features_ready_to_start": "Başlamaya hazır mısın?",
