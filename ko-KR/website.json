@@ -895,7 +895,7 @@
     "login_required_message": "이런! 뭔가 누락된 것 같아요",
     "login_to_view": "이 기능에 접근하려면 Discord 계정으로 로그인해야 해요.",
     "oh_no_role": "이런! **{0}** 역할이 제 역할보다 위치가 더 높아요. 선택한 역할보다 제 역할이 더 위에 있도록 해 주세요.",
-    "landing_new_stats": "New: Server Statistics Feature",
+    "landing_new_stats": "신규: 서버 통계 기능",
     "landing_new_membership": "신규: 멤버십 구독",
     "landing_features": "기능",
     "landing_features_ready_to_start": "시작할 준비가 됐나요?",
