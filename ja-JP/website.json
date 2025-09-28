@@ -895,7 +895,7 @@
     "login_required_message": "おっと！何か見つからないようです。",
     "login_to_view": "ダッシュボードの利用にはDiscordアカウントでのログインが必要です。",
     "oh_no_role": "ああ！**{0}** のロールが私のロールよりも高い位置にあります。私のロールが選択したロールよりも高くなっていることを確認してください。",
-    "landing_new_stats": "New: Server Statistics Feature",
+    "landing_new_stats": "新しいサーバー統計機能が登場",
     "landing_new_membership": "新しいメンバーシップサブスクが登場",
     "landing_features": "機能",
     "landing_features_ready_to_start": "さっそく読んでみよう。",
