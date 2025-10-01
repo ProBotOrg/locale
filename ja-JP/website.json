@@ -603,7 +603,7 @@
     "billing": "ご請求",
     "billing_note": "注：お支払い履歴は過去1年分までしか表示されません。",
     "all_subscriptions": "すべてのサブスク",
-    "premium_someone_else": "このサーバーは他の人が宣伝したものです。プレミアム課金を管理するには該当するユーザーに連絡してください。",
+    "premium_someone_else": "このサーバーは他のユーザーによってプレミアムに登録されています。管理するには該当のユーザーに連絡してください。",
     "premium_activate": "サブスクを有効化する",
     "premium_cancel": "サブスクを中止する",
     "pay_annually_and_save": "年払いで {0} 節約",
