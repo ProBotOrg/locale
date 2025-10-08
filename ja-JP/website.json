@@ -176,7 +176,7 @@
     "link_auto_delete": "5秒後にユーザーとボットメッセージを自動削除",
     "channel": "チャンネル",
     "hidden_channels": "非表示のチャンネル",
-    "no_bots": "ボットが居ません",
+    "no_bots": "Botを除外",
     "mod_roles": "管理者権限",
     "voice_mute_time": "手動音声ミュート期間",
     "ADD_ROLE": "特定のロールを追加",
