@@ -1064,5 +1064,7 @@
     "statistics_add_first_statistic": "Добавьте свою первую статистику",
     "statistics_none_configured_title": "Статистика не настроена",
     "statistics_none_configured_description": "Создавайте динамические каналы, отображающие статистику сервера, такие как число участников, онлайн и другое",
-    "statistics_additional_settings": "Дополнительные настройки"
+    "statistics_additional_settings": "Дополнительные настройки",
+    "channel_name": "Youtube channel name",
+    "channel_link": "Youtube channel link"
 }
