@@ -1064,5 +1064,7 @@
     "statistics_add_first_statistic": "最初の統計チャンネルを追加",
     "statistics_none_configured_title": "統計チャンネルが設定されていません",
     "statistics_none_configured_description": "サーバーのメンバー数やオンラインユーザー数などの統計情報を表示するチャンネルを作成できます。",
-    "statistics_additional_settings": "詳細設定"
+    "statistics_additional_settings": "詳細設定",
+    "channel_name": "Youtube channel name",
+    "channel_link": "Youtube channel link"
 }
