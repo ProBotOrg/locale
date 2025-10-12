@@ -1065,6 +1065,6 @@
     "statistics_none_configured_title": "Hiçbir istatistik kanalı ayarlanmadı",
     "statistics_none_configured_description": "Üye sayısı, çevrimiçi kullanıcılar ve daha fazlası gibi sunucu istatistiklerini görüntüleyen dinamik kanallar oluşturun.",
     "statistics_additional_settings": "Ek Ayarlar",
-    "channel_name": "Youtube channel name",
-    "channel_link": "Youtube channel link"
+    "channel_name": "YouTube kanal adı",
+    "channel_link": "YouTube kanal bağlantısı"
 }
