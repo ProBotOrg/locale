@@ -1065,6 +1065,6 @@
     "statistics_none_configured_title": "統計チャンネルが設定されていません",
     "statistics_none_configured_description": "サーバーのメンバー数やオンラインユーザー数などの統計情報を表示するチャンネルを作成できます。",
     "statistics_additional_settings": "詳細設定",
-    "channel_name": "Youtube channel name",
-    "channel_link": "Youtube channel link"
+    "channel_name": "YouTubeチャンネル名",
+    "channel_link": "YouTubeチャンネルURL"
 }
