@@ -1065,6 +1065,8 @@
     "statistics_none_configured_title": "Aucune statistique configurée",
     "statistics_none_configured_description": "Créez des salons dynamiques affichant les statistiques du serveur, comme un compteur de membres, membres en ligne et bien plus encore.",
     "statistics_additional_settings": "Paramètres supplémentaires",
-    "channel_name": "Youtube channel name",
-    "channel_link": "Youtube channel link"
+    "youtube_name": "Channel Name",
+    "youtube_link": "Channel Link",
+    "youtube_only_2": "Only 2 YouTube channels are allowed in beta release",
+    "youtube_title": "Video Title"
 }
