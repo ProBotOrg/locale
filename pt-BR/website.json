@@ -1066,5 +1066,6 @@
     "statistics_none_configured_description": "Crie canais dinâmicos que exibem estatísticas do servidor, como contagem de membros, usuários online e muito mais.",
     "statistics_additional_settings": "Additional Settings",
     "channel_name": "Youtube channel name",
-    "channel_link": "Youtube channel link"
+    "channel_link": "Youtube channel link",
+    "youtube_only_2": "Only 2 YouTube channels are allowed in beta release"
 }
