@@ -1065,7 +1065,8 @@
     "statistics_none_configured_title": " لم يتم تكوين أي إحصائيات",
     "statistics_none_configured_description": " إنشاء قنوات ديناميكية لعرض إحصائيات الخادم مثل عدد الأعضاء، والمستخدمين المتصلين، والمزيد.",
     "statistics_additional_settings": "إعدادات إضافية",
-    "channel_name": "اسم قناة اليوتيوب",
-    "channel_link": "رابط قناة اليوتيوب",
-    "youtube_only_2": "Only 2 YouTube channels are allowed in beta release"
+    "youtube_name": "Channel Name",
+    "youtube_link": "Channel Link",
+    "youtube_only_2": "Only 2 YouTube channels are allowed in beta release",
+    "youtube_title": "Video Title"
 }
