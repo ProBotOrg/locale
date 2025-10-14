@@ -1066,5 +1066,6 @@
     "statistics_none_configured_description": "Tạo một dãy các kênh dùng để hiển thị thống kê của server như tổng thành viên, lượng thành viên trực tuyến, và hơn thế nữa.",
     "statistics_additional_settings": "Cài đặt khác",
     "channel_name": "Youtube channel name",
-    "channel_link": "Youtube channel link"
+    "channel_link": "Youtube channel link",
+    "youtube_only_2": "Only 2 YouTube channels are allowed in beta release"
 }
