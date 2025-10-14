@@ -1066,5 +1066,6 @@
     "statistics_none_configured_description": "サーバーのメンバー数やオンラインユーザー数などの統計情報を表示するチャンネルを作成できます。",
     "statistics_additional_settings": "詳細設定",
     "channel_name": "YouTubeチャンネル名",
-    "channel_link": "YouTubeチャンネルURL"
+    "channel_link": "YouTubeチャンネルURL",
+    "youtube_only_2": "Only 2 YouTube channels are allowed in beta release"
 }
