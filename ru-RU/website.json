@@ -1066,5 +1066,6 @@
     "statistics_none_configured_description": "Создавайте динамические каналы, отображающие статистику сервера, такие как число участников, онлайн и другое",
     "statistics_additional_settings": "Дополнительные настройки",
     "channel_name": "Название канала YouTube",
-    "channel_link": "Ссылка на канал YouTube"
+    "channel_link": "Ссылка на канал YouTube",
+    "youtube_only_2": "Only 2 YouTube channels are allowed in beta release"
 }
