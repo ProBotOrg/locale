@@ -1066,7 +1066,7 @@
     "statistics_none_configured_description": "Hozzon létre dinamikus csatornákat, amelyek olyan szerverstatisztikákat jelenítenek meg, mint a tagok száma, az online felhasználók száma és egyebek.",
     "statistics_additional_settings": "További beállítások",
     "youtube_name": "Channel Name",
-    "youtube_link": "Channel Link",
+    "youtube_link": "Video Link",
     "youtube_only_2": "Only 2 YouTube channels are allowed in beta release",
     "youtube_title": "Video Title"
 }
