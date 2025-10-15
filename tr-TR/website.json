@@ -1065,8 +1065,8 @@
     "statistics_none_configured_title": "Hiçbir istatistik kanalı ayarlanmadı",
     "statistics_none_configured_description": "Üye sayısı, çevrimiçi kullanıcılar ve daha fazlası gibi sunucu istatistiklerini görüntüleyen dinamik kanallar oluşturun.",
     "statistics_additional_settings": "Ek Ayarlar",
-    "youtube_name": "Channel Name",
-    "youtube_link": "Video Link",
+    "youtube_name": "Kanal Adı ",
+    "youtube_link": "Video Bağlantısı ",
     "youtube_only_2": "Beta sürümünde yalnızca 2 YouTube kanalına izin verilir",
-    "youtube_title": "Video Title"
+    "youtube_title": "Video Başlığı"
 }
