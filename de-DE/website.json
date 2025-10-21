@@ -895,7 +895,7 @@
     "login_required_message": "Hoppla! Es sieht so aus, als ob etwas fehlt, es wird aber bereits auf Hochdruck daran gearbeitet",
     "login_to_view": "Du musst dich mit deinem Discord Account anmelden, um auf diese Funktion zuzugreifen.",
     "oh_no_role": "Oh nein! Die Rolle {0} hat eine höhere Position als meine ProBotrolle. Stelle sicher, dass meine Rolle höher ist als die ausgewählte Rolle.",
-    "landing_new_stats": "New: Server Statistics Feature",
+    "landing_new_stats": "New: YouTube Notifications",
     "landing_new_membership": "Neu: Unser Mitgliedschafts-Abonnement",
     "landing_features": "Funktionen",
     "landing_features_ready_to_start": "Bereit zum Loslegen?",
