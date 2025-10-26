@@ -1065,8 +1065,8 @@
     "statistics_none_configured_title": "구성된 통계가 없어요",
     "statistics_none_configured_description": "멤버 수, 온라인 사용자 수 등과 같은 서버 통계를 표시하는 동적 채널을 생성하세요.",
     "statistics_additional_settings": "추가 설정",
-    "youtube_name": "Channel Name",
-    "youtube_link": "Video Link",
-    "youtube_only_2": "Only 2 YouTube channels are allowed in beta release",
-    "youtube_title": "Video Title"
+    "youtube_name": "채널 이름",
+    "youtube_link": "동영상 링크",
+    "youtube_only_2": "베타 출시에서는 2개의 YouTube 채널까지만 허용돼요",
+    "youtube_title": "동영상 제목"
 }
