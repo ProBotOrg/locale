@@ -895,7 +895,7 @@
     "login_required_message": "Hoppá! Úgy tűnik, valami hiányzik",
     "login_to_view": "A funkció hozzáféréséhez be kell jelentkezned a Discord-fiókoddal.",
     "oh_no_role": "Ó ne! **{0}** a rang magasabban van mint a rangom, Legyél benne biztos hogy feljebb van a rangom a kiválasztott rangnál.",
-    "landing_new_stats": "New: YouTube Notifications",
+    "landing_new_stats": "Új: Youtube Értesítések",
     "landing_new_membership": "Új: A tagsági előfizetésünk",
     "landing_features": "Funkciók",
     "landing_features_ready_to_start": "Készen állsz a kezdésre?",
@@ -1065,8 +1065,8 @@
     "statistics_none_configured_title": "Nincs beállított statisztika",
     "statistics_none_configured_description": "Hozzon létre dinamikus csatornákat, amelyek olyan szerverstatisztikákat jelenítenek meg, mint a tagok száma, az online felhasználók száma és egyebek.",
     "statistics_additional_settings": "További beállítások",
-    "youtube_name": "Channel Name",
-    "youtube_link": "Video Link",
-    "youtube_only_2": "Only 2 YouTube channels are allowed in beta release",
-    "youtube_title": "Video Title"
+    "youtube_name": "Csatorna neve",
+    "youtube_link": "Videó link",
+    "youtube_only_2": "Csak 2 Youtube csatorna engedélyezett a béta kiadásban",
+    "youtube_title": "Videó cím"
 }
