@@ -464,7 +464,7 @@
     "leveling_text_only": "テキストのみ",
     "leveling_role_poisiton": "役職ポジション",
     "rewards": "報酬",
-    "welcomer_variable_user": "新しいメンバーにメンションする",
+    "welcomer_variable_user": "メンバーにメンションする",
     "welcomer_variable_username": "新しいメンバーの名前を表示（メンションはしません）",
     "welcomer_variable_inviter": "招待者をメンション",
     "welcomer_variable_invitername": "招待者の名前を表示（メンションはしません）",
