@@ -766,7 +766,7 @@
     "premium_bot_customization": "TÙY CHỈNH DIỆN MẠO BOT",
     "twitch_name": "Tên streamer",
     "twitch_link": "Link đến stream",
-    "twitch_message": "Tin nhắn",
+    "twitch_message": "**{0}** hiện đang stream! 🎬\nCùng vào xem và tận hưởng những khoảnh khắc tuyệt vời nào! 🔥\n{1}",
     "welcome_reset_coordinates": "Đặt lại tọa độ",
     "welcome_reset_description": "Đặt lại vị trí các thành phần của ảnh chào mừng về nguyên bản",
     "reset": "Đặt lại",
@@ -895,7 +895,7 @@
     "login_required_message": "Oops! Hình như thiếu cái gì đấy",
     "login_to_view": "Bạn cần đăng nhập bằng tài khoản Discord của mình để truy cập tính năng này.",
     "oh_no_role": "Ôi không! Vai trò **{0}** có vị trí cao hơn vai trò của tôi, hãy đảm bải rằng vai trò của tôi cao hơn những vai trò được đặt.",
-    "landing_new_stats": "New: YouTube Notifications",
+    "landing_new_stats": "Mới: Thông báo YouTube",
     "landing_new_membership": "Mới: Các gói Hội viên",
     "landing_features": "Tính năng",
     "landing_features_ready_to_start": "Bạn đã sẵn sàng chưa?",
@@ -1065,8 +1065,8 @@
     "statistics_none_configured_title": "Tính năng chưa được thiết lập",
     "statistics_none_configured_description": "Tạo một dãy các kênh dùng để hiển thị thống kê của server như tổng thành viên, lượng thành viên trực tuyến, và hơn thế nữa.",
     "statistics_additional_settings": "Cài đặt khác",
-    "youtube_name": "Channel Name",
-    "youtube_link": "Video Link",
-    "youtube_only_2": "Only 2 YouTube channels are allowed in beta release",
-    "youtube_title": "Video Title"
+    "youtube_name": "Tên kênh",
+    "youtube_link": "Link Video",
+    "youtube_only_2": "Giới hạn 2 kênh YouTube trong giai đoạn thử nghiệm",
+    "youtube_title": "Tiêu đề video"
 }
