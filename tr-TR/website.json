@@ -1055,7 +1055,7 @@
     "channel_type_text": "Metin Kanalı",
     "channel_type_voice": "Ses Kanalı",
     "channel_type_stage": "Sahne Kanalı",
-    "statistics_placeholder_example": "Örneğin : Üye Sayısı: [MembersCount]",
+    "statistics_placeholder_example": "Örneğin: Üye Sayısı: [MembersCount]",
     "statistics_select_statistic_type": "İstatistik Türü Seç",
     "statistics_already_used": "Bu istatistik zaten var",
     "statistics_select_placeholder": "İstatistik Türü Seç",
