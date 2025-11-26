@@ -895,7 +895,7 @@
     "login_required_message": "Oops! It looks like something's missing",
     "login_to_view": "You need to login with your Discord account to access this feature.",
     "oh_no_role": "Oh no! **{0}** role has a higher position than my role, Make sure that my role is higher than the selected role.",
-    "landing_new_stats": "New: YouTube Notifications",
+    "landing_new_stats": "New: Server Statistics Feature",
     "landing_new_membership": "New: Our Memberships Subscription",
     "landing_features": "Features",
     "landing_features_ready_to_start": "Ready to get started?",
