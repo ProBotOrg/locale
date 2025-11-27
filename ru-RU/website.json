@@ -1087,7 +1087,7 @@
     "automation_action_create_thread": "🧵Создать ветку",
     "automation_default_name": "Автоматизация",
     "automation_name_label": "Название автоматизации",
-    "automation_name_placeholder": "e.g., Welcome New Members",
+    "automation_name_placeholder": "например, Приветствие новых участников",
     "automation_priority_label": "Priority",
     "automation_priority_high": "High",
     "automation_priority_medium": "Medium",
