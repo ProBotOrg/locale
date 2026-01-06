@@ -1137,10 +1137,10 @@
     "tickets_claim_message": "Claim Message",
     "tickets_claim_message_desc": "Message when ticket is claimed",
     "tickets_unclaim_message": "Unclaim Message",
-    "tickets_unclaim_message_desc": "Message when ticket is unclaimed"
+    "tickets_unclaim_message_desc": "Message when ticket is unclaimed",
     "tickets_transcripts": "Transcripts",
     "tickets_transcript_channel": "Transcript Channel",
-    "tickets_transcript_format": "Transcript Format"
+    "tickets_transcript_format": "Transcript Format",
     "tickets_transcript_format_json": "JSON (Structured Data)",
     "tickets_transcript_format_text": "Plain Text",
     "tickets_transcript_format_html": "HTML (Discord Style)"
