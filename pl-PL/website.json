@@ -1130,7 +1130,7 @@
     "tickets_greeting_message_desc": "Wiadomość po otwarciu zgłoszenia",
     "tickets_ticket_message": "Wiadomości Zgłoszenia",
     "tickets_ticket_message_desc": "Główna wiadomość na kanale zgłoszenia",
-    "tickets_open_message": "Otwórz Wiadomość",
+    "tickets_open_message": "Wiadomość Początkowa",
     "tickets_open_message_desc": "Wiadomość po utworzeniu zgłoszenia",
     "tickets_close_message": "Wiadomość Końcowa",
     "tickets_close_message_desc": "Wiadomość po zamknięciu zgłoszenia",
