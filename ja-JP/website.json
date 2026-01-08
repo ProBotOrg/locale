@@ -1151,7 +1151,7 @@
     "tickets_disabled": "オフ",
     "tickets_limit": "制限",
     "tickets_duplicate": "複製",
-    "tickets_delete_confirm": "本当に削除してよろしいですか？",
+    "tickets_delete_confirm": "本当に削除してもよろしいですか？",
     "tickets_action_cannot_undone": "この操作は元に戻せません",
     "tickets_create_ticket_panel": "チケットパネルの作成",
     "tickets_discard": "破棄",
