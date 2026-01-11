@@ -364,7 +364,7 @@
 	"temp_seconds_description": "Czas kanału głosowego.",
 	"temp_max_description": "Liczba tymczasowych kanałów, które użytkownik może utworzyć jednocześnie.",
 	"temp_max_number_description": "Maksymalna liczba kanałów, które użytkownik może utworzyć. 0 to nieskończoność.",
-	"temp_error_disable": ":x: | Nie udało się wyłączyć kanałów tymczasowych. Spróbuj ponownie później.",
+	"temp_error_disable": ":x: | Nie udało się wyłączyć kanałów tymczasowych. Spróbuj ponownie później.\n",
 	"temp_error_activation": ":x: | Kanały tymczasowe nie mogły zostać aktywowane. Spróbuj ponownie później.",
 	"temp_disabling": ":wrench: | Wyłączanie funkcji, proszę czekać...",
 	"temp_activating": ":wrench: | Aktywacja funkcji, proszę czekać...",
