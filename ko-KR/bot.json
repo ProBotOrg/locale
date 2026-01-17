@@ -109,7 +109,7 @@
 	"warn_select_description": "**사유를 선택하세요:**",
 	"warn_specify_description": ":rolling_eyes: - **사유를 정해주세요.**",
 	"warn_been_removed_description": ":white_check_mark: **경고 {0}개를 제거했어요.**",
-	"warn_cant_warning_description": "🔍 **찾고 있는 경고를 발견하지 못했어요.**",
+	"warn_cant_warning_description": "🔍 **찾고 있으시는 경고를 발견하지 못했어요.**",
 	"warn_specify_number_description": ":rolling_eyes: - **경고 번호 또는 사용자 멘션 또는 (all)을 적어 모든 경고를 없애세요.**",
 	"vkick_cant_permission_description": ":rolling_eyes: - 해당 사용자를 추방하지 못했어요. 봇의 권한을 재확인해 주세요.",
 	"vkick_you_cant_description": ":rolling_eyes: - **{0}님을 추방할 수 없어요.**",
