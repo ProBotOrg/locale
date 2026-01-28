@@ -1198,5 +1198,18 @@
     "tickets_log_action_transferred": "تم النقل",
     "tickets_log_action_renamed": "تم تغيير الإسم",
     "tickets_log_action_permissions_changed": "تغيير الصلاحيات",
-    "tickets_log_action_transcript_generated": "تم إنشاء سجل"
+    "tickets_log_action_transcript_generated": "تم إنشاء سجل",
+    "temp_basic_settings": "الإعدادات الأساسية",
+    "temp_premium_feature": "Premium Feature",
+    "temp_interface_premium_required": "Upgrade to Premium to customize the control panel for your temporary voice channels.",
+    "temp_interface_preview": "Interface Preview",
+    "temp_interface_buttons_hint": "Press on the buttons to toggle the ones you want",
+    "temp_send_interface": "Send Interface",
+    "temp_send_interface_button": "إرسال",
+    "temp_select_channel": "Please select a channel",
+    "temp_select_text_channel": "Select a Text Channel",
+    "temp_no_buttons_enabled": "Please enable at least one button",
+    "temp_interface_sent": "Interface sent successfully",
+    "temp_interface_send_error": "Failed to send interface",
+    "upgrade_to_premium": "Upgrade to Premium"
 }
