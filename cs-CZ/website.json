@@ -1198,5 +1198,18 @@
     "tickets_log_action_transferred": "Převeden",
     "tickets_log_action_renamed": "Přejmenován",
     "tickets_log_action_permissions_changed": "Změněna oprávnění",
-    "tickets_log_action_transcript_generated": "Přepis vygenerován"
+    "tickets_log_action_transcript_generated": "Přepis vygenerován",
+    "temp_basic_settings": "Základní nastavení",
+    "temp_premium_feature": "Prémiová funkce",
+    "temp_interface_premium_required": "Vylepšete na Premium, abyste přizpůsobili ovládací panel pro své dočasné hlasové kanály.",
+    "temp_interface_preview": "Náhled rozhraní",
+    "temp_interface_buttons_hint": "Klikněte na tlačítka pro zapnutí požadovaných",
+    "temp_send_interface": "Poslat rozhraní",
+    "temp_send_interface_button": "Odeslat",
+    "temp_select_channel": "Vyberte kanál",
+    "temp_select_text_channel": "Vybrat textový kanál",
+    "temp_no_buttons_enabled": "Prosím, zapněte nejméně jedno tlačítko",
+    "temp_interface_sent": "Rozhraní úspěšně odesláno",
+    "temp_interface_send_error": "Odeslání rozhraní selhalo",
+    "upgrade_to_premium": "Vylepšit na Premium"
 }

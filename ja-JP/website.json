@@ -1198,5 +1198,18 @@
     "tickets_log_action_transferred": "転送",
     "tickets_log_action_renamed": "名前を変更",
     "tickets_log_action_permissions_changed": "権限変更",
-    "tickets_log_action_transcript_generated": "ログ生成"
+    "tickets_log_action_transcript_generated": "ログ生成",
+    "temp_basic_settings": "基本設定",
+    "temp_premium_feature": "プレミアム機能",
+    "temp_interface_premium_required": "プレミアムにアップグレードすると、一時的なボイスチャンネルのインターフェースがアンロックされます。",
+    "temp_interface_preview": "インターフェース プレビュー",
+    "temp_interface_buttons_hint": "ボタンを押して必要なものを切り替えます",
+    "temp_send_interface": "インターフェースを送信",
+    "temp_send_interface_button": "送信",
+    "temp_select_channel": "チャンネルを選択してください",
+    "temp_select_text_channel": "チャンネルを選択",
+    "temp_no_buttons_enabled": "少なくとも1つのボタンを有効にしてください",
+    "temp_interface_sent": "インターフェースが正常に送信されました",
+    "temp_interface_send_error": "インターフェイスの送信に失敗しました",
+    "upgrade_to_premium": "プレミアムにアップグレード"
 }

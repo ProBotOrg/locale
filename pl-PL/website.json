@@ -1198,5 +1198,18 @@
     "tickets_log_action_transferred": "Przeniesione",
     "tickets_log_action_renamed": "Zmieniono Nazwę",
     "tickets_log_action_permissions_changed": "Zmieniono Uprawnienia",
-    "tickets_log_action_transcript_generated": "Wygenerowano Zapis Czatu"
+    "tickets_log_action_transcript_generated": "Wygenerowano Zapis Czatu",
+    "temp_basic_settings": "Ustawienia Podstawowe",
+    "temp_premium_feature": "Funkcje Premium",
+    "temp_interface_premium_required": "Ulepsz do wersji Premium, aby dostosować panel sterowania dla twoich tymczasowych kanałów głosowych.",
+    "temp_interface_preview": "Podgląd Interfejsu",
+    "temp_interface_buttons_hint": "Naciśnij przyciski, aby przełączyć te, które chcesz",
+    "temp_send_interface": "Wyślij Interfejs",
+    "temp_send_interface_button": "Wyślij",
+    "temp_select_channel": "Proszę wybrać kanał",
+    "temp_select_text_channel": "Wybierz Kanał Tekstowy",
+    "temp_no_buttons_enabled": "Proszę włączyć przynajmniej jeden przycisk",
+    "temp_interface_sent": "Interfejs wysłany pomyślnie",
+    "temp_interface_send_error": "Nie udało się wysłać interfejsu",
+    "upgrade_to_premium": "Ulepsz do Premium"
 }
