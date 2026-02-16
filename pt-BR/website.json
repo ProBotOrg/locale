@@ -787,6 +787,7 @@
     "twitch_message_content": "Conteúdo da Mensagem",
     "twitch_channel_name_required": "Nome do canal é obrigatório",
     "twitch_only_1_beta": "Apenas 1 twitch por servidor é permitido na versão beta",
+    "twitch_max_channels": "Maximum 25 Twitch channels allowed per server",
     "required": "Obrigatório",
     "easy_embed_color": "Cor",
     "premium_renew_subscription": "Retomar assinatura",
@@ -1211,5 +1212,17 @@
     "temp_no_buttons_enabled": "Por favor, habilite pelo menos um botão",
     "temp_interface_sent": "Interface enviada com sucesso",
     "temp_interface_send_error": "Falha ao enviar interface",
-    "upgrade_to_premium": "Atualizar para Premium"
+    "upgrade_to_premium": "Atualizar para Premium",
+    "announcement_important_update": "Important Update",
+    "announcement_description": "Starting **February 20th**, we are making a few changes to keep Probot sustainable:",
+    "announcement_leveling_premium": "The Leveling System will become Premium.",
+    "announcement_leveling_reset": "If Premium is not activated, all server-specific Level and XP data will be reset.",
+    "announcement_global_xp": "Global XP will not be added unless the user has a membership subscription.",
+    "announcement_auto_responder_limit": "Auto Responder will be limited to max 10 on the free tier.",
+    "announcement_upgrade_hint": "You can upgrade at any time on the {0}.",
+    "announcement_pricing_page": "Pricing page",
+    "announcement_dont_show_again": "Don't show again",
+    "announcement_ok": "OK",
+    "leveling_premium_warning": "Starting February 20th, the Leveling System will become a Premium feature. If Premium is not activated, all server-specific Level and XP data will be reset. {0}",
+    "auto_responder_limit_warning": "Starting February 20th, Auto Responder will be limited to a maximum of 10 responses on the free tier. {0}"
 }

@@ -787,6 +787,7 @@
     "twitch_message_content": "Üzenet tartalma",
     "twitch_channel_name_required": "A csatorna neve kötelező",
     "twitch_only_1_beta": "Csak 1 Twitch csatorna engedélyezett szerverenként a béta kiadásban",
+    "twitch_max_channels": "Maximum 25 Twitch channels allowed per server",
     "required": "kötelező",
     "easy_embed_color": "Szín",
     "premium_renew_subscription": "Előfizetés megújítása",
@@ -1211,5 +1212,17 @@
     "temp_no_buttons_enabled": "Legalább egy gomb legyen engedélyezve",
     "temp_interface_sent": "Interfész sikeresen kiküldve",
     "temp_interface_send_error": "Nem sikerült ki küldeni az interfészt",
-    "upgrade_to_premium": "Frissítés Prémiumra"
+    "upgrade_to_premium": "Frissítés Prémiumra",
+    "announcement_important_update": "Important Update",
+    "announcement_description": "Starting **February 20th**, we are making a few changes to keep Probot sustainable:",
+    "announcement_leveling_premium": "The Leveling System will become Premium.",
+    "announcement_leveling_reset": "If Premium is not activated, all server-specific Level and XP data will be reset.",
+    "announcement_global_xp": "Global XP will not be added unless the user has a membership subscription.",
+    "announcement_auto_responder_limit": "Auto Responder will be limited to max 10 on the free tier.",
+    "announcement_upgrade_hint": "You can upgrade at any time on the {0}.",
+    "announcement_pricing_page": "Pricing page",
+    "announcement_dont_show_again": "Don't show again",
+    "announcement_ok": "OK",
+    "leveling_premium_warning": "Starting February 20th, the Leveling System will become a Premium feature. If Premium is not activated, all server-specific Level and XP data will be reset. {0}",
+    "auto_responder_limit_warning": "Starting February 20th, Auto Responder will be limited to a maximum of 10 responses on the free tier. {0}"
 }
