@@ -284,7 +284,7 @@
 	"logs_voice_disconnected": "**{0} αποσυνδέθηκε.**",
 	"protection_no_backup_to_delete": "**Δεν υπάρχει αντίγραφο ασφαλείας για διαγραφή**",
 	"protection_backup_deleted": "**Το αντίγραφο ασφαλείας έχει διαγραφεί**",
-	"protection_add_admin_permissions": "**{0} ({1})\nΠρόσθεσε άδειες διαχειριστή στον ρόλο:\n{2}\nΤο ProBot αφαίρεσε τις άδειες, δεν χρειάζεται καμία ενέργεια**",
+	"protection_add_admin_permissions": "**{0} ({1})\nΠρόσθεσε άδειες διαχειριστή στον ρόλο:\n{2}\nΤο ProBot αφαίρεσε τις άδειες, δε χρειάζεται καμία ενέργεια**",
 	"protection_permissions_all_following": "Οι άδειες από όλους τους ακόλουθους ρόλους διαχειριστή έχουν αφαιρεθεί:",
 	"protection_insert_backup_id": ":rolling_eyes: - **Παρακαλώ εισάγετε το αναγνωριστικό αντιγράφου ασφαλείας (Backup ID)**",
 	"protection_backup_id_invalid": ":rolling_eyes: - **Το αναγνωριστικό αντιγράφου ασφαλείας (Backup ID) δεν είναι έγκυρο. Παρακαλώ προσπαθήστε ξανά.**",
