@@ -928,8 +928,8 @@
     "features_welcome_messages_customizable_description": "Προσαρμόστε το κείμενο καλωσορίσματός σας στην τελειότητα με τις απλές-στη-χρήση μεταβλητές του ProBot, καθώς και την επιλογή αποστολής ενός καλωσορίσματος σε ένα συγκεκριμένο κανάλι ή ως ΑΜ στους χρήστες!",
     "features_welcome_messages_backgorund_title": "Προσαρμόσιμο φόντο καλοσωρίσματος",
     "features_welcome_messages_backgorund_description": "Δημιουργήστε μία εικόνα καλοσωρίσματος και ανεβάστε τη στο ProBot για να εμφανίζεται στα νέα σας μέλη, με την επιλογή να τη στείλετε μαζί με το κείμενο, πριν το κείμενο ή χωρίς κανένα κείμενο!",
-    "features_welcome_messages_layouts_title": "Adjustable Welcome Layouts",
-    "features_welcome_messages_layouts_description": "Customize welcome image layout completely including user avatar's shape, height, width, and coordinates, username width, coordinates, text alignment, and color, and text coordinates, size, width, and color.",
+    "features_welcome_messages_layouts_title": "Προσαρμοσμένες διατάξεις καλωσορίσματος",
+    "features_welcome_messages_layouts_description": "Προσαρμόστε τελείως τη διάταξη των εικόνων καλωσορίσματος, συμπεριλαμβανομένων του σχήματος του άβαταρ, του ύψους, του πλάτους και των συντεταγμένων, του πλάτους του ονόματος χρήστη, των συντεταγμένων, της ευθυγράμμισης του κειμένου και του χρώματος και των συντεταγμένων του κειμένου, του μεγέθους, του πλάτους και του χρώματος.",
     "features_embed_messages_modify_title": "Modify your embed message easily.",
     "features_embed_messages_modify_description": "Modify your embed messages quickly and easily with ProBot's easy-to-use embed feature, which includes a variety of addable fields, titles, and much more!",
     "features_embed_messages_edit_title": "Edit your embed messages at any time you wish",
@@ -1214,7 +1214,7 @@
     "temp_interface_send_error": "Failed to send interface",
     "upgrade_to_premium": "Upgrade to Premium",
     "announcement_important_update": "Important Update",
-    "announcement_description": "Starting **February 20th**, we are making a few changes to keep Probot sustainable:",
+    "announcement_description": "Από τις **20 Φεβρουαρίου**, κάνουμε μερικές αλλαγές ώστε να διατηρήσουμε το ProBot βιώσιμο:",
     "announcement_leveling_premium": "The Leveling System will become Premium.",
     "announcement_leveling_reset": "If Premium is not activated, all server-specific Level and XP data will be reset.",
     "announcement_global_xp": "Global XP will not be added unless the user has a membership subscription.",
@@ -1223,6 +1223,6 @@
     "announcement_pricing_page": "Pricing page",
     "announcement_dont_show_again": "Don't show again",
     "announcement_ok": "OK",
-    "leveling_premium_warning": "Starting February 20th, the Leveling System will become a Premium feature. If Premium is not activated, all server-specific Level and XP data will be reset. {0}",
+    "leveling_premium_warning": "Από τις **20 Φεβρουαρίου**, το Σύστημα επιπέδων θα γίνει αποκλειστικά Premium προνόμιο. Αν το Premium δεν είναι ενεργοποιημένο, όλα τα επίπεδα και XP του διακομιστή θα επαναφερθούν. {0}",
     "auto_responder_limit_warning": "Starting February 20th, Auto Responder will be limited to a maximum of 10 responses on the free tier. {0}"
 }
