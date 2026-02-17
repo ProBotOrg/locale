@@ -787,7 +787,7 @@
     "twitch_message_content": "محتوى الرسالة",
     "twitch_channel_name_required": "اسم القناة مطلوب",
     "twitch_only_1_beta": "يسمح بقناة تويتش واحدة فقط لكل خادم في الإصدار التجريبي",
-    "twitch_max_channels": "Maximum 25 Twitch channels allowed per server",
+    "twitch_max_channels": "",
     "required": "مطلوب",
     "easy_embed_color": "لون",
     "premium_renew_subscription": "استئناف الاشتراك",
