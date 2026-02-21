@@ -941,7 +941,7 @@
     "features_self_assignable_role_select_role_title": "Επιλέξτε τον ρόλο που θέλετε και πάρτε τον αμέσως.",
     "features_self_assignable_role_select_role_description": "Δημιουργήστε έως και 20 μενού επιλογών με τη δυνατότητα να αλλάξετε το emoji της επιλογής του καθενός, τον τίτλο της, την περιγραφή της, τον τρόπο απόκτησής της, τον τύπο ειδοποίησής της και τη σειρά των επιλογών!",
     "features_self_assignable_role_react_message_title": "Αντιδράστε στα μηνύματα για να πάρετε ρόλους.",
-    "features_self_assignable_role_react_message_description": "Create up to 20 reactions with the option of using custom or standard emojis, as well as the ability to change the role mode, and notification type!",
+    "features_self_assignable_role_react_message_description": "Δημιουργήστε έως και 20 αντιδράσεις, με τη δυνατότητα να χρησιμοποιήσετε προεπιλεγμένα ή προσαρμοσμένα emoji, καθώς και τη δυνατότητα να αλλάξετε τον τρόπο απόκτησης των ρόλων και τον τύπο ειδοποίησής τους.",
     "features_leveling_system_leve_type_title": "Set your preferred Level Type",
     "features_leveling_system_leve_type_description": "Add Role Rewards by specifying your preferred level type (text, voice, or both)! With the ability to remove low-level rewards and replace them with higher-level rewards, as well as the ability to notify a user via DMS!",
     "features_leveling_system_no_xp_title": "Set NO-XP-ROLES and NO-XP-CHANNELS",
