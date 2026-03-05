@@ -29,7 +29,7 @@
 	"colors_description": "Zeigt dir alle verfügbaren Farben an.",
 	"title_description": "Ändert deinen Titel beim Befehl #profile.",
 	"reset_description": "Setzt Text/Sprech/Einladungs xp Punkte für alle Mitglieder zurück.",
-	"rep_description": "Gib jemandem einen Reputationspunkt. Kann nur einmal alle 24 Stunden verwendet werden.",
+	"rep_description": "Jemandem einen Reputationspunkt vergeben.",
 	"daily_description": "Hol dir dein Tagesgehalt.",
 	"vip_description": "Zeigt die Informationen über deinen Premium-Bot an.",
 	"ping_description": "Testet die Reaktionszeit des Bots.",
