@@ -184,7 +184,7 @@
 	"rep_can_award": "**:stopwatch: |  {0}, du kannst mehr Reputation in {1}vergeben. **",
 	"rep_not_bots": ":rolling_eyes:  **|  {0}**, Bots haben keine Ränge!",
 	"rep_cannot_give": "**:rolling_eyes:  **|  {0}**, du kannst dir nicht selbst Reputation geben!**",
-	"rep_given": "**:up:  |  {0} hat {1} einen Reputationspunkt verliehen!**\n:information_source: Verbleibende Reputationen: **{2}**",
+	"rep_given": "**:up:  |  {0} hat {1} einen Reputationspunkt gegeben!**\n:information_source: Verbleibende Reputationen: **{2}**",
 	"top_only_premium": "Aus Performance-Gründen ist dieser Befehl derzeit nur für Premium bestimmt.",
 	"top_error": ":rolling_eyes: - **Fehlerseite Nummer ** {0} von {1} ",
 	"top_cant_find_list": "Top-Liste nicht gefunden",
