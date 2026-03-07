@@ -123,7 +123,7 @@
 	"unban_cant_find_description": ":rolling_eyes: - **Δεν μπορώ να βρω τον/την {0} στη λίστα αποκλεισμένων.**",
 	"vmute_main_description": "{0}, ΑΠΟ: {0}#{1}, ΛΟΓΟΣ: {2} ΛΗΓΕΙ ΣTΙΣ: {2}",
 	"vmute_muted_from_description": ":white_check_mark: **Ο/Η @{0} τέθηκε σε σίγαση από τα κανάλια ομιλίας! :zipper_mouth:**",
-	"vmute_couldnt_mute_description": ":rolling_eyes: - Δεν μπόρεσα να σιγάσω αυτόν τον χρήστη. Παρακαλώ έλεγξε τις άδειές μου.",
+	"vmute_couldnt_mute_description": ":rolling_eyes: - Δεν μπόρεσα να θέσω αυτόν τον χρήστη σε σίγαση. Παρακαλώ έλεγξε τις άδειές μου.",
 	"vmute_cant_description": ":rolling_eyes: - **Δεν μπορείς να θέσεις τον/την @{0} σε σίγαση στα κανάλια ομιλίας.**",
 	"setnick_changed_description": ":white_check_mark: Το ψευδώνυμο του/της **{0}** έχει αλλάξει σε {1}! ",
 	"setnick_reset_description": ":white_check_mark: Το ψευδώνυμο του/της **{0}** έχει επαναφερθεί.",
