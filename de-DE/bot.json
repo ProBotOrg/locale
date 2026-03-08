@@ -364,7 +364,7 @@
 	"temp_seconds_description": "Den Sprachkanal auf Zeit schalten.",
 	"temp_max_description": "Anzahl temporäre Kanäle, die Benutzer in bestimmter Zeit erstellen können.",
 	"temp_max_number_description": "Maximale Anzahl von Kanälen, die Benutzer erstellen können, 0 ist unbegrenzt.",
-	"temp_error_disable": "",
+	"temp_error_disable": "Temporäre Kanäle konnten nicht deaktiviert werden. Bitte versuche es später erneut.",
 	"temp_error_activation": "",
 	"temp_disabling": "",
 	"temp_activating": "",
