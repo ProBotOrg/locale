@@ -1224,5 +1224,16 @@
     "announcement_dont_show_again": "Don't show again",
     "announcement_ok": "OK",
     "leveling_premium_warning": "Starting February 20th, the Leveling System will become a Premium feature. If Premium is not activated, all server-specific Level and XP data will be reset. {0}",
-    "auto_responder_limit_warning": "Starting February 20th, Auto Responder will be limited to a maximum of 10 responses on the free tier. {0}"
+    "auto_responder_limit_warning": "Starting February 20th, Auto Responder will be limited to a maximum of 10 responses on the free tier. {0}",
+    "tickets_tag": "Tickets",
+    "tickets_hero_headline": "Manage Support Tickets with Ease",
+    "tickets_hero_desc": "Streamline your server support with powerful ticket management. Create, assign, and resolve member requests efficiently while keeping your community organized.",
+    "tickets_landing_desc": "Streamline your server support with powerful ticket management. Create customizable panels, control role permissions, and keep your community organized.",
+    "tickets_learn_more": "Learn more about Tickets",
+    "features_tickets_panels_title": "Customizable Ticket Panels",
+    "features_tickets_panels_desc": "Create fully customizable ticket panels with unique names, descriptions, and categories. Let members open support tickets exactly where they need help, with full control over how panels look and behave.",
+    "features_tickets_permissions_title": "Control Permissions and Roles",
+    "features_tickets_permissions_desc": "Define which roles can create, view, and manage tickets. Set dedicated staff roles that have access to respond and close tickets, giving you complete control over who handles support.",
+    "features_tickets_support_title": "Organized Server Support",
+    "features_tickets_support_desc": "Keep your support structured with dedicated ticket channels. Archive closed tickets automatically, track open requests at a glance, and maintain a clean, organized server for your community."
 }
