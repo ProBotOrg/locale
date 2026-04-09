@@ -1224,5 +1224,16 @@
     "announcement_dont_show_again": "Ne jelenjen meg többé",
     "announcement_ok": "OK",
     "leveling_premium_warning": "Február 20-tól a szintrendszer prémium szolgáltatássá válik. Ha a prémium szolgáltatás nincs aktiválva, az összes szerverhez tartozó szint- és XP-adat visszaáll az alapértékre. {0}",
-    "auto_responder_limit_warning": "Február 20-tól az ingyenes csomagban az automatikus válaszadó funkció legfeljebb 10 válaszra lesz korlátozva. {0}"
+    "auto_responder_limit_warning": "Február 20-tól az ingyenes csomagban az automatikus válaszadó funkció legfeljebb 10 válaszra lesz korlátozva. {0}",
+    "tickets_tag": "Jegyek",
+    "tickets_hero_headline": "Manage Support Tickets with Ease",
+    "tickets_hero_desc": "Streamline your server support with powerful ticket management. Create, assign, and resolve member requests efficiently while keeping your community organized.",
+    "tickets_landing_desc": "Streamline your server support with powerful ticket management. Create customizable panels, control role permissions, and keep your community organized.",
+    "tickets_learn_more": "Learn more about Tickets",
+    "features_tickets_panels_title": "Customizable Ticket Panels",
+    "features_tickets_panels_desc": "Create fully customizable ticket panels with unique names, descriptions, and categories. Let members open support tickets exactly where they need help, with full control over how panels look and behave.",
+    "features_tickets_permissions_title": "Control Permissions and Roles",
+    "features_tickets_permissions_desc": "Define which roles can create, view, and manage tickets. Set dedicated staff roles that have access to respond and close tickets, giving you complete control over who handles support.",
+    "features_tickets_support_title": "Organized Server Support",
+    "features_tickets_support_desc": "Keep your support structured with dedicated ticket channels. Archive closed tickets automatically, track open requests at a glance, and maintain a clean, organized server for your community."
 }
