@@ -244,7 +244,7 @@
 	"logs_channel_deleted": ":house: **Csatorna Törölve: `{0}`**",
 	"logs_channel_updated": ":house: **Csatorna Frissítve: `{0}`**",
 	"logs_channel_permissions_updated": ":house: **Csatorna jogosultságok frissítve: `{0}`**",
-	"logs_banned_from_server": ":airplane: **{0} ki lett titva a szerverről.**",
+	"logs_banned_from_server": ":airplane: **{0} ki lett tiltva a szerverről.**",
 	"logs_unbanned": ":airplane_arriving: **{0} kitiltása feloldva.**",
 	"logs_welcome_inviter": "**Meghívó**",
 	"logs_welcome_invite_code": "**Meghívási Kód**",
