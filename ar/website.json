@@ -1172,7 +1172,7 @@
     "automation_stat_enabled": "Enabled",
     "automation_stat_with_conditions": "With Conditions",
     "automation_stat_total_actions": "Total Actions",
-      "tickets_total": "إجمالي التذاكر",
+    "tickets_total": "إجمالي التذاكر",
     "tickets_open_tickets": "التذاكر المفتوحة",
     "tickets_closed_tickets": "التذاكر المغلقة",
     "tickets_response_time": "وقت الإستجابة",
@@ -1314,5 +1314,18 @@
     "temp_no_buttons_enabled": "يرجى تفعيل زر واحد على الأقل",
     "temp_interface_sent": "تم إرسال الواجهة بنجاح",
     "temp_interface_send_error": "فشل إرسال الواجهة",
-    "upgrade_to_premium": "الترقية إلى النسخة المدفوعة"
+    "upgrade_to_premium": "الترقية إلى النسخة المدفوعة",
+    "announcement_important_update": "تحديث هام",
+    "announcement_description": "بدءاً من **20 فبراير**، سنقوم بإجراء بعض التغييرات للحفاظ على استمرارية Probot:",
+    "announcement_leveling_premium": "سيصبح نظام الليفل (Leveling System) ميزة بريميوم.",
+    "announcement_leveling_reset": "إذا لم يتم تفعيل البريميوم، سيتم إعادة تعيين جميع بيانات الليفل و الـ XP الخاصة بالسيرفر.",
+    "announcement_global_xp": "لن يتم إضافة الـ XP العالمي (Global XP) إلا إذا كان لدى المستخدم اشتراك عضوية.",
+    "announcement_auto_responder_limit": "سيتم تحديد الرد التلقائي (Auto Responder) بحد أقصى 10 في الخطة المجانية.",
+    "announcement_upgrade_hint": "يمكنك الترقية في أي وقت من خلال {0}.",
+    "announcement_pricing_page": "صفحة الأسعار",
+    "announcement_dont_show_again": "لا تظهر مرة أخرى",
+    "announcement_ok": "حسناً",
+    "leveling_premium_warning": "بدءاً من 20 فبراير، سيصبح نظام الليفل ميزة بريميوم. إذا لم يتم تفعيل البريميوم، سيتم إعادة تعيين جميع بيانات الليفل و الـ XP الخاصة بالسيرفر. {0}",
+    "auto_responder_limit_warning": "بدءاً من 20 فبراير، سيتم تحديد الرد التلقائي بحد أقصى 10 ردود في الخطة المجانية. {0}",
+    "twitch_max_channels": "أقصى عدد لقنوات تويتش هو {0}"
 }
