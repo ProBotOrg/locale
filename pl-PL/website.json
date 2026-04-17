@@ -896,7 +896,7 @@
     "login_required_message": "Ups! Wygląda na to, że czegoś brakuje.",
     "login_to_view": "Musisz zalogować się przy użyciu swojego konta Discord, aby uzyskać dostęp do tej funkcji.",
     "oh_no_role": "O nie! Rola **{0}** ma wyższą pozycję od mojej roli. Upewnij się, że moja rola jest wyżej niż wybrana rola.",
-    "landing_new_stats": "Nowość: Powiadomienia YouTube",
+    "landing_new_stats": "NOWOŚĆ: Moduł Zgłoszeń",
     "landing_new_membership": "Nowość: Nasza Subskrypcja Członkostwa",
     "landing_features": "Funkcje",
     "landing_features_ready_to_start": "Zaczynamy?",
@@ -1224,5 +1224,16 @@
     "announcement_dont_show_again": "Nie pokazuj ponownie",
     "announcement_ok": "OK",
     "leveling_premium_warning": "Począwszy od 20 lutego, System Poziomów stanie się funkcją Premium. Jeśli Premium nie jest aktywne, wszystkie dane poziomów serwera i XP zostaną zresetowane. {0}",
-    "auto_responder_limit_warning": "Począwszy od 20 lutego, Automatyczna Odpowiedź będzie ograniczona do maksymalnie 10 odpowiedzi na darmowym poziomie. {0}"
+    "auto_responder_limit_warning": "Począwszy od 20 lutego, Automatyczna Odpowiedź będzie ograniczona do maksymalnie 10 odpowiedzi na darmowym poziomie. {0}",
+    "tickets_tag": "Tickety",
+    "tickets_hero_headline": "Manage Support Tickets with Ease",
+    "tickets_hero_desc": "Streamline your server support with powerful ticket management. Create, assign, and resolve member requests efficiently while keeping your community organized.",
+    "tickets_landing_desc": "Streamline your server support with powerful ticket management. Create customizable panels, control role permissions, and keep your community organized.",
+    "tickets_learn_more": "Learn more about Tickets",
+    "features_tickets_panels_title": "Customizable Ticket Panels",
+    "features_tickets_panels_desc": "Create fully customizable ticket panels with unique names, descriptions, and categories. Let members open support tickets exactly where they need help, with full control over how panels look and behave.",
+    "features_tickets_permissions_title": "Control Permissions and Roles",
+    "features_tickets_permissions_desc": "Define which roles can create, view, and manage tickets. Set dedicated staff roles that have access to respond and close tickets, giving you complete control over who handles support.",
+    "features_tickets_support_title": "Organized Server Support",
+    "features_tickets_support_desc": "Keep your support structured with dedicated ticket channels. Archive closed tickets automatically, track open requests at a glance, and maintain a clean, organized server for your community."
 }
