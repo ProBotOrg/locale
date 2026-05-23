@@ -22,7 +22,7 @@
     "rank": "Rang",
     "reputation": "Elismertség",
     "AUTO_RESPONDER": "Automatikus válaszoló",
-    "WELCOMER": "Üdvözlő",
+    "WELCOMER": "Üdvözlő & Búcsúzó",
     "top_description": "Kijelzi a legtöbb ponttal rendelkező tagokat vagy globális tapasztalatpontokat.",
     "server_description": "Megjelenít információt a szerverről.",
     "kick_description": "Kirúgja a megadott tagot.",
