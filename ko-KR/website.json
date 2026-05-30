@@ -1224,5 +1224,16 @@
     "announcement_dont_show_again": "다시 표시하지 않음",
     "announcement_ok": "확인하였습니다",
     "leveling_premium_warning": "2월 20일부로, 레벨링 시스템이 프리미엄 기능으로 전환됩니다. 프리미엄을 구독 중이지 않은 경우, 모든 서버 레벨 및 경험치 데이터가 초기화됩니다. {0}",
-    "auto_responder_limit_warning": "2월 20일부로, 무료 요금제에서 자동 응답의 개수가 10개로 제한됩니다. {0}"
+    "auto_responder_limit_warning": "2월 20일부로, 무료 요금제에서 자동 응답의 개수가 10개로 제한됩니다. {0}",
+    "tickets_tag": "요청",
+    "tickets_hero_headline": "Manage Support Tickets with Ease",
+    "tickets_hero_desc": "Streamline your server support with powerful ticket management. Create, assign, and resolve member requests efficiently while keeping your community organized.",
+    "tickets_landing_desc": "Streamline your server support with powerful ticket management. Create customizable panels, control role permissions, and keep your community organized.",
+    "tickets_learn_more": "Learn more about Tickets",
+    "features_tickets_panels_title": "Customizable Ticket Panels",
+    "features_tickets_panels_desc": "Create fully customizable ticket panels with unique names, descriptions, and categories. Let members open support tickets exactly where they need help, with full control over how panels look and behave.",
+    "features_tickets_permissions_title": "Control Permissions and Roles",
+    "features_tickets_permissions_desc": "Define which roles can create, view, and manage tickets. Set dedicated staff roles that have access to respond and close tickets, giving you complete control over who handles support.",
+    "features_tickets_support_title": "Organized Server Support",
+    "features_tickets_support_desc": "Keep your support structured with dedicated ticket channels. Archive closed tickets automatically, track open requests at a glance, and maintain a clean, organized server for your community."
 }

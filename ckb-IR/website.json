@@ -1224,5 +1224,16 @@
     "announcement_dont_show_again": "پیشانی مەدەرەوە جارێکی تر",
     "announcement_ok": "باشە",
     "leveling_premium_warning": "لە ٢٠ی شوباتەوە سیستەمی ئاست بەرزکردنەوە دەبێتە تایبەتمەندییەکی پریمیۆم. ئەگەر پریمیۆم چالاک نەکرێت، هەموو داتاکانی Level و XP تایبەت بە سێرڤەر سفر دەکرێنەوە. {0}",
-    "auto_responder_limit_warning": "لە ٢٠ی شوباتەوە، وەڵامدەرەوەی-خوودکار سنووردار دەبێت بە زۆرترین ١٠ وەڵام لەسەر بۆتی خۆڕایی. {0}"
+    "auto_responder_limit_warning": "لە ٢٠ی شوباتەوە، وەڵامدەرەوەی-خوودکار سنووردار دەبێت بە زۆرترین ١٠ وەڵام لەسەر بۆتی خۆڕایی. {0}",
+    "tickets_tag": "تیکتەکان",
+    "tickets_hero_headline": "Manage Support Tickets with Ease",
+    "tickets_hero_desc": "Streamline your server support with powerful ticket management. Create, assign, and resolve member requests efficiently while keeping your community organized.",
+    "tickets_landing_desc": "Streamline your server support with powerful ticket management. Create customizable panels, control role permissions, and keep your community organized.",
+    "tickets_learn_more": "Learn more about Tickets",
+    "features_tickets_panels_title": "Customizable Ticket Panels",
+    "features_tickets_panels_desc": "Create fully customizable ticket panels with unique names, descriptions, and categories. Let members open support tickets exactly where they need help, with full control over how panels look and behave.",
+    "features_tickets_permissions_title": "Control Permissions and Roles",
+    "features_tickets_permissions_desc": "Define which roles can create, view, and manage tickets. Set dedicated staff roles that have access to respond and close tickets, giving you complete control over who handles support.",
+    "features_tickets_support_title": "Organized Server Support",
+    "features_tickets_support_desc": "Keep your support structured with dedicated ticket channels. Archive closed tickets automatically, track open requests at a glance, and maintain a clean, organized server for your community."
 }

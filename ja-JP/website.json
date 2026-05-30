@@ -896,7 +896,7 @@
     "login_required_message": "おっと！何か見つからないようです。",
     "login_to_view": "ダッシュボードの利用にはDiscordアカウントでのログインが必要です。",
     "oh_no_role": "ああ！**{0}** のロールが私のロールよりも高い位置にあります。私のロールが選択したロールよりも高くなっていることを確認してください。",
-    "landing_new_stats": "新しいYouTube通知機能が登場",
+    "landing_new_stats": "新しいチケット機能が登場",
     "landing_new_membership": "新しいメンバーシップサブスクが登場",
     "landing_features": "機能",
     "landing_features_ready_to_start": "さっそく読んでみよう。",
@@ -1224,5 +1224,16 @@
     "announcement_dont_show_again": "再度表示しない",
     "announcement_ok": "はい",
     "leveling_premium_warning": "2月20日より、レベリング機能がプレミアム機能になります。 プレミアムが有効でない場合、サーバー固有のレベルとXPデータはすべてリセットされます。 {0}",
-    "auto_responder_limit_warning": "2月20日以降、自動返信はフリーティアで最大10個までに制限されます。 {0}"
+    "auto_responder_limit_warning": "2月20日以降、自動返信はフリーティアで最大10個までに制限されます。 {0}",
+    "tickets_tag": "チケット",
+    "tickets_hero_headline": "サポートチケットを簡単に管理",
+    "tickets_hero_desc": "強力なチケット管理機能で、サーバーのサポート業務を効率化しましょう。メンバーからの問い合わせを作成・割り当て・解決までスムーズに行い、コミュニティを整理された状態に保てます。",
+    "tickets_landing_desc": "強力なチケット管理機能で、サーバーのサポート業務を効率化しましょう。カスタマイズ可能なパネルの作成や権限管理によって、コミュニティをより円滑に運営できます。",
+    "tickets_learn_more": "チケットの詳細はこちら",
+    "features_tickets_panels_title": "カスタマイズ可能なチケットパネル",
+    "features_tickets_panels_desc": "独自の名称や説明、カテゴリーを設定して、カスタマイズ自由なチケットパネルを作成しましょう。メンバーが必要な場所から正確にサポートチケットを作成できるほか、パネルの見た目や動作も完全にコントロール可能です。",
+    "features_tickets_permissions_title": "権限とロールの管理",
+    "features_tickets_permissions_desc": "チケットの作成、閲覧、管理ができる役割を定義しましょう。対応やクローズの権限を持つ専用のスタッフロールを設定することで、サポート業務の担当者を完全にコントロールできます。",
+    "features_tickets_support_title": "サーバーサポートの体系化",
+    "features_tickets_support_desc": "専用のチケットチャンネルで、サポート体制を整理しましょう。解決済みのチケットは自動的にアーカイブされ、未対応のリクエストは一目で把握できます。コミュニティのために、サーバーを常に整理された清潔な状態に保ちましょう。"
 }
