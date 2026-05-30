@@ -1228,12 +1228,12 @@
     "tickets_tag": "Тикеты",
     "tickets_hero_headline": "С лёгкостью управляйте Тикетами",
     "tickets_hero_desc": "Увеличьте поддержку своего сервера с помощью мощной системы управления Тикетами. Эффективно создавайте, распределяйте и обрабатывайте запросы участников, поддерживая порядок в вашем сообществе",
-    "tickets_landing_desc": "Streamline your server support with powerful ticket management. Create customizable panels, control role permissions, and keep your community organized.",
-    "tickets_learn_more": "Learn more about Tickets",
-    "features_tickets_panels_title": "Customizable Ticket Panels",
-    "features_tickets_panels_desc": "Create fully customizable ticket panels with unique names, descriptions, and categories. Let members open support tickets exactly where they need help, with full control over how panels look and behave.",
-    "features_tickets_permissions_title": "Control Permissions and Roles",
-    "features_tickets_permissions_desc": "Define which roles can create, view, and manage tickets. Set dedicated staff roles that have access to respond and close tickets, giving you complete control over who handles support.",
-    "features_tickets_support_title": "Organized Server Support",
-    "features_tickets_support_desc": "Keep your support structured with dedicated ticket channels. Archive closed tickets automatically, track open requests at a glance, and maintain a clean, organized server for your community."
+    "tickets_landing_desc": "Увеличьте поддержку своего сервера с помощью мощной системы управления Тикетами. Создавайте настраиваемые панели, управляйте правами доступа для ролей и поддерживайте порядок в вашем сообществе",
+    "tickets_learn_more": "Подробнее о Тикетах",
+    "features_tickets_panels_title": "Кастомизируемые панели Тикетов",
+    "features_tickets_panels_desc": "Создавайте полностью настраиваемые тикеты с уникальными названиями, описаниями и категориями. Позвольте участникам открывать запросы в поддержку именно в тех разделах, где им нужна помощь, при этом полностью контролируя внешний вид и поведение панелей",
+    "features_tickets_permissions_title": "Контролируйте Права и Роли",
+    "features_tickets_permissions_desc": "Определите, какие роли могут создавать, просматривать и управлять заявками. Назначьте специальные роли сотрудников, имеющих право отвечать на заявки и закрывать их, что обеспечит вам полный контроль над тем, кто занимается оказанием поддержки",
+    "features_tickets_support_title": "Организованная поддержка сервера",
+    "features_tickets_support_desc": "Обеспечьте упорядоченность работы службы поддержки с помощью специальных каналов для тикетов. Автоматически архивируйте закрытые тикеты, отслеживайте открытые запросы с одного взгляда и поддерживайте порядок на сервере для своего сообщества"
 }
