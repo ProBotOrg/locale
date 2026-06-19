@@ -1226,7 +1226,7 @@
     "leveling_premium_warning": "20 Şubat'tan itibaren Seviye Sistemi Premium bir özellik haline gelecektir. Premium etkinleştirilmezse, tüm sunucuya özgü Seviye ve XP verileri sıfırlanacaktır. {0}",
     "auto_responder_limit_warning": "20 Şubat'tan itibaren, Otomatik Yanıtlayıcı ücretsiz sürümde en fazla 10 yanıtla sınırlandırılacaktır. {0}",
     "tickets_tag": "Biletler",
-    "tickets_hero_headline": "Manage Support Tickets with Ease",
+    "tickets_hero_headline": "",
     "tickets_hero_desc": "Streamline your server support with powerful ticket management. Create, assign, and resolve member requests efficiently while keeping your community organized.",
     "tickets_landing_desc": "Streamline your server support with powerful ticket management. Create customizable panels, control role permissions, and keep your community organized.",
     "tickets_learn_more": "Learn more about Tickets",
