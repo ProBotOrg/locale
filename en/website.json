@@ -1251,7 +1251,7 @@
     "error_premium_discord_unreachable": "Discord could not be reached. Your token was not changed — please try again shortly.",
     "error_premium_customization_failed": "Your changes could not be applied. Nothing was saved — please try again shortly.",
     "error_premium_forbidden": "You do not have access to this subscription.",
-    "error_upload_6": "You do not have access to this subscription."
+    "error_upload_6": "You do not have access to this subscription.",
     
     "tickets_tag": "Tickets",
     "tickets_hero_headline": "Manage Support Tickets with Ease",
