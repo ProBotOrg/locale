@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/ProBotOrg/locale#readme",
   "dependencies": {
-    "glob": "^7.1.6"
+    "glob": "^13.0.6"
   }
 }
